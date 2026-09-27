@@ -50,7 +50,9 @@ fabrica ilusiones.
   NQ en 2025**: corr. retornos 1 min 0,984; RTP 150/151 días misma dirección y
   corr. de R por op 0,994; Momento 224/228. Sirve como sustituto del NQ.
   Diferencias: base de ~700 pts, cierra a las 16:15, apertura 09:30 más brusca.
-- 2019-2022 de ese CFD están sin tocar en el proyecto: es la siguiente reserva.
+- También 2021 (desde dic-2020) y 2022 del mismo CFD. **2021-2022 ya se usaron
+  como reserva el 27/09 (RTP contra sesgo y Momento): ya no son ciegos para
+  esas dos.** Para ideas NUEVAS siguen limpios. 2019-2020 sin bajar.
 - Falta ES 1 minuto (para SMT NQ-ES) y EUR/USD M1 (varias estrategias están
   medidas en el instrumento equivocado: sus autores operan Forex).
 - **Coste obligatorio: 0,87 puntos por operación** ($0,74 comisión ida y vuelta
@@ -316,6 +318,9 @@ p=0,12, n=734, a 1,6σ del nulo.** El "2022 +0,47R" son 4 operaciones (el CSV
 empieza el 26/12/2022): no hay decaimiento, el resultado es plano (~+0,06/año).
 Pendiente cruzar operación a operación con el motor original para ver cuál
 tiene el bug. 2026 en CFD con el motor nuevo: +0,178R, p=0,054, n=179 (no ciego).
+**Reserva ciega 2021-2022 (CFD, pre-registrada): −0,008R, n=501, p=0,55,
+invertida +0,024. 2021 −0,031 · 2022 +0,015. NO PASA.** Cero fuera de 2023-26:
+en el mejor caso es régimen actual, no ventaja. No se opera con dinero.
 
 ### Enterradas — no reabrir sin justificar qué añaden
 
@@ -338,7 +343,11 @@ tiene el bug. 2026 en CFD con el motor nuevo: +0,178R, p=0,054, n=179 (no ciego)
   corto +0,392) → muerta. **Contra sesgo overnight: +0,266R (n=62, p=0,12),
   diferencia con "a favor" +0,255 (p=0,20), la misma que en 2023-25 (+0,275).**
   No pasa, pero es la única pista de RTP que sobrevive a una reserva ciega.
-  Siguiente prueba: 2019-2022, sin tocar el filtro.
+  **Reserva 2021-2022 (CFD, pre-registrada): contra sesgo −0,120R (n=194),
+  diferencia con "a favor" −0,105 → SIGNO CONTRARIO, ENTERRADA.** RTP base en
+  2021-22: −0,089R (n=340). Según el pre-registro, "el mercado ha cambiado" no
+  vale como excusa: como mucho es régimen 2023-26, y eso no se opera.
+  **RTP queda cerrada del todo. No reabrir.**
 - **LIT / inducción de liquidez**: dos baterías (16 + 8 celdas). Dio el R más alto
   del proyecto (+0,2405R, n=146) y no significaba nada: máximo real a +0,40σ del
   máximo del nulo. El displacement es un pico de ruido y va al REVÉS en la

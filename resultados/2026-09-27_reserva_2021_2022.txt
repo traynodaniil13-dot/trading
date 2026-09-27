@@ -1,0 +1,17 @@
+[loader] CFD Dukascopy ['nq_cfd_2021.csv.gz', 'nq_cfd_2022.csv.gz']: 715,571 filas, 2020-11-30 19:00:00 -> 2022-12-30 16:13:00. Top minutos {'09:30': 26.07, '09:31': 24.23, '10:00': 23.02}. OK
+== H1 · RTP contra el sesgo overnight (umbral p < 0,025) ==
+F6 contra sesgo: n=194 R=-0.120 ee=0.092 p1c=0.903 inv=+0.307
+   por año: 2021: -0.145 (n=100) | 2022: -0.093 (n=94)
+F5 a favor:      n=134 R=-0.015 ee=0.116
+   por año: 2021: +0.010 (n=65) | 2022: -0.038 (n=69)
+Diferencia F6-F5: -0.105  p1c=0.761
+Paseo aleatorio F6: +0.052 ± 0.042 -> z exceso -1.69
+H1 -> NO PASA
+(RTP base informativa: n=340 R=-0.089)
+
+== H3 · Momento 09:40 (umbral p < 0,025) ==
+n=501 R=-0.008 ee=0.063 p1c=0.551 wr=0.343 inv=+0.024
+   por año: 2021: -0.031 (n=251) | 2022: +0.015 (n=250)
+Paseo aleatorio: +0.003 ± 0.029 -> z exceso -0.16
+H3 -> NO PASA
+Consistencia Momento: {'pct_meses_pos': np.float64(0.4583333333333333), 'R_total': np.float64(-4.061833333333311), 'R_sin_3_mejores_meses': np.float64(-33.26383333333332), 'racha_perdedoras': 12, 'max_dd_R': np.float64(25.070199999999986), 'por_anio': {2021: (-0.031, 251), 2022: (0.015, 250)}}
