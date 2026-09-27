@@ -1,0 +1,11 @@
+Años de diseño disponibles: [2021, 2025] (PRELIMINAR)
+
+umbral p bilateral: 0.0071 · coste 0,87 pts
+
+P1_ultima_media_hora   n= 477 media= -4.04 pts ee=2.34 t=-1.72 p=0.0855 | año {2021: -5.16, 2025: -2.85} | L (np.float64(-3.87), 274) C (np.float64(-4.26), 203) | paseo +0.02 -> no
+P2_macro_0830          n= 124 media= -4.18 pts ee=3.76 t=-1.11 p=0.2687 | año {2021: -2.07, 2025: -6.09} | L (np.float64(-1.45), 72) C (np.float64(-7.96), 52) | paseo -0.49 -> no
+P3_macro_1000          n=  21 media= -7.62 pts ee=20.92 t=-0.36 p=0.7194 | año {2021: 2.02, 2025: -10.63} | L (np.float64(-28.9), 7) C (np.float64(3.02), 14) | paseo +nan -> no
+P4_primera_m5          n= 193 media=+14.06 pts ee=7.00 t=+2.01 p=0.0460 | año {2021: 2.39, 2025: 24.7} | L (np.float64(18.79), 90) C (np.float64(9.94), 103) | paseo +3.38 -> no
+P5_gap                 n= 417 media=-16.27 pts ee=10.24 t=-1.59 p=0.1126 | año {2021: -0.15, 2025: -32.79} | L (np.float64(-9.77), 248) C (np.float64(-25.81), 169) | paseo +3.50 -> no
+P7_londres             n= 508 media= -2.48 pts ee=2.68 t=-0.92 p=0.3569 | año {2021: 1.83, 2025: -6.92} | L (np.float64(-3.0), 271) C (np.float64(-1.88), 237) | paseo -0.95 -> no
+P6_cambio_de_mes       n=96/396 dif= +4.46 pts (tom +7.65 resto +3.20) t=+0.21 p=0.8364 | año {2021: -37.3, 2025: 46.77} | paseo +1.66 -> no
