@@ -1,0 +1,28 @@
+== D1 · P1 por tamaño del movimiento 10:00 ==
+tercil pequeño (|mov| 0.00-0.26%) n= 159 media= +0.94 ee= 2.95 p=0.749
+tercil medio (|mov| 0.26-0.71%) n= 159 media= -3.04 ee= 3.71 p=0.414
+tercil grande (|mov| 0.71-3.96%) n= 159 media=-10.02 ee= 5.17 p=0.055
+
+== D2 · P1 NQ vs CFD 2025 (hasta 11/12) ==
+P1 NQ futuro                 n= 228 media= -2.96 ee= 4.22 p=0.485
+P1 CFD                       n= 221 media= -3.02 ee= 4.33 p=0.486
+días en ambos 221, misma señal 98%, corr y 0.99
+
+== D4 · P4 NQ vs CFD 2025 (hasta 11/12) ==
+P4 NQ futuro                 n=  95 media=+20.88 ee=11.27 p=0.067
+P4 CFD                       n=  96 media=+23.08 ee=11.23 p=0.043
+días en ambos 88, misma señal 100%, corr y 1.00
+
+== D3 · P4 barrido de umbral de cuerpo (2021+2025, CFD) ==
+cuerpo > 0.0                 n= 509 media= +0.11 ee= 4.82 p=0.982 | por año {2021: 1.6, 2025: -1.5}
+cuerpo > 0.3                 n= 371 media= +6.99 ee= 5.48 p=0.203 | por año {2021: 2.2, 2025: 11.8}
+cuerpo > 0.4                 n= 304 media=+10.60 ee= 5.81 p=0.069 | por año {2021: 2.6, 2025: 18.2}
+cuerpo > 0.5                 n= 248 media=+12.63 ee= 6.59 p=0.056 | por año {2021: 1.1, 2025: 22.9}
+cuerpo > 0.6                 n= 193 media=+14.06 ee= 7.00 p=0.046 | por año {2021: 2.4, 2025: 24.7}
+cuerpo > 0.7                 n= 134 media= +8.35 ee= 8.70 p=0.339 | por año {2021: -1.1, 2025: 16.7}
+cuerpo > 0.8                 n=  79 media= +2.53 ee=11.60 p=0.828 | por año {2021: 3.3, 2025: 1.9}
+cuerpo > 0.9                 n=  35 media= +1.37 ee=17.90 p=0.940 | por año {2021: 15.1, 2025: -10.2}
+
+== D5 · signo por semestre ==
+P1 {'2021-S1': (-0.9, 121), '2021-S2': (-9.3, 124), '2025-S1': (-7.6, 115), '2025-S2': (1.8, 117)}
+P4 {'2021-S1': (-0.7, 48), '2021-S2': (5.7, 44), '2025-S1': (11.0, 47), '2025-S2': (36.6, 54)}
