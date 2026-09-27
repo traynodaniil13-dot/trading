@@ -1,0 +1,4 @@
+P1 grande 2023: n=72 media=+1.61 ee=3.38 p1c=0.682 -> NO PASA
+  pequeño  n= 79 media= -2.44 ee=4.87
+  medio    n= 90 media= -4.41 ee=3.24
+  grande   n= 72 media= +1.61 ee=3.38

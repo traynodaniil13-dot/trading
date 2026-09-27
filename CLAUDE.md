@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 574 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 582 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -323,6 +323,19 @@ tiene el bug. 2026 en CFD con el motor nuevo: +0,178R, p=0,054, n=179 (no ciego)
 **Reserva ciega 2021-2022 (CFD, pre-registrada): −0,008R, n=501, p=0,55,
 invertida +0,024. 2021 −0,031 · 2022 +0,015. NO PASA.** Cero fuera de 2023-26:
 en el mejor caso es régimen actual, no ventaja. No se opera con dinero.
+
+### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
+
+Ver `preregistros/2026-09-27_premisas_lote1.md` y `protocolo_particion.md`.
+Ninguna pasa (umbral p < 0,0071):
+- **P1 última media hora (reversión): −3,3 pts, p=0,054**, negativa los 3 años y
+  en largos y cortos. Near-miss. La versión "días de movimiento grande" (vista en
+  2021+2025) se probó limpia en 2023: +1,6 pts → muerta. P1 queda sin estrategia.
+- **P4 primera M5 con cuerpo (mecanismo de OPEN_DRIVE): +8,8 pts, p=0,10**, pero
+  2021 +2,4 · 2023 −1,8 · 2025 +24,7 y un pico en el umbral 0,6 que cae a los dos
+  lados. **Pesa en contra de OPEN_DRIVE: la "meseta" no aparece fuera de 2025.**
+- Gap, dato 08:30, dato 10:00 (mal medido, 48 días), Londres, cambio de mes: ruido.
+- 2022, 2024 y 2026 siguen SIN TOCAR para ideas nuevas (validación).
 
 ### Enterradas — no reabrir sin justificar qué añaden
 
