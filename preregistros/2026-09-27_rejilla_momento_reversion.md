@@ -10,7 +10,8 @@ decir ≥ +0,2R por operación neta.
 ## Regla
 
 - A la hora T se compara P(T) = cierre de la barra T−1 (conocido en T) con
-  P(T−L) = cierre de la barra T−L−1. Todas las barras dentro de RTH de la sesión.
+  P(T−L) = cierre de la barra T−L−1, de la MISMA sesión (puede caer antes de las
+  09:30 para T=09:40/10:00, como en Momento 09:40). Aclarado antes de ejecutar.
 - Momento: dir = signo(P(T) − P(T−L)). Reversión: dir contraria.
 - Entrada a mercado en la apertura de la barra T. Stop = k% del precio de entrada.
   Objetivo = ratio × stop. Si no toca nada, cierre en la barra 15:59.
