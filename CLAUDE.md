@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 582 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 589 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -336,6 +336,18 @@ Ninguna pasa (umbral p < 0,0071):
   lados. **Pesa en contra de OPEN_DRIVE: la "meseta" no aparece fuera de 2025.**
 - Gap, dato 08:30, dato 10:00 (mal medido, 48 días), Londres, cambio de mes: ruido.
 - 2022, 2024 y 2026 siguen SIN TOCAR para ideas nuevas (validación).
+
+### Lote 2 de premisas (27/09, mismo protocolo) — ninguna pasa
+`preregistros/2026-09-27_premisas_lote2.md`. Vuelta a la media de la mañana (solo
+30 casos, umbral demasiado exigente), NR7 + dirección de la 1ª media hora
+(−18 pts, p=0,16, mismo signo los 3 años: la única con forma, sin potencia),
+continuación de la tarde, cierre en extremo, momentum 10 días, reversión tras
+día >1,5% (+69 pts, p=0,046, pero 2023 negativo y todo es el rebote de abril
+2025), día de la semana (F p=0,29). Q4 y Q5 muestran largos>cortos: es la deriva
+alcista, no señal (regla M).
+**Balance de los lotes 1-2: 14 premisas direccionales simples en NQ intradía,
+cero pasan.** El NQ intradía se comporta, a este nivel de simplicidad, como un
+paseo aleatorio con deriva.
 
 ### Enterradas — no reabrir sin justificar qué añaden
 
