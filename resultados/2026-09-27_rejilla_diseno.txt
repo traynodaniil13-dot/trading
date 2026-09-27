@@ -1,0 +1,16 @@
+nulo semilla 0: máx R +0.115  máx t +2.14  celdas con R≥0,2: 0
+nulo semilla 1: máx R +0.125  máx t +2.47  celdas con R≥0,2: 0
+nulo semilla 2: máx R +0.121  máx t +2.25  celdas con R≥0,2: 0
+nulo semilla 3: máx R +0.115  máx t +2.27  celdas con R≥0,2: 0
+nulo semilla 4: máx R +0.099  máx t +2.63  celdas con R≥0,2: 0
+nulo semilla 5: máx R +0.090  máx t +2.03  celdas con R≥0,2: 0
+
+REAL: máx R +0.111  máx t +2.67  celdas con R≥0,2: 0 de 504
+NULO: máx R +0.111 ± 0.014  máx t +2.30 ± 0.22
+mejor real a -0.02σ del máx R del nulo; t a +1.68σ
+
+candidatas (R≥0,10 y 3 años positivos): 3
+   T  L    k  ratio modo   n     R     t     p    wr  min_anio  R2021  R2023  R2025
+1030 60 0.40    1.5  mom 740 0.111 2.669 0.004 0.485     0.079  0.079  0.090  0.165
+1400 10 0.25    2.0  rev 740 0.101 2.398 0.008 0.470     0.059  0.173  0.059  0.069
+ 940 30 0.40    2.0  mom 739 0.104 2.144 0.016 0.419     0.066  0.066  0.130  0.118
