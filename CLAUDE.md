@@ -427,6 +427,16 @@ aquí. No es casualidad: la barrida es frecuente y vistosa, y no predice nada.
 
 ## 8. Reglamento Lucid Flex 25K
 
+**Verificado en el panel de Lucid (27/09/2026):** evaluación $65,30 con cupón
+($89 sin él), pago único, reset $65. Eval: objetivo $1.250, MLL $1.000 EOD,
+consistencia 50%, 2 mini o 20 micros, DLL opcional (off), mínimo 2 días.
+Fondeada: MLL $1.000, **DLL $600**, sin consistencia, 2 mini o 20 micros,
+**5 días para retiro**, plan de escalado sí (el tope de 10 micros hasta +$1.000
+de abajo sería ese escalado; sin confirmar). 50K Flex: $90,20, objetivo $3.000,
+MLL $2.000, 40 micros. 100K Flex: $170,60, objetivo $6.000, MLL $3.000, 60 micros.
+Sin verificar todavía: importe mínimo/máximo de cada retiro y el suelo del MLL
+tras solicitar (se usan los valores de abajo).
+
 - **MLL trailing**: sube solo con el cierre EOD del balance. Se congela al llegar
   a +$1.100 de colchón (queda fijo en inicial+$1.000+$100).
 - **Breach intradía quema la cuenta.**
