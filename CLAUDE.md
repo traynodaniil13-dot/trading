@@ -341,8 +341,14 @@ en la apertura de 09:40, **stop = 0,40% del precio** (~55 pts en 2021, ~115 en
 - Ojo: la señal 09:40/09:10 viene de conocimiento previo (barrido de 528 en NQ
   2023-25) y 2022/2026 ya se habían mirado con el stop fijo de 30 pts
   (2021-22: −0,008R). La validación de esta celda no es 100% virgen.
-Veredicto: la mejor pista del proyecto, **no aprobada**. Siguiente: simulador de
-cuentas con R realista (+0,05/+0,08R) y forward-test en demo.
+Veredicto: la mejor pista del proyecto, **no aprobada**. Siguiente: forward-test en demo.
+**Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
+2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
+arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
+$250/op (1-2 micros): ventaja histórica → 4,7/10 pasan, 2,2/10 cobran, $192
+cobrados por evaluación comprada; ventaja realista +0,05R → 4,1/10, 1,6/10,
+$129; ventaja cero → 3,6/10, 1,0/10, $73-98. **El EV depende del precio de la
+evaluación**, que falta en este documento. `resultados/2026-09-27_cuentas_momento_pct.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

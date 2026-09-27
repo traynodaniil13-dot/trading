@@ -1,0 +1,19 @@
+R histórica neta: 1:1 +0.036 · 1:2 +0.096 | stop mediano 65 pts
+        ventaja                 gestión  riesgo/op  pasan/10  cobran/10  $ cobrado por eval  $ si cobra  ops hasta pasar
+      histórica                1:2 todo        250      4.72       2.16                 192         887             18.0
+      histórica                1:2 todo        500      2.80       0.49                 100        2054              6.0
+      histórica eval 1:1 → fondeada 1:2        250      3.84       1.89                 189        1000             25.0
+      histórica eval 1:1 → fondeada 1:2        500      3.63       0.74                 136        1857              6.0
+realista +0,05R                1:2 todo        250      4.12       1.62                 129         802             18.0
+realista +0,05R                1:2 todo        500      2.52       0.45                  69        1542              5.0
+realista +0,05R eval 1:1 → fondeada 1:2        250      3.70       1.72                 129         748             25.0
+realista +0,05R eval 1:1 → fondeada 1:2        500      3.56       0.62                  79        1286              6.0
+           cero                1:2 todo        250      3.59       0.96                  73         759             21.0
+           cero                1:2 todo        500      2.08       0.34                  55        1596              5.0
+           cero eval 1:1 → fondeada 1:2        250      3.33       1.38                  98         708             27.0
+           cero eval 1:1 → fondeada 1:2        500      3.31       0.43                  56        1283              6.0
+
+% de tandas de 10 cuentas en pérdidas, según coste de la evaluación (mejor gestión de cada escenario):
+  histórica        1:2 todo, $250/op: | coste $50: 18% pierden (mediana +1125$) | coste $100: 30% pierden (mediana +625$) | coste $150: 45% pierden (mediana +125$)
+  realista +0,05R  1:2 todo, $250/op: | coste $50: 28% pierden (mediana +523$) | coste $100: 48% pierden (mediana +23$) | coste $150: 65% pierden (mediana -477$)
+  cero             eval 1:1 → fondeada 1:2, $250/op: | coste $50: 38% pierden (mediana +432$) | coste $100: 56% pierden (mediana -68$) | coste $150: 75% pierden (mediana -568$)
