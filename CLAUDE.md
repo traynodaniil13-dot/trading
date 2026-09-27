@@ -44,8 +44,13 @@ fabrica ilusiones.
   Dic-2022 a 11/12/2025. 1.048.575 filas (el límite de Excel: viene truncado).
 - **Los timestamps etiquetan el FIN de la vela, no el inicio. Réstale un minuto
   al índice al cargar.** Es el bug nº10. El loader tiene que hacerlo solo.
-- Falta 2026 completo. Sin él no hay reserva ciega, y sin reserva ciega nada se
-  puede aprobar. Es la pieza más valiosa que falta del proyecto.
+- `data/nq_cfd_YYYY.csv.gz` — CFD USATECHIDXUSD de Dukascopy (índice Nasdaq 100
+  de contado), bid y ask, ms UTC, etiqueta el INICIO de la vela. `loader.cargar_cfd()`
+  usa el medio y pasa a hora NY. Hay 2025 y 2026 (hasta 23/09). **Validado contra
+  NQ en 2025**: corr. retornos 1 min 0,984; RTP 150/151 días misma dirección y
+  corr. de R por op 0,994; Momento 224/228. Sirve como sustituto del NQ.
+  Diferencias: base de ~700 pts, cierra a las 16:15, apertura 09:30 más brusca.
+- 2019-2022 de ese CFD están sin tocar en el proyecto: es la siguiente reserva.
 - Falta ES 1 minuto (para SMT NQ-ES) y EUR/USD M1 (varias estrategias están
   medidas en el instrumento equivocado: sus autores operan Forex).
 - **Coste obligatorio: 0,87 puntos por operación** ($0,74 comisión ida y vuelta
@@ -310,7 +315,7 @@ Veredicto: demo y forward-test. No meter dinero todavía.
 p=0,12, n=734, a 1,6σ del nulo.** El "2022 +0,47R" son 4 operaciones (el CSV
 empieza el 26/12/2022): no hay decaimiento, el resultado es plano (~+0,06/año).
 Pendiente cruzar operación a operación con el motor original para ver cuál
-tiene el bug.
+tiene el bug. 2026 en CFD con el motor nuevo: +0,178R, p=0,054, n=179 (no ciego).
 
 ### Enterradas — no reabrir sin justificar qué añaden
 
@@ -329,6 +334,11 @@ tiene el bug.
   a 0,27σ del máximo del nulo (p=0,36). Ver `preregistros/2026-09-27_rtp_filtros.md`.
   Dos contrastes a ~2,3σ (contra sesgo overnight vs a favor; barrido largo vs corto)
   quedan SOLO como hipótesis para la reserva 2026, sin tocar nada más.
+  **Reserva 2026 (CFD, pre-registrada):** barrido largo se da la vuelta (+0,002 vs
+  corto +0,392) → muerta. **Contra sesgo overnight: +0,266R (n=62, p=0,12),
+  diferencia con "a favor" +0,255 (p=0,20), la misma que en 2023-25 (+0,275).**
+  No pasa, pero es la única pista de RTP que sobrevive a una reserva ciega.
+  Siguiente prueba: 2019-2022, sin tocar el filtro.
 - **LIT / inducción de liquidez**: dos baterías (16 + 8 celdas). Dio el R más alto
   del proyecto (+0,2405R, n=146) y no significaba nada: máximo real a +0,40σ del
   máximo del nulo. El displacement es un pico de ruido y va al REVÉS en la

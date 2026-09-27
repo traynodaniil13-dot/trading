@@ -1,0 +1,21 @@
+[loader] CFD Dukascopy ['nq_cfd_2025.csv.gz', 'nq_cfd_2026.csv.gz']: 578,242 filas, 2025-01-01 18:00:00 -> 2026-09-23 19:59:00. Top minutos {'09:30': 43.32, '09:31': 36.95, '10:00': 32.89}. OK
+== RTP 2026 (CFD) ==
+BASE               n= 116  R=+0.113  ee=0.148  p1c=0.224  inv=-0.011
+F1_caja_peq        n=  63  R=+0.097  ee=0.234  p1c=0.339  inv=-0.042
+F2_caja_grande     n=  53  R=+0.131  ee=0.170  p1c=0.222  inv=+0.025
+F3_barr_pre930     n=  65  R=+0.229  ee=0.238  p1c=0.170  inv=-0.225
+F4_barr_post930    n=  51  R=-0.036  ee=0.146  p1c=0.597  inv=+0.262
+F5_con_sesgo       n=  49  R=+0.012  ee=0.209  p1c=0.478  inv=+0.119
+F6_contra_sesgo    n=  62  R=+0.266  ee=0.220  p1c=0.116  inv=-0.092
+F7_fusion_momento  n=  18  R=+0.031  ee=0.187  p1c=0.436  inv=-0.041
+F8_macro           n=  28  R=+0.345  ee=0.300  p1c=0.130  inv=-0.334
+F9_no_macro        n=  88  R=+0.039  ee=0.171  p1c=0.410  inv=+0.092
+F10_barr_corto     n=  33  R=+0.392  ee=0.392  p1c=0.162  inv=+0.046
+F11_barr_largo     n=  83  R=+0.002  ee=0.137  p1c=0.496  inv=-0.034
+
+== Hipótesis ciegas (umbral p < 0,025) ==
+H1 contra sesgo: R=+0.266 p=0.116 | diferencia +0.255 p=0.202 -> NO PASA
+H2 barrido largo: R=+0.002 p=0.496 | diferencia -0.391 p=0.824 -> NO PASA
+
+== Momento 09:40 2026 (informativo, no ciego) ==
+n=179 R=+0.178 ee=0.110 p1c=0.054 inv=+0.010
