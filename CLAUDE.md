@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 589 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.093 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -323,6 +323,26 @@ tiene el bug. 2026 en CFD con el motor nuevo: +0,178R, p=0,054, n=179 (no ciego)
 **Reserva ciega 2021-2022 (CFD, pre-registrada): −0,008R, n=501, p=0,55,
 invertida +0,024. 2021 −0,031 · 2022 +0,015. NO PASA.** Cero fuera de 2023-26:
 en el mejor caso es régimen actual, no ventaja. No se opera con dinero.
+
+**CANDIDATA NUEVA (27/09) · MOMENTO 09:40 con stop en % · 1:2**
+Señal igual que Momento 09:40 (cierre 09:39 vs cierre 09:09), entrada a mercado
+en la apertura de 09:40, **stop = 0,40% del precio** (~55 pts en 2021, ~115 en
+2026), objetivo 2× stop, cierre 16:00. Salió de una rejilla pre-registrada de
+504 celdas en DISEÑO (`preregistros/2026-09-27_rejilla_momento_reversion.md`),
+3 finalistas a validación:
+- DISEÑO 21/23/25: +0,104R (wr 41,9%). La rejilla entera NO supera al nulo: la
+  mejor celda real (+0,111R) = el máximo del paseo aleatorio (+0,111R).
+- **VALIDACIÓN 22/24/26: +0,086R, wr 40,3%, p=0,049, positiva los tres años
+  (+0,126 · +0,052 · +0,078).** No pasa el umbral pre-registrado (p < 0,005).
+- 6 años juntos: +0,096R, n=1.416, 6 de 6 años positivos, 70% de meses
+  positivos, +100R quitando los 3 mejores meses, invertida −0,062.
+- Paseo aleatorio (96 semillas): −0,010R, asimetría direccional +0,004 ± 0,006.
+- Las otras 2 finalistas cayeron a ~0 en validación.
+- Ojo: la señal 09:40/09:10 viene de conocimiento previo (barrido de 528 en NQ
+  2023-25) y 2022/2026 ya se habían mirado con el stop fijo de 30 pts
+  (2021-22: −0,008R). La validación de esta celda no es 100% virgen.
+Veredicto: la mejor pista del proyecto, **no aprobada**. Siguiente: simulador de
+cuentas con R realista (+0,05/+0,08R) y forward-test en demo.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

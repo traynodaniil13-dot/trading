@@ -34,7 +34,7 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 
 | # | Fecha | Idea | Resultado en validación |
 |---|---|---|---|
-| — | — | — | — |
+| 1-3 | 27/09 | Rejilla momento/reversión (3 finalistas) | 09:40/L30/0,40%/1:2 mom: +0,086R p=0,049, 3/3 años + (no pasa p<0,005); las otras 2 ≈ 0 |
 
 ## Estado de años ya usados (antes de este protocolo)
 
