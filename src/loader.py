@@ -130,6 +130,38 @@ def cargar(ruta: Path | str = CSV_NQ, fin_de_vela: bool = True, verbose: bool = 
     return df
 
 
+CFD_DUKAS = sorted((RAIZ / "data").glob("nq_cfd_*.csv.gz"))
+
+
+def cargar_cfd(rutas=None, verbose: bool = True) -> pd.DataFrame:
+    """CFD USATECHIDXUSD de Dukascopy (índice Nasdaq 100 de contado, no el futuro).
+
+    - timestamp en ms UTC, etiqueta el INICIO de la vela (comprobado: 09:30 es el
+      minuto más volátil sin desplazar). Se pasa a hora de Nueva York.
+    - Precio = medio entre bid y ask. El diferencial mediano es ~1,2-1,4 pts.
+    - Cierra a las 16:15 NY; la hora 17 está vacía como en el futuro.
+    - Ojo: nivel distinto al futuro (base) y apertura de contado más brusca.
+    """
+    rutas = [Path(r) for r in (rutas or CFD_DUKAS)]
+    if not rutas:
+        raise DatosInvalidos("no hay data/nq_cfd_*.csv.gz")
+    raw = pd.concat([pd.read_csv(r) for r in rutas], ignore_index=True)
+    ts = (pd.to_datetime(raw["timestamp"], unit="ms", utc=True)
+          .dt.tz_convert("America/New_York").dt.tz_localize(None))
+    df = pd.DataFrame({k: (raw[f"{n}_bid"] + raw[f"{n}_ask"]).to_numpy() / 2
+                       for k, n in (("o", "open"), ("h", "high"), ("l", "low"), ("c", "close"))},
+                      index=pd.DatetimeIndex(ts, name="ts"))
+    df["h"] = df[["o", "h", "c"]].max(axis=1)
+    df["l"] = df[["o", "l", "c"]].min(axis=1)
+    df = df.sort_index()
+    df = _anadir_columnas(df)
+    info = chequear(df)
+    if verbose:
+        print(f"[loader] CFD Dukascopy {[r.name for r in rutas]}: {info['filas']:,} filas, "
+              f"{info['desde']} -> {info['hasta']}. Top minutos {info['top_minutos']}. OK")
+    return df
+
+
 if __name__ == "__main__":
     df = cargar()
     print(histograma_por_hora(df).to_string())
