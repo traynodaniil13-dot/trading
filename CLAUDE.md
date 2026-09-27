@@ -62,7 +62,9 @@ fabrica ilusiones.
 
 Dos chequeos, y hay que hacer los dos:
 
-1. **El minuto más volátil del día tiene que ser el 09:30 clavado.** Si sale
+1. **El minuto más volátil del día tiene que ser el 09:30 clavado** (por
+   MEDIANA del rango: con la media, en 2023 y 2024 gana el 08:30 por los días de
+   IPC, también en el futuro NQ, y el chequeo daba falsa alarma). Si sale
    09:31, los timestamps son fin de vela: resta un minuto. En este CSV, sin
    corregir sale 09:31 (28,12 pts), 08:31 (27,51) y 10:01 (26,79) — los tres
    desplazados un minuto, y los otros dos son los datos macro de 08:30 y 10:00.

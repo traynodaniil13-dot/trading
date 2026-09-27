@@ -21,7 +21,7 @@ def rw(real):
 def test_generador_misma_rejilla_y_rango(real, rw):
     assert (rw.index == real.index).all()
     assert abs((rw.h - rw.l).mean() / (real.h - real.l).mean() - 1) < 0.03
-    assert set(loader.minutos_mas_volatiles(rw).index) == {"08:30", "09:30", "10:00"}
+    assert set(loader.minutos_mas_volatiles(rw, estad="mean").index) == {"08:30", "09:30", "10:00"}
 
 
 def test_generador_50_50(rw):

@@ -39,9 +39,13 @@ def _leer_csv(ruta: Path, fin_de_vela: bool) -> pd.DataFrame:
     return df.set_index("ts")
 
 
-def minutos_mas_volatiles(df: pd.DataFrame, n: int = 3) -> pd.Series:
-    """Rango medio (h-l) por minuto del día, ordenado de mayor a menor."""
-    rango = (df["h"] - df["l"]).groupby(df.index.strftime("%H:%M")).mean()
+def minutos_mas_volatiles(df: pd.DataFrame, n: int = 3, estad: str = "median") -> pd.Series:
+    """Rango (h-l) por minuto del día, ordenado de mayor a menor.
+
+    Mediana por defecto: con la media, los días de IPC de 2023-2024 ponen las
+    08:30 por encima de las 09:30 (también en el futuro NQ) y el chequeo da una
+    falsa alarma. La mediana sigue detectando el desfase de un minuto."""
+    rango = (df["h"] - df["l"]).groupby(df.index.strftime("%H:%M")).agg(estad)
     return rango.sort_values(ascending=False).head(n)
 
 
