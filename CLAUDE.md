@@ -341,7 +341,15 @@ en la apertura de 09:40, **stop = 0,40% del precio** (~55 pts en 2021, ~115 en
 - Ojo: la señal 09:40/09:10 viene de conocimiento previo (barrido de 528 en NQ
   2023-25) y 2022/2026 ya se habían mirado con el stop fijo de 30 pts
   (2021-22: −0,008R). La validación de esta celda no es 100% virgen.
-Veredicto: la mejor pista del proyecto, **no aprobada**. Siguiente: forward-test en demo.
+**Pruebas duras pre-registradas (27/09): pasa 9/9.** NQ futuro real 2023-25 +0,059R
+(corr 0,92 con CFD; 2024 ≈ 0) · vecindario 10/10 positivo (meseta) · placebo de
+dirección +2,55σ · otra convención de vela +0,096 · coste ×3 +0,069 · entrada
+09:41 +0,096 · 98% de ventanas de 12 meses positivas · largos +0,129 / cortos
++0,063 · señal idéntica con datos truncados en 09:40 (1416/1416) · bootstrap
+mensual IC95% [+0,037, +0,154]. `resultados/2026-09-27_pruebas_duras_momento_pct.txt`.
+Ventaja realista para planificar: **+0,05/+0,06R** (lo que da en el futuro).
+Veredicto: la mejor pista del proyecto, sin bug ni fragilidad detectable, **pero
+no aprobada** (validación p=0,049). Siguiente: forward-test en demo.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo

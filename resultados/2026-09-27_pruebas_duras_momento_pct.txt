@@ -1,0 +1,35 @@
+BASE CFD 2021-26: n=1416 R=+0.096
+
+T1 NQ futuro 2023-25: n=730 R=+0.059 (CFD mismos días +0.087) corr=0.92 | por año {2023: 0.085, 2024: -0.0, 2025: 0.095} -> OK
+   T2 vecino stop 0,30%  R=+0.089
+   T2 vecino stop 0,35%  R=+0.088
+   T2 vecino stop 0,45%  R=+0.073
+   T2 vecino stop 0,50%  R=+0.042
+   T2 vecino L=20        R=+0.066
+   T2 vecino L=40        R=+0.093
+   T2 vecino T=09:35     R=+0.056
+   T2 vecino T=09:45     R=+0.068
+   T2 vecino ratio 1,75  R=+0.070
+   T2 vecino ratio 2,25  R=+0.091
+T2 vecinos positivos: 10/10 -> OK
+T3 placebo dirección: media +0.016 ± 0.031 -> real a +2.55σ (p=0.008) -> OK
+T4 vela de entrada completa (otra cota): R=+0.096 -> OK
+T5 coste×2 R=+0.083 · coste×3 R=+0.069 · entrada 09:41 R=+0.096 -> OK
+T6 ventanas de 12 meses positivas: 98% de 58 (peor -0.003) -> OK
+T7 largos n=703 R=+0.129 · cortos n=713 R=+0.063 -> OK
+T8 señales idénticas con los datos truncados en 09:40: 1416/1416 -> OK
+T9 bootstrap mensual IC95% de R: [+0.037, +0.154] -> OK
+
+PASA 9/9: todas
+
+10 operaciones al azar para cruzar a mano (NQ futuro, precios del CSV de Kaggle):
+  2023-05-08 09:40 CORTO entrada 15814.00 stop 15877.26 objetivo 15687.49 (63.3 pts) -> STOP
+  2023-06-08 09:40 LARGO entrada 16888.25 stop 16820.70 objetivo 17023.36 (67.6 pts) -> OBJETIVO
+  2023-09-18 09:40 LARGO entrada 17561.25 stop 17491.01 objetivo 17701.74 (70.2 pts) -> CIERRE 16:00 (+0.04R)
+  2024-03-27 09:40 CORTO entrada 20193.75 stop 20274.53 objetivo 20032.20 (80.8 pts) -> CIERRE 16:00 (-0.08R)
+  2024-05-14 09:40 LARGO entrada 19989.50 stop 19909.54 objetivo 20149.42 (80.0 pts) -> CIERRE 16:00 (+1.44R)
+  2024-05-29 09:40 LARGO entrada 20498.00 stop 20416.01 objetivo 20661.98 (82.0 pts) -> CIERRE 16:00 (+0.07R)
+  2025-01-23 09:40 LARGO entrada 22821.00 stop 22729.72 objetivo 23003.57 (91.3 pts) -> CIERRE 16:00 (+1.45R)
+  2025-04-11 09:40 LARGO entrada 19215.75 stop 19138.89 objetivo 19369.48 (76.9 pts) -> STOP
+  2025-07-23 09:40 CORTO entrada 23718.25 stop 23813.12 objetivo 23528.50 (94.9 pts) -> STOP
+  2025-10-28 09:40 LARGO entrada 26317.00 stop 26211.73 objetivo 26527.54 (105.3 pts) -> CIERRE 16:00 (+0.95R)
