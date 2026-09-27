@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 26/09/2026: 563 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 574 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -306,6 +306,11 @@ las 6 familias declaradas (p=0,030). **Y la ventaja decae año a año: 2022 +0,4
 · 2023 +0,21R · 2024 +0,08R · 2025 +0,19R · 2026 +0,09R.** Eso es el retrato de
 un patrón que el mercado va arbitrando. Es la objeción más seria que tiene.
 Veredicto: demo y forward-test. No meter dinero todavía.
+**27/09 — réplica con el motor nuevo (calibrado sobre paseo aleatorio): +0,064R,
+p=0,12, n=734, a 1,6σ del nulo.** El "2022 +0,47R" son 4 operaciones (el CSV
+empieza el 26/12/2022): no hay decaimiento, el resultado es plano (~+0,06/año).
+Pendiente cruzar operación a operación con el motor original para ver cuál
+tiene el bug.
 
 ### Enterradas — no reabrir sin justificar qué añaden
 
@@ -317,6 +322,13 @@ Veredicto: demo y forward-test. No meter dinero todavía.
   donde no la hay**: solo cambia la forma de cobrar el mismo cero, y el cero
   menos comisiones es negativo. Por eso las rejillas salen planas en vez de tener
   un máximo. No reabrir con otro ratio, otra gestión ni otra reentrada.
+  **27/09: réplica nº3 con el motor calibrado** (495 ops, caja 85,8, stop 75,1):
+  −0,010R, invertida −0,063R. **Y 11 filtros de mecanismo distinto pre-registrados**
+  (compresión, hora del barrido, sesgo overnight, fusión con Momento, días macro,
+  profundidad del barrido): ninguno pasa. Mejor celda F11 barrido largo +0,102R,
+  a 0,27σ del máximo del nulo (p=0,36). Ver `preregistros/2026-09-27_rtp_filtros.md`.
+  Dos contrastes a ~2,3σ (contra sesgo overnight vs a favor; barrido largo vs corto)
+  quedan SOLO como hipótesis para la reserva 2026, sin tocar nada más.
 - **LIT / inducción de liquidez**: dos baterías (16 + 8 celdas). Dio el R más alto
   del proyecto (+0,2405R, n=146) y no significaba nada: máximo real a +0,40σ del
   máximo del nulo. El displacement es un pico de ruido y va al REVÉS en la
