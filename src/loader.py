@@ -68,12 +68,17 @@ def chequear(df: pd.DataFrame) -> dict:
     if malas:
         errores.append(f"{malas} velas con h/l incoherentes")
 
-    # 1. El minuto más volátil tiene que ser el 09:30 clavado.
+    # 1. Desfase de un minuto: el 09:30 tiene que estar entre los 3 minutos más
+    #    volátiles (mediana) Y ser más volátil que el 09:29 y el 09:31. En NQ es
+    #    el primero; en ES el 15:50 (desequilibrio MOC) puede ganarle, y es real.
     top = minutos_mas_volatiles(df)
-    if top.index[0] != "09:30":
+    todos = minutos_mas_volatiles(df, n=24 * 60)
+    pico = all(todos.get("09:30", 0) > todos.get(m, 0) for m in ("09:29", "09:31"))
+    if "09:30" not in top.index or not pico:
         errores.append(
-            f"minuto más volátil = {top.index[0]}, no 09:30 "
-            f"(top3 {top.round(2).to_dict()}). ¿Timestamps de fin de vela?"
+            f"09:30 no es el pico de la apertura (top3 {top.round(2).to_dict()}; "
+            f"09:29 {todos.get('09:29', 0):.2f} · 09:30 {todos.get('09:30', 0):.2f} · "
+            f"09:31 {todos.get('09:31', 0):.2f}). ¿Timestamps de fin de vela?"
         )
 
     # 2. Histograma por hora: la parada del CME (17:00-18:00 NY) tiene que estar

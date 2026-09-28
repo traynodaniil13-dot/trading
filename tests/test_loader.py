@@ -16,7 +16,7 @@ def test_minuto_mas_volatil_0930(df):
 
 
 def test_sin_corregir_falla():
-    with pytest.raises(loader.DatosInvalidos, match="09:31"):
+    with pytest.raises(loader.DatosInvalidos, match="09:30 no es el pico"):
         loader.cargar(fin_de_vela=False, verbose=False)
 
 

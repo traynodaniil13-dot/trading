@@ -64,7 +64,9 @@ Dos chequeos, y hay que hacer los dos:
 
 1. **El minuto más volátil del día tiene que ser el 09:30 clavado** (por
    MEDIANA del rango: con la media, en 2023 y 2024 gana el 08:30 por los días de
-   IPC, también en el futuro NQ, y el chequeo daba falsa alarma). Si sale
+   IPC, también en el futuro NQ, y el chequeo daba falsa alarma). En ES el
+   15:50 (desequilibrio MOC) puede ganarle al 09:30 y es real: el chequeo exige
+   09:30 en el top-3 y por encima del 09:29 y del 09:31. Si sale
    09:31, los timestamps son fin de vela: resta un minuto. En este CSV, sin
    corregir sale 09:31 (28,12 pts), 08:31 (27,51) y 10:01 (26,79) — los tres
    desplazados un minuto, y los otros dos son los datos macro de 08:30 y 10:00.
@@ -350,6 +352,12 @@ mensual IC95% [+0,037, +0,154]. `resultados/2026-09-27_pruebas_duras_momento_pct
 Ventaja realista para planificar: **+0,05/+0,06R** (lo que da en el futuro).
 Veredicto: la mejor pista del proyecto, sin bug ni fragilidad detectable, **pero
 no aprobada** (validación p=0,049). Siguiente: forward-test en demo.
+**Validación en otro instrumento, ES/S&P 500 (28/09, pre-registrada, reglas
+congeladas, ES nunca usado): +0,023R, n=1.329, p=0,24, 3 de 6 años positivos
+(2021 +0,05 · 2022 −0,01 · 2023 +0,09 · 2024 −0,05 · 2025 −0,04 · 2026 +0,13).
+NO PASA.** Mismo signo y +2,1σ sobre su paseo aleatorio (−0,053), pero sin
+confirmación. Cartera NQ+ES: +0,058R con corr 0,44 (no mejora a NQ solo).
+Lectura: el efecto, si existe, es cosa del NQ; el ES no lo confirma. Pesa en contra.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
