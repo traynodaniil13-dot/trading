@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.093 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.097 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -358,6 +358,11 @@ congeladas, ES nunca usado): +0,023R, n=1.329, p=0,24, 3 de 6 años positivos
 NO PASA.** Mismo signo y +2,1σ sobre su paseo aleatorio (−0,053), pero sin
 confirmación. Cartera NQ+ES: +0,058R con corr 0,44 (no mejora a NQ solo).
 Lectura: el efecto, si existe, es cosa del NQ; el ES no lo confirma. Pesa en contra.
+**4 filtros pre-registrados (28/09, diseño 21/23/25): ninguno pasa**, validación
+sin gastar. A favor del día previo +0,167R (wr 44,0%) y a favor del gap +0,149R
+(wr 43,3%) mejoran la base (+0,104R, 41,9%) pero NO superan el percentil 95 de
+subconjuntos al azar del mismo tamaño (+0,181 y +0,190). ES de acuerdo +0,094R
+(peor que la base) e impulso fuerte +0,051R (peor). Se opera sin filtros.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
