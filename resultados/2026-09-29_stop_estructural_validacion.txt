@@ -1,0 +1,3 @@
+validacion base n= 677 (100%) R=+0.086 wr=40.3% p1c=0.049 stop mediano 73 pts | años {2022: 0.126, 2024: 0.052, 2026: 0.078}
+validacion S1   n= 523 (77%) R=+0.097 wr=40.2% p1c=0.056 stop mediano 54 pts | años {2022: 0.098, 2024: 0.167, 2026: 0.002}
+validacion S2   n= 653 (96%) R=+0.071 wr=39.7% p1c=0.091 stop mediano 69 pts | años {2022: 0.111, 2024: 0.082, 2026: 0.0}

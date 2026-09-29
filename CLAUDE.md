@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.097 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.099 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -372,6 +372,11 @@ alta +0,118 / baja +0,091 · 4/5 días (viernes −0,004) · salida 12:00 +0,075
 ventaja es muy sensible a la ejecución: orden a mercado en el segundo 0 de las
 09:40 (entrar a las 09:41 en la apertura da igual, +0,096), sin perseguir precio.
 `resultados/2026-09-29_pruebas_duras_II_momento_pct.txt`.
+**Stop estructural (29/09, pre-registrado):** S1 stop en el cierre de 09:09 (se
+salta el día si < 0,10%) pasa diseño (+0,127R vs +0,104, 3/3 años, 70% de días)
+pero en VALIDACIÓN da +0,097R vs base +0,086, p=0,056 (umbral 0,01), 2026
++0,002 → NO PASA. Equivalente a la base, no mejor. S2 (extremo 09:09-09:39)
+peor que la base en diseño. Se mantiene el stop del 0,40%.
 **Comparación de cuentas (29/09, `scripts/comparar_cuentas.py`, stop 116 pts =
 NQ ~29.000, ventaja realista +0,05R):** 25K ($50,30) con 1 micro → 4,1/10 pasan,
 1,8/10 cobran, EV +$81/cuenta, 24% de tandas de 10 en pérdidas; 2+ micros en la
