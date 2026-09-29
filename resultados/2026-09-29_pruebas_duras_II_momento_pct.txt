@@ -1,0 +1,14 @@
+BASE n=1416 R=+0.096
+
+U1 largos: barrera a favor primero 53.4% (n resueltas 663)
+U1 cortos: barrera a favor primero 51.9% (n resueltas 682)
+U2 quitando cada año: {np.int32(2021): np.float64(0.102), np.int32(2022): np.float64(0.089), np.int32(2023): np.float64(0.088), np.int32(2024): np.float64(0.105), np.int32(2025): np.float64(0.091), np.int32(2026): np.float64(0.098)}
+U3 semestres positivos 11/12: {'2021-S1': 0.072, '2021-S2': 0.059, '2022-S1': 0.048, '2022-S2': 0.202, '2023-S1': 0.077, '2023-S2': 0.184, '2024-S1': -0.069, '2024-S2': 0.174, '2025-S1': 0.007, '2025-S2': 0.227, '2026-S1': 0.064, '2026-S2': 0.108}
+U4 volatilidad alta n=679 R=+0.118 · baja n=680 R=+0.091
+U5 día de la semana (0=lun): {0: 0.024, 1: 0.254, 2: 0.146, 3: 0.045, 4: -0.004}
+U6 salida 12:00 R=+0.075 · salida 14:00 R=+0.100
+U7 stop 5 pts peor: R=+0.054
+U8 entrada en el peor precio de la vela 09:40: R=-0.072
+U9 sin los 10 mejores días: R=+0.082
+
+PASA 8/9 · fallan: ['U8']

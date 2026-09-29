@@ -363,6 +363,15 @@ sin gastar. A favor del día previo +0,167R (wr 44,0%) y a favor del gap +0,149R
 (wr 43,3%) mejoran la base (+0,104R, 41,9%) pero NO superan el percentil 95 de
 subconjuntos al azar del mismo tamaño (+0,181 y +0,190). ES de acuerdo +0,094R
 (peor que la base) e impulso fuerte +0,051R (peor). Se opera sin filtros.
+**Pruebas duras II (29/09, pre-registradas): pasa 8/9.** Premisa desnuda con
+barreras simétricas 53,4% largos / 51,9% cortos · quitando cualquier año
++0,088/+0,105 · 11/12 semestres positivos (solo 2024-S1 −0,07) · volatilidad
+alta +0,118 / baja +0,091 · 4/5 días (viernes −0,004) · salida 12:00 +0,075 y
+14:00 +0,100 · stop 5 pts peor +0,054 · sin los 10 mejores días +0,082.
+**FALLA U8: entrando en el peor precio de la vela de 09:40 → −0,072R.** La
+ventaja es muy sensible a la ejecución: orden a mercado en el segundo 0 de las
+09:40 (entrar a las 09:41 en la apertura da igual, +0,096), sin perseguir precio.
+`resultados/2026-09-29_pruebas_duras_II_momento_pct.txt`.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
