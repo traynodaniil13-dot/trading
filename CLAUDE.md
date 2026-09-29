@@ -372,6 +372,13 @@ alta +0,118 / baja +0,091 · 4/5 días (viernes −0,004) · salida 12:00 +0,075
 ventaja es muy sensible a la ejecución: orden a mercado en el segundo 0 de las
 09:40 (entrar a las 09:41 en la apertura da igual, +0,096), sin perseguir precio.
 `resultados/2026-09-29_pruebas_duras_II_momento_pct.txt`.
+**Comparación de cuentas (29/09, `scripts/comparar_cuentas.py`, stop 116 pts =
+NQ ~29.000, ventaja realista +0,05R):** 25K ($50,30) con 1 micro → 4,1/10 pasan,
+1,8/10 cobran, EV +$81/cuenta, 24% de tandas de 10 en pérdidas; 2+ micros en la
+25K es mala idea (EV ≤ +$18). **50K ($90,20) con 2 micros → 3,7/10, 1,7/10, EV
++$175, 16% de tandas en pérdidas: la mejor**, PERO las reglas de la fondeada de
+50K están ESCALADAS desde la 25K (supuesto, falta captura de "Funded Rules").
+100K: peor por dólar invertido. Con ventaja cero: 25K 1 micro +$42, 50K 2 micros +$67.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
@@ -458,7 +465,7 @@ aquí. No es casualidad: la barrida es frecuente y vistosa, y no predice nada.
 ## 8. Reglamento Lucid Flex 25K
 
 **Verificado en el panel de Lucid (27/09/2026):** evaluación $65,30 con cupón
-($89 sin él), pago único, reset $65. Eval: objetivo $1.250, MLL $1.000 EOD,
+($89 sin él; a 29/09 bajó a $50,30), pago único, reset $65. Eval: objetivo $1.250, MLL $1.000 EOD,
 consistencia 50%, 2 mini o 20 micros, DLL opcional (off), mínimo 2 días.
 Fondeada: MLL $1.000, **DLL $600**, sin consistencia, 2 mini o 20 micros,
 **5 días para retiro**, plan de escalado sí (el tope de 10 micros hasta +$1.000
