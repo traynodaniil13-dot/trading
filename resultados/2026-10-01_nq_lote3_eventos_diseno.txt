@@ -1,0 +1,6 @@
+== NQ · LOTE 3 · EVENTOS · DISEÑO 2021/23/25 · umbral p < 0,0125 ==
+F1 reacción FOMC 14:05→15:59       n=  24 media=+6.69 pts p=0.8312 (2c) años {2021: 39.9, 2023: -52.7, 2025: 32.8} · largos +37.1 cortos -54.1  → no pasa
+F2 deriva pre-FOMC (exceso)        n=  24 media=-23.18 pts p=0.9751 años {2021: -33.2, 2023: -10.3, 2025: -26.0}  → no pasa
+F3 dato 10:00 (10:01→10:59)        n= 130 media=+8.28 pts p=0.1344 años {2021: 1.0, 2023: 17.4, 2025: -0.2} · largos -0.9 cortos +15.9  → no pasa
+F4 víspera de festivo (exceso)     n=   2 media=+31.42 pts p=0.3651 años {2021: 101.0, 2023: -38.2}  → no pasa
+F4 víspera de festivo CORREGIDO     n=25 media=+11.96 pts p=0.3238 años {2021: 47.7, 2023: 8.7, 2025: -29.8}  → no pasa

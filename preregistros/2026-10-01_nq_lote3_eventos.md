@@ -25,3 +25,11 @@ barra 14:00 de esos días tiene que ser muy superior al de días normales.
 - **F4 · Víspera de festivo.** Sesiones cuya siguiente sesión cae > 1 día hábil
   después (festivo de mercado conocido de antemano). Largo de 09:30 a 15:59.
   Control: exceso sobre la media de días normales del mismo año.
+
+## Corrección de medida (01/10, tras la 1ª ejecución, sin cambiar la definición)
+F4 salió con n=2: el CFD cotiza en los festivos de EE. UU., así que "siguiente
+sesión > 1 día hábil" no los detecta. Se usa el calendario de festivos de la
+NYSE (Año Nuevo, MLK, Presidentes, Viernes Santo, Memorial, Juneteenth desde
+2022, 4 de julio, Labor Day, Acción de Gracias, Navidad, con traslado de fin de
+semana). Víspera = último día hábil anterior al festivo. Los festivos se quitan
+también de los días normales del control.

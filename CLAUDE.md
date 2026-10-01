@@ -400,6 +400,14 @@ BVC se calcula desde el propio precio, así que coincide con la dirección de
 Momento el 85% de los días: casi no añade información. Esto NO prueba nada sobre
 el order flow real; para eso hacen falta datos tick con lado agresor (Databento).
 
+### Lote 3 NQ · días de evento (01/10, diseño 2021/23/25 CFD) — ninguna pasa
+`preregistros/2026-10-01_nq_lote3_eventos.md`, umbral p<0,0125. F1 reacción al
+FOMC (14:05→15:59) +6,7 pts p=0,83 (2021 +40 · 2023 −53 · 2025 +33) · F2 deriva
+pre-FOMC (Lucca-Moench) −23 pts de exceso, al revés · F3 dato 10:00 bien medido
++8,3 pts p=0,13, 2025 ≈ 0 · F4 víspera de festivo (calendario NYSE; el CFD cotiza
+en festivos) +12 pts p=0,32, 2025 −30. Fechas FOMC verificadas por volatilidad
+(rango 14:00 ~60 pts vs ~8). **Contador: 1.119 variantes.**
+
 ### ORO (XAUUSD Dukascopy 2011-2018, 01/10) — una premisa viva, sin estrategia
 Datos: ticks del repo público FX-Data/FX-Data-XAUUSD-DS → `data/oro_YYYY.csv.gz`
 (M1 medio, 2011-05 a 2018-06), `loader.cargar_oro()`. Coste 0,30 pts (MGC).
