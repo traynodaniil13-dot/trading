@@ -1,0 +1,15 @@
+      cuenta ventaja  pedir retiro desde $  pasan/10  cobran/10  cobro si cobra $  EV/cuenta $ tandas10 en pérdidas
+ 25K 1 micro  +0,05R                   500       4.1        1.7               744           79                  24%
+ 25K 1 micro  +0,05R                   750       4.1        1.4               986           89                  22%
+ 25K 1 micro  +0,05R                  1000       4.1        1.0              1233           75                  34%
+ 25K 1 micro    cero                   500       3.5        1.4               640           40                  33%
+ 25K 1 micro    cero                   750       3.5        0.9               891           27                  41%
+ 25K 1 micro    cero                  1000       3.5        0.4              1267           -2                  68%
+50K 2 micros  +0,05R                   500       3.7        1.9              1250          147                  29%
+50K 2 micros  +0,05R                  1000       3.7        1.6              1617          175                  17%
+50K 2 micros  +0,05R                  1500       3.7        1.2              2081          168                  27%
+50K 2 micros  +0,05R                  2000       3.7        0.9              2584          146                  38%
+50K 2 micros    cero                   500       3.1        1.5               922           50                  43%
+50K 2 micros    cero                  1000       3.1        1.2              1245           63                  27%
+50K 2 micros    cero                  1500       3.1        0.7              1784           35                  48%
+50K 2 micros    cero                  2000       3.1        0.3              2871            0                  72%

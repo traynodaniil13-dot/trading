@@ -20,3 +20,8 @@ las reglas que ha dado el bot de soporte de Lucid hoy. No hay p-valores ni umbra
 Momento 09:40 stop 0,40% (116 pts a NQ ~29.000), R por operación desplazada a:
 +0,05R (realista), 0 (ventaja nula) y −0,0075R (moneda al aire pagando coste).
 Micros 1-6. 3.000 cuentas simuladas por celda, secuencias por bloques.
+
+## Añadido (01/10, tras confirmar el bot que el breach es intradía)
+Política de retiro: solicitar solo cuando el importe llegue a X ∈ {500, 750, 1000}
+(25K) y {500, 1000, 1500, 2000} (50K). MLL intradía. 4.000 cuentas por celda.
+Script: `scripts/cuentas_umbral_retiro.py`.

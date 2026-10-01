@@ -496,7 +496,11 @@ por Lucid). EV recalculado: `resultados/2026-10-01_cuentas_reglas_bot.txt`.
 
 - **MLL trailing**: sube solo con el cierre EOD del balance. Se congela al llegar
   a +$1.100 de colchón (queda fijo en inicial+$1.000+$100).
-- **Breach intradía quema la cuenta.**
+- **Breach intradía quema la cuenta.** Confirmado por el bot de Lucid (01/10): la
+  equity abierta por debajo del MLL quema aunque el día cierre por encima.
+- **Configuración elegida (01/10):** 50K, 2 micros, pedir retiro solo cuando el
+  50% del beneficio llegue a $1.000 (beneficio ≥ $2.000): EV +$175/cuenta a +0,05R,
+  +$63 con ventaja cero. `resultados/2026-10-01_cuentas_umbral_retiro.txt`.
 - Regla de consistencia 50%, solo en evaluación.
 - Tope de contratos: 20 micros en evaluación. En fondeada 10 hasta +$1.000 de
   beneficio, luego 20. **El tope por sí solo mueve la tasa de pase de 3,75 a 2,06
