@@ -187,7 +187,9 @@ def chequear_oro(df: pd.DataFrame) -> dict:
     (08:30 y 10:00) son más volátiles que su minuto anterior y su siguiente (la
     09:30 no se exige: en 2018 la apertura de acciones apenas mueve el oro). Si
     los picos salen un minuto después (08:31, 10:01), los timestamps son de fin
-    de vela."""
+    de vela. 18:00 (reapertura de Globex tras la parada) también vale como nº1: es
+    un minuto grande todos los años (2017 0,68; 2020 2,243 vs 10:00 2,234) y es
+    real; el desplazamiento lo siguen cazando los picos locales de 08:30 y 10:00."""
     errores = []
     if df.index.duplicated().any():
         errores.append(f"{int(df.index.duplicated().sum())} timestamps duplicados")
@@ -195,7 +197,7 @@ def chequear_oro(df: pd.DataFrame) -> dict:
         errores.append("hay NaN en OHLC")
     eventos = {"08:20": ("08:19", "08:21"), "08:25": ("08:24", "08:26"), "13:24": ("13:23", "13:25"),
                "08:30": ("08:29", "08:31"),
-               "09:30": ("09:29", "09:31"), "10:00": ("09:59", "10:01")}
+               "09:30": ("09:29", "09:31"), "10:00": ("09:59", "10:01"), "18:00": ("17:59", "18:01")}
     top = minutos_mas_volatiles(df, n=3, estad="mean")
     todos = minutos_mas_volatiles(df, n=24 * 60, estad="mean")
     if top.index[0] not in eventos:

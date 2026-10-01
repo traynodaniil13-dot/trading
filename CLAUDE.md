@@ -421,12 +421,24 @@ del lado de la tendencia del año (cortos en 2011/13/15; 2017 alcista ≈ 0).
 Estrategias (`2026-10-01_oro_ruptura_asia.md`): E1 stop en mitad del rango 1:2
 −0,050R · E2 stop lado opuesto 1:2 +0,044R p=0,10 · E3 (post hoc) stop lado
 opuesto sin objetivo +0,087R p=0,0195 (umbral 0,0167), 2017 −0,046. Ninguna pasa.
-Falta: oro 2019-2026 (el régimen actual es alcista y es el que importa).
 **Confirmación en otros mercados (pre-registrada, reglas congeladas, 2011-2018,
 `2026-10-01_ruptura_asia_otros_mercados.md`): PLATA +0,016 rangos p=0,34 · EUR/USD
 −0,024 rangos p=0,75, z=−1,07 (oro: +0,17 rangos). NINGUNO CONFIRMA.** La
 "ruptura de Londres" no es un fenómeno general; lo del oro pesa menos (azar o
 régimen bajista 2011-15). Validación del oro sigue sin gastar.
+**Oro 2019-2026 (01/10, pre-registrado, G4 CONGELADA, `2026-10-01_oro_G4_2019_2026.md`):
++1,07 pts brutos, n=1.876, p=0,011 (umbral 0,01), 5/8 años, largos +1,14 / cortos
++0,99, z=+2,39 → NO PASA.** Y en rangos asiáticos (la medida que no depende del
+nivel del oro) +0,021 p=0,25, 4/8 años, cortos −0,039: cero (2011-18 daba +0,17).
+El +1,07 en puntos es la volatilidad de 2025-26 (72% del total con el 21% de las
+ops): 2019 −0,25 · 2020 +1,49 · 2021 −0,30 · 2022 +0,29 · 2023 −0,09 · 2024 +1,16
+· 2025 +2,18 · 2026 +5,68. **G4 queda MUERTA: régimen 2011-15 o azar. El oro se
+queda sin premisa viva.** Datos: `data/oro_2019..2026` (velas M1 bid/ask de
+datafeed.dukascopy.com, `scripts/dukas_descargar.py`; spr = spread al cierre,
+n = volumen). Validados contra los ticks de enero 2018. **Ojo: a los ficheros de
+ticks 2011-2018 les falta la hora 00 UTC de cada día** (cae dentro del rango
+asiático). `chequear_oro` acepta 18:00 (reapertura) como minuto nº1.
+**Contador: 1.120 variantes.**
 Datos nuevos limpios: `data/plata_YYYY` y `data/eurusd_YYYY` 2011-2018
 (`loader.cargar_dukas`), EUR/USD en pips. Sirven para rejuzgar las estrategias
 de Forex (pendiente nº7).
