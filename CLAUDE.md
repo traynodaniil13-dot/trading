@@ -400,6 +400,22 @@ BVC se calcula desde el propio precio, así que coincide con la dirección de
 Momento el 85% de los días: casi no añade información. Esto NO prueba nada sobre
 el order flow real; para eso hacen falta datos tick con lado agresor (Databento).
 
+### ORO (XAUUSD Dukascopy 2011-2018, 01/10) — una premisa viva, sin estrategia
+Datos: ticks del repo público FX-Data/FX-Data-XAUUSD-DS → `data/oro_YYYY.csv.gz`
+(M1 medio, 2011-05 a 2018-06), `loader.cargar_oro()`. Coste 0,30 pts (MGC).
+Diseño 2011/13/15/17, validación 2012/14/16/18-S1 SIN TOCAR.
+`preregistros/2026-10-01_oro_lote1.md`: 5 premisas, umbral p<0,01. Fixing PM,
+Momento S1 congelado (+0,006R), dato 08:30 y corto en horario COMEX: ruido.
+**G4 ruptura del rango asiático (19:00-02:59 NY; primer cierre fuera desde las
+03:00, a favor, hasta las 11:59): +1,04 pts brutos, p=0,0011, 4/4 años, z=2,85
+sobre paseo aleatorio, neutral a la deriva +0,99. PASA la premisa.** Pero va
+del lado de la tendencia del año (cortos en 2011/13/15; 2017 alcista ≈ 0).
+Estrategias (`2026-10-01_oro_ruptura_asia.md`): E1 stop en mitad del rango 1:2
+−0,050R · E2 stop lado opuesto 1:2 +0,044R p=0,10 · E3 (post hoc) stop lado
+opuesto sin objetivo +0,087R p=0,0195 (umbral 0,0167), 2017 −0,046. Ninguna pasa.
+Falta: oro 2019-2026 (el régimen actual es alcista y es el que importa).
+**Contador: 1.113 variantes.**
+
 ### Noise Area (Zarattini-Aziz-Barbon 2024, 01/10, diseño 2021/23/25 CFD) — MUERTA
 `preregistros/2026-10-01_noise_area.md`. Estrategia académica con mejor pedigrí
 encontrada (SPY 2007-24 Sharpe 1,33, premio Quantpedia 2025). Premisa: +9,4 pts

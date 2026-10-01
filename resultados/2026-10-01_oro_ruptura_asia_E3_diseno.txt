@@ -1,0 +1,2 @@
+E3 (stop lado opuesto, sin objetivo, cierre 11:59) DISEÑO n=901 R=+0.087 wr=45.9% p1c=0.0195 años {2011: 0.021, 2013: 0.2, 2015: 0.151, 2017: -0.046} · inv -0.121 · nulo -0.085 z=+3.79
+umbral p < 0,0167, ≥3/4 años, z > 2, inv ≤ 0
