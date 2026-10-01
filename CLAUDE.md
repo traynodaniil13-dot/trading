@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.099 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.102 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -391,6 +391,14 @@ $250/op (1-2 micros): ventaja histórica → 4,7/10 pasan, 2,2/10 cobran, $192
 cobrados por evaluación comprada; ventaja realista +0,05R → 4,1/10, 1,6/10,
 $129; ventaja cero → 3,6/10, 1,0/10, $73-98. **El EV depende del precio de la
 evaluación**, que falta en este documento. `resultados/2026-09-27_cuentas_momento_pct.txt`.
+
+### Order flow APROXIMADO (01/10, BVC sobre barras de 1 min del NQ, diseño 2023+2025)
+`preregistros/2026-10-01_order_flow_proxy.md`. Ninguna de 3 pasa: flujo de la
+apertura +5,6 pts p=0,53 · absorción −13 pts p=0,59 (n=70) · como filtro de
+Momento, "de acuerdo" +0,087R vs "en desacuerdo" +0,109R. **Límite clave:** el
+BVC se calcula desde el propio precio, así que coincide con la dirección de
+Momento el 85% de los días: casi no añade información. Esto NO prueba nada sobre
+el order flow real; para eso hacen falta datos tick con lado agresor (Databento).
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

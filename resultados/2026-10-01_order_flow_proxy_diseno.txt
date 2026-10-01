@@ -1,0 +1,4 @@
+O1 flujo apertura: n=482 media=+5.60 pts ee=8.86 p=0.5277 | años {2023: 6.01, 2025: 5.17} | largos +13.36 cortos -3.56 -> no
+O2 absorción: n=70 media=-13.44 pts ee=24.87 p=0.5906 | años {2023: 16.43, 2025: -41.65} | largos -11.27 cortos -15.38 -> no
+O3 filtro Momento: base n=481 R=+0.090 | de acuerdo n=408 R=+0.087 | en desacuerdo n=73 R=+0.109 | dif p1c=0.554 | azar p95 +0.130 -> no
+   por año (de acuerdo): {2023: 0.083, 2025: 0.09}
