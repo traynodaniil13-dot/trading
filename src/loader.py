@@ -174,3 +174,39 @@ def cargar_cfd(rutas=None, verbose: bool = True) -> pd.DataFrame:
 if __name__ == "__main__":
     df = cargar()
     print(histograma_por_hora(df).to_string())
+
+
+# ---------------------------------------------------------------- oro (XAUUSD Dukascopy)
+
+def chequear_oro(df: pd.DataFrame) -> dict:
+    """Controles de la sección 2 adaptados al oro: el minuto de referencia es el
+    08:30 NY (datos macro de EE. UU.), no el 09:30. Tiene que estar en el top-3
+    por mediana y por encima del 08:29 y del 08:31. Si sale 08:31, es fin de vela."""
+    errores = []
+    if df.index.duplicated().any():
+        errores.append(f"{int(df.index.duplicated().sum())} timestamps duplicados")
+    if df[["o", "h", "l", "c"]].isna().any().any():
+        errores.append("hay NaN en OHLC")
+    top = minutos_mas_volatiles(df, n=3, estad="mean")
+    todos = minutos_mas_volatiles(df, n=24 * 60, estad="mean")
+    if "08:30" not in top.index or not all(todos["08:30"] > todos.get(m, 0) for m in ("08:29", "08:31")):
+        errores.append(f"08:30 no es el pico macro (top3 por media {top.round(3).to_dict()})")
+    if errores:
+        raise DatosInvalidos("; ".join(errores))
+    return {"filas": len(df), "desde": df.index[0], "hasta": df.index[-1], "top_minutos": top.round(3).to_dict()}
+
+
+def cargar_oro(anios, verbose: bool = True) -> pd.DataFrame:
+    """XAUUSD de Dukascopy (oro de contado), medio bid/ask, ms UTC, etiqueta el INICIO
+    del minuto. Se pasa a hora de Nueva York. Ficheros data/oro_YYYY.csv.gz."""
+    raw = pd.concat([pd.read_csv(RAIZ / f"data/oro_{a}.csv.gz") for a in anios], ignore_index=True)
+    ts = (pd.to_datetime(raw["timestamp"], unit="ms", utc=True)
+          .dt.tz_convert("America/New_York").dt.tz_localize(None))
+    df = pd.DataFrame({k: raw[k].to_numpy() for k in ("o", "h", "l", "c", "spr")}, index=pd.DatetimeIndex(ts, name="ts"))
+    df = df.sort_index()
+    df = df[~df.index.duplicated(keep="first")]  # el cambio de hora no duplica en UTC; por si acaso
+    df = _anadir_columnas(df)
+    info = chequear_oro(df)
+    if verbose:
+        print(f"[loader] oro {list(anios)}: {info['filas']:,} filas, {info['desde']} -> {info['hasta']}. Top {info['top_minutos']}. OK")
+    return df
