@@ -15,7 +15,7 @@ Caché de ficheros crudos en CACHE (reanudable). Uso:
 Variables: DUKAS_CACHE (carpeta de crudos), DUKAS_HILOS (12), DUKAS_SOLO_BAJAR=1 (no convierte).
 Los sábados no se piden (el oro no cotiza; Dukascopy los da vacíos).
 """
-import lzma, os, sys, time, random, datetime as dt
+import lzma, os, sys, time, random, collections, datetime as dt
 import urllib.request, urllib.error
 from concurrent.futures import ThreadPoolExecutor
 import numpy as np, pandas as pd
@@ -27,6 +27,8 @@ CACHE = os.environ.get("DUKAS_CACHE", "/tmp/dukas_cache")
 URL = "https://datafeed.dukascopy.com/datafeed/{i}/{y:04d}/{m:02d}/{d:02d}/{s}_candles_min_1.bi5"
 REC = np.dtype([("t", ">i4"), ("o", ">i4"), ("c", ">i4"), ("l", ">i4"), ("h", ">i4"), ("v", ">f4")])
 
+CODIGOS = collections.Counter()
+ESPERA_MAX = float(os.environ.get("DUKAS_ESPERA_MAX", 8))
 UA = {"User-Agent": "Mozilla/5.0"}   # con el UA de Python el servidor responde casi siempre 429
 
 
@@ -40,18 +42,20 @@ def bajar(dia, lado):
     if os.path.exists(ruta):
         return open(ruta, "rb").read()
     url = URL.format(i=INSTR, y=dia.year, m=dia.month - 1, d=dia.day, s=lado)
-    espera = 2.0
-    for intento in range(400):
+    espera = 1.0
+    for intento in range(1000):
         try:
-            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=45) as r:
+            with urllib.request.urlopen(urllib.request.Request(url, headers=UA), timeout=30) as r:
                 datos = r.read()
+            CODIGOS[200] += 1
             break
         except urllib.error.HTTPError as e:
+            CODIGOS[e.code] += 1
             if e.code == 404:
                 datos = b""; break
-        except Exception:
-            pass
-        time.sleep(espera * random.uniform(0.5, 1.5)); espera = min(30.0, espera * 1.5)
+        except Exception as e:
+            CODIGOS[type(e).__name__] += 1
+        time.sleep(espera * random.uniform(0.5, 1.5)); espera = min(ESPERA_MAX, espera * 1.5)
     else:
         raise RuntimeError(f"no se pudo bajar {url}")
     if datos:
@@ -79,8 +83,8 @@ def bajar_todo():
     with ThreadPoolExecutor(int(os.environ.get("DUKAS_HILOS", 12))) as ex:
         for _ in ex.map(lambda x: bajar(*x), pend):
             hechos += 1
-            if hechos % 100 == 0:
-                print(f"  {hechos}/{len(pend)} · {hechos / (time.time() - t0) * 60:.1f}/min", flush=True)
+            if hechos % 25 == 0:
+                print(f"  {hechos}/{len(pend)} · {hechos / (time.time() - t0) * 60:.1f}/min · {dict(CODIGOS)}", flush=True)
 
 
 def velas(dia, lado):
