@@ -30,3 +30,11 @@ Script: `scripts/cuentas_umbral_retiro.py`.
 Dato del usuario: copiador permitido, máx. 5 fondeadas a la vez (10 cuentas total).
 Todas las cuentas operan la misma secuencia diaria. K ∈ {1, 2, 3, 5} evaluaciones
 vivas a la vez, 250 sesiones, 2.000 años simulados. Script: `scripts/negocio_12m.py`.
+
+## Añadido 3 (01/10): RTP y stop estructural S1 en la misma cuenta
+Pregunta del usuario: si RTP también pasa ~3 de 10, ¿por qué no RTP? Y quiere un
+stop definido por estructura. Se pasan por el MISMO simulador (50K, MLL intradía,
+retiro desde $1.000, riesgo ~$464/op, stops reescalados a NQ 29.000):
+Momento stop 0,40% · Momento S1 (stop en el cierre de 09:09, ya validado el 29/09:
++0,097R, no pasó umbral pero = base) · RTP base (cierre 12:00, sin objetivo).
+R histórica de cada una, sin desplazar. Script: `scripts/cuentas_rtp_vs_momento.py`.

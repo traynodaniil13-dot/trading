@@ -1,0 +1,4 @@
+   estrategia  ops   R/op winrate  stop mediano hoy (pts)  pasan/10  cobran/10  EV/cuenta $ tandas10 en pérdidas
+Momento 0,40% 1416  0.096     41%                     116       4.4        2.2          341                  10%
+   Momento S1 1038  0.112     40%                      79       3.7        1.6          297                  17%
+          RTP  961 -0.016     38%                     112       1.9        0.4          -17                  64%
