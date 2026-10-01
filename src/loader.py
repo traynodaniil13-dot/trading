@@ -179,18 +179,28 @@ if __name__ == "__main__":
 # ---------------------------------------------------------------- oro (XAUUSD Dukascopy)
 
 def chequear_oro(df: pd.DataFrame) -> dict:
-    """Controles de la sección 2 adaptados al oro: el minuto de referencia es el
-    08:30 NY (datos macro de EE. UU.), no el 09:30. Tiene que estar en el top-3
-    por mediana y por encima del 08:29 y del 08:31. Si sale 08:31, es fin de vela."""
+    """Controles de la sección 2 adaptados al oro. Los minutos de evento del oro son
+    08:20 (apertura COMEX), 08:30 (macro EE. UU.), 09:30 (apertura de acciones) y
+    10:00 (macro / fixing PM). Según el año gana uno u otro (2011: 08:20), así que
+    se exige: el minuto nº1 por media es uno de esos 4, y los dos minutos macro
+    (08:30 y 10:00) son más volátiles que su minuto anterior y su siguiente (la
+    09:30 no se exige: en 2018 la apertura de acciones apenas mueve el oro). Si
+    los picos salen un minuto después (08:31, 10:01), los timestamps son de fin
+    de vela."""
     errores = []
     if df.index.duplicated().any():
         errores.append(f"{int(df.index.duplicated().sum())} timestamps duplicados")
     if df[["o", "h", "l", "c"]].isna().any().any():
         errores.append("hay NaN en OHLC")
+    eventos = {"08:20": ("08:19", "08:21"), "08:30": ("08:29", "08:31"),
+               "09:30": ("09:29", "09:31"), "10:00": ("09:59", "10:01")}
     top = minutos_mas_volatiles(df, n=3, estad="mean")
     todos = minutos_mas_volatiles(df, n=24 * 60, estad="mean")
-    if "08:30" not in top.index or not all(todos["08:30"] > todos.get(m, 0) for m in ("08:29", "08:31")):
-        errores.append(f"08:30 no es el pico macro (top3 por media {top.round(3).to_dict()})")
+    if top.index[0] not in eventos:
+        errores.append(f"el minuto más volátil no es de evento: {top.round(3).to_dict()}")
+    for m, (a, z) in ((k, eventos[k]) for k in ("08:30", "10:00")):
+        if not (todos[m] > todos.get(a, 0) and todos[m] > todos.get(z, 0)):
+            errores.append(f"{m} no es pico local ({a} {todos.get(a, 0):.3f} · {m} {todos[m]:.3f} · {z} {todos.get(z, 0):.3f})")
     if errores:
         raise DatosInvalidos("; ".join(errores))
     return {"filas": len(df), "desde": df.index[0], "hasta": df.index[-1], "top_minutos": top.round(3).to_dict()}
