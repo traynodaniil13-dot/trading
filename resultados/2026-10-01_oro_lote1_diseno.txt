@@ -1,0 +1,12 @@
+[loader] oro [2011]: 224,948 filas, 2011-05-10 05:00:00 -> 2011-12-30 16:59:00. Top {'08:20': 1.707, '10:00': 1.618, '09:30': 1.614}. OK
+[loader] oro [2013]: 337,057 filas, 2013-01-01 18:00:00 -> 2013-12-31 16:59:00. Top {'08:30': 2.072, '08:20': 1.564, '10:00': 1.53}. OK
+[loader] oro [2015]: 338,425 filas, 2015-01-01 18:00:00 -> 2015-12-31 16:59:00. Top {'08:30': 1.647, '10:00': 1.092, '08:31': 1.049}. OK
+[loader] oro [2017]: 337,395 filas, 2017-01-02 18:00:00 -> 2017-12-29 16:58:00. Top {'08:30': 1.196, '10:00': 0.897, '08:20': 0.706}. OK
+== ORO · LOTE 1 · DISEÑO 2011/13/15/17 · umbral p < 0,01 ==
+G1 fixing PM (corto, pts)    n= 940 media=+0.113 p1c=0.2558 años {2011: 0.92, 2013: -0.29, 2015: 0.05, 2017: 0.06} (3/4 mismo signo)  → no pasa
+G1 exceso sobre otras horas  n= 940 media=+0.075 p1c=0.3223 años {2011: 0.88, 2013: -0.4, 2015: 0.02, 2017: 0.08} (3/4 mismo signo)  → no pasa
+G2 Momento S1 congelado (R)  n= 483 media=+0.006 p1c=0.4622 años {2011: -0.0, 2013: -0.03, 2015: 0.06, 2017: -0.0} (1/4 mismo signo) · largos -0.014 cortos +0.023 · nulo -0.106 z=+1.54  → no pasa
+G3 dato 08:30 (pts)          n= 261 media=-0.124 p1c=0.6699 años {2011: -0.26, 2013: -0.97, 2015: 0.53, 2017: 0.01} (2/4 mismo signo) · largos -0.300 cortos +0.050  → no pasa
+G4 ruptura asiática (pts)    n= 901 media=+1.041 p1c=0.0011 años {2011: 0.94, 2013: 2.13, 2015: 1.01, 2017: 0.05} (4/4 mismo signo) · largos +0.351 cortos +1.628 · nulo +0.066 z=+2.85  → PASA
+G5 corto COMEX 08:20-13:29   n= 919 media=+0.471 p1c=0.0831 años {2011: 1.3, 2013: 0.65, 2015: 0.47, 2017: -0.24} (3/4 mismo signo)  → no pasa
+G5 exceso sobre la deriva    n= 919 media=+0.336 p1c=0.1038 años {2011: 1.36, 2013: 0.15, 2015: 0.31, 2017: -0.13} (3/4 mismo signo)  → no pasa
