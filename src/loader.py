@@ -220,3 +220,19 @@ def cargar_oro(anios, verbose: bool = True) -> pd.DataFrame:
     if verbose:
         print(f"[loader] oro {list(anios)}: {info['filas']:,} filas, {info['desde']} -> {info['hasta']}. Top {info['top_minutos']}. OK")
     return df
+
+
+def cargar_dukas(nombre: str, anios, verbose: bool = True) -> pd.DataFrame:
+    """Cualquier instrumento convertido con scripts/oro_ticks_a_m1.py (data/<nombre>_YYYY.csv.gz):
+    plata, eurusd... Mismo formato y mismos controles que el oro (picos de 08:30 y 10:00)."""
+    raw = pd.concat([pd.read_csv(RAIZ / f"data/{nombre}_{a}.csv.gz") for a in anios], ignore_index=True)
+    ts = (pd.to_datetime(raw["timestamp"], unit="ms", utc=True)
+          .dt.tz_convert("America/New_York").dt.tz_localize(None))
+    df = pd.DataFrame({k: raw[k].to_numpy() for k in ("o", "h", "l", "c", "spr")}, index=pd.DatetimeIndex(ts, name="ts"))
+    df = df.sort_index()
+    df = df[~df.index.duplicated(keep="first")]
+    df = _anadir_columnas(df)
+    info = chequear_oro(df)
+    if verbose:
+        print(f"[loader] {nombre} {list(anios)}: {info['filas']:,} filas, {info['desde']} -> {info['hasta']}. Top {info['top_minutos']}. OK")
+    return df
