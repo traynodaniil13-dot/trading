@@ -1,0 +1,16 @@
+Días con señal: 424 · controles usados: {1000: 184, 1030: 77, 1100: 46, 1130: 25, 1200: 14, 1230: 14, 1300: 7, 1330: 13, 1400: 10, 1430: 12, 1500: 10, 1530: 12}
+
+== PREMISA (pts brutos de la entrada a 15:59, con signo) ==
+todos   n=424 media=+9.37 pts p1c=0.1173
+largos  n=227 media=+15.58 pts p1c=0.0866
+cortos  n=197 media=+2.21 pts p1c=0.4184
+por año: {2021: 6.98, 2023: 10.62, 2025: 10.74}
+
+== ESTRATEGIAS (se miran igual; solo cuentan si la premisa pasa) ==
+NA-autor  n=424 +5.04 pts netos p1c=0.1309 años {2021: 6.24, 2023: 7.75, 2025: 0.43}
+NA-1:2    n=424 R=+0.068 wr=50.2% p1c=0.0912 años {2021: 0.167, 2023: 0.083, 2025: -0.069}
+
+== PASEO ALEATORIO (6 semillas) ==
+premisa   real +9.365 · nulo +0.864 ± 1.573 · z exceso +1.06
+NA-autor  real +5.038 · nulo -0.000 ± 2.262 · z exceso +1.00
+NA-1:2    real +0.068 · nulo -0.031 ± 0.008 · z exceso +1.93

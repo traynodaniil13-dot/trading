@@ -400,6 +400,17 @@ BVC se calcula desde el propio precio, así que coincide con la dirección de
 Momento el 85% de los días: casi no añade información. Esto NO prueba nada sobre
 el order flow real; para eso hacen falta datos tick con lado agresor (Databento).
 
+### Noise Area (Zarattini-Aziz-Barbon 2024, 01/10, diseño 2021/23/25 CFD) — MUERTA
+`preregistros/2026-10-01_noise_area.md`. Estrategia académica con mejor pedigrí
+encontrada (SPY 2007-24 Sharpe 1,33, premio Quantpedia 2025). Premisa: +9,4 pts
+p=0,12 (umbral 0,05), largos +15,6 / cortos +2,2 (= deriva alcista, regla M),
+z sobre paseo aleatorio +1,06. NA-autor +5,0 pts p=0,13; NA-1:2 +0,068R p=0,09,
+2025 −0,069. Validación sin gastar. Contexto externo: Mesfin (arXiv 2605.04004)
+prueba 14 familias OHLCV en MNQ 2021-25 (ORB, gap, volumen, Asia, liquidity grab,
+noticias) y ninguna pasa; una réplica del ORB 5 min de Zarattini en NQ da +0,131R
+bruto y cero neto. Coincide con lo de este repo.
+**Contador: 1.105 variantes** (premisa + 2 estrategias).
+
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
 Ver `preregistros/2026-09-27_premisas_lote1.md` y `protocolo_particion.md`.
