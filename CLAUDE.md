@@ -414,7 +414,15 @@ Estrategias (`2026-10-01_oro_ruptura_asia.md`): E1 stop en mitad del rango 1:2
 −0,050R · E2 stop lado opuesto 1:2 +0,044R p=0,10 · E3 (post hoc) stop lado
 opuesto sin objetivo +0,087R p=0,0195 (umbral 0,0167), 2017 −0,046. Ninguna pasa.
 Falta: oro 2019-2026 (el régimen actual es alcista y es el que importa).
-**Contador: 1.113 variantes.**
+**Confirmación en otros mercados (pre-registrada, reglas congeladas, 2011-2018,
+`2026-10-01_ruptura_asia_otros_mercados.md`): PLATA +0,016 rangos p=0,34 · EUR/USD
+−0,024 rangos p=0,75, z=−1,07 (oro: +0,17 rangos). NINGUNO CONFIRMA.** La
+"ruptura de Londres" no es un fenómeno general; lo del oro pesa menos (azar o
+régimen bajista 2011-15). Validación del oro sigue sin gastar.
+Datos nuevos limpios: `data/plata_YYYY` y `data/eurusd_YYYY` 2011-2018
+(`loader.cargar_dukas`), EUR/USD en pips. Sirven para rejuzgar las estrategias
+de Forex (pendiente nº7).
+**Contador: 1.115 variantes.**
 
 ### Noise Area (Zarattini-Aziz-Barbon 2024, 01/10, diseño 2021/23/25 CFD) — MUERTA
 `preregistros/2026-10-01_noise_area.md`. Estrategia académica con mejor pedigrí
