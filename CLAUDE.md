@@ -498,6 +498,9 @@ por Lucid). EV recalculado: `resultados/2026-10-01_cuentas_reglas_bot.txt`.
   a +$1.100 de colchón (queda fijo en inicial+$1.000+$100).
 - **Breach intradía quema la cuenta.** Confirmado por el bot de Lucid (01/10): la
   equity abierta por debajo del MLL quema aunque el día cierre por encima.
+- **Variante elegida por Daniil (01/10): Momento S1, stop en el cierre de 09:09,
+  1:2, se salta el día si el stop < 0,10%; riesgo ~$464/op, micros = 464/(stop·2).**
+  Misma cuenta: EV +$297 histórico vs +$341 del 0,40% (`2026-10-01_cuentas_rtp_vs_momento.txt`).
 - **Configuración elegida (01/10):** 50K, 2 micros, pedir retiro solo cuando el
   50% del beneficio llegue a $1.000 (beneficio ≥ $2.000): EV +$175/cuenta a +0,05R,
   +$63 con ventaja cero. `resultados/2026-10-01_cuentas_umbral_retiro.txt`.
