@@ -38,3 +38,10 @@ retiro desde $1.000, riesgo ~$464/op, stops reescalados a NQ 29.000):
 Momento stop 0,40% · Momento S1 (stop en el cierre de 09:09, ya validado el 29/09:
 +0,097R, no pasó umbral pero = base) · RTP base (cierre 12:00, sin objetivo).
 R histórica de cada una, sin desplazar. Script: `scripts/cuentas_rtp_vs_momento.py`.
+
+## Añadido 4 (01/10): riesgo dinámico propuesto por Daniil
+Momento S1, 50K, MLL intradía, retiro desde $1.000. Margen = balance − MLL.
+Políticas (5): fijo $464 · fijo $500 · fijo $750 · A: $750 si margen ≥ $1.250,
+si no $500 · B: min($750, margen) (arriesgar lo que quede).
+Se aplican (i) solo en evaluación con fondeada a $464 y (ii) en las dos fases.
+R histórica de S1 y R desplazada a cero. Script: `scripts/riesgo_dinamico.py`.

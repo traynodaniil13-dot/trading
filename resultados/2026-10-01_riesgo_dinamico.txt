@@ -1,0 +1,19 @@
+     ventaja                      riesgo      aplica a  pasan/10  ops hasta pasar  cobran/10  EV/cuenta $ tandas10 en pérdidas
+histórica S1                    fijo 464     solo eval       3.7             16.0        1.6          249                  17%
+histórica S1                    fijo 500     solo eval       3.5             13.0        1.6          263                  17%
+histórica S1                    fijo 500 eval+fondeada       3.5             13.0        1.5          226                  21%
+histórica S1                    fijo 750     solo eval       3.1              7.0        1.5          284                  20%
+histórica S1                    fijo 750 eval+fondeada       3.1              7.0        1.0          276                  33%
+histórica S1 A (750, 500 si margen<1250)     solo eval       3.0              7.0        1.7          303                  17%
+histórica S1 A (750, 500 si margen<1250) eval+fondeada       3.0              7.0        1.3          272                  25%
+histórica S1         B (min 750, margen)     solo eval       3.1              7.0        1.7          289                  17%
+histórica S1         B (min 750, margen) eval+fondeada       3.1              7.0        1.1          256                  32%
+        cero                    fijo 464     solo eval       2.4             15.0        0.6           12                  52%
+        cero                    fijo 500     solo eval       2.4             13.0        0.7           11                  47%
+        cero                    fijo 500 eval+fondeada       2.4             13.0        0.7           16                  47%
+        cero                    fijo 750     solo eval       2.2              6.0        0.7           28                  48%
+        cero                    fijo 750 eval+fondeada       2.2              6.0        0.7           64                  47%
+        cero A (750, 500 si margen<1250)     solo eval       2.4              8.0        0.8           36                  44%
+        cero A (750, 500 si margen<1250) eval+fondeada       2.4              8.0        0.9           67                  40%
+        cero         B (min 750, margen)     solo eval       2.3              6.0        0.8           35                  44%
+        cero         B (min 750, margen) eval+fondeada       2.3              6.0        0.8           79                  43%
