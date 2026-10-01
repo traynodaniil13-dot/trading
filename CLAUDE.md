@@ -486,6 +486,13 @@ de abajo sería ese escalado; sin confirmar). 50K Flex: $90,20, objetivo $3.000,
 MLL $2.000, 40 micros. 100K Flex: $170,60, objetivo $6.000, MLL $3.000, 60 micros.
 Sin verificar todavía: importe mínimo/máximo de cada retiro y el suelo del MLL
 tras solicitar (se usan los valores de abajo).
+**Bot de soporte de Lucid (01/10/2026):** MLL "End-of-Day" (no aclara si un toque
+intradía quema: se simulan las dos cotas) · retiro mín. $500, máx. $1.000 (25K) /
+$2.000 (50K), hasta 50% del beneficio · al SOLICITAR, MLL fijo en inicial+$100 ·
+5 retiros y la cuenta pasa a live · fondeada 20 micros (25K) / 40 (50K) desde el
+día 1 (sin el tope de 10) · DLL de la fondeada opcional. Fuentes externas: máx.
+5 fondeadas y 10 cuentas en total por hogar, copiador permitido (sin confirmar
+por Lucid). EV recalculado: `resultados/2026-10-01_cuentas_reglas_bot.txt`.
 
 - **MLL trailing**: sube solo con el cierre EOD del balance. Se congela al llegar
   a +$1.100 de colchón (queda fijo en inicial+$1.000+$100).
