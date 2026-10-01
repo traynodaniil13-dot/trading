@@ -181,7 +181,8 @@ if __name__ == "__main__":
 def chequear_oro(df: pd.DataFrame) -> dict:
     """Controles de la sección 2 adaptados al oro. Los minutos de evento del oro son
     08:20 (apertura COMEX), 08:30 (macro EE. UU.), 09:30 (apertura de acciones) y
-    10:00 (macro / fixing PM). Según el año gana uno u otro (2011: 08:20), así que
+    10:00 (macro / fixing PM); en plata además 08:25 y 13:24 (apertura y cierre
+    del corro de la plata en COMEX). Según el año gana uno u otro (2011: 08:20), así que
     se exige: el minuto nº1 por media es uno de esos 4, y los dos minutos macro
     (08:30 y 10:00) son más volátiles que su minuto anterior y su siguiente (la
     09:30 no se exige: en 2018 la apertura de acciones apenas mueve el oro). Si
@@ -192,7 +193,8 @@ def chequear_oro(df: pd.DataFrame) -> dict:
         errores.append(f"{int(df.index.duplicated().sum())} timestamps duplicados")
     if df[["o", "h", "l", "c"]].isna().any().any():
         errores.append("hay NaN en OHLC")
-    eventos = {"08:20": ("08:19", "08:21"), "08:30": ("08:29", "08:31"),
+    eventos = {"08:20": ("08:19", "08:21"), "08:25": ("08:24", "08:26"), "13:24": ("13:23", "13:25"),
+               "08:30": ("08:29", "08:31"),
                "09:30": ("09:29", "09:31"), "10:00": ("09:59", "10:01")}
     top = minutos_mas_volatiles(df, n=3, estad="mean")
     todos = minutos_mas_volatiles(df, n=24 * 60, estad="mean")

@@ -29,6 +29,7 @@ def g4(b):
         k = post[fuera[0]]; d = 1 if c[k] > top else -1; e = k + 1
         if ses_arr[e] != s or e > fin: continue
         pts = (c[fin] - o[e]) * d
+        if top - bot <= 0: continue  # solo pasa en el paseo aleatorio (rango asiático nulo); en dato real no
         filas.append((s, d, pts, pts / (top - bot)))
     return pd.DataFrame(filas, columns=["ses", "dir", "pts", "u"])
 
