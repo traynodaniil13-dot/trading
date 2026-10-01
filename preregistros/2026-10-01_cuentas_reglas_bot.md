@@ -25,3 +25,8 @@ Micros 1-6. 3.000 cuentas simuladas por celda, secuencias por bloques.
 Política de retiro: solicitar solo cuando el importe llegue a X ∈ {500, 750, 1000}
 (25K) y {500, 1000, 1500, 2000} (50K). MLL intradía. 4.000 cuentas por celda.
 Script: `scripts/cuentas_umbral_retiro.py`.
+
+## Añadido 2 (01/10): negocio de 12 meses con copiador
+Dato del usuario: copiador permitido, máx. 5 fondeadas a la vez (10 cuentas total).
+Todas las cuentas operan la misma secuencia diaria. K ∈ {1, 2, 3, 5} evaluaciones
+vivas a la vez, 250 sesiones, 2.000 años simulados. Script: `scripts/negocio_12m.py`.
