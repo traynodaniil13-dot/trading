@@ -1,0 +1,36 @@
+nulo semilla 0: máx |favor−50%| 0.500
+nulo semilla 1: máx |favor−50%| 0.062
+nulo semilla 2: máx |favor−50%| 0.167
+nulo semilla 3: máx |favor−50%| 0.500
+nulo semilla 4: máx |favor−50%| 0.500
+nulo semilla 5: máx |favor−50%| 0.090
+
+nulo: máx |favor−50%| media 0.303 ± 0.218 → umbral 0.662
+
+              premisa    k   n  favor  largos  cortos  sin_resolver     p   dev  mismo_lado  PASA
+ L6 tarde 12:30-15:30 0.40 138  0.413   0.403   0.423         0.814 0.050 0.087        True False
+ L6 tarde 12:30-15:30 0.15 582  0.464   0.480   0.445         0.214 0.089 0.036        True False
+        L2 dato 10:00 0.25 728  0.532   0.543   0.520         0.015 0.095 0.032        True False
+L7 reversión mediodía 0.15 730  0.473   0.491   0.456         0.014 0.149 0.027        True False
+        L2 dato 10:00 0.15 738  0.524   0.528   0.521         0.001 0.198 0.024        True False
+    L4 vuelta al VWAP 0.25 267  0.461   0.444   0.477         0.053 0.221 0.039        True False
+    L5 número redondo 0.25 488  0.475   0.494   0.458         0.039 0.298 0.025        True False
+L7 reversión mediodía 0.25 667  0.480   0.506   0.455         0.099 0.314 0.020       False False
+      L8 cerrar hueco 0.40 707  0.519   0.529   0.511         0.043 0.328 0.019        True False
+        L1 dato 08:30 0.25 739  0.483   0.507   0.460         0.001 0.377 0.017       False False
+    L4 vuelta al VWAP 0.15 279  0.473   0.486   0.460         0.011 0.402 0.027        True False
+    L4 vuelta al VWAP 0.40 226  0.473   0.474   0.473         0.199 0.464 0.027        True False
+        L1 dato 08:30 0.40 705  0.487   0.491   0.482         0.047 0.498 0.013        True False
+        L2 dato 10:00 0.40 662  0.514   0.519   0.508         0.104 0.509 0.014        True False
+ L6 tarde 12:30-15:30 0.25 335  0.484   0.492   0.475         0.547 0.585 0.016        True False
+    L5 número redondo 0.40 432  0.514   0.566   0.470         0.150 0.597 0.014       False False
+      L8 cerrar hueco 0.25 733  0.510   0.520   0.502         0.008 0.605 0.010        True False
+L7 reversión mediodía 0.40 541  0.512   0.531   0.493         0.269 0.606 0.012       False False
+      L3 vela gigante 0.15 238  0.483   0.471   0.490         0.012 0.650 0.017        True False
+    L5 número redondo 0.15 503  0.489   0.518   0.461         0.010 0.656 0.011       False False
+      L8 cerrar hueco 0.15 739  0.493   0.503   0.484         0.000 0.713 0.007       False False
+      L3 vela gigante 0.25 212  0.486   0.474   0.493         0.120 0.731 0.014        True False
+        L1 dato 08:30 0.15 740  0.504   0.526   0.483         0.000 0.854 0.004       False False
+      L3 vela gigante 0.40 167  0.491   0.485   0.495         0.307 0.877 0.009        True False
+
+PASAN: ninguna

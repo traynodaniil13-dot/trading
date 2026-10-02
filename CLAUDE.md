@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.563 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.587 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -438,6 +438,14 @@ desde el cierre de la barra (reversión). SMT: 53,1 / 52,9 / 51,7% a favor (p 0,
 largos 48-49% (por debajo de 50) y cortos 54-57%. Sin SMT: 48-51%. No cumple (largos < 50%,
 p > 0,0167). Única hipótesis para el futuro: cortos tras rotura del máximo con SMT (57%,
 n=189), sin valor por sí sola. `resultados/2026-10-02_smt_nq_es_premisa.txt`.
+
+### Lote 3 de premisas, solo TP-vs-SL (02/10, pre-registrado, 24 celdas, diseño 21/23/25) — NINGUNA
+`preregistros/2026-10-02_premisas_lote3_barreras.md`. Barreras simétricas ±0,15/0,25/0,40%.
+Mínimo p = 0,050 (umbral 0,0021). Lo más cercano: L2 dato 10:00 (continuación de 10:00-10:04)
+53,2% a ±0,25% (largos 54,3 / cortos 52,0, p 0,095); L6 tarde 12:30-15:30 al revés (reversión
+54-59%, n pequeño). Dato 08:30, vela gigante, VWAP, número redondo, mediodía, hueco: 47-52%.
+El nulo de paseo aleatorio salió degenerado (celdas con n mínimo dan 50%): irrelevante, nada
+pasa ni el Bonferroni. `resultados/2026-10-02_premisas_lote3_barreras.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
