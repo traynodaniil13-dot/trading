@@ -160,6 +160,8 @@ def cargar_cfd(rutas=None, verbose: bool = True) -> pd.DataFrame:
     df = pd.DataFrame({k: (raw[f"{n}_bid"] + raw[f"{n}_ask"]).to_numpy() / 2
                        for k, n in (("o", "open"), ("h", "high"), ("l", "low"), ("c", "close"))},
                       index=pd.DatetimeIndex(ts, name="ts"))
+    if "volume_bid" in raw.columns:  # volumen de ticks de Dukascopy (relativo, no contratos)
+        df["v"] = (raw["volume_bid"] + raw["volume_ask"]).to_numpy()
     df["h"] = df[["o", "h", "c"]].max(axis=1)
     df["l"] = df[["o", "l", "c"]].min(axis=1)
     df = df.sort_index()
