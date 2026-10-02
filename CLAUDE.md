@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.587 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.605 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -446,6 +446,14 @@ Mínimo p = 0,050 (umbral 0,0021). Lo más cercano: L2 dato 10:00 (continuación
 54-59%, n pequeño). Dato 08:30, vela gigante, VWAP, número redondo, mediodía, hueco: 47-52%.
 El nulo de paseo aleatorio salió degenerado (celdas con n mínimo dan 50%): irrelevante, nada
 pasa ni el Bonferroni. `resultados/2026-10-02_premisas_lote3_barreras.txt`.
+
+### Lote 4 de premisas, contexto de días previos, TP-vs-SL (02/10, pre-registrado, 18 celdas) — NINGUNA
+`preregistros/2026-10-02_premisas_lote4_barreras.md`. 3 días seguidos (reversión), día previo
+enorme, 1ª vela 5m con cuerpo (53%), apertura fuera del rango previo, lunes: 43-53%. Pista:
+rotura de inside day 57-62% en los 3 k y ambas direcciones (n≈60, p 0,09). **Validación
+2022/24/26 (uso nº6, pre-registrada): ±0,40% → 51,0% (25/49), p=0,50 → NO PASA. Muerta.**
+Contabilidad del protocolo: uso nº6 gastado (el siguiente, p < 0,05/7).
+`resultados/2026-10-02_premisas_lote4_barreras.txt` · `..._validacion_inside_day.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

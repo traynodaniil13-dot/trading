@@ -1,0 +1,3 @@
+[PRINCIPAL] ±0.4%: a favor 25/49 = 51.0% · largos 50.0% · cortos 52.2% · p=0.500 -> NO PASA
+[info] ±0.15%: a favor 29/51 = 56.9% · largos 51.9% · cortos 62.5% · p=0.201
+[info] ±0.25%: a favor 27/51 = 52.9% · largos 51.9% · cortos 54.2% · p=0.390
