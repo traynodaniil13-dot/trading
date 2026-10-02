@@ -1,0 +1,11 @@
+eventos: 612 · con SMT 358 (58%) · sin SMT 254
+
+--- barreras ±0.2% ---
+  SMT     : a favor 53.1% de 356 resueltas (sin resolver 1%) p=0.133 · {'largos': '48.5% (n=167)', 'cortos': '57.1% (n=189)'}
+  sin SMT : a favor 50.8% de 252 resueltas (sin resolver 1%) p=0.425 · {'largos': '49.5% (n=93)', 'cortos': '51.6% (n=159)'}
+--- barreras ±0.3% ---
+  SMT     : a favor 52.9% de 346 resueltas (sin resolver 3%) p=0.154 · {'largos': '47.8% (n=161)', 'cortos': '57.3% (n=185)'}
+  sin SMT : a favor 48.8% de 250 resueltas (sin resolver 2%) p=0.671 · {'largos': '56.5% (n=92)', 'cortos': '44.3% (n=158)'}
+--- barreras ±0.4% ---
+  SMT     : a favor 51.7% de 319 resueltas (sin resolver 11%) p=0.288 · {'largos': '48.7% (n=154)', 'cortos': '54.5% (n=165)'}
+  sin SMT : a favor 47.9% de 238 resueltas (sin resolver 6%) p=0.762 · {'largos': '48.9% (n=88)', 'cortos': '47.3% (n=150)'}

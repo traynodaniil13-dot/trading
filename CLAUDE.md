@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.560 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.563 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -430,6 +430,14 @@ celda +0,058R (t 1,53); máximo del paseo aleatorio +0,072 ± 0,019 (t 1,94): la
 está a −0,72σ DEBAJO del nulo. R medio de la rejilla −0,028 (nulo −0,038). Ninguna hora
 ni modo positivo en media. La apertura europea en NQ se comporta como un paseo aleatorio:
 no hay "Momento de Londres". `resultados/2026-10-02_rejilla_londres_diseno.txt`.
+
+### Premisa SMT NQ-ES (02/10, pre-registrada, diseño CFD 21/23/25) — NO PASA
+`preregistros/2026-10-02_smt_nq_es_premisa.md`. Primera rotura del máximo/mínimo overnight
+de NQ en 09:30-11:00; SMT = ES no lo rompe. Carrera a barreras simétricas ±0,2/0,3/0,4%
+desde el cierre de la barra (reversión). SMT: 53,1 / 52,9 / 51,7% a favor (p 0,13-0,29),
+largos 48-49% (por debajo de 50) y cortos 54-57%. Sin SMT: 48-51%. No cumple (largos < 50%,
+p > 0,0167). Única hipótesis para el futuro: cortos tras rotura del máximo con SMT (57%,
+n=189), sin valor por sí sola. `resultados/2026-10-02_smt_nq_es_premisa.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
