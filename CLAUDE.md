@@ -554,6 +554,14 @@ p=0,83 · 1ª hora COMEX +1,2 bps p=0,43 · sesgo asiático (exceso sobre deriva
 **Oro intradía 2011-2026: 10 premisas simples, cero vivas.** Validación sin gastar.
 Contador: 1.145 variantes.
 
+### VIX y sorpresa macro (02/10, diseño 2021/23/25) — ninguna pasa
+`preregistros/2026-10-02_vix_macro.md`. Primer lote con información que no sale
+del precio. Datos nuevos: `data/vix_diario.csv.gz` (CBOE vía github) y
+`data/macro_usd.csv.gz` (Forex Factory: real y consenso, 2020-2026, hora NY).
+Momento con VIX alto +0,116R / bajo +0,096R (nada) · salto de VIX >10% → +22 bps
+p=0,16, todo abril 2025 · dato fuerte/flojo a las 08:30 → +8,5 bps p=0,45 (n=103)
+· sorpresa grande n=17, sin potencia. Contador: 1.149 variantes.
+
 ### La familia "barrida de un nivel + confirmación" está cerrada
 
 Seis intentos: David Sánchez, Santiago Amado, Judas Swing, Aleix Andreu, LIT y el
