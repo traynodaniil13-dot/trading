@@ -1,0 +1,12 @@
+operaciones 606 (74% de los días) · riesgo mediano 33.1 pts · cortos 50%
+1:1.0  n=606 winrate=48.2% R=-0.078 p1c=0.977 | años {2021: -0.114, 2023: -0.02, 2025: -0.097} | invertida +0.012 | paseo -0.037 -> no
+1:1.5  n=606 winrate=41.4% R=-0.068 p1c=0.930 | años {2021: -0.164, 2023: -0.017, 2025: -0.011} | invertida +0.040 | paseo -0.039 -> no
+1:2.0  n=606 winrate=37.6% R=-0.059 p1c=0.875 | años {2021: -0.117, 2023: -0.028, 2025: -0.028} | invertida +0.007 | paseo -0.042 -> no
+
+ventaja  riesgo eval $  pasan/10  cobran/10  EV/cuenta $ tandas de 10 en pérdidas
+   cero           1000       2.7        1.1           77                      32%
+   cero            500       2.5        0.7           -2                      46%
+   cero            250       2.8        0.1          -79                      91%
+ +0,10R           1000       3.2        1.6          339                      18%
+ +0,10R            500       3.8        2.2          512                       8%
+ +0,10R            250       5.9        3.7          605                       1%

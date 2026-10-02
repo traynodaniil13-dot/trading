@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.105 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.108 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -467,6 +467,15 @@ paseo aleatorio con deriva.
   intento de la familia barrida + confirmación: cero, como dice la premisa.
   Los 6 años (informativo, no es una validación): 974 ops, winrate 49,5% a 1:1,
   R −0,039 (1:1) · −0,017 (1:1,5) · −0,001 (1:2); máximo anual 53,5% de winrate.
+- **Aleix Andreu, DOL + FVG 15m + IFVG 1m ("mejor estrategia 2026", 02/10,
+  pre-registrado, diseño CFD 21/23/25):** sesgo = último FVG de 15 min vivo a las
+  09:30, retroceso a la zona, IFVG de 1 min a favor, stop en el extremo. 606 ops
+  (74% de días): 1:1 −0,078 · 1:1,5 −0,068 (wr 41,4%) · 1:2 −0,059, los 3 años
+  negativos, invertidas ≈ 0, todo por debajo del paseo aleatorio (−0,04). Su gestión
+  ($1.000 de riesgo sobre MLL $2.000 en 50K) es justo el sizing ÓPTIMO PARA UNA
+  MONEDA AL AIRE: con ventaja cero es el que mejor EV da (+$77 vs −$2 a $500); con
+  ventaja +0,10R es el peor (+$339 vs +$605 a $250). Maximiza varianza: tiene sentido
+  solo si no tienes ventaja. `resultados/2026-10-02_aleix_dol_fvg_ifvg.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
