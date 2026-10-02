@@ -380,10 +380,12 @@ peor que la base en diseño. Se mantiene el stop del 0,40%.
 **Comparación de cuentas (29/09, `scripts/comparar_cuentas.py`, stop 116 pts =
 NQ ~29.000, ventaja realista +0,05R):** 25K ($50,30) con 1 micro → 4,1/10 pasan,
 1,8/10 cobran, EV +$81/cuenta, 24% de tandas de 10 en pérdidas; 2+ micros en la
-25K es mala idea (EV ≤ +$18). **50K ($90,20) con 2 micros → 3,7/10, 1,7/10, EV
-+$175, 16% de tandas en pérdidas: la mejor**, PERO las reglas de la fondeada de
-50K están ESCALADAS desde la 25K (supuesto, falta captura de "Funded Rules").
-100K: peor por dólar invertido. Con ventaja cero: 25K 1 micro +$42, 50K 2 micros +$67.
+25K es mala idea (EV ≤ +$18). 50K ($90,20) con 2 micros → 3,7/10, 1,9/10, EV
++$148, 28% de tandas en pérdidas (**02/10, corregido el retiro mínimo de la 50K a
+$500 según soporte; antes se suponía $1.000 y daba +$175**). Por dólar invertido
+25K 1 micro (1,61) ≈ 50K 2 micros (1,64): empate; la 25K es más barata y con
+menos tandas en pérdidas. `resultados/2026-10-02_comparar_cuentas.txt`.
+100K: peor por dólar invertido. Con ventaja cero: 25K 1 micro +$42, 50K 2 micros +$54.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
@@ -501,8 +503,16 @@ Fondeada: MLL $1.000, **DLL $600**, sin consistencia, 2 mini o 20 micros,
 **5 días para retiro**, plan de escalado sí (el tope de 10 micros hasta +$1.000
 de abajo sería ese escalado; sin confirmar). 50K Flex: $90,20, objetivo $3.000,
 MLL $2.000, 40 micros. 100K Flex: $170,60, objetivo $6.000, MLL $3.000, 60 micros.
-Sin verificar todavía: importe mínimo/máximo de cada retiro y el suelo del MLL
-tras solicitar (se usan los valores de abajo).
+**Soporte de Lucid (chat con su IA, 01-02/10, sin enlaces a artículos):** MLL con
+nivel fijado al cierre EOD pero **el breach es intradía sobre equity abierta** (tocarlo
+quema aunque cierres por encima) · retiro mínimo $500 en 25K Y en 50K, máximo $1.000
+(25K) / $2.000 (50K), hasta 50% del beneficio por ciclo · al SOLICITAR el retiro el
+MLL se fija en inicial+$100 · **5 retiros por cuenta y luego pasa a cuenta LIVE** (no
+"revisión manual") · topes 20 micros (25K) / 40 (50K), sin mencionar escalado ·
+DLL en fondeada "opcional" (contradice el $600 del panel: comprobar en el panel).
+Sin respuesta: cálculo exacto de la consistencia, nº de cuentas por persona, copy
+trading entre cuentas propias, estrategias/horarios restringidos, cuotas de la
+fondeada. Es un bot: lo que no salga en el panel o en un artículo, no es firme.
 
 - **MLL trailing**: sube solo con el cierre EOD del balance. Se congela al llegar
   a +$1.100 de colchón (queda fijo en inicial+$1.000+$100).
@@ -515,7 +525,7 @@ tras solicitar (se usan los valores de abajo).
 - Retiro: mínimo $500, máximo 50% del beneficio (tope $1.000) por solicitud.
   Requiere 5 días con ≥$100 netos en el ciclo y beneficio neto del ciclo > 0.
   **Al SOLICITAR el retiro** (no al cobrarlo) el suelo del MLL salta a +$100.
-  Reparto 90/10. Máximo 5 retiros antes de revisión manual.
+  Reparto 90/10. Máximo 5 retiros; después la cuenta pasa a LIVE (soporte, 02/10).
 
 ### Números del negocio
 

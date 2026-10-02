@@ -16,7 +16,7 @@ pts = np.full(len(o), 116.0); r0 = motor.r_neta(o, 2.0)
 CUENTAS = {
     "25K  ($50,30)": (50.30, K.Reglas()),
     "50K  ($90,20)": (90.20, K.Reglas(inicial=50_000, dd=2_000, objetivo=3_000, tope_eval=40, tope_fund_ini=20, tope_fund=40,
-                                      umbral_tope=2_000, pago_min=1_000, pago_max=2_000, dia_min=200)),
+                                      umbral_tope=2_000, pago_min=500, pago_max=2_000, dia_min=200)),
     "100K ($170,60)": (170.60, K.Reglas(inicial=100_000, dd=3_000, objetivo=6_000, tope_eval=60, tope_fund_ini=30, tope_fund=60,
                                         umbral_tope=3_000, pago_min=1_500, pago_max=3_000, dia_min=300)),
 }
@@ -36,4 +36,4 @@ t = pd.DataFrame(filas); pd.set_option("display.width", 200)
 print(t[t.ventaja == "realista +0,05R"].drop(columns="ventaja").to_string(index=False))
 print("\n--- mismo con ventaja CERO (referencia) ---")
 print(t[t.ventaja == "cero"].drop(columns="ventaja").to_string(index=False))
-t.to_csv("resultados/2026-09-29_comparar_cuentas.csv", index=False)
+t.to_csv("resultados/2026-10-02_comparar_cuentas.csv", index=False)

@@ -10,7 +10,7 @@ for a in (2021, 2023, 2025):
 o = pd.concat(ops, ignore_index=True); mae = np.concatenate(mae)
 pts = o.riesgo_pts.to_numpy(); r0 = motor.r_neta(o, 1.5)
 R50 = K.Reglas(inicial=50_000, dd=2_000, objetivo=3_000, tope_eval=40, tope_fund_ini=20, tope_fund=40,
-               umbral_tope=2_000, pago_min=1_000, pago_max=2_000, dia_min=200)
+               umbral_tope=2_000, pago_min=500, pago_max=2_000, dia_min=200)
 filas = []
 for esc, obj in (("cero", 0.0), ("+0,10R", 0.10)):
     r = r0 - (r0.mean() - obj)
