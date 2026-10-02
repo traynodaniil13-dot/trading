@@ -475,8 +475,8 @@ paseo aleatorio con deriva.
   (74% de días): 1:1 −0,078 · 1:1,5 −0,068 (wr 41,4%) · 1:2 −0,059, los 3 años
   negativos, invertidas ≈ 0, todo por debajo del paseo aleatorio (−0,04). Su gestión
   ($1.000 de riesgo sobre MLL $2.000 en 50K) es justo el sizing ÓPTIMO PARA UNA
-  MONEDA AL AIRE: con ventaja cero es el que mejor EV da (+$77 vs −$2 a $500); con
-  ventaja +0,10R es el peor (+$339 vs +$605 a $250). Maximiza varianza: tiene sentido
+  MONEDA AL AIRE: con ventaja cero es el que mejor EV da (+$83 vs +$4 a $500); con
+  ventaja +0,10R es el peor (+$325 vs +$490 a $250). Maximiza varianza: tiene sentido
   solo si no tienes ventaja. `resultados/2026-10-02_aleix_dol_fvg_ifvg.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
