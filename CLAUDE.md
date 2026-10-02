@@ -547,6 +547,13 @@ La divergencia entre índices no predice dirección. Contador: 1.140 variantes.
 −3,3 pts, al revés del paper), ahora en ES, el instrumento del paper: **−0,22 pts,
 p=0,73, 2/6 años, z −0,72.** Muerta en los dos índices. Contador: 1.141 variantes.
 
+### Oro lote 2 (02/10, diseño 2019/21/23/25, en bps) — ninguna pasa
+`preregistros/2026-10-02_oro_lote2.md`, umbral p<0,0125. Londres→NY +0,4 bps
+p=0,83 · 1ª hora COMEX +1,2 bps p=0,43 · sesgo asiático (exceso sobre deriva)
++2,0 bps p=0,11, 3/4 años · reversión tras día >2% −7 bps p=0,73 (n=41).
+**Oro intradía 2011-2026: 10 premisas simples, cero vivas.** Validación sin gastar.
+Contador: 1.145 variantes.
+
 ### La familia "barrida de un nivel + confirmación" está cerrada
 
 Seis intentos: David Sánchez, Santiago Amado, Judas Swing, Aleix Andreu, LIT y el
