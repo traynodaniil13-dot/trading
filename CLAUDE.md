@@ -542,6 +542,11 @@ barreras simétricas ±0,15/0,30% en NQ. **Overnight: 50,1% y 50,6% (nulo ~50%,
 n≈630). PDH/PDL: 40-42% (va al REVÉS, z −2,16, n=105)**, sin llegar a nada.
 La divergencia entre índices no predice dirección. Contador: 1.140 variantes.
 
+### Momentum intradía Gao-Han-Li-Zhou en ES (02/10, congelado, 2021-2026) — MUERTA
+`preregistros/2026-10-02_ghlz_es.md`. Misma regla que la P1 del lote 1 (en NQ dio
+−3,3 pts, al revés del paper), ahora en ES, el instrumento del paper: **−0,22 pts,
+p=0,73, 2/6 años, z −0,72.** Muerta en los dos índices. Contador: 1.141 variantes.
+
 ### La familia "barrida de un nivel + confirmación" está cerrada
 
 Seis intentos: David Sánchez, Santiago Amado, Judas Swing, Aleix Andreu, LIT y el
