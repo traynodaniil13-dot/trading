@@ -65,7 +65,7 @@ def eventos(b, anio):
             if d == 0:
                 continue
             tramo = rest[rest > j]
-            filas.append(dict(p=p, dir=int(d), **{k: carrera(h, l, c, j, tramo, int(d), k) for k in KS}))
+            fila = {"p": p, "dir": int(d)}; fila.update({k: carrera(h, l, c, j, tramo, int(d), k) for k in KS}); filas.append(fila)
     return pd.DataFrame(filas)
 
 
