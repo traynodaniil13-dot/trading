@@ -363,6 +363,13 @@ sin gastar. A favor del día previo +0,167R (wr 44,0%) y a favor del gap +0,149R
 (wr 43,3%) mejoran la base (+0,104R, 41,9%) pero NO superan el percentil 95 de
 subconjuntos al azar del mismo tamaño (+0,181 y +0,190). ES de acuerdo +0,094R
 (peor que la base) e impulso fuerte +0,051R (peor). Se opera sin filtros.
+**4 filtros de NIVELES pre-registrados (02/10, diseño 21/23/25, idea de Daniil):
+ninguno pasa**, validación sin gastar (`2026-10-02_filtros_niveles_momento.md`).
+Camino libre hasta el objetivo (sin PDH/PDL/ONH/ONL en medio) +0,100R · ya rompió
+PDH/PDL +0,065R · en el tercio del rango overnight a favor +0,136R (wr 43,3%, 57%
+de las ops, 3/3 años, pero p95 del azar +0,177) · barrida de PDH/PDL en contra
++0,022R. N1 y N2 se dan la vuelta en 2025. **Ocho filtros probados, ninguno
+supera a quedarse con las mismas ops al azar.** Contador: 1.124 variantes.
 **Pruebas duras II (29/09, pre-registradas): pasa 8/9.** Premisa desnuda con
 barreras simétricas 53,4% largos / 51,9% cortos · quitando cualquier año
 +0,088/+0,105 · 11/12 semestres positivos (solo 2024-S1 −0,07) · volatilidad

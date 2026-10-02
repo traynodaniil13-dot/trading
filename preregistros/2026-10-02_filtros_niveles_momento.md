@@ -39,3 +39,10 @@ R filtrada > 0 con p < 0,01 (una cola), R filtrada > R base, winrate > base, y
 R filtrada > percentil 95 de subconjuntos al azar.
 
 Contador: 4 variantes → 1.124.
+
+## Resultado DISEÑO (02/10): NINGUNO PASA → se cierra, validación sin gastar
+Base +0,104R (n=739, wr 41,9%). N1 camino libre +0,100 (24%, p95 azar +0,261,
+2025 −0,117) · N2 rango previo roto +0,065 (26%, 2025 −0,125) · N3 tercio
+overnight +0,136 (57%, wr 43,3%, p95 azar +0,177, 3/3 años) · N4 barrida en
+contra +0,022 (27%). Niveles comprobados a mano (14/06/2023).
+`resultados/2026-10-02_filtros_niveles_momento_diseno.txt`.
