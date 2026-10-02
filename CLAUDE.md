@@ -465,6 +465,8 @@ paseo aleatorio con deriva.
   todo al nivel del paseo aleatorio. Su propio vídeo: 16 ops, 64,7% real, un día
   perdedor saltado y cambio de temporalidad hasta ver el gap "limpio". Séptimo
   intento de la familia barrida + confirmación: cero, como dice la premisa.
+  Los 6 años (informativo, no es una validación): 974 ops, winrate 49,5% a 1:1,
+  R −0,039 (1:1) · −0,017 (1:1,5) · −0,001 (1:2); máximo anual 53,5% de winrate.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
