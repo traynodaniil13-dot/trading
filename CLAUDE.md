@@ -525,6 +525,16 @@ paseo aleatorio con deriva.
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
 
+### EUR/USD · premisa barrida (02/10, diseño 2011/13/15/17) — CERO
+`preregistros/2026-10-02_eurusd_premisa_barrida.md`. Rejuicio de la familia en el
+instrumento de sus autores (pendiente nº7). Niveles Asia (19:00-02:59 NY) y
+PDH/PDL intactos; ventana 03:00-10:59; "rompe" y "rompe y cierra dentro";
+barreras simétricas ±5/10/20 pips desde el cierre de la barra de barrida.
+**12/12 celdas entre 46,4% y 50,7% de reversión, todas en o bajo su nulo
+(z −1,56 a +0,25).** La barrida tampoco predice nada en EUR/USD. **David Sánchez
+y LIT muertas en su instrumento.** 2T: sus reglas no están en el repo (pedírselas).
+Contador: 1.136 variantes.
+
 ### La familia "barrida de un nivel + confirmación" está cerrada
 
 Seis intentos: David Sánchez, Santiago Amado, Judas Swing, Aleix Andreu, LIT y el

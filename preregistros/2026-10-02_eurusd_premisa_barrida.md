@@ -48,3 +48,11 @@ Si sale una reversión MENOR que el nulo de forma significativa (continuación),
 reporta, pero no cuenta como pase: sería otra premisa, a pre-registrar aparte.
 
 Contador: 12 variantes → 1.136.
+
+## Resultado DISEÑO (02/10): NINGUNA PASA — la premisa es cero en EUR/USD
+12/12 celdas entre 46,4% y 50,7% de reversión, todas en o por debajo de su nulo
+(z de −1,56 a +0,25). Ningún lado de ninguna celda pasa del 53%. Si acaso, leve
+continuación (como el paseo aleatorio, regla N). Evento comprobado a mano
+(12/04/2013, barrida del mínimo asiático 03:04, sigue bajando: continuación).
+**David Sánchez y LIT quedan muertas también en EUR/USD.** Validación sin gastar.
+`resultados/2026-10-02_eurusd_premisa_barrida_diseno.txt`.
