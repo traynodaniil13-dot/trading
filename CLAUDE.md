@@ -535,6 +535,13 @@ barreras simétricas ±5/10/20 pips desde el cierre de la barra de barrida.
 y LIT muertas en su instrumento.** 2T: sus reglas no están en el repo (pedírselas).
 Contador: 1.136 variantes.
 
+### SMT NQ-ES (02/10, diseño 2021/23/25 CFD) — MUERTA
+`preregistros/2026-10-02_smt_nq_es.md`. Premisa desnuda: en 09:30-10:59 un índice
+rompe su máx/mín overnight (o PDH/PDL) y el otro no → dirección de la divergencia,
+barreras simétricas ±0,15/0,30% en NQ. **Overnight: 50,1% y 50,6% (nulo ~50%,
+n≈630). PDH/PDL: 40-42% (va al REVÉS, z −2,16, n=105)**, sin llegar a nada.
+La divergencia entre índices no predice dirección. Contador: 1.140 variantes.
+
 ### La familia "barrida de un nivel + confirmación" está cerrada
 
 Seis intentos: David Sánchez, Santiago Amado, Judas Swing, Aleix Andreu, LIT y el
@@ -629,7 +636,7 @@ por Lucid). EV recalculado: `resultados/2026-10-01_cuentas_reglas_bot.txt`.
    decide el sizing.
 7. EUR/USD M1 para juzgar a David Sánchez, 2T y LIT en el instrumento de sus
    autores. En NQ esa familia ya está agotada.
-8. Dataset de ES 1 minuto para el SMT NQ-ES.
+8. ~~SMT NQ-ES~~ hecho (02/10): muerta.
 
 ### Dónde buscar, por relación entre lo que cuesta y lo que puede dar
 
