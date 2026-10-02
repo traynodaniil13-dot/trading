@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.102 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.105 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -459,6 +459,12 @@ paseo aleatorio con deriva.
   diferencia a +2,50σ). Quita operaciones malas, no crea buenas.
 - **Híbrido Judas+RTP** (informe externo, 26/09): 20 celdas negativas, placebo a
   −0,48σ. Y con él cae la familia entera por la vía de la premisa (regla N).
+- **Barrida overnight + IFVG 09:30-10:10 ("80% winrate", vídeo de Fede, 02/10,
+  pre-registrado, diseño CFD 21/23/25):** 503 ops (62% de días), winrate 48,9% a
+  1:1 · R −0,050 (1:1) · −0,050 (1:1,5) · −0,021 (1:2), invertidas negativas,
+  todo al nivel del paseo aleatorio. Su propio vídeo: 16 ops, 64,7% real, un día
+  perdedor saltado y cambio de temporalidad hasta ver el gap "limpio". Séptimo
+  intento de la familia barrida + confirmación: cero, como dice la premisa.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
