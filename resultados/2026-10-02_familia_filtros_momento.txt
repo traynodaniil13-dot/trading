@@ -1,0 +1,23 @@
+[diseno] BASE n=648 R=+0.108 wr=42.1%
+
+                                          variante   n frac      R    wr min_anio
+      F10 a favor de la apertura 09:30 · NO cumple  74  11% +0.312 47.3%   +0.088
+                F13 1ª vela 5m a favor · NO cumple 143  22% +0.250 47.6%   +0.072
+                   F15 barra 08:30 amplia · cumple 330  51% +0.215 44.8%   +0.180
+       F12 a favor de la media de 20 días · cumple 351  54% +0.172 45.0%   +0.107
+F14 cierre 09:39 en el extremo a favor · NO cumple 289  45% +0.156 43.6%   +0.078
+                       F8 apertura amplia · cumple 305  47% +0.137 42.0%   +0.104
+  F11 a favor del medio del día previo · NO cumple 281  43% +0.128 42.7%   +0.081
+                      F9 a favor del VWAP · cumple 471  73% +0.123 42.9%   +0.060
+                      F7 overnight amplio · cumple 296  46% +0.123 41.6%   -0.026
+                   F7 overnight amplio · NO cumple 352  54% +0.095 42.6%   +0.016
+     F11 a favor del medio del día previo · cumple 367  57% +0.092 41.7%   +0.083
+         F10 a favor de la apertura 09:30 · cumple 574  89% +0.081 41.5%   +0.034
+                    F8 apertura amplia · NO cumple 343  53% +0.081 42.3%   +0.019
+   F14 cierre 09:39 en el extremo a favor · cumple 359  55% +0.069 40.9%   +0.034
+                   F13 1ª vela 5m a favor · cumple 505  78% +0.067 40.6%   +0.018
+                   F9 a favor del VWAP · NO cumple 177  27% +0.066 40.1%   -0.069
+    F12 a favor de la media de 20 días · NO cumple 297  46% +0.031 38.7%   -0.055
+                F15 barra 08:30 amplia · NO cumple 318  49% -0.004 39.3%   -0.028
+
+Mejor: F10 a favor de la apertura 09:30 · NO cumple R=+0.312 · máximo del nulo: media +0.234, p95 +0.362 · p familia=0.106 -> NO PASA

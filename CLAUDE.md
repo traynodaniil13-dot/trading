@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.110 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.128 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -369,6 +369,13 @@ la base (+0,105); terciles no monótonos (+0,02 · +0,26 · +0,04). F6 volumen 0
 alto: +0,151R pero < p95 al azar (+0,195); terciles monótonos pero suaves (+0,08 · +0,09 ·
 +0,14) y el winrate NO cambia (42%): solo como pista débil. Van 6 filtros, cero pasan.
 `resultados/2026-10-02_filtros_limpieza_volumen.txt`.
+**Familia de 9 filtros / 18 variantes (02/10, pre-registrada, diseño): NO PASA.** Mejor
+"no a favor de la apertura 09:30" +0,312R (n=74, 11%) vs máximo del nulo p95 +0,362 (p
+familia 0,11). Pistas sin valor operativo (por debajo del máximo del nulo): barra 08:30
+amplia +0,215 vs −0,004 · a favor de la media de 20 días +0,172 vs +0,031. Bug propio
+cazado antes de leer: rolling con min_periods completos tiraba ~50% de días (cierres
+anticipados). Van 24 variantes de filtro sobre Momento, cero pasan: se opera sin filtro.
+`resultados/2026-10-02_familia_filtros_momento.txt`.
 **Pruebas duras II (29/09, pre-registradas): pasa 8/9.** Premisa desnuda con
 barreras simétricas 53,4% largos / 51,9% cortos · quitando cualquier año
 +0,088/+0,105 · 11/12 semestres positivos (solo 2024-S1 −0,07) · volatilidad
