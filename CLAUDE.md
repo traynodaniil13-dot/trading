@@ -399,6 +399,14 @@ $500 según soporte; antes se suponía $1.000 y daba +$175**). Por dólar invert
 25K 1 micro (1,61) ≈ 50K 2 micros (1,64): empate; la 25K es más barata y con
 menos tandas en pérdidas. `resultados/2026-10-02_comparar_cuentas.txt`.
 100K: peor por dólar invertido. Con ventaja cero: 25K 1 micro +$42, 50K 2 micros +$54.
+**Rejilla de gestión (02/10, pre-registrada, 175 celdas: stop 0,30-0,80% × ratio 1-3 ×
+micros; elegir en 21/23/25, comprobar en 22/24/26):** la gestión actual **0,40% · 1:2 · 1
+micro en 25K** es la nº1 en tasa de pase (5,2/10 diseño · 5,5/10 control) y la nº2 en EV
+de control (+$183; diseño +$157). La mejor de diseño (0,30% · 1:1,5 · 1 micro, +$189) es
+peor en control (+$178) → NO se cambia. 2 micros con stop 0,80% y TP 1,60% (idea de Daniil):
+2,2-2,6/10 pasan, EV +$5/+$22. En 50K la rejilla depende del supuesto "día ≥$200" de la
+fondeada (sin verificar): no se saca conclusión. Ventaja histórica (realista: menos).
+`resultados/2026-10-02_rejilla_cuentas_momento.txt`.
 **Simulador de cuentas (`src/cuentas.py`, 27/09):** moneda al aire con coste da
 2,0-3,0/10 según stop y riesgo ($500 óptimo, $833 de lo peor: cuadra con lo de
 arriba, nivel algo más alto que el 2,09 antiguo). Con esta candidata y riesgo
