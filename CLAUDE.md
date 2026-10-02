@@ -510,7 +510,8 @@ quema aunque cierres por encima) · retiro mínimo $500 en 25K Y en 50K, máximo
 MLL se fija en inicial+$100 · **5 retiros por cuenta y luego pasa a cuenta LIVE** (no
 "revisión manual") · topes 20 micros (25K) / 40 (50K), sin mencionar escalado ·
 DLL en fondeada "opcional" (contradice el $600 del panel: comprobar en el panel).
-Sin respuesta: cálculo exacto de la consistencia, nº de cuentas por persona, copy
+**Máximo 5 cuentas fondeadas a la vez** (lo sabe Daniil, 02/10).
+Sin respuesta: cálculo exacto de la consistencia, máximo de evaluaciones, copy
 trading entre cuentas propias, estrategias/horarios restringidos, cuotas de la
 fondeada. Es un bot: lo que no salga en el panel o en un artículo, no es firme.
 
