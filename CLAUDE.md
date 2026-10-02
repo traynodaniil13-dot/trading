@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.128 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.560 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -422,6 +422,14 @@ Momento, "de acuerdo" +0,087R vs "en desacuerdo" +0,109R. **Límite clave:** el
 BVC se calcula desde el propio precio, así que coincide con la dirección de
 Momento el 85% de los días: casi no añade información. Esto NO prueba nada sobre
 el order flow real; para eso hacen falta datos tick con lado agresor (Databento).
+
+### Rejilla apertura europea (02/10, pre-registrada, 432 celdas, diseño CFD 21/23/25) — CERRADA
+`preregistros/2026-10-02_rejilla_londres.md`. Momento/reversión a T ∈ {02:10, 02:30, 03:10,
+03:30, 04:00, 05:00} NY, L 10/30/60, stop 0,10-0,40%, ratio 1-2, cierre 08:29 NY. Mejor
+celda +0,058R (t 1,53); máximo del paseo aleatorio +0,072 ± 0,019 (t 1,94): la mejor real
+está a −0,72σ DEBAJO del nulo. R medio de la rejilla −0,028 (nulo −0,038). Ninguna hora
+ni modo positivo en media. La apertura europea en NQ se comporta como un paseo aleatorio:
+no hay "Momento de Londres". `resultados/2026-10-02_rejilla_londres_diseno.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
