@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.108 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.110 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -363,6 +363,12 @@ sin gastar. A favor del día previo +0,167R (wr 44,0%) y a favor del gap +0,149R
 (wr 43,3%) mejoran la base (+0,104R, 41,9%) pero NO superan el percentil 95 de
 subconjuntos al azar del mismo tamaño (+0,181 y +0,190). ES de acuerdo +0,094R
 (peor que la base) e impulso fuerte +0,051R (peor). Se opera sin filtros.
+**2 filtros más (02/10, pre-registrados, diseño 21/23/25, idea de Daniil): ninguno pasa.**
+F5 tramo 09:09-09:39 "limpio" (eficiencia > mediana de 60 sesiones): +0,055R, PEOR que
+la base (+0,105); terciles no monótonos (+0,02 · +0,26 · +0,04). F6 volumen 09:30-09:39
+alto: +0,151R pero < p95 al azar (+0,195); terciles monótonos pero suaves (+0,08 · +0,09 ·
++0,14) y el winrate NO cambia (42%): solo como pista débil. Van 6 filtros, cero pasan.
+`resultados/2026-10-02_filtros_limpieza_volumen.txt`.
 **Pruebas duras II (29/09, pre-registradas): pasa 8/9.** Premisa desnuda con
 barreras simétricas 53,4% largos / 51,9% cortos · quitando cualquier año
 +0,088/+0,105 · 11/12 semestres positivos (solo 2024-S1 −0,07) · volatilidad

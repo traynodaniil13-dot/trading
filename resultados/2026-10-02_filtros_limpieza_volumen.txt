@@ -1,0 +1,5 @@
+BASE n=606 R=+0.105 wr=42.2%
+F5 tramo limpio: n=299 (49%) R=+0.055 wr=40.5% | resto R=+0.153 | p95 azar +0.198 | años {2021: 0.001, 2023: 0.031, 2025: 0.147} -> no pasa
+F6 volumen alto: n=291 (48%) R=+0.151 wr=42.6% | resto R=+0.062 | p95 azar +0.195 | años {2021: 0.045, 2023: 0.154, 2025: 0.239} -> no pasa
+  terciles eficiencia: bajo R=+0.020 wr=39% · medio R=+0.258 wr=47% · alto R=+0.036 wr=41%
+  terciles volumen: bajo R=+0.079 wr=42% · medio R=+0.094 wr=43% · alto R=+0.141 wr=42%
