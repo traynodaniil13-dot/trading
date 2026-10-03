@@ -1,0 +1,4 @@
+operaciones 198 (24% de los días) · riesgo mediano 26.1 pts · cortos 49%
+[PRINCIPAL] 1:2.0  n=198 wr=38.4% (TP 30% · SL 59% · cierre 11%) R=+0.009 p1c=0.462 | años {2021: 0.244, 2023: -0.224, 2025: -0.035} | invertida -0.088 | paseo -0.026 -> NO PASA
+[info] 1:1.0  n=198 wr=50.5% (TP 46% · SL 48% · cierre 6%) R=-0.045 p1c=0.743 | años {2021: 0.08, 2023: -0.016, 2025: -0.187} | invertida -0.063 | paseo -0.046
+[info] 1:1.5  n=198 wr=42.9% (TP 35% · SL 56% · cierre 9%) R=-0.032 p1c=0.647 | años {2021: 0.15, 2023: -0.124, 2025: -0.133} | invertida -0.120 | paseo -0.047

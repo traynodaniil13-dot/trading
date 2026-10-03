@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.605 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 1.608 variantes probadas. Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -531,6 +531,11 @@ paseo aleatorio con deriva.
   MONEDA AL AIRE: con ventaja cero es el que mejor EV da (+$83 vs +$4 a $500); con
   ventaja +0,10R es el peor (+$325 vs +$490 a $250). Maximiza varianza: tiene sentido
   solo si no tienes ventaja. `resultados/2026-10-02_aleix_dol_fvg_ifvg.txt`.
+- **"Regla de la primera vela" (vídeo, 03/10, pre-registrado, diseño CFD 21/23/25):** rango
+  09:30-09:34, primer FVG de 1 min con cierre fuera del rango, retroceso a la zona y
+  envolvente; stop en el extremo, 1:2. 198 ops (24% de días): 1:2 +0,009R (TP 30% · SL 59%),
+  p=0,46, años +0,24 / −0,22 / −0,04; 1:1 TP 46% vs SL 48% (R −0,045). Invertida negativa,
+  paseo −0,03. Cero, como el ORB. `resultados/2026-10-03_primera_vela_5m_fvg.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
