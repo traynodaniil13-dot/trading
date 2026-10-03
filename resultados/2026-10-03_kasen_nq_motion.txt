@@ -1,0 +1,12 @@
+
+=== CON SMT (Kasen): 292 ops (36% de los días, ~1.8/semana) · stop mediano 23 pts · objetivo estructural mediano 4.34R
+  [PRINCIPAL] 1:2.0: wr 37.0% (TP 35% · SL 63%) R=+0.053 p1c=0.265 años {2021: 0.044, 2023: -0.012, 2025: 0.149} invertida -0.119
+  [info] 1:1.0: wr 53.4% (TP 53% · SL 47%) R=+0.028 p1c=0.315 años {2021: -0.066, 2023: 0.119, 2025: 0.03} invertida -0.116
+  [info] 1:1.5: wr 43.5% (TP 43% · SL 57%) R=+0.042 p1c=0.280 años {2021: 0.011, 2023: 0.035, 2025: 0.093} invertida -0.158
+  [info] objetivo = extremo opuesto 4H: R=+0.064 wr 27.1%
+
+=== SIN SMT (control): 615 ops (76% de los días, ~3.8/semana) · stop mediano 24 pts · objetivo estructural mediano 4.91R
+  [info] 1:2.0: wr 31.9% (TP 31% · SL 68%) R=-0.090 p1c=0.946 años {2021: -0.176, 2023: -0.023, 2025: -0.072} invertida -0.001
+  [info] 1:1.0: wr 48.5% (TP 48% · SL 52%) R=-0.070 p1c=0.959 años {2021: -0.169, 2023: -0.018, 2025: -0.024} invertida -0.018
+  [info] 1:1.5: wr 39.5% (TP 39% · SL 60%) R=-0.052 p1c=0.856 años {2021: -0.132, 2023: 0.003, 2025: -0.029} invertida -0.015
+  [info] objetivo = extremo opuesto 4H: R=-0.069 wr 21.5%

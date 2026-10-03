@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.121 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.125 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -562,6 +562,13 @@ paseo aleatorio con deriva.
   envolvente; stop en el extremo, 1:2. 198 ops (24% de días): 1:2 +0,009R (TP 30% · SL 59%),
   p=0,46, años +0,24 / −0,22 / −0,04; 1:1 TP 46% vs SL 48% (R −0,045). Invertida negativa,
   paseo −0,03. Cero, como el ORB. `resultados/2026-10-03_primera_vela_5m_fvg.txt`.
+- **NQ Motion Model de Kasen (03/10, pre-registrado, diseño CFD 21/23/25):** barrida del
+  máx./mín. de la vela 4H 06:00-10:00 en 10:00-13:00 + SMT con ES + descuento/prima + IFVG
+  1m; stop en el extremo. 292 ops (1,8/semana): 1:2 +0,053R (wr 37%, p 0,27; 2021 +0,04 ·
+  2023 −0,01 · 2025 +0,15) · 1:1 53,4% · objetivo extremo opuesto 4H +0,064R. NO PASA.
+  Control sin SMT: −0,090R (615 ops). El SMT mejora +0,14R (z≈1,4, no significativo):
+  segunda vez que el SMT apunta algo débil (ver premisa SMT). Pista, no estrategia.
+  `resultados/2026-10-03_kasen_nq_motion.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
