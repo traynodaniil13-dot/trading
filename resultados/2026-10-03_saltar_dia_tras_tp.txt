@@ -1,0 +1,22 @@
+== DISEÑO 21/23/25 ==  n=739
+  P(TP | ayer TP) = 26.6% (n=199)  ·  P(TP | ayer no TP) = 27.0%
+  BASE R=+0.104 · operando solo tras no-TP: R=+0.110 (n=540) · días saltados R=+0.089 · p95 azar +0.155
+  R por año (False = se opera, True = se salta):
+s     False  True 
+a                 
+2021  0.013  0.228
+2023  0.232 -0.102
+2025  0.096  0.181
+  VEREDICTO: NO PASA
+== 6 años (informativo) ==  n=1416
+  P(TP | ayer TP) = 27.3% (n=400)  ·  P(TP | ayer no TP) = 28.7%
+  BASE R=+0.096 · operando solo tras no-TP: R=+0.118 (n=1016) · días saltados R=+0.039 · p95 azar +0.134
+  R por año (False = se opera, True = se salta):
+s     False  True 
+a                 
+2021  0.013  0.228
+2022  0.183  0.030
+2023  0.232 -0.102
+2024  0.039  0.094
+2025  0.096  0.181
+2026  0.186 -0.232

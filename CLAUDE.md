@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.120 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.121 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -376,6 +376,11 @@ amplia +0,215 vs −0,004 · a favor de la media de 20 días +0,172 vs +0,031. B
 cazado antes de leer: rolling con min_periods completos tiraba ~50% de días (cierres
 anticipados). Van 24 variantes de filtro sobre Momento, cero pasan: se opera sin filtro.
 `resultados/2026-10-02_familia_filtros_momento.txt`.
+**Saltar el día tras un TP (03/10, pre-registrado, idea de Daniil): NO PASA.** P(TP | ayer TP)
+26,6% vs P(TP | ayer no TP) 27,0% (diseño): los TP no se agrupan ni se repelen, cada día es
+independiente. Operando solo tras no-TP +0,110R vs base +0,104 (p95 azar +0,155); días saltados
++0,089 con signo cambiante por año (2021 +0,23 · 2023 −0,10 · 2025 +0,18). Saltarlos solo quita
+operaciones positivas. `resultados/2026-10-03_saltar_dia_tras_tp.txt`.
 **Pruebas duras II (29/09, pre-registradas): pasa 8/9.** Premisa desnuda con
 barreras simétricas 53,4% largos / 51,9% cortos · quitando cualquier año
 +0,088/+0,105 · 11/12 semestres positivos (solo 2024-S1 −0,07) · volatilidad
