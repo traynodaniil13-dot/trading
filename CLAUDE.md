@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 1.608 variantes probadas. Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.120 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -461,6 +461,15 @@ medidas en 2025. La mejor: 14:10 jueves, 1:2, +0,500R (wr 53%) en la búsqueda. 
 +0,344R de media en la búsqueda → **+0,011R en 2025, 52% positivas (moneda al aire)**; correlación
 búsqueda-2025 de todas las reglas: 0,00. Es el retrato de la regla I con números de este repo.
 `resultados/2026-10-03_demo_sobreajuste.txt`.
+
+### Rejilla masiva con años alternos (03/10, pre-registrada, idea de Daniil) — NINGUNA PASA
+28.512 reglas (momento/reversión a hora fija × L × stop × día de la semana, 1:2). Diseño 21/23/25:
+2.240 positivas los 3 años; finalistas = 10 con mayor R mínima (+0,27 a +0,39R el peor año).
+**Validación 22/24/26 (uso nº7): 9 de 10 NEGATIVAS** (jueves 14:10 −0,22/−0,32R; viernes 10:40
+−0,03/−0,09). La única positiva: 09:40 L30 0,25% martes +0,192R (p 0,061) — la familia Momento.
+Top-100 robustas: +0,269R en diseño → −0,039R en validación (32% positivas). Corr diseño-validación
++0,08. Exigir 3/3 años positivos en diseño NO protege contra el sobreajuste con 28.000 reglas.
+`resultados/2026-10-03_rejilla_masiva_alterna.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

@@ -1,0 +1,19 @@
+reglas: 28,512 · positivas los 3 años de diseño: 2,240 (7.9%; por azar puro ~12,5%)
+
+10 FINALISTAS (mayor R mínima en diseño) y su VALIDACIÓN:
+   T   L    k modo dia  n_dis  R_dis  min_anio_dis  R_val  min_anio_val  wr_val  p_val  PASA
+1040 120 0.30  mom vie    147  0.460         0.386 -0.030        -0.385   0.370  0.606 False
+1405  10 0.15  mom jue    147  0.451         0.376 -0.151        -0.376   0.301  0.909 False
+1410  15 0.10  mom jue    147  0.454         0.351 -0.215        -0.568   0.287  0.968 False
+1040 120 0.25  mom vie    147  0.479         0.343 -0.093        -0.555   0.333  0.793 False
+1410  10 0.10  mom jue    147  0.384         0.304 -0.320        -0.481   0.248  0.998 False
+1040 120 0.20  mom vie    147  0.470         0.289 -0.022        -0.387   0.341  0.573 False
+1410  15 0.15  mom jue    147  0.356         0.285 -0.068        -0.435   0.353  0.725 False
+1410  10 0.15  mom jue    147  0.334         0.281 -0.150        -0.328   0.321  0.910 False
+1055  15 0.15  mom mar    154  0.344         0.271 -0.017        -0.165   0.343  0.557 False
+ 940  30 0.25  mom mar    154  0.276         0.270  0.192         0.150   0.404  0.061 False
+
+Top-100 robustas: diseño R +0.269 (mín. año +0.204) → validación R -0.039, positivas 32%, 3/3 años en validación 9%
+Todas: corr(R diseño, R validación) +0.08 · elegibles: corr -0.06
+
+PASAN: ninguna

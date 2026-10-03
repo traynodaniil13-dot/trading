@@ -38,6 +38,7 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 | 4 | 28/09 | Filtros sobre Momento % | ninguno llegó a validación (no gasta) |
 | 5 | 29/09 | Stop estructural S1 (09:09) | +0,097R p=0,056 vs base +0,086 (no pasa p<0,01) |
 | 6 | 02/10 | Rotura de inside day (lote 4, ±0,40%) | 51,0% a favor (25/49), p=0,50 (no pasa p<0,0083) |
+| 7 | 03/10 | Rejilla masiva alterna (10 finalistas de 28.512) | 9/10 negativas; mejor 09:40 L30 martes +0,192R p=0,061 (umbral 0,00071) |
 
 ## Estado de años ya usados (antes de este protocolo)
 
