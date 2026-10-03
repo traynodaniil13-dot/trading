@@ -3,3 +3,4 @@ data/*.zip
 data/*.pkl
 __pycache__/
 *.pyc
+data/cache_dukascopy/

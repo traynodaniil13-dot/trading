@@ -10,13 +10,23 @@ SIM, PREF, ANIOS = sys.argv[1], sys.argv[2], [int(x) for x in sys.argv[3:]]
 URL = "https://datafeed.dukascopy.com/datafeed/{s}/{y}/{m:02d}/{d:02d}/{lado}_candles_min_1.bi5"
 
 
+CACHE = RAIZ / "data" / "cache_dukascopy" / SIM
+CACHE.mkdir(parents=True, exist_ok=True)
+
+
 def bajar(dia, lado):
     url = URL.format(s=SIM, y=dia.year, m=dia.month - 1, d=dia.day, lado=lado)
+    f = CACHE / f"{dia.isoformat()}_{lado}.bi5"
     for intento in range(8):
         try:
-            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-            with urllib.request.urlopen(req, timeout=30) as r:
-                raw = r.read()
+            if f.exists():
+                raw = f.read_bytes()
+            else:
+                req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=30) as r:
+                    raw = r.read()
+                f.write_bytes(raw)
+                time.sleep(0.4)
             if not raw:
                 return None
             d = lzma.decompress(raw)
@@ -26,6 +36,7 @@ def bajar(dia, lado):
                                 columns=["timestamp", "open", "high", "low", "close", "volume"])
         except urllib.error.HTTPError as e:
             if e.code == 404:
+                f.write_bytes(b"")
                 return None
             time.sleep(2 ** intento)
         except Exception:
@@ -42,7 +53,6 @@ for a in ANIOS:
                 m = b.merge(k, on="timestamp", suffixes=("_bid", "_ask"))
                 m = m[(m.volume_bid > 0) | (m.volume_ask > 0)]
                 partes.append(m)
-            time.sleep(0.4)
         dia += timedelta(days=1)
         if dia.day == 1:
             print(f"{a}: hasta {dia} · días con datos {len(partes)}", flush=True)
