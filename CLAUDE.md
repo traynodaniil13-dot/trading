@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.125 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.127 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -569,6 +569,13 @@ paseo aleatorio con deriva.
   Control sin SMT: −0,090R (615 ops). El SMT mejora +0,14R (z≈1,4, no significativo):
   segunda vez que el SMT apunta algo débil (ver premisa SMT). Pista, no estrategia.
   `resultados/2026-10-03_kasen_nq_motion.txt`.
+- **Kasen, vídeo "This ONE candle makes me 100k/m" (03/10, pre-registrado):** barrida de PDH/PDL
+  (09:30-11:00) + cierre al otro lado de la apertura de las 10:00 (≤12:00); stop en el extremo.
+  352 ops: 1:2 +0,047R (p 0,25), 2021 −0,06 · 2023 −0,06 · **2025 +0,25** (todo de un año: patrón
+  de falso positivo). NO PASA. Informativo con SMT de ES: 116 ops, 1:2 +0,154R (p 0,11, 3/3 años
+  positivos, 2025 el más fuerte); objetivo PDL/PDH +0,208R. TERCERA vez que añadir SMT mejora la
+  misma regla (premisa SMT, Kasen 4H, Kasen PDH). Candidato a hipótesis para la reserva 2019-2020.
+  `resultados/2026-10-03_kasen_pdh_10am.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
