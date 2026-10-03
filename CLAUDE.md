@@ -475,6 +475,11 @@ búsqueda-2025 de todas las reglas: 0,00. Es el retrato de la regla I con númer
 Top-100 robustas: +0,269R en diseño → −0,039R en validación (32% positivas). Corr diseño-validación
 +0,08. Exigir 3/3 años positivos en diseño NO protege contra el sobreajuste con 28.000 reglas.
 `resultados/2026-10-03_rejilla_masiva_alterna.txt`.
+Perfil por hora (mom, L30, 0,40%, todos los días, diseño/validación): 09:35 +0,02/+0,10 · **09:40
++0,10/+0,09** · 09:45 +0,05/+0,08 · 09:50-10:30 ≈ 0 · **10:40 −0,01/−0,02** (la que Daniil operó por
+error en el replay de marzo, una hora tarde por el cambio de hora). Solo 09:35-09:45 es positivo
+en las dos mitades: el efecto vive en los primeros 15 minutos tras la apertura y luego se apaga.
+De las 223 reglas positivas los 6 años, las que operan todos los días son casi todas 09:35-09:45.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
