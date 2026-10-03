@@ -455,6 +455,13 @@ rotura de inside day 57-62% en los 3 k y ambas direcciones (n≈60, p 0,09). **V
 Contabilidad del protocolo: uso nº6 gastado (el siguiente, p < 0,05/7).
 `resultados/2026-10-02_premisas_lote4_barreras.txt` · `..._validacion_inside_day.txt`.
 
+### Demostración de sobreajuste (03/10, pre-registrada, NO es candidata)
+19.008 reglas de momento/reversión a hora fija × stop × día de la semana, buscadas en 2021+2023,
+medidas en 2025. La mejor: 14:10 jueves, 1:2, +0,500R (wr 53%) en la búsqueda. Las 100 mejores:
++0,344R de media en la búsqueda → **+0,011R en 2025, 52% positivas (moneda al aire)**; correlación
+búsqueda-2025 de todas las reglas: 0,00. Es el retrato de la regla I con números de este repo.
+`resultados/2026-10-03_demo_sobreajuste.txt`.
+
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
 Ver `preregistros/2026-09-27_premisas_lote1.md` y `protocolo_particion.md`.
