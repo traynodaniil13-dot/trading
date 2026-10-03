@@ -17,7 +17,7 @@ CACHE.mkdir(parents=True, exist_ok=True)
 def bajar(dia, lado):
     url = URL.format(s=SIM, y=dia.year, m=dia.month - 1, d=dia.day, lado=lado)
     f = CACHE / f"{dia.isoformat()}_{lado}.bi5"
-    for intento in range(8):
+    for intento in range(14):
         try:
             if f.exists():
                 raw = f.read_bytes()
@@ -26,7 +26,7 @@ def bajar(dia, lado):
                 with urllib.request.urlopen(req, timeout=30) as r:
                     raw = r.read()
                 f.write_bytes(raw)
-                time.sleep(0.4)
+                time.sleep(1.0)
             if not raw:
                 return None
             d = lzma.decompress(raw)
@@ -38,9 +38,9 @@ def bajar(dia, lado):
             if e.code == 404:
                 f.write_bytes(b"")
                 return None
-            time.sleep(2 ** intento)
+            time.sleep(min(120, 2 ** intento))
         except Exception:
-            time.sleep(2 ** intento)
+            time.sleep(min(120, 2 ** intento))
     raise RuntimeError(f"no se pudo bajar {url}")
 
 
