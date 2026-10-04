@@ -53,3 +53,8 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 - NQ 2023-2025 (Kaggle) se usó en 574 variantes previas: para ideas nuevas se
   usa el CFD de esos años, pero una idea que sea variante de algo ya probado en
   NQ 2023-25 no cuenta como "listón limpio".
+
+## Reserva ciega 2019-2020 (CFD NQ, gastada el 05/10)
+Momento 09:40 (stop 0,40%, 1:2): −0,038R, n=495, p=0,75 → NO PASA. H4 Aleix overnight + TP pivote 15m:
++0,197R, n=42, p=0,25 → NO PASA. 2019-2020 dejan de ser ciegos para estas dos ideas; para ideas nuevas
+siguen limpios.
