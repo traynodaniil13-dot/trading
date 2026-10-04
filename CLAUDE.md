@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.135 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.138 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -586,6 +586,13 @@ paseo aleatorio con deriva.
   −0,009R (wr 43%, n=123; 2026 −0,25), PEOR que sin SMT (+0,056). Vela 4H+SMT 1:2 +0,007R (n=233),
   apenas por encima de sin SMT (−0,026). Las tres "pistas del SMT" eran ruido de diseño. La familia
   barrida + SMT queda cerrada también. `resultados/2026-10-04_validacion_kasen_smt.txt`.
+- **fxsergii, CRT H1 + rotura de EMA 20 en 5m ("65% de acierto", 4 reels, 04/10, pre-registrado,
+  diseño CFD 21/23/25):** H1 que barre el extremo de la H1 anterior y cierra dentro; en la hora
+  siguiente, primera vela 5m que rompe la EMA 20 con cuerpo; stop en el extremo de la vela que barre,
+  1:1. 2.140 ops (2,9/día): **wr 49,8% a 1:1** (TP 45% · SL 45% · cierre 10%), R −0,034, los 3 años
+  negativos, invertida −0,045, **paseo aleatorio −0,034 (exceso −0,000, z −0,01)**. Objetivo en el
+  extremo del rango −0,058 · SMA −0,056. Asia/Londres/NY todas negativas. Es el paseo aleatorio clavado.
+  `resultados/2026-10-04_fxsergii_crt_ema.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

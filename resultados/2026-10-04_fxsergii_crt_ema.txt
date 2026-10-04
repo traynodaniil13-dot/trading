@@ -1,0 +1,37 @@
+
+=== V1 {'media': 'ema'} · 2140 ops (2.9/día operado, 734 días) · stop mediano 28.3 pts · largos 49% · obj mediano 0.89R
+  PRINCIPAL: R=-0.0342 ee 0.0207 p1c=0.9507 wr 49.8% · años {2021: -0.05, 2023: -0.046, 2025: -0.006} · invertida 1:1 -0.045
+  1:1.0: TP 45.2% · SL 44.7% · cierre 10.1% · R neta -0.0342 (bruta +0.0041) · invertida -0.0452
+  1:1.5: TP 33.4% · SL 52.3% · cierre 14.3% · R neta -0.0346 (bruta +0.0037) · invertida -0.0066
+  1:2.0: TP 26.4% · SL 56.3% · cierre 17.3% · R neta -0.0190 (bruta +0.0193) · invertida -0.0025
+
+=== V2 {'media': 'ema'} · 2140 ops (2.9/día operado, 734 días) · stop mediano 28.3 pts · largos 49% · obj mediano 0.89R
+  PRINCIPAL: R=-0.0583 ee 0.0202 p1c=0.9980 wr 53.4% · años {2021: -0.058, 2023: -0.074, 2025: -0.043} · invertida 1:1 +nan
+  1:1.0: TP 45.2% · SL 44.7% · cierre 10.1% · R neta -0.0342 (bruta +0.0041) · invertida -0.0452
+  1:1.5: TP 33.4% · SL 52.3% · cierre 14.3% · R neta -0.0346 (bruta +0.0037) · invertida -0.0066
+  1:2.0: TP 26.4% · SL 56.3% · cierre 17.3% · R neta -0.0190 (bruta +0.0193) · invertida -0.0025
+
+=== V3 {'media': 'sma'} · 1846 ops (2.6/día operado, 705 días) · stop mediano 26.7 pts · largos 49% · obj mediano 0.97R
+  PRINCIPAL: R=-0.0556 ee 0.0224 p1c=0.9935 wr 48.8% · años {2021: -0.065, 2023: -0.098, 2025: -0.004} · invertida 1:1 -0.030
+  1:1.0: TP 44.7% · SL 46.1% · cierre 9.2% · R neta -0.0556 (bruta -0.0149) · invertida -0.0301
+  1:1.5: TP 34.0% · SL 53.3% · cierre 12.7% · R neta -0.0412 (bruta -0.0005) · invertida +0.0174
+  1:2.0: TP 27.1% · SL 57.4% · cierre 15.5% · R neta -0.0240 (bruta +0.0168) · invertida +0.0179
+
+=== PASEO ALEATORIO (6 semillas × 3 años)
+  V1: nulo R=-0.0339 wr 49.9% (n=12549) · real -0.0342 · exceso -0.0003 z=-0.01
+  V2: nulo R=-0.0414 wr 54.4% (n=12549) · real -0.0583 · exceso -0.0170 z=-0.78
+  V3: nulo R=-0.0390 wr 49.8% (n=10815) · real -0.0556 · exceso -0.0166 z=-0.69
+
+=== V1 informativo
+  Asia: n=393 R=-0.0489 wr 50.9% p1c=0.832
+  Londres: n=887 R=-0.0424 wr 50.1% p1c=0.896
+  NY: n=860 R=-0.0191 wr 49.1% p1c=0.736
+  largos: n=1046 R=+0.0173 wr 52.4%
+  cortos: n=1094 R=-0.0834 wr 47.3%
+  stop 0-10 pts: n=142 R=-0.1860 wr 46.5% bruta -0.0704
+  stop 10-20 pts: n=525 R=-0.1063 wr 47.6% bruta -0.0466
+  stop 20-40 pts: n=775 R=+0.0025 wr 50.8% bruta +0.0340
+  stop 40-1000000000.0 pts: n=698 R=+0.0102 wr 51.0% bruta +0.0243
+  otra convención vela de entrada: R=-0.0342 wr 49.8%
+  ventana 120 min: n=2343 R=-0.0218 wr 50.5% p1c=0.865
+  consistencia V1: {'pct_meses_pos': np.float64(0.4444444444444444), 'R_total': np.float64(-73.18958261587173), 'R_sin_3_mejores_meses': np.float64(-96.68158466261795), 'racha_perdedoras': 12, 'max_dd_R': np.float64(104.49801054525778), 'por_anio': {2021: (-0.05, 744), 2023: (-0.046, 681), 2025: (-0.006, 715)}}
