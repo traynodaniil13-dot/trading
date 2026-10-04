@@ -1,0 +1,10 @@
+datos: 28 pares · 2017-01-01 → 2020-12-31
+
+=== RESERVA CIEGA (decide) N=14 (2018-2020): n=400 · wr 63.5% · R=-0.0072 ee 0.0274 p1c=0.6031 · invertida -0.0760 · duración mediana 20 días
+  por año: 2018 -0.015 (n=131) · 2019 +0.068 (n=139) · 2020 -0.080 (n=130)
+  azar: media -0.0415 · p95 -0.0073 · p azar 0.050
+  -> RESERVA CIEGA: NO PASA
+
+=== Reserva ciega (informativa) N=20 (2018-2020): n=337 · wr 61.7% · R=-0.0450 ee 0.0319 p1c=0.9203 · invertida -0.0405 · duración mediana 21 días
+  por año: 2018 -0.039 (n=108) · 2019 +0.054 (n=111) · 2020 -0.144 (n=118)
+  azar: media -0.0436 · p95 -0.0073 · p azar 0.540
