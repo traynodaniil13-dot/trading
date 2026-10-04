@@ -41,3 +41,11 @@ que comprobarlo con el indicador real).
 
 Aviso: es Forex diario con operaciones de semanas. En Lucid (futuros) solo se podría con los
 futuros de divisas del CME, y manteniendo posiciones varios días, que la cuenta no permite.
+
+## Adenda (04/10, ANTES de tener datos): plan B de datos
+La descarga de los 28 pares iba demasiado lenta (límite de peticiones de Dukascopy). Se bajan
+solo los 7 pares contra el dólar y los 21 cruces se construyen como vA/vB. Aperturas y cierres
+salen exactos. Máximos y mínimos de los cruces son APROXIMADOS (máx = max(o, c, hA/mB, mA/lB),
+con m = media de apertura y cierre), y eso afecta al ATR, al SL y a los toques de EMA de los
+cruces. Si el resultado quedara cerca del umbral, se repetiría con los 28 pares reales.
+Reglas y criterios, sin cambios.

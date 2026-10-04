@@ -65,9 +65,12 @@ def diario_desde_horas(par, anio, esc):
     return [(par, f, r.o, r.h, r.l, r.c) for f, r in dd.iterrows()]
 
 
-def main():
+USD7 = ["EURUSD", "GBPUSD", "AUDUSD", "NZDUSD", "USDCAD", "USDCHF", "USDJPY"]
+
+
+def main(pares=PARES, salida="fx_diario.csv.gz"):
     filas = []
-    for par in PARES:
+    for par in pares:
         esc = 1000 if par.endswith("JPY") else 100000
         for anio in range(2020, 2027):
             d = bajar(par, anio)
@@ -83,9 +86,13 @@ def main():
                 filas.append((par, pd.Timestamp(anio, 1, 1) + pd.Timedelta(seconds=t), o / esc, h / esc, l / esc, c / esc))
         print(par, "ok", flush=True)
     df = pd.DataFrame(filas, columns=["par", "fecha", "o", "h", "l", "c"])
-    df.to_csv(RAIZ / "data/fx_diario.csv.gz", index=False)
+    df.to_csv(RAIZ / f"data/{salida}", index=False)
     print("filas", len(df))
 
 
 if __name__ == "__main__":
-    main()
+    import sys
+    if "usd" in sys.argv:  # plan B: solo los 7 pares contra el dólar, cruces sintéticos
+        main(USD7, "fx_diario_usd.csv.gz")
+    else:
+        main()

@@ -5,8 +5,39 @@ from src import controles as C
 from scripts.descargar_fx_diario import RAIZ, DIV, PARES
 
 
+def cruces_sinteticos():
+    """Plan B: 28 pares desde los 7 contra el dólar. Valor de cada divisa en USD; par A/B = vA/vB.
+    Cierre y apertura exactos (salvo diferencial). Máximo/mínimo APROXIMADOS: el máximo de A/B se
+    toma como max(o, c, hA/mB, mA/lB) con m = media de apertura y cierre (no se sabe si A y B
+    hicieron su extremo a la vez)."""
+    df = pd.read_csv(RAIZ / "data/fx_diario_usd.csv.gz", parse_dates=["fecha"])
+    df["fecha"] = df.fecha.dt.normalize()
+    W = {k: df.pivot_table(index="fecha", columns="par", values=k) for k in ("o", "h", "l", "c")}
+    v = {}
+    for x in DIV:
+        if x == "USD":
+            uno = pd.Series(1.0, index=W["c"].index); v[x] = dict(o=uno, h=uno, l=uno, c=uno)
+        elif x + "USD" in W["c"]:
+            p = x + "USD"; v[x] = {k: W[k][p] for k in "ohlc"}
+        else:
+            p = "USD" + x
+            v[x] = dict(o=1 / W["o"][p], c=1 / W["c"][p], h=1 / W["l"][p], l=1 / W["h"][p])
+    filas = []
+    for par in PARES:
+        a, b = v[par[:3]], v[par[3:]]
+        o, c = a["o"] / b["o"], a["c"] / b["c"]
+        ma, mb = (a["o"] + a["c"]) / 2, (b["o"] + b["c"]) / 2
+        h = pd.concat([o, c, a["h"] / mb, ma / b["l"]], axis=1).max(axis=1)
+        l = pd.concat([o, c, a["l"] / mb, ma / b["h"]], axis=1).min(axis=1)
+        filas.append(pd.DataFrame({"par": par, "fecha": o.index, "o": o.values, "h": h.values, "l": l.values, "c": c.values}))
+    return pd.concat(filas).dropna()
+
+
 def cargar():
-    df = pd.read_csv(RAIZ / "data/fx_diario.csv.gz", parse_dates=["fecha"])
+    if (RAIZ / "data/fx_diario.csv.gz").exists():
+        df = pd.read_csv(RAIZ / "data/fx_diario.csv.gz", parse_dates=["fecha"])
+    else:
+        df = cruces_sinteticos()
     df["fecha"] = df.fecha.dt.normalize()
     W = {k: df.pivot_table(index="fecha", columns="par", values=k) for k in ("o", "h", "l", "c")}
     fechas = W["c"].dropna(thresh=20).index  # días con casi todos los pares
