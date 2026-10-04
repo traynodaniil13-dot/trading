@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.144 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.147 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -603,7 +603,10 @@ paseo aleatorio con deriva.
   −0,120 · 1:3 +0,013 (2025 −0,28), todo dentro del paseo aleatorio. NO PASA.
   **6 años 2021-26 sin cambiar reglas (uso nº9 de validación, 04/10):** V4 86 ops, wr 69,8% y −0,008R;
   el paseo aleatorio da wr 66,1% con la misma regla (el winrate lo pone el TP a 0,38R). Mejor V2 +0,078R
-  p=0,21 (2025 −0,22, 2026 −0,10). Ninguna con z > 0,84. MUERTA. `resultados/2026-10-04_aleix_reversion_6anios.txt`. `resultados/2026-10-04_aleix_reversion_0930.txt`.
+  p=0,21 (2025 −0,22, 2026 −0,10). Ninguna con z > 0,84. MUERTA. `resultados/2026-10-04_aleix_reversion_6anios.txt`.
+  **A 1:5 (adenda 3, familia de 9, p<0,0056):** overnight +0,172R (n=153, TP 6,5%, wr 36% contando cierres a
+  las 15:59, p=0,12; 2025 −0,17 · 2026 −0,33) pero el paseo aleatorio da +0,041 a 1:5 → z +0,83 · RTH +0,067
+  (z +0,13) · DOL H1 +0,066 (z −0,10). NO PASA. `resultados/2026-10-04_aleix_reversion_1a5.txt`. `resultados/2026-10-04_aleix_reversion_0930.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

@@ -1,0 +1,20 @@
+
+=== V7 overnight 1:5: n=153 · TP 6.5% · SL 59.5% · cierre 15:59 34.0% · wr 35.9%
+  R=+0.1717 ee 0.1475 p1c=0.1231 · invertida +0.0408 · R total +26.3
+  por año: 2021 +0.347 (n=25) · 2022 +0.349 (n=31) · 2023 +0.381 (n=17) · 2024 +0.343 (n=33) · 2025 -0.168 (n=28) · 2026 -0.332 (n=19)
+  sin las 3 mejores operaciones: R=+0.0756
+
+=== V8 RTH previo 1:5: n=98 · TP 5.1% · SL 60.2% · cierre 15:59 34.7% · wr 34.7%
+  R=+0.0669 ee 0.1746 p1c=0.3513 · invertida -0.1699 · R total +6.6
+  por año: 2021 +0.111 (n=17) · 2022 +0.107 (n=21) · 2023 -0.655 (n=11) · 2024 +1.000 (n=15) · 2025 -0.086 (n=20) · 2026 -0.261 (n=14)
+  sin las 3 mejores operaciones: R=-0.0883
+
+=== V9 DOL H1 1:5: n=86 · TP 7.0% · SL 61.6% · cierre 15:59 31.4% · wr 32.6%
+  R=+0.0657 ee 0.1920 p1c=0.3665 · invertida +0.0967 · R total +5.7
+  por año: 2021 +0.251 (n=13) · 2022 +0.643 (n=11) · 2023 +0.285 (n=9) · 2024 +0.189 (n=18) · 2025 -0.384 (n=20) · 2026 -0.198 (n=15)
+  sin las 3 mejores operaciones: R=-0.1118
+
+=== PASEO ALEATORIO (6 semillas × 6 años)
+  V7 overnight: nulo R=+0.0410 wr 30.7% (n=999) · real +0.1717 · z=+0.83
+  V8 RTH previo: nulo R=+0.0429 wr 29.3% (n=641) · real +0.0669 · z=+0.13
+  V9 DOL H1: nulo R=+0.0872 wr 31.5% (n=514) · real +0.0657 · z=-0.10

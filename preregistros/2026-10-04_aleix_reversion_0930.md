@@ -73,3 +73,9 @@ validación** para esta familia.
 - Criterio, 6 años juntos: p < 0,0083 (familia de 6), los 6 años con R > 0 en al menos 5,
   invertida ≤ 0 y exceso sobre el paseo aleatorio con z > 2.
 - Criterio, solo 2022/24/26: p < 0,0056.
+
+## Adenda 3 (04/10, ANTES de ejecutar): TP a 1:5, como el ejemplo del vídeo ($200 → $1.000)
+
+Misma entrada, TP fijo a 5R, cierre a las 15:59 si no toca nada. Las tres liquidez
+(overnight, RTH previo, DOL H1), sobre los 6 años: **V7, V8, V9**. La familia pasa a 9:
+**p < 0,05/9 = 0,0056**. Mismos criterios que la adenda 2, con 6 semillas de paseo aleatorio.
