@@ -64,11 +64,11 @@ def indicadores(W):
     return tr.rolling(14).mean(), c.ewm(span=50, adjust=False).mean(), c.ewm(span=100, adjust=False).mean()
 
 
-def senales(F, desde="2021-01-01"):
+def senales(F, desde="2021-01-01", hasta="2100-01-01"):
     out = []
     v = F.to_numpy(); fechas = F.index
     for t in range(1, len(F) - 1):
-        if fechas[t] < pd.Timestamp(desde) or np.isnan(v[t]).any() or np.isnan(v[t - 1]).any():
+        if fechas[t] < pd.Timestamp(desde) or fechas[t] > pd.Timestamp(hasta) or np.isnan(v[t]).any() or np.isnan(v[t - 1]).any():
             continue
         for i, x in enumerate(DIV):
             if v[t, i] <= -50 < v[t - 1, i]:

@@ -68,11 +68,11 @@ def diario_desde_horas(par, anio, esc):
 USD7 = ["EURUSD", "GBPUSD", "AUDUSD", "NZDUSD", "USDCAD", "USDCHF", "USDJPY"]
 
 
-def main(pares=PARES, salida="fx_diario.csv.gz"):
+def main(pares=PARES, salida="fx_diario.csv.gz", anios=range(2020, 2027)):
     filas = []
     for par in pares:
         esc = 1000 if par.endswith("JPY") else 100000
-        for anio in range(2020, 2027):
+        for anio in anios:
             d = bajar(par, anio)
             if not d:
                 if anio == 2026 and "sin2026" not in sys.argv:
@@ -92,7 +92,9 @@ def main(pares=PARES, salida="fx_diario.csv.gz"):
 
 if __name__ == "__main__":
     import sys
-    if "usd" in sys.argv:  # plan B: solo los 7 pares contra el dólar, cruces sintéticos
+    if "reales" in sys.argv:  # los 28 pares reales, 2017-2025 (2017 de calentamiento)
+        main(PARES, "fx_diario.csv.gz", range(2017, 2026))
+    elif "usd" in sys.argv:  # plan B: solo los 7 pares contra el dólar, cruces sintéticos
         main(USD7, "fx_diario_usd.csv.gz")
     else:
         main()
