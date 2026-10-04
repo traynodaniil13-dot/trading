@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.127 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.135 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -480,6 +480,12 @@ Perfil por hora (mom, L30, 0,40%, todos los días, diseño/validación): 09:35 +
 error en el replay de marzo, una hora tarde por el cambio de hora). Solo 09:35-09:45 es positivo
 en las dos mitades: el efecto vive en los primeros 15 minutos tras la apertura y luego se apaga.
 De las 223 reglas positivas los 6 años, las que operan todos los días son casi todas 09:35-09:45.
+
+### Lote 5: efectos de calendario y flujos, TP-vs-SL (04/10, pre-registrado, 8 tests) — NINGUNO
+`preregistros/2026-10-04_lote5_calendario.md`. Cambio de mes (largo): ±0,4% 55,4% vs 49,5% resto (p 0,11,
+2021 negativo) · víspera de festivo: n=33, ruido · reversión de la 1ª hora en vencimiento mensual: PEOR
+que otros viernes · rebalanceo de fin de mes (15:00): PEOR que el resto (41-43% vs 52-53%). Ninguno
+con p < 0,00625 ni signo estable. `resultados/2026-10-04_lote5_calendario.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

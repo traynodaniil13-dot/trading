@@ -1,0 +1,8 @@
+C1 ±0.25%: evento 49.3% (n=142) vs resto 51.1% (n=591) · dif -1.8% · p=0.650 · por año {2021: np.float64(-0.016), 2023: np.float64(-0.023), 2025: np.float64(-0.014)} -> no
+C1 ±0.4%: evento 55.4% (n=139) vs resto 49.5% (n=568) · dif +5.9% · p=0.105 · por año {2021: np.float64(-0.024), 2023: np.float64(0.095), 2025: np.float64(0.112)} -> no
+C2 ±0.25%: evento 51.5% (n=33) vs resto 50.7% (n=700) · dif +0.8% · p=0.464 · por año {2021: np.float64(0.267), 2023: np.float64(-0.11), 2025: np.float64(-0.044)} -> no
+C2 ±0.4%: evento 53.1% (n=32) vs resto 50.5% (n=675) · dif +2.6% · p=0.387 · por año {2021: np.float64(0.293), 2023: np.float64(0.002), 2025: np.float64(-0.105)} -> no
+C3 ±0.25%: evento 48.6% (n=35) vs resto 50.9% (n=110) · dif -2.3% · p=0.595 · por año {2021: np.float64(0.056), 2023: np.float64(0.031), 2025: np.float64(-0.164)} -> no
+C3 ±0.4%: evento 39.4% (n=33) vs resto 49.0% (n=98) · dif -9.6% · p=0.830 · por año {2021: np.float64(0.012), 2023: np.float64(-0.193), 2025: np.float64(-0.1)} -> no
+C4 ±0.1%: evento 41.2% (n=34) vs resto 53.2% (n=663) · dif -12.1% · p=0.915 · por año {2021: np.float64(-0.297), 2023: np.float64(0.158), 2025: np.float64(-0.214)} -> no
+C4 ±0.15%: evento 43.3% (n=30) vs resto 52.5% (n=581) · dif -9.2% · p=0.836 · por año {2021: np.float64(-0.284), 2023: np.float64(0.187), 2025: np.float64(-0.147)} -> no
