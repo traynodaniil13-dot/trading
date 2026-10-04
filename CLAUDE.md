@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.151 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.157 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -486,6 +486,14 @@ De las 223 reglas positivas los 6 años, las que operan todos los días son casi
 2021 negativo) · víspera de festivo: n=33, ruido · reversión de la 1ª hora en vencimiento mensual: PEOR
 que otros viernes · rebalanceo de fin de mes (15:00): PEOR que el resto (41-43% vs 52-53%). Ninguno
 con p < 0,00625 ni signo estable. `resultados/2026-10-04_lote5_calendario.txt`.
+
+### Lote 6: FOMC, días de dato y volatilidad previa, TP-vs-SL (04/10, pre-registrado, 6 tests) — NINGUNO
+`preregistros/2026-10-04_lote6_fomc_datos_volatilidad.md`. F1 deriva pre-FOMC (13:59→13:59): +0,065% por
+evento vs +0,129% el resto de días (n=24, p 0,66) → no existe en 2021-25 · F2 momentum tras el FOMC 52% (n=23)
+· F3 apertura contra el movimiento del dato de 08:30: 49-52% · F5 día tras expansión de volatilidad 56% (n=41).
+**F4 desequilibrio de cierre (signo 15:49→15:52, carrera ±0,10% hasta 15:59): 55,4%, n=511, p=0,017** (umbral
+0,0083), largos 52,7 / cortos 58,2, paseo 49,8 [47-52], pero años 61,7 · 55,6 · **48,5 (2025)** → no cumple
+signo estable. Única pista del lote. `resultados/2026-10-04_lote6_fomc_datos_volatilidad.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

@@ -1,0 +1,10 @@
+F1 deriva pre-FOMC (13:59 previa → 13:59 FOMC): FOMC n=24 media +0.065% (sd 0.70) · resto n=715 media +0.129%
+   diferencia -0.064% · p1c=0.6640 · positivas 58% · por año {2021: -0.132, 2023: 0.288, 2025: 0.039}
+   en puntos NQ ~20.000: +13 pts por evento
+
+Carreras (a favor de la señal, % sin contar empates):
+  F2: n=23 a favor 52.2% p=1.0000 · largos 61.5% cortos 40.0% · años {2021: np.float64(0.429), 2023: np.float64(0.5), 2025: np.float64(0.625)} · paseo 43.6% [23.1%-71.4%]
+  F3 ±0.25: n=230 a favor 48.7% p=0.7417 · largos 54.2% cortos 44.8% · años {2021: np.float64(0.579), 2023: np.float64(0.432), 2025: np.float64(0.5)} · paseo 50.6% [46.8%-53.3%]
+  F3 ±0.4: n=221 a favor 52.5% p=0.5012 · largos 57.6% cortos 48.8% · años {2021: np.float64(0.635), 2023: np.float64(0.468), 2025: np.float64(0.533)} · paseo 49.9% [47.1%-52.4%]
+  F4: n=511 a favor 55.4% p=0.0168 · largos 52.7% cortos 58.2% · años {2021: np.float64(0.617), 2023: np.float64(0.556), 2025: np.float64(0.485)} · paseo 49.8% [47.2%-51.8%]
+  F5: n=41 a favor 56.1% p=0.5327 · largos 50.0% cortos 63.2% · años {2021: np.float64(0.55), 2023: np.float64(0.571), 2025: np.float64(0.571)} · paseo 41.6% [20.0%-57.1%]
