@@ -1,0 +1,20 @@
+
+##### DISEÑO 2021/23/25
+
+=== V-SES: días 779 · con ruptura 43% · con patrón 21% · operaciones 119 (15% de los días) · stop mediano 27.4 pts · largos 52%
+  PRINCIPAL 1:2: wr 39.5% R=+0.1024 ee 0.1317 p1c=0.2192 · años {2021: 0.214, 2023: 0.187, 2025: -0.099} · invertida -0.0652
+  PRINCIPAL 1:3: wr 36.1% R=+0.2450 ee 0.1635 p1c=0.0683 · años {2021: 0.338, 2023: 0.35, 2025: 0.041} · invertida +0.0296
+  info 1:1: wr 54.6% R=+0.0480 ee 0.0912 p1c=0.3000 · años {2021: 0.265, 2023: -0.014, 2025: -0.104} · invertida -0.1227
+  por patrón (1:2): envolvente n=46 R=-0.036 · martillo n=42 R=+0.308 · estrella n=31 R=+0.029
+  largos/cortos (1:2): largos n=62 R=+0.276 · cortos n=57 R=-0.087
+  paseo 1:2: R=-0.0302 wr 34.2% (n=934) · z=+0.95
+  paseo 1:3: R=-0.0300 wr 27.0% (n=934) · z=+1.59
+
+=== V-RTH: días 779 · con ruptura 48% · con patrón 23% · operaciones 130 (17% de los días) · stop mediano 27.0 pts · largos 59%
+  PRINCIPAL 1:2: wr 40.0% R=+0.1102 ee 0.1256 p1c=0.1909 · años {2021: 0.273, 2023: 0.11, 2025: -0.065} · invertida -0.0796
+  PRINCIPAL 1:3: wr 35.4% R=+0.2234 ee 0.1558 p1c=0.0771 · años {2021: 0.409, 2023: 0.249, 2025: 0.001} · invertida +0.0165
+  info 1:1: wr 53.8% R=+0.0323 ee 0.0874 p1c=0.3561 · años {2021: 0.241, 2023: 0.031, 2025: -0.19} · invertida -0.1085
+  por patrón (1:2): estrella n=27 R=+0.182 · envolvente n=52 R=+0.012 · martillo n=51 R=+0.172
+  largos/cortos (1:2): largos n=77 R=+0.198 · cortos n=53 R=-0.018
+  paseo 1:2: R=-0.0286 wr 33.9% (n=1005) · z=+1.04
+  paseo 1:3: R=-0.0270 wr 26.9% (n=1005) · z=+1.52

@@ -1,0 +1,36 @@
+
+##### 6 AÑOS 2021-2026
+
+=== V-SES: días 1473 · con ruptura 43% · con patrón 21% · operaciones 238 (16% de los días) · stop mediano 30.3 pts · largos 49%
+  PRINCIPAL 1:2: wr 37.0% R=+0.0394 ee 0.0918 p1c=0.3340 · años {2021: 0.214, 2022: 0.111, 2023: 0.187, 2024: -0.197, 2025: -0.099, 2026: 0.012} · invertida -0.1056
+  PRINCIPAL 1:3: wr 32.8% R=+0.1378 ee 0.1127 p1c=0.1112 · años {2021: 0.338, 2022: -0.084, 2023: 0.35, 2024: -0.011, 2025: 0.041, 2026: 0.291} · invertida -0.0403
+  info 1:1: wr 53.4% R=+0.0308 ee 0.0646 p1c=0.3168 · años {2021: 0.265, 2022: 0.057, 2023: -0.014, 2024: -0.104, 2025: -0.104, 2026: 0.121} · invertida -0.0965
+  por patrón (1:2): envolvente n=91 R=-0.047 · martillo n=79 R=+0.199 · estrella n=68 R=-0.030
+  largos/cortos (1:2): largos n=117 R=+0.139 · cortos n=121 R=-0.057
+  paseo 1:2: R=-0.0154 wr 34.3% (n=1750) · z=+0.56
+  paseo 1:3: R=-0.0268 wr 26.8% (n=1750) · z=+1.37
+
+=== V-RTH: días 1473 · con ruptura 48% · con patrón 23% · operaciones 262 (18% de los días) · stop mediano 30.7 pts · largos 55%
+  PRINCIPAL 1:2: wr 37.4% R=+0.0546 ee 0.0875 p1c=0.2666 · años {2021: 0.273, 2022: 0.066, 2023: 0.11, 2024: -0.211, 2025: -0.065, 2026: 0.167} · invertida -0.1220
+  PRINCIPAL 1:3: wr 32.8% R=+0.1490 ee 0.1077 p1c=0.0839 · años {2021: 0.409, 2022: -0.014, 2023: 0.249, 2024: -0.082, 2025: 0.001, 2026: 0.389} · invertida -0.0466
+  info 1:1: wr 52.7% R=+0.0175 ee 0.0616 p1c=0.3882 · años {2021: 0.241, 2022: 0.014, 2023: 0.031, 2024: -0.012, 2025: -0.19, 2026: 0.006} · invertida -0.0829
+  por patrón (1:2): estrella n=63 R=+0.047 · envolvente n=100 R=+0.019 · martillo n=99 R=+0.095
+  largos/cortos (1:2): largos n=143 R=+0.085 · cortos n=119 R=+0.018
+  paseo 1:2: R=-0.0319 wr 33.7% (n=1924) · z=+0.93
+  paseo 1:3: R=-0.0206 wr 26.8% (n=1924) · z=+1.48
+
+##### solo 2022/24/26 (uso nº12, umbral 0,0042)
+
+=== V-SES: días 694 · con ruptura 43% · con patrón 22% · operaciones 119 (17% de los días) · stop mediano 36.7 pts · largos 46%
+  PRINCIPAL 1:2: wr 34.5% R=-0.0235 ee 0.1284 p1c=0.5725 · años {2022: 0.111, 2024: -0.197, 2026: 0.012} · invertida -0.1460
+  PRINCIPAL 1:3: wr 29.4% R=+0.0306 ee 0.1552 p1c=0.4219 · años {2022: -0.084, 2024: -0.011, 2026: 0.291} · invertida -0.1102
+  info 1:1: wr 52.1% R=+0.0137 ee 0.0918 p1c=0.4409 · años {2022: 0.057, 2024: -0.104, 2026: 0.121} · invertida -0.0703
+  por patrón (1:2): envolvente n=45 R=-0.059 · estrella n=37 R=-0.080 · martillo n=37 R=+0.076
+  largos/cortos (1:2): largos n=55 R=-0.016 · cortos n=64 R=-0.030
+
+=== V-RTH: días 694 · con ruptura 48% · con patrón 24% · operaciones 132 (19% de los días) · stop mediano 37.4 pts · largos 50%
+  PRINCIPAL 1:2: wr 34.8% R=-0.0002 ee 0.1222 p1c=0.5006 · años {2022: 0.066, 2024: -0.211, 2026: 0.167} · invertida -0.1637
+  PRINCIPAL 1:3: wr 30.3% R=+0.0758 ee 0.1493 p1c=0.3063 · años {2022: -0.014, 2024: -0.082, 2026: 0.389} · invertida -0.1088
+  info 1:1: wr 51.5% R=+0.0030 ee 0.0872 p1c=0.4865 · años {2022: 0.014, 2024: -0.012, 2026: 0.006} · invertida -0.0576
+  por patrón (1:2): envolvente n=48 R=+0.027 · estrella n=36 R=-0.054 · martillo n=48 R=+0.013
+  largos/cortos (1:2): largos n=66 R=-0.047 · cortos n=66 R=+0.047
