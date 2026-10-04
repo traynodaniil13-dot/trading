@@ -49,3 +49,4 @@ salen exactos. Máximos y mínimos de los cruces son APROXIMADOS (máx = max(o, 
 con m = media de apertura y cierre), y eso afecta al ATR, al SL y a los toques de EMA de los
 cruces. Si el resultado quedara cerca del umbral, se repetiría con los 28 pares reales.
 Reglas y criterios, sin cambios.
+- (Antes de tener datos) Para no esperar horas, 2026 se deja fuera: se mide 2021-2025.

@@ -1,6 +1,6 @@
 """Velas diarias BID de Dukascopy para los 28 pares de las 8 divisas mayores, 2020-2026.
 Uso: python -m scripts.descargar_fx_diario. Salida: data/fx_diario.csv.gz"""
-import lzma, random, struct, time, urllib.request
+import lzma, random, struct, sys, time, urllib.request
 from pathlib import Path
 import pandas as pd
 
@@ -75,7 +75,7 @@ def main(pares=PARES, salida="fx_diario.csv.gz"):
         for anio in range(2020, 2027):
             d = bajar(par, anio)
             if not d:
-                if anio == 2026:
+                if anio == 2026 and "sin2026" not in sys.argv:
                     filas += diario_desde_horas(par, anio, esc)
                 continue
             d = lzma.decompress(d)
