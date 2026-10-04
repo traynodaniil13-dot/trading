@@ -29,5 +29,8 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 ## Estado de las tandas
 | Tanda | Familia | Estado |
 |---|---|---|
-| M1 | Valor relativo NQ-ES intradía (reversión/continuación del diferencial) | ver resultados |
-| M2 | Desequilibrio de cierre en ES (MOC 15:50), donde es mayor que en NQ | ver resultados |
+| M1 | Valor relativo NQ-ES intradía (reversión/continuación del diferencial), 12 variantes | **MUERTA** (04/10): mejor +0,088R con n=30, por debajo del p95 del nulo (+0,200); placebo de familia p=0,44. Separaciones ≥1,5σ solo en ~20% de los días, sin dirección. |
+| M2 | Desequilibrio de cierre en ES (MOC 15:50), 4 variantes | **MUERTA** (04/10): wr 45-49% a 1:1, todas negativas los 3 años (−0,08 a −0,33R con coste). |
+
+## Próximas tandas (pendientes de datos)
+- M3: Momento de apertura en otros mercados (oro a las 08:20, petróleo a las 09:00, DAX a las 03:00 NY). Necesita M1 de Dukascopy (lento).

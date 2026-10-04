@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.175 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.191 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -496,6 +496,13 @@ evento vs +0,129% el resto de días (n=24, p 0,66) → no existe en 2021-25 · F
 signo estable. Única pista del lote. `resultados/2026-10-04_lote6_fomc_datos_volatilidad.txt`.
 **VALIDACIÓN F4 (uso nº10, p<0,005): 52,1% (n=524), p=0,18, 2026 50,0%, cortos 49,6% → NO PASA.** Como
 estrategia −0,021R (coste ×2 −0,072). NQ futuro 2023-25: 50,9%. Muerta. `resultados/2026-10-04_validacion_moc_1550.txt`.
+
+### Mina de estrategias (desde el 04/10, `mina/README.md`, `src/mina.py`)
+Proceso pedido por Daniil: familias con mecanismo, pre-registro por tanda, criterio común (p95 del
+máximo del nulo de la familia + placebo de familia + 3/3 años + invertida ≤ 0) y validación solo de
+supervivientes. Tanda 1: **M1 valor relativo NQ-ES (12 variantes) MUERTA** (mejor +0,088R, n=30, < p95
+nulo +0,200; placebo p=0,44) · **M2 MOC 15:50 en ES (4) MUERTA** (wr 45-49% a 1:1, todas negativas).
+`resultados/2026-10-04_mina_tanda1_m1.txt` · `..._m2.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
