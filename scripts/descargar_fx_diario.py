@@ -27,6 +27,44 @@ def bajar(par, anio):
     raise RuntimeError(f"no se pudo bajar {par} {anio}")
 
 
+def bajar_horas(par, anio, mes):
+    """Velas de 1 h de un mes (mes 0-11). El fichero diario del año en curso no existe todavía."""
+    f = CACHE / f"{par}_{anio}_{mes:02d}_h.bi5"
+    if f.exists():
+        return f.read_bytes()
+    url = f"https://datafeed.dukascopy.com/datafeed/{par}/{anio}/{mes:02d}/BID_candles_hour_1.bi5"
+    for intento in range(20):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as r:
+                d = r.read()
+            CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(d); time.sleep(1.5); return d
+        except Exception as e:
+            if getattr(e, "code", None) == 404:
+                CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(b""); return b""
+            time.sleep(min(120, 3 * 2 ** intento))
+    raise RuntimeError(f"no se pudo bajar {par} {anio}-{mes}")
+
+
+def diario_desde_horas(par, anio, esc):
+    filas = []
+    for mes in range(12):
+        d = bajar_horas(par, anio, mes)
+        if not d:
+            continue
+        d = lzma.decompress(d)
+        ini = pd.Timestamp(anio, mes + 1, 1)
+        for k in range(len(d) // 24):
+            t, o, c, l, h, v = struct.unpack(">5if", d[24 * k:24 * k + 24])
+            if v > 0:
+                filas.append((ini + pd.Timedelta(seconds=t), o / esc, h / esc, l / esc, c / esc))
+    if not filas:
+        return []
+    x = pd.DataFrame(filas, columns=["t", "o", "h", "l", "c"]).set_index("t")
+    g = x.groupby(x.index.normalize())
+    dd = pd.DataFrame({"o": g.o.first(), "h": g.h.max(), "l": g.l.min(), "c": g.c.last()})
+    return [(par, f, r.o, r.h, r.l, r.c) for f, r in dd.iterrows()]
+
+
 def main():
     filas = []
     for par in PARES:
@@ -34,6 +72,8 @@ def main():
         for anio in range(2020, 2027):
             d = bajar(par, anio)
             if not d:
+                if anio == 2026:
+                    filas += diario_desde_horas(par, anio, esc)
                 continue
             d = lzma.decompress(d)
             for k in range(len(d) // 24):
