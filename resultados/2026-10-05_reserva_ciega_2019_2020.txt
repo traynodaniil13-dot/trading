@@ -1,0 +1,16 @@
+[loader] CFD Dukascopy ['nq_cfd_2019.csv.gz']: 368,220 filas, 2018-12-02 18:00:00 -> 2019-12-31 16:14:00. Top minutos {'09:30': 9.45, '09:31': 7.7, '09:32': 7.5}. OK
+[loader] CFD Dukascopy ['nq_cfd_2020.csv.gz']: 368,753 filas, 2019-12-01 18:00:00 -> 2020-12-31 16:14:00. Top minutos {'09:30': 17.36, '09:31': 16.13, '15:50': 16.0}. OK
+
+=== PRINCIPAL · Momento 09:40, stop 0,40%, 1:2 (umbral p < 0.05)
+  n=495 R=-0.0384 ee 0.0564 p1c=0.7520 wr 38.6% · R total -19.0
+  por año: 2019 +0.068 (n=249) · 2020 -0.146 (n=246)
+  paseo aleatorio: -0.0175 (n=2954) · z exceso -0.34
+  TP 22.6% · SL 55.4% · cierre 22.0% · invertida -0.0118
+  -> NO PASA
+
+=== H4 · Aleix overnight + TP pivote 15m (umbral p < 0.025)
+  n=42 R=+0.1971 ee 0.2945 p1c=0.2535 wr 50.0% · R total +8.3
+  por año: 2019 +0.064 (n=21) · 2020 +0.330 (n=21)
+  paseo aleatorio: +0.0149 (n=327) · z exceso +0.60
+  TP a 1.23R de mediana · invertida 1:1 -0.1458
+  -> NO PASA
