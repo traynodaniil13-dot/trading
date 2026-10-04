@@ -23,7 +23,7 @@ def bajar(par, anio):
         except Exception as e:
             if getattr(e, "code", None) == 404:
                 CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(b""); return b""
-            time.sleep(4 + 4 * random.random())
+            time.sleep(15 + 15 * random.random())
     raise RuntimeError(f"no se pudo bajar {par} {anio}")
 
 
@@ -41,7 +41,7 @@ def bajar_horas(par, anio, mes):
         except Exception as e:
             if getattr(e, "code", None) == 404:
                 CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(b""); return b""
-            time.sleep(4 + 4 * random.random())
+            time.sleep(15 + 15 * random.random())
     raise RuntimeError(f"no se pudo bajar {par} {anio}-{mes}")
 
 
