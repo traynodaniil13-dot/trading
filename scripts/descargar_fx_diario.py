@@ -1,0 +1,51 @@
+"""Velas diarias BID de Dukascopy para los 28 pares de las 8 divisas mayores, 2020-2026.
+Uso: python -m scripts.descargar_fx_diario. Salida: data/fx_diario.csv.gz"""
+import lzma, struct, time, urllib.request
+from pathlib import Path
+import pandas as pd
+
+RAIZ = Path(__file__).resolve().parents[1]
+CACHE = RAIZ / "data/cache_dukascopy/fx_diario"
+DIV = ["EUR", "GBP", "AUD", "NZD", "USD", "CAD", "CHF", "JPY"]  # orden de cotización estándar
+PARES = [a + b for i, a in enumerate(DIV) for b in DIV[i + 1:]]
+
+
+def bajar(par, anio):
+    f = CACHE / f"{par}_{anio}.bi5"
+    if f.exists():
+        return f.read_bytes()
+    url = f"https://datafeed.dukascopy.com/datafeed/{par}/{anio}/BID_candles_day_1.bi5"
+    for intento in range(20):
+        try:
+            with urllib.request.urlopen(url, timeout=30) as r:
+                d = r.read()
+            CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(d); time.sleep(1.5); return d
+        except Exception as e:
+            if getattr(e, "code", None) == 404:
+                CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(b""); return b""
+            time.sleep(min(120, 3 * 2 ** intento))
+    raise RuntimeError(f"no se pudo bajar {par} {anio}")
+
+
+def main():
+    filas = []
+    for par in PARES:
+        esc = 1000 if par.endswith("JPY") else 100000
+        for anio in range(2020, 2027):
+            d = bajar(par, anio)
+            if not d:
+                continue
+            d = lzma.decompress(d)
+            for k in range(len(d) // 24):
+                t, o, c, l, h, v = struct.unpack(">5if", d[24 * k:24 * k + 24])
+                if v <= 0:
+                    continue  # días sin mercado (fines de semana / festivos)
+                filas.append((par, pd.Timestamp(anio, 1, 1) + pd.Timedelta(seconds=t), o / esc, h / esc, l / esc, c / esc))
+        print(par, "ok", flush=True)
+    df = pd.DataFrame(filas, columns=["par", "fecha", "o", "h", "l", "c"])
+    df.to_csv(RAIZ / "data/fx_diario.csv.gz", index=False)
+    print("filas", len(df))
+
+
+if __name__ == "__main__":
+    main()
