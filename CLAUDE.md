@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.138 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.141 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -593,6 +593,12 @@ paseo aleatorio con deriva.
   negativos, invertida −0,045, **paseo aleatorio −0,034 (exceso −0,000, z −0,01)**. Objetivo en el
   extremo del rango −0,058 · SMA −0,056. Asia/Londres/NY todas negativas. Es el paseo aleatorio clavado.
   `resultados/2026-10-04_fxsergii_crt_ema.txt`.
+- **Aleix, "modelo de reversión de las 09:30" (reel, 04/10, pre-registrado, diseño CFD 21/23/25):**
+  barrida del mín./máx. overnight en 09:30-10:00 con el extremo dentro de un FVG H1 vigente + IFVG de
+  1m hasta 10:30; stop en el extremo. Solo 70 ops (23/año). V1 TP "siguiente alto" (mediana 0,33R):
+  **wr 67% pero −0,083R** (gana poco, pierde entero) · V2 1:1,5 +0,093R p=0,26 (2025 −0,22, invertida
+  +0,036) · V3 liquidez del RTH previo −0,150R. Paseo aleatorio −0,01/−0,02 (z −1,4 a +0,7). Sin el
+  filtro FVG H1 (306 ops) ≈ Fede: 1:1 +0,006. NO PASA. `resultados/2026-10-04_aleix_reversion_0930.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

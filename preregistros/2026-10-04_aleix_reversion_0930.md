@@ -1,0 +1,51 @@
+# Pre-registro · Aleix Andreu, "modelo de reversión de las 09:30" · 04/10/2026
+
+Escrito ANTES de ejecutar. Fuente: reel de Aleix (transcripción pegada por Daniil).
+"Top 100 de Topstep."
+
+## Lo que dice
+
+1. En H1, fijarse en qué FVG respeta el precio. Si en la apertura el precio barre los
+   mínimos, buscar una reversión al alza (y al revés con los máximos).
+2. En 15m, a las 09:30 la apertura tiene que barrer el objetivo y estar dentro de un FVG.
+3. En 1m: acumulación, manipulación con un FVG dentro, barrida y cierre por encima de los
+   FVG. Stop por debajo, TP en el siguiente alto (o un FVG de 15m).
+(La parte "si abre alcista sin tocar mínimos, ventas hasta ahí" no tiene entrada
+explicada: no se prueba.)
+
+## Mecánica (CFD NQ, hora NY, DISEÑO 2021/2023/2025)
+
+- **Mínimos/máximos** = mínimo/máximo overnight (18:00-09:29). Es la misma liquidez que en
+  la estrategia de Fede (`sweep_ifvg`), y la reutilizo.
+- **Barrida:** primera barra de 09:30-10:00 que perfora el mínimo (largo) o el máximo
+  (corto) overnight. Si perfora los dos a la vez, no hay setup.
+- **FVG H1:** velas H1 de reloj agrupando M1. Un FVG alcista nace al cerrar la 3ª vela si
+  mín3 > máx1, con zona [máx1, mín3]. Vale si nació en las 120 H1 anteriores a las 09:00
+  (la vela de las 09:00 no ha cerrado a las 09:30) y ningún cierre H1 posterior, hasta
+  las 08:59, ha caído por debajo de máx1 ("respetado"). El bajista es el espejo.
+- **Condición FVG:** al disparar la entrada, el mínimo de 09:30→entrada (en largos) está
+  dentro de la zona de algún FVG alcista H1 vigente. En cortos, el máximo dentro de un FVG
+  bajista.
+- **Gatillo 1m (IFVG):** desde la barrida y hasta las 10:30, la primera barra cuyo cierre
+  queda por encima del techo de TODOS los FVG bajistas de 1m nacidos desde las 09:30, con
+  al menos uno existente. En cortos, el espejo.
+- **Entrada** al cierre de esa barra (el seguimiento empieza en la siguiente). **Stop** en
+  el extremo 09:30→entrada. Stop mínimo 0,05% del precio. Cierre forzado a las 15:59.
+
+## Variantes (3) → p < 0,05/3 = 0,0167 (una cola)
+
+- **V1:** TP en el "siguiente alto" = máximo de 09:30→entrada (en cortos, el mínimo). Si
+  ese nivel no queda a favor de la entrada, no se opera.
+- **V2:** misma entrada, TP fijo a 1:1,5.
+- **V3:** como V1, pero la liquidez es el mínimo/máximo de la sesión RTH anterior
+  (09:30-15:59) en vez del overnight.
+
+## Pasa a validación si
+
+p < 0,0167, los 3 años positivos, exceso sobre el paseo aleatorio con z > 2 (6 semillas),
+invertida ≤ 0. Validación: uso nº9, p < 0,0056.
+
+## Informativo
+
+La misma regla sin la condición del FVG H1 (lo que aporta el filtro), ratios 1:1 y 1:2,
+y largos/cortos.

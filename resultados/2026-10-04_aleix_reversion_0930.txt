@@ -1,0 +1,31 @@
+
+=== V1 {'liq': 'on', 'tp': 'alto'}: 70 ops (23/año) · stop mediano 53.7 pts · obj mediano 0.33R · largos 49%
+  PRINCIPAL: R=-0.0826 p1c=0.8222 wr 67.1% · años {2021: -0.076, 2023: 0.023, 2025: -0.152} · invertida 1:1,5 +0.036
+  1:1.0: TP 51.4% · SL 44.3% · R +0.0737 · invertida -0.1059
+  1:1.5: TP 38.6% · SL 51.4% · R +0.0931 · invertida +0.0359
+  1:2.0: TP 30.0% · SL 54.3% · R +0.1198 · invertida +0.0824
+
+=== V2 {'liq': 'on', 'tp': 'r15'}: 70 ops (23/año) · stop mediano 53.7 pts · obj mediano 0.33R · largos 49%
+  PRINCIPAL: R=+0.0931 p1c=0.2587 wr 45.7% · años {2021: 0.205, 2023: 0.438, 2025: -0.216} · invertida 1:1,5 +0.036
+  1:1.0: TP 51.4% · SL 44.3% · R +0.0737 · invertida -0.1059
+  1:1.5: TP 38.6% · SL 51.4% · R +0.0931 · invertida +0.0359
+  1:2.0: TP 30.0% · SL 54.3% · R +0.1198 · invertida +0.0824
+
+=== V3 {'liq': 'rth', 'tp': 'alto'}: 48 ops (16/año) · stop mediano 59.7 pts · obj mediano 0.29R · largos 58%
+  PRINCIPAL: R=-0.1496 p1c=0.9347 wr 62.5% · años {2021: -0.224, 2023: -0.308, 2025: 0.001} · invertida 1:1,5 -0.073
+  1:1.0: TP 52.1% · SL 45.8% · R +0.0623 · invertida -0.0961
+  1:1.5: TP 29.2% · SL 58.3% · R -0.0742 · invertida -0.0733
+  1:2.0: TP 16.7% · SL 64.6% · R -0.2228 · invertida -0.1116
+
+=== Sin filtro FVG H1 (informativo, liquidez overnight)
+  n=306 1:1.0: wr 52.3% R +0.0061
+  n=306 1:1.5: wr 42.2% R -0.0091
+  n=306 1:2.0: wr 36.6% R -0.0202
+  TP alto: R -0.0366 wr 69.6%
+
+=== PASEO ALEATORIO (6 semillas × 3 años)
+  V1: nulo R=-0.0181 (n=580) · real -0.0826 · z=-0.69
+  V2: nulo R=-0.0117 (n=580) · real +0.0931 · z=+0.69
+  V3: nulo R=-0.0083 (n=400) · real -0.1496 · z=-1.37
+  V1 largos: n=34 R=-0.2005 wr 58.8%
+  V1 cortos: n=36 R=+0.0288 wr 75.0%
