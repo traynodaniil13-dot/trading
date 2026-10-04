@@ -576,6 +576,10 @@ paseo aleatorio con deriva.
   positivos, 2025 el más fuerte); objetivo PDL/PDH +0,208R. TERCERA vez que añadir SMT mejora la
   misma regla (premisa SMT, Kasen 4H, Kasen PDH). Candidato a hipótesis para la reserva 2019-2020.
   `resultados/2026-10-03_kasen_pdh_10am.txt`.
+  **VALIDACIÓN 22/24/26 del SMT de Kasen (04/10, uso nº8, pre-registrada): MUERTO.** PDH+SMT 1:1,5
+  −0,009R (wr 43%, n=123; 2026 −0,25), PEOR que sin SMT (+0,056). Vela 4H+SMT 1:2 +0,007R (n=233),
+  apenas por encima de sin SMT (−0,026). Las tres "pistas del SMT" eran ruido de diseño. La familia
+  barrida + SMT queda cerrada también. `resultados/2026-10-04_validacion_kasen_smt.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
