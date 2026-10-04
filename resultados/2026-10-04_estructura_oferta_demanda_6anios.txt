@@ -1,0 +1,37 @@
+
+##### 6 AÑOS 2021-2026
+
+=== 5m: toques 18501 → operaciones 2256 (12% pasan el filtro) · TP mediano 3.61R · stop mediano 14.8 pts · largos 42%
+  PRINCIPAL (TP estructural): wr 22.8% (TP 19.7%) R=-0.0245 ee 0.0432 p1c=0.7146 · años {2021: 0.056, 2022: 0.025, 2023: -0.133, 2024: -0.096, 2025: -0.078, 2026: 0.067}
+  1:2,5 fijo: wr 30.1% R=-0.0273 · invertida -0.0879 · 1:1 R=-0.0331
+  largos/cortos: largos n=947 R=-0.016 · cortos n=1309 R=-0.031
+  paseo aleatorio: R=-0.1008 wr 22.0% (n=15659) · z=+1.66
+
+=== 15m: toques 6312 → operaciones 1348 (21% pasan el filtro) · TP mediano 3.88R · stop mediano 18.9 pts · largos 46%
+  PRINCIPAL (TP estructural): wr 21.8% (TP 17.3%) R=-0.0894 ee 0.0547 p1c=0.9488 · años {2021: -0.199, 2022: -0.103, 2023: -0.037, 2024: -0.242, 2025: -0.202, 2026: 0.346}
+  1:2,5 fijo: wr 30.0% R=-0.0442 · invertida -0.0624 · 1:1 R=-0.0175
+  largos/cortos: largos n=619 R=+0.031 · cortos n=729 R=-0.192
+  paseo aleatorio: R=-0.0959 wr 20.8% (n=9003) · z=+0.11
+
+=== 1h: toques 1733 → operaciones 472 (27% pasan el filtro) · TP mediano 4.04R · stop mediano 32.8 pts · largos 44%
+  PRINCIPAL (TP estructural): wr 25.6% (TP 14.4%) R=+0.0557 ee 0.1073 p1c=0.3019 · años {2021: -0.371, 2022: 0.247, 2023: -0.037, 2024: 0.38, 2025: -0.027, 2026: 0.128}
+  1:2,5 fijo: wr 31.6% R=-0.0008 · invertida +0.0790 · 1:1 R=-0.0750
+  largos/cortos: largos n=210 R=-0.011 · cortos n=262 R=+0.109
+  paseo aleatorio: R=+0.0034 wr 26.8% (n=2776) · z=+0.46
+
+##### solo 2022/24/26 (uso nº13, umbral 0,0038)
+
+=== 5m: toques 8761 → operaciones 1217 (14% pasan el filtro) · TP mediano 3.65R · stop mediano 16.1 pts · largos 42%
+  PRINCIPAL (TP estructural): wr 23.3% (TP 19.7%) R=+0.0005 ee 0.0597 p1c=0.4967 · años {2022: 0.025, 2024: -0.096, 2026: 0.067}
+  1:2,5 fijo: wr 30.7% R=-0.0010 · invertida -0.0406 · 1:1 R=-0.0693
+  largos/cortos: largos n=515 R=+0.019 · cortos n=702 R=-0.013
+
+=== 15m: toques 2971 → operaciones 665 (22% pasan el filtro) · TP mediano 3.86R · stop mediano 21.6 pts · largos 47%
+  PRINCIPAL (TP estructural): wr 23.0% (TP 18.0%) R=-0.0347 ee 0.0797 p1c=0.6682 · años {2022: -0.103, 2024: -0.242, 2026: 0.346}
+  1:2,5 fijo: wr 31.3% R=-0.0064 · invertida -0.0772 · 1:1 R=-0.0012
+  largos/cortos: largos n=312 R=+0.064 · cortos n=353 R=-0.122
+
+=== 1h: toques 815 → operaciones 225 (28% pasan el filtro) · TP mediano 4.05R · stop mediano 37.9 pts · largos 46%
+  PRINCIPAL (TP estructural): wr 28.4% (TP 16.9%) R=+0.2636 ee 0.1850 p1c=0.0777 · años {2022: 0.247, 2024: 0.38, 2026: 0.128}
+  1:2,5 fijo: wr 35.1% R=+0.1471 · invertida +0.0768 · 1:1 R=+0.0574
+  largos/cortos: largos n=103 R=+0.062 · cortos n=122 R=+0.434

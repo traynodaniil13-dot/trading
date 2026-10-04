@@ -44,6 +44,7 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 | 10 | 04/10 | Desequilibrio de cierre 15:50 (F4, lote 6) | 52,1% p=0,18, 2026 50,0% (umbral 0,005) |
 | 11 | 04/10 | CRT Will Street (3 variantes) | V2 +0,278R p=0,040, V1 +0,194 p=0,08 (umbral 0,0045); diseño negativo |
 | 12 | 04/10 | Ruptura PDH/PDL + retest con patrón 5m (4 variantes) | mejor V-RTH 1:3 +0,076R p=0,31 (umbral 0,0042) |
+| 13 | 04/10 | Estructura + oferta/demanda R:R≥2,5 (5m/15m/1h) | 1h +0,264R p=0,078 (umbral 0,0038); diseño negativo |
 
 ## Estado de años ya usados (antes de este protocolo)
 

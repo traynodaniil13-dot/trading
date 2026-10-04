@@ -1,0 +1,20 @@
+
+##### DISEÑO 2021/23/25
+
+=== 5m: toques 9740 → operaciones 1039 (11% pasan el filtro) · TP mediano 3.56R · stop mediano 13.5 pts · largos 42%
+  PRINCIPAL (TP estructural): wr 22.3% (TP 19.7%) R=-0.0537 ee 0.0624 p1c=0.8051 · años {2021: 0.056, 2023: -0.133, 2025: -0.078}
+  1:2,5 fijo: wr 29.3% R=-0.0582 · invertida -0.1432 · 1:1 R=+0.0094
+  largos/cortos: largos n=432 R=-0.058 · cortos n=607 R=-0.051
+  paseo aleatorio: R=-0.0920 wr 22.2% (n=8116) · z=+0.58
+
+=== 15m: toques 3341 → operaciones 683 (20% pasan el filtro) · TP mediano 3.90R · stop mediano 17.0 pts · largos 45%
+  PRINCIPAL (TP estructural): wr 20.6% (TP 16.5%) R=-0.1427 ee 0.0750 p1c=0.9712 · años {2021: -0.199, 2023: -0.037, 2025: -0.202}
+  1:2,5 fijo: wr 28.8% R=-0.0810 · invertida -0.0480 · 1:1 R=-0.0333
+  largos/cortos: largos n=307 R=-0.003 · cortos n=376 R=-0.257
+  paseo aleatorio: R=-0.0955 wr 21.0% (n=4748) · z=-0.59
+
+=== 1h: toques 918 → operaciones 247 (27% pasan el filtro) · TP mediano 4.02R · stop mediano 27.2 pts · largos 43%
+  PRINCIPAL (TP estructural): wr 23.1% (TP 12.1%) R=-0.1337 ee 0.1159 p1c=0.8752 · años {2021: -0.371, 2023: -0.037, 2025: -0.027}
+  1:2,5 fijo: wr 28.3% R=-0.1356 · invertida +0.0811 · 1:1 R=-0.1956
+  largos/cortos: largos n=107 R=-0.081 · cortos n=140 R=-0.174
+  paseo aleatorio: R=-0.0231 wr 26.0% (n=1439) · z=-0.88
