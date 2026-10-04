@@ -742,11 +742,12 @@ fondeada. Es un bot: lo que no salga en el panel o en un artículo, no es firme.
    salga barato: con loader, controles y simulador de cuentas hechos, probar una
    estrategia nueva pasa de un día a una hora, y probar diez es una tarde. Es la
    inversión que más acelera la búsqueda, y por eso va primero.
-2. **Validar Momento 09:40 a mano en FX Replay**, 60 operaciones sobre 2022 (año
-   nunca usado en ningún backtest). Es la única validación sin look-ahead posible,
-   porque la hace él, no el código. Esperado ~+5R, rango plausible −9R a +19R. Si
-   no se parece, hay un bug nº13 sin descubrir. Va en paralelo: la hace él a mano
-   mientras tú sigues con código, no se bloquea nada esperándola.
+2. ~~Validar Momento 09:40 a mano en FX Replay~~ **HECHO (04/10):** sus operaciones de FX
+   Replay (septiembre: 10 y 11; junio: página de 9) coinciden una a una con el motor en
+   dirección, entrada, stop, objetivo y resultado. La diferencia de marzo era suya (entró a
+   las 10:40 por el cambio de hora). El código hace lo que haría él a mano: no hay bug nº13
+   visible. NO volver a pedírselo. Lo que queda abierto es si la ventaja es real (reserva
+   ciega 2019-2020), no si el código está bien.
 3. Conseguir **2026 completo**. Sin reserva ciega nada puede aprobarse, y ahora
    mismo es el cuello de botella de TODA la búsqueda: cualquier cosa que
    encuentres en 2023-25 se queda en "prometedora" sin él.
