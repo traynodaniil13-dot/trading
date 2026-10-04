@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.157 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.160 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -622,6 +622,13 @@ paseo aleatorio con deriva.
   + FVG 15m −0,065 · DOL H1 + FVG15 −0,045 · DOL H1 + pivote15 +0,069. NO PASA. Lo más vivo de la familia es la
   entrada overnight con TP amplio (1:3 +0,15 · 1:5 +0,17 · pivote15 +0,13): única hipótesis para la reserva
   2019-2020. `resultados/2026-10-04_aleix_reversion_tp_estructural.txt`. `resultados/2026-10-04_aleix_reversion_0930.txt`.
+- **CRT de Will Street (vela diaria + PO3 + breaker 5m 09:00-10:30, 04/10, pre-registrado):** vela 2 diaria
+  barre la vela 1 y cierra dentro; en la vela 3, orden stop en el último pivote 5m previo al mínimo de la
+  manipulación; stop en la manipulación, TP mín(3R, extremo opuesto), BE a 1R. Setup el 29% de los días, entra
+  el 59%. **Diseño 21/23/25: V1 −0,178R (wr 18%), V2 sin BE −0,167, V3 sin tope −0,179, los 3 años negativos.**
+  2022/24/26 (uso nº11, p<0,0045): V1 +0,194 p=0,08 · V2 +0,278 p=0,04, todo de 2024 (+0,50/+0,66; 2026
+  negativo). Signo opuesto entre mitades = régimen (regla H). 6 años: V1 −0,013 = paseo aleatorio (−0,019,
+  z +0,06). NO PASA. `resultados/2026-10-04_crt_will_street_diseno.txt` · `..._6anios.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

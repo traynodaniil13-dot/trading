@@ -42,6 +42,7 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 | 8 | 04/10 | SMT de Kasen (PDH 1:1,5 y vela 4H 1:2) | −0,009R y +0,007R, peor/igual que sin SMT (umbral 0,0031) |
 | 9 | 04/10 | Aleix reversión 09:30 (6 variantes, 6 años) | 22/24/26: mejor V2 +0,065R p=0,31; V4 +0,023 (umbral 0,0056) |
 | 10 | 04/10 | Desequilibrio de cierre 15:50 (F4, lote 6) | 52,1% p=0,18, 2026 50,0% (umbral 0,005) |
+| 11 | 04/10 | CRT Will Street (3 variantes) | V2 +0,278R p=0,040, V1 +0,194 p=0,08 (umbral 0,0045); diseño negativo |
 
 ## Estado de años ya usados (antes de este protocolo)
 
