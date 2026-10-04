@@ -1,6 +1,6 @@
 """Velas diarias BID de Dukascopy para los 28 pares de las 8 divisas mayores, 2020-2026.
 Uso: python -m scripts.descargar_fx_diario. Salida: data/fx_diario.csv.gz"""
-import lzma, struct, time, urllib.request
+import lzma, random, struct, time, urllib.request
 from pathlib import Path
 import pandas as pd
 
@@ -15,7 +15,7 @@ def bajar(par, anio):
     if f.exists():
         return f.read_bytes()
     url = f"https://datafeed.dukascopy.com/datafeed/{par}/{anio}/BID_candles_day_1.bi5"
-    for intento in range(20):
+    for intento in range(400):
         try:
             with urllib.request.urlopen(url, timeout=30) as r:
                 d = r.read()
@@ -23,7 +23,7 @@ def bajar(par, anio):
         except Exception as e:
             if getattr(e, "code", None) == 404:
                 CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(b""); return b""
-            time.sleep(min(120, 3 * 2 ** intento))
+            time.sleep(4 + 4 * random.random())
     raise RuntimeError(f"no se pudo bajar {par} {anio}")
 
 
@@ -33,7 +33,7 @@ def bajar_horas(par, anio, mes):
     if f.exists():
         return f.read_bytes()
     url = f"https://datafeed.dukascopy.com/datafeed/{par}/{anio}/{mes:02d}/BID_candles_hour_1.bi5"
-    for intento in range(20):
+    for intento in range(400):
         try:
             with urllib.request.urlopen(url, timeout=30) as r:
                 d = r.read()
@@ -41,7 +41,7 @@ def bajar_horas(par, anio, mes):
         except Exception as e:
             if getattr(e, "code", None) == 404:
                 CACHE.mkdir(parents=True, exist_ok=True); f.write_bytes(b""); return b""
-            time.sleep(min(120, 3 * 2 ** intento))
+            time.sleep(4 + 4 * random.random())
     raise RuntimeError(f"no se pudo bajar {par} {anio}-{mes}")
 
 
