@@ -33,4 +33,5 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 | M2 | Desequilibrio de cierre en ES (MOC 15:50), 4 variantes | **MUERTA** (04/10): wr 45-49% a 1:1, todas negativas los 3 años (−0,08 a −0,33R con coste). |
 
 ## Próximas tandas (pendientes de datos)
-- M3: Momento de apertura en otros mercados (oro a las 08:20, petróleo a las 09:00, DAX a las 03:00 NY). Necesita M1 de Dukascopy (lento).
+- M3: Momento de apertura en el oro (08:20 NY, 9 variantes). **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.
+- Después: petróleo (09:00 NY) y DAX (03:00 NY) con la misma lógica, si M3 da algo o para cerrar la familia.
