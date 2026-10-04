@@ -34,3 +34,9 @@ Las supervivientes van a 2022/2024/2026 (datos aún sin bajar), con Bonferroni p
 supervivientes y contadas en el protocolo de partición.
 Informativo: lo mismo a las 09:30 y 09:40 NY (apertura de la bolsa de NY), solo como
 descripción, sin decidir nada.
+
+## Adenda (05/10, ANTES de tener los datos del oro)
+Dukascopy va a ~100 ficheros/hora. Para que la descarga no dure 18 h: (1) solo precio BID (el
+"medio" pasa a ser el BID; el coste de 0,25 $/oz ya incluye el diferencial) y (2) sin el
+diciembre previo, porque esta regla no usa indicadores que necesiten calentar. La regla, las
+variantes y los criterios no cambian.

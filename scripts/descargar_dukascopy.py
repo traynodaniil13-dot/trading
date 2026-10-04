@@ -45,10 +45,13 @@ def bajar(dia, lado):
 
 
 for a in ANIOS:
-    dia, fin, partes = date(a - 1, 12, 1), date(a, 12, 31), []
+    import os
+    SOLO_BID, SIN_DIC = os.environ.get("SOLO_BID") == "1", os.environ.get("SIN_DIC") == "1"
+    dia, fin, partes = (date(a, 1, 1) if SIN_DIC else date(a - 1, 12, 1)), date(a, 12, 31), []
     while dia <= fin:
         if dia.weekday() != 5:  # el sábado no hay mercado
-            b, k = bajar(dia, "BID"), bajar(dia, "ASK")
+            b = bajar(dia, "BID")
+            k = b if SOLO_BID else bajar(dia, "ASK")  # SOLO_BID=1: medio = BID (mitad de peticiones)
             if b is not None and k is not None and len(b) and len(k):
                 m = b.merge(k, on="timestamp", suffixes=("_bid", "_ask"))
                 m = m[(m.volume_bid > 0) | (m.volume_ask > 0)]
