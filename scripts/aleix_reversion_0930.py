@@ -65,11 +65,51 @@ def dol_h1(H, ix, h, l, j930, apertura):
     return NH, NL
 
 
+def niveles15(b):
+    pos = np.arange(len(b))
+    g = pd.DataFrame({"k": b.index.floor("15min"), "h": b.h.to_numpy(), "l": b.l.to_numpy(), "p": pos}).groupby("k", sort=True)
+    return g.h.max().to_numpy(), g.l.min().to_numpy(), g.p.last().to_numpy()
+
+
+def objetivo_estructural(Q, h, l, j, px, d, modo, atras=500):
+    """Nivel conocido al cierre de la barra M1 j. Solo velas de 15m cerradas (última M1 <= j)."""
+    Qh, Ql, Qp = Q
+    n = np.searchsorted(Qp, j, side="right")  # velas 15m completas: índices < n
+    lo = max(2, n - atras)
+    mejor = None
+    for i in range(n - 1, lo - 1, -1):
+        if modo == "fvg15":
+            if d == 1 and Qh[i] < Ql[i - 2]:
+                nivel, nace = Qh[i], i
+            elif d == -1 and Ql[i] > Qh[i - 2]:
+                nivel, nace = Ql[i], i
+            else:
+                continue
+        else:  # piv15: pivote en i confirmado al cerrar i+2 (< n)
+            if i + 2 >= n:
+                continue
+            if d == 1 and Qh[i] > max(Qh[i - 1], Qh[i - 2], Qh[i + 1], Qh[i + 2]):
+                nivel, nace = Qh[i], i
+            elif d == -1 and Ql[i] < min(Ql[i - 1], Ql[i - 2], Ql[i + 1], Ql[i + 2]):
+                nivel, nace = Ql[i], i
+            else:
+                continue
+        if (nivel - px) * d <= 0:
+            continue
+        a, z = Qp[nace] + 1, j + 1  # M1 posteriores al nacimiento hasta la entrada
+        if a < z and ((d == 1 and h[a:z].max() >= nivel) or (d == -1 and l[a:z].min() <= nivel)):
+            continue
+        if mejor is None or (nivel - px) * d < (mejor - px) * d:
+            mejor = nivel
+    return mejor
+
+
 def senales(b, liq="on", usar_fvg=True, tp="alto", min_riesgo_pct=0.0005):
     o, h, l, c = (b[k].to_numpy(float) for k in ("o", "h", "l", "c"))
     hh, ses = b.hhmm.to_numpy(), b.sesion.to_numpy()
     idx = np.arange(len(b))
     H, f = fvg_h1(b)
+    Q = niveles15(b) if tp in ("fvg15", "piv15") else None
     filas, prev_rth = [], None
     for s in pd.unique(ses):
         ii = idx[ses == s]; hm = hh[ii]
@@ -122,6 +162,11 @@ def senales(b, liq="on", usar_fvg=True, tp="alto", min_riesgo_pct=0.0005):
             obj = (alto - c[j]) * d / riesgo
             if tp == "alto" and obj <= 0:
                 break
+            if Q is not None:
+                nv = objetivo_estructural(Q, h, l, j, c[j], d, tp)
+                if nv is None:
+                    break
+                obj = (nv - c[j]) * d / riesgo
             filas.append(dict(i_ent=j + 1, precio=c[j], dir=d, riesgo=riesgo, i_fin=fin[0], obj=obj))
             break
     return pd.DataFrame(filas)

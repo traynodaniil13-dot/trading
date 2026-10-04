@@ -79,3 +79,15 @@ validación** para esta familia.
 Misma entrada, TP fijo a 5R, cierre a las 15:59 si no toca nada. Las tres liquidez
 (overnight, RTH previo, DOL H1), sobre los 6 años: **V7, V8, V9**. La familia pasa a 9:
 **p < 0,05/9 = 0,0056**. Mismos criterios que la adenda 2, con 6 semillas de paseo aleatorio.
+
+## Adenda 4 (04/10, ANTES de ejecutar): TP en puntos estructurales
+
+Daniil aclara que el TP no es un ratio: es "el siguiente alto o el siguiente FVG". Se definen
+dos TP estructurales, conocidos en el instante de entrada (solo velas de 15m ya cerradas,
+vistas en las ~500 velas de 15m anteriores):
+- **TP-FVG15:** límite inferior del FVG bajista de 15m más cercano por encima de la entrada,
+  sin tocar desde que nació (en cortos, el espejo).
+- **TP-PIV15:** máximo de swing de 15m (por encima de las 2 velas anteriores y las 2
+  siguientes, confirmado al cerrar la 2ª) más cercano por encima de la entrada y sin barrer.
+Si no hay nivel, no se opera. Se aplican a las entradas overnight (V10, V11) y DOL H1 (V12,
+V13), sobre los 6 años. La familia pasa a 13: **p < 0,05/13 = 0,0038**. Mismos criterios.

@@ -1,0 +1,22 @@
+
+=== V10 overnight · TP FVG15: n=128 · TP a 0.96R de mediana (p25 0.57 · p75 1.74) · toca TP 45.3% · SL 49.2% · cierre 5.5%
+  R=-0.0652 ee 0.0930 p1c=0.7579 wr 49.2% · R total -8.4
+  por año: 2021 -0.069 (n=20) · 2022 +0.037 (n=25) · 2023 +0.182 (n=16) · 2024 -0.185 (n=26) · 2025 -0.078 (n=26) · 2026 -0.263 (n=15)
+
+=== V11 overnight · TP pivote15: n=152 · TP a 1.01R de mediana (p25 0.5 · p75 1.76) · toca TP 52.6% · SL 45.4% · cierre 2.0%
+  R=+0.1252 ee 0.1060 p1c=0.1196 wr 53.3% · R total +19.0
+  por año: 2021 +0.242 (n=25) · 2022 +0.191 (n=31) · 2023 +0.249 (n=17) · 2024 +0.156 (n=32) · 2025 -0.131 (n=28) · 2026 +0.079 (n=19)
+
+=== V12 DOL H1 · TP FVG15: n=70 · TP a 0.88R de mediana (p25 0.43 · p75 1.67) · toca TP 48.6% · SL 44.3% · cierre 7.1%
+  R=-0.0445 ee 0.1194 p1c=0.6449 wr 52.9% · R total -3.1
+  por año: 2021 -0.149 (n=8) · 2022 +0.269 (n=9) · 2023 +0.153 (n=9) · 2024 -0.286 (n=14) · 2025 -0.026 (n=18) · 2026 -0.105 (n=12)
+
+=== V13 DOL H1 · TP pivote15: n=86 · TP a 0.93R de mediana (p25 0.52 · p75 1.5) · toca TP 50.0% · SL 46.5% · cierre 3.5%
+  R=+0.0688 ee 0.1371 p1c=0.3085 wr 51.2% · R total +5.9
+  por año: 2021 +0.370 (n=13) · 2022 +0.295 (n=11) · 2023 +0.103 (n=9) · 2024 -0.247 (n=18) · 2025 -0.035 (n=20) · 2026 +0.139 (n=15)
+
+=== PASEO ALEATORIO (6 semillas × 6 años)
+  V10 overnight · TP FVG15: nulo R=+0.0206 wr 51.2% (n=782) · real -0.0652 wr 49.2% · z=-0.84
+  V11 overnight · TP pivote15: nulo R=-0.0086 wr 51.3% (n=982) · real +0.1252 wr 53.3% · z=+1.19
+  V12 DOL H1 · TP FVG15: nulo R=-0.0805 wr 46.7% (n=415) · real -0.0445 wr 52.9% · z=+0.27
+  V13 DOL H1 · TP pivote15: nulo R=-0.0306 wr 50.1% (n=521) · real +0.0688 wr 51.2% · z=+0.68

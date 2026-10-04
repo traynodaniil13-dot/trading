@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.147 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.151 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -606,7 +606,12 @@ paseo aleatorio con deriva.
   p=0,21 (2025 −0,22, 2026 −0,10). Ninguna con z > 0,84. MUERTA. `resultados/2026-10-04_aleix_reversion_6anios.txt`.
   **A 1:5 (adenda 3, familia de 9, p<0,0056):** overnight +0,172R (n=153, TP 6,5%, wr 36% contando cierres a
   las 15:59, p=0,12; 2025 −0,17 · 2026 −0,33) pero el paseo aleatorio da +0,041 a 1:5 → z +0,83 · RTH +0,067
-  (z +0,13) · DOL H1 +0,066 (z −0,10). NO PASA. `resultados/2026-10-04_aleix_reversion_1a5.txt`. `resultados/2026-10-04_aleix_reversion_0930.txt`.
+  (z +0,13) · DOL H1 +0,066 (z −0,10). NO PASA. `resultados/2026-10-04_aleix_reversion_1a5.txt`.
+  **TP estructural (adenda 4, familia de 13, p<0,0038):** overnight + TP en pivote 15m sin barrer más cercano
+  (V11) +0,125R, n=152, wr 53%, TP a ~1,0R, p=0,12, 5/6 años + (2025 −0,13), z +1,19 sobre el paseo · overnight
+  + FVG 15m −0,065 · DOL H1 + FVG15 −0,045 · DOL H1 + pivote15 +0,069. NO PASA. Lo más vivo de la familia es la
+  entrada overnight con TP amplio (1:3 +0,15 · 1:5 +0,17 · pivote15 +0,13): única hipótesis para la reserva
+  2019-2020. `resultados/2026-10-04_aleix_reversion_tp_estructural.txt`. `resultados/2026-10-04_aleix_reversion_0930.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
