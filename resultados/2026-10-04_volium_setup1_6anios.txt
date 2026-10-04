@@ -1,0 +1,14 @@
+
+##### 6 AÑOS 2021-2026: 95 operaciones (6% de los días) · R:R natural mediano 2.30 · stop ensanchado mediano 71.1 pts (natural 61.6) · largos 64%
+  V1 autor (SL ensanchado, 1:2): wr 42.1% R=+0.0229 ee 0.1215 p1c=0.4256 · años {2021: 0.009, 2022: 0.322, 2023: -0.306, 2024: 0.029, 2025: 0.08, 2026: -0.607}
+  V2 SL natural, TP estructural: wr 40.0% R=+0.0711 ee 0.1371 p1c=0.3025 · años {2021: -0.057, 2022: 0.445, 2023: -0.267, 2024: 0.143, 2025: 0.117, 2026: -0.83}
+  V1 invertida -0.1645 · V1 a 1:1 +0.1328
+  V1 largos/cortos: largos n=61 R=+0.038 · cortos n=34 R=-0.004
+  paseo V1: R=+0.0540 wr 40.9% (n=599) · z=-0.24
+  paseo V2: R=+0.0262 wr 36.6% (n=599) · z=+0.30
+
+##### solo 2022/24/26 (uso nº14, umbral 0,0036): 47 operaciones (6% de los días) · R:R natural mediano 2.30 · stop ensanchado mediano 72.3 pts (natural 66.2) · largos 53%
+  V1 autor (SL ensanchado, 1:2): wr 44.7% R=+0.1045 ee 0.1776 p1c=0.2796 · años {2022: 0.322, 2024: 0.029, 2026: -0.607}
+  V2 SL natural, TP estructural: wr 42.6% R=+0.1875 ee 0.2026 p1c=0.1798 · años {2022: 0.445, 2024: 0.143, 2026: -0.83}
+  V1 invertida -0.1386 · V1 a 1:1 +0.2760
+  V1 largos/cortos: largos n=25 R=+0.028 · cortos n=22 R=+0.191

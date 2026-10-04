@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.168 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.170 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -645,6 +645,12 @@ paseo aleatorio con deriva.
   −0,134 (2021 −0,37). 2022/24/26 (uso nº13, p<0,0038): 1h +0,264 p=0,08 · 5m 0,00 · 15m −0,03. Signo opuesto
   entre mitades en 1h (regla H). 6 años: 1h +0,056 (paseo +0,003, z +0,46) · 5m −0,025 · 15m −0,089. NO PASA.
   `resultados/2026-10-04_estructura_oferta_demanda_diseno.txt` · `..._6anios.txt`.
+- **TRADING VOLIUM setup 1 (tendencia diaria → barrida de swing H1 a favor 08:00-11:30 → V + IFVG 5m con
+  recuperación ≥30%; TP en el swing H1 donde empezó el retroceso, SL ensanchado a 1:2; vídeo pPynrVyQ5x8, 04/10,
+  pre-registrado, en NQ porque no hay datos del GER40):** solo el 6% de los días (95 ops en 6 años). Diseño: V1
+  −0,057 (wr 40%, no el "70-80%") · V2 −0,043. 2022/24/26 (uso nº14): +0,10/+0,19, p 0,18-0,28, 2026 −0,61/−0,83.
+  6 años +0,023/+0,071 vs paseo aleatorio +0,054/+0,026 (z −0,24/+0,30). NO PASA.
+  `resultados/2026-10-04_volium_setup1_diseno.txt` · `..._6anios.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

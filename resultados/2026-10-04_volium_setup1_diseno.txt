@@ -1,0 +1,8 @@
+
+##### DISEÑO 2021/23/25: 48 operaciones (6% de los días) · R:R natural mediano 2.29 · stop ensanchado mediano 67.6 pts (natural 58.9) · largos 75%
+  V1 autor (SL ensanchado, 1:2): wr 39.6% R=-0.0571 ee 0.1670 p1c=0.6331 · años {2021: 0.009, 2023: -0.306, 2025: 0.08}
+  V2 SL natural, TP estructural: wr 37.5% R=-0.0428 ee 0.1857 p1c=0.5906 · años {2021: -0.057, 2023: -0.267, 2025: 0.117}
+  V1 invertida -0.1898 · V1 a 1:1 -0.0074
+  V1 largos/cortos: largos n=36 R=+0.044 · cortos n=12 R=-0.362
+  paseo V1: R=+0.0543 wr 41.6% (n=298) · z=-0.61
+  paseo V2: R=-0.0070 wr 35.9% (n=298) · z=-0.18
