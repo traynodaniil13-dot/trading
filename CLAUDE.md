@@ -665,6 +665,9 @@ paseo aleatorio con deriva.
   PISTA de verdad (la única de hoy con forma de mecanismo), con 3 dudas: cruces sintéticos, indicador aproximado
   y operaciones solapadas (n efectivo menor). Siguiente paso honesto: 28 pares reales y años no vistos (2019-2020
   o 2026), pre-registrado. Forex diario de semanas: no operable en Lucid. `resultados/2026-10-04_magala_fuerza_divisas.txt`.
+  **RESERVA CIEGA 2018-2020 con los 28 pares REALES (pre-registrada, decide): −0,007R, n=400, wr 63,5%, p=0,60,
+  años −0,015 · +0,068 · −0,080 → NO PASA. MUERTA.** (Queda +0,034 sobre la entrada al azar, −0,042, pero no gana
+  dinero; N=20 −0,045 = azar.) No reabrir con otros N, bandas ni salidas. `resultados/2026-10-04_magala_reserva_ciega_2018_2020.txt`.
 - **Piramidaje vs entrada única vs promedio a la baja (INVESTCOIN, diario, NQ/ES + 28 pares, solo largos, 909
   setups, 04/10, pre-registrado):** B piramidar +0,172 R0/setup · A única +0,043 · C promediar −0,034 (wr 66% pero
   peor operación −42,5 R0 y drawdown 420 R0 vs 84). H1 B > A: +0,128, p=0,006 (pasa literalmente) PERO en series
