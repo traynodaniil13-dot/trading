@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.170 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.175 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -651,6 +651,20 @@ paseo aleatorio con deriva.
   −0,057 (wr 40%, no el "70-80%") · V2 −0,043. 2022/24/26 (uso nº14): +0,10/+0,19, p 0,18-0,28, 2026 −0,61/−0,83.
   6 años +0,023/+0,071 vs paseo aleatorio +0,054/+0,026 (z −0,24/+0,30). NO PASA.
   `resultados/2026-10-04_volium_setup1_diseno.txt` · `..._6anios.txt`.
+- **Magalá, fuerza relativa de divisas (diario, 7 pares USD + 21 cruces sintéticos, FSIP aproximado, 2021-2025,
+  04/10, pre-registrado, N=14/20):** 529/469 ops (~90/año, 23 días de media abierta), **wr 67-69%, +0,027/+0,026R,
+  p 0,09/0,13 (umbral 0,025) → NO PASA.** Pero supera a la entrada al azar en las mismas fechas (media −0,020,
+  p95 0,000, p azar 0,000) e invertida −0,087/−0,095 (direccional +0,057). 4/5 años positivos (2022 −0,06).
+  PISTA de verdad (la única de hoy con forma de mecanismo), con 3 dudas: cruces sintéticos, indicador aproximado
+  y operaciones solapadas (n efectivo menor). Siguiente paso honesto: 28 pares reales y años no vistos (2019-2020
+  o 2026), pre-registrado. Forex diario de semanas: no operable en Lucid. `resultados/2026-10-04_magala_fuerza_divisas.txt`.
+- **Piramidaje vs entrada única vs promedio a la baja (INVESTCOIN, diario, NQ/ES + 28 pares, solo largos, 909
+  setups, 04/10, pre-registrado):** B piramidar +0,172 R0/setup · A única +0,043 · C promediar −0,034 (wr 66% pero
+  peor operación −42,5 R0 y drawdown 420 R0 vs 84). H1 B > A: +0,128, p=0,006 (pasa literalmente) PERO en series
+  barajadas sin tendencia B−A da +0,099 ± 0,053 → la mejora es mecánica (más unidades sobre la deriva), z +0,41.
+  H2 ventaja de tendencia de B: z +0,25 → NO. Lo que sí se confirma: promediar a la baja es catastrófico en colas
+  (en barajado C da +0,49; en real −0,03: la tendencia real castiga promediar). Gestión, no ventaja.
+  `resultados/2026-10-04_piramidaje_investcoin.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

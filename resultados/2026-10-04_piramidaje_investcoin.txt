@@ -1,0 +1,24 @@
+setups 909 en 30 mercados · índices 91 · divisas 818
+  A: media +0.043 R0 · mediana -1.000 · positivas 26% · peor operación -3.0 · peor punto medio -0.38 · total +39
+  B: media +0.172 R0 · mediana -1.000 · positivas 23% · peor operación -3.0 · peor punto medio -0.38 · total +156
+  C: media -0.034 R0 · mediana +1.526 · positivas 66% · peor operación -42.5 · peor punto medio -4.57 · total -31
+  unidades medias: B 1.24 · C 1.91
+H1 B − A: +0.128 R0 por setup · p1c=0.0059
+  índices: n=91 · A +0.267 · B +0.517 · C +0.989
+  divisas: n=818 · A +0.018 · B +0.133 · C -0.148
+  por año:
+           A      B      C
+fecha                     
+2020   0.038  0.176  1.068
+2021   0.326  0.660 -0.685
+2022   0.257  0.473 -0.720
+2023  -0.137 -0.153  0.701
+2024  -0.067 -0.012  0.463
+2025  -0.248 -0.309 -1.025
+2026   1.323  3.013  0.967
+  drawdown máximo de la suma A: 82.4 R0
+  drawdown máximo de la suma B: 84.2 R0
+  drawdown máximo de la suma C: 420.4 R0
+H2 B real +0.172 vs barajado +0.130 ± 0.125 · z=+0.25
+barajado (30): B-A +0.099 ± 0.053 · A +0.049 · C +0.488
+real B-A +0.128 → z = +0.41

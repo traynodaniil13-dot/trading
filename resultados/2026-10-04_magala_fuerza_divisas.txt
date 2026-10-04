@@ -1,0 +1,12 @@
+
+=== V1 N=14: n=529 (93/año) · wr 67.1% · R=+0.0265 ee 0.0202 p1c=0.0948 · duración mediana 23 días · llega a EMA50 87% · EMA100 81%
+  por año: 2021 +0.029 (n=109) · 2022 -0.061 (n=103) · 2023 +0.089 (n=106) · 2024 +0.024 (n=113) · 2025 +0.051 (n=98)
+  invertida: R=-0.0873 (n=469)
+  entrada al azar (200): media -0.0201 · p95 +0.0001 · real +0.0265 · p azar 0.000
+  -> NO PASA
+
+=== V2 N=20: n=469 (82/año) · wr 69.3% · R=+0.0258 ee 0.0225 p1c=0.1268 · duración mediana 23 días · llega a EMA50 85% · EMA100 80%
+  por año: 2021 +0.033 (n=96) · 2022 -0.067 (n=96) · 2023 +0.070 (n=88) · 2024 +0.085 (n=104) · 2025 +0.004 (n=85)
+  invertida: R=-0.0948 (n=414)
+  entrada al azar (200): media -0.0223 · p95 +0.0019 · real +0.0258 · p azar 0.000
+  -> NO PASA
