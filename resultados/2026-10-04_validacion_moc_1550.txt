@@ -1,0 +1,11 @@
+
+=== VALIDACIÓN CFD 2022/24/26 (umbral p < 0,005): n=524 (de 677 días) · a favor 52.1% · p1c=0.1795
+  largos 54.8% · cortos 49.6% · años 2022 53.6% (n=239) · 2024 51.5% (n=167) · 2026 50.0% (n=118)
+  como estrategia 1:1, coste ×1: R neta -0.0211 (riesgo mediano 18.3 pts)
+  como estrategia 1:1, coste ×2: R neta -0.0717 (riesgo mediano 18.3 pts)
+  -> NO PASA
+
+=== Informativo · NQ futuro real 2023-25: n=460 (de 722 días) · a favor 50.9% · p1c=0.3721
+  largos 50.0% · cortos 51.8% · años 2023 52.5% (n=141) · 2024 51.6% (n=155) · 2025 48.8% (n=164)
+  como estrategia 1:1, coste ×1: R neta -0.0332 (riesgo mediano 20.2 pts)
+  como estrategia 1:1, coste ×2: R neta -0.0775 (riesgo mediano 20.2 pts)

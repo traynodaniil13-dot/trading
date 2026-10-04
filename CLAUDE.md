@@ -494,6 +494,8 @@ evento vs +0,129% el resto de días (n=24, p 0,66) → no existe en 2021-25 · F
 **F4 desequilibrio de cierre (signo 15:49→15:52, carrera ±0,10% hasta 15:59): 55,4%, n=511, p=0,017** (umbral
 0,0083), largos 52,7 / cortos 58,2, paseo 49,8 [47-52], pero años 61,7 · 55,6 · **48,5 (2025)** → no cumple
 signo estable. Única pista del lote. `resultados/2026-10-04_lote6_fomc_datos_volatilidad.txt`.
+**VALIDACIÓN F4 (uso nº10, p<0,005): 52,1% (n=524), p=0,18, 2026 50,0%, cortos 49,6% → NO PASA.** Como
+estrategia −0,021R (coste ×2 −0,072). NQ futuro 2023-25: 50,9%. Muerta. `resultados/2026-10-04_validacion_moc_1550.txt`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 
