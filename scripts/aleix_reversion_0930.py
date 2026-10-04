@@ -42,6 +42,29 @@ def zonas_vigentes(H, f, t930):
     return out
 
 
+def dol_h1(H, ix, h, l, j930, apertura):
+    """Pivote H1 sin barrer más cercano por encima/debajo de la apertura de 09:30."""
+    k = H.index.values; hh, ll = H.h.to_numpy(), H.l.to_numpy()
+    t930 = np.datetime64(ix[j930])
+    ult = np.searchsorted(k, t930 - np.timedelta64(90, "m"), side="right") - 1  # vela 08:00
+    if ult < 125:
+        return None, None
+    j900 = j930 - 30
+    m_l = l[max(j900, 0):j930].min(); m_h = h[max(j900, 0):j930].max()
+    NL = NH = None
+    for i in range(ult - 2, ult - 120, -1):  # pivote i confirmado al cerrar i+2 <= ult
+        assert i - 2 >= 0
+        if NL is None and ll[i] < ll[i - 1] and ll[i] < ll[i - 2] and ll[i] < ll[i + 1] and ll[i] < ll[i + 2]:
+            if ll[i] < apertura and min(ll[i + 1:ult + 1].min(), m_l) > ll[i]:
+                NL = ll[i]
+        if NH is None and hh[i] > hh[i - 1] and hh[i] > hh[i - 2] and hh[i] > hh[i + 1] and hh[i] > hh[i + 2]:
+            if hh[i] > apertura and max(hh[i + 1:ult + 1].max(), m_h) < hh[i]:
+                NH = hh[i]
+    if NL is None or NH is None:
+        return None, None
+    return NH, NL
+
+
 def senales(b, liq="on", usar_fvg=True, tp="alto", min_riesgo_pct=0.0005):
     o, h, l, c = (b[k].to_numpy(float) for k in ("o", "h", "l", "c"))
     hh, ses = b.hhmm.to_numpy(), b.sesion.to_numpy()
@@ -60,6 +83,10 @@ def senales(b, liq="on", usar_fvg=True, tp="alto", min_riesgo_pct=0.0005):
             continue
         if liq == "on":
             NH, NL = h[on].max(), l[on].min()
+        elif liq == "h1":
+            NH, NL = dol_h1(H, b.index, h, l, ven[0], o[ven[0]])
+            if NH is None:
+                continue
         else:
             if ref is None:
                 continue
@@ -104,11 +131,13 @@ def r_obj(o):
     return np.where(o.rmax >= o.obj, o.obj, np.where(o.toco_sl, -1.0, np.minimum(o.r_cierre, o.obj))) - COSTE / o.riesgo_pts
 
 
-VARS = {"V1": dict(liq="on", tp="alto"), "V2": dict(liq="on", tp="r15"), "V3": dict(liq="rth", tp="alto")}
+VARS = {"V1": dict(liq="on", tp="alto"), "V2": dict(liq="on", tp="r15"), "V3": dict(liq="rth", tp="alto"),
+        "V4": dict(liq="h1", tp="alto"), "V5": dict(liq="h1", tp="r15"), "V6": dict(liq="h1", tp="r3")}
 
 
 def rv(o, var):
-    return motor.r_neta(o, 1.5) if VARS[var]["tp"] == "r15" else r_obj(o)
+    tp = VARS[var]["tp"]
+    return motor.r_neta(o, 1.5) if tp == "r15" else motor.r_neta(o, 3.0) if tp == "r3" else r_obj(o)
 
 
 def correr(D, usar_fvg=True, **kw):
@@ -130,7 +159,7 @@ if __name__ == "__main__":
         inv = motor.r_neta(o, 1.5, True).mean()
         print(f"\n=== {var} {kw}: {len(o)} ops ({len(o)/3:.0f}/año) · stop mediano {o.riesgo_pts.median():.1f} pts · obj mediano {o.obj.median():.2f}R · largos {(o.dir==1).mean():.0%}")
         print(f"  PRINCIPAL: R={s['R']:+.4f} p1c={s['p_1cola']:.4f} wr {s['wr']:.1%} · años {py} · invertida 1:1,5 {inv:+.3f}")
-        for rt in (1.0, 1.5, 2.0):
+        for rt in (1.0, 1.5, 2.0, 3.0):
             rr = motor.r_neta(o, rt); tp = (o.rmax >= rt).mean(); sl = (~(o.rmax >= rt) & o.toco_sl).mean()
             print(f"  1:{rt}: TP {tp:.1%} · SL {sl:.1%} · R {rr.mean():+.4f} · invertida {motor.r_neta(o, rt, True).mean():+.4f}")
     print("\n=== Sin filtro FVG H1 (informativo, liquidez overnight)")

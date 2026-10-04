@@ -49,3 +49,18 @@ invertida ≤ 0. Validación: uso nº9, p < 0,0056.
 
 La misma regla sin la condición del FVG H1 (lo que aporta el filtro), ratios 1:1 y 1:2,
 y largos/cortos.
+
+## Adenda (04/10, ANTES de ejecutar estas variantes): segunda parte del vídeo
+
+Daniil pasó el resto del reel. El "mínimo" es un **DOL marcado en H1**: un mínimo de swing
+anterior, no el overnight. El ejemplo de 1m es acumulación (A) → manipulación (M) con FVG →
+barrida → cierre por encima del FVG (iFVG), y TP en un FVG de 15m lejano (varias R).
+
+Variantes nuevas. Con las 3 anteriores suman **6 en la familia: p < 0,05/6 = 0,0083**.
+- **DOL H1:** pivote H1 (mínimo por debajo de las 2 velas anteriores y las 2 siguientes),
+  confirmado al cerrar la 2ª vela posterior, con la vela de las 08:00 como última. Tiene que
+  seguir sin barrer hasta las 09:29 y estar dentro de las 120 H1 anteriores. Se toma el más
+  cercano por debajo de la apertura de las 09:30 (largos) o por encima (cortos). El resto
+  igual que V1-V3.
+- **V4:** DOL H1 con TP en el siguiente alto · **V5:** DOL H1 a 1:1,5 · **V6:** DOL H1 a 1:3
+  (aproxima el TP en el FVG de 15m del ejemplo).
