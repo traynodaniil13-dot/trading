@@ -4,7 +4,10 @@ from src import controles as C
 from scripts.magala_fuerza import cargar, fuerza, indicadores, senales, simular
 from scripts.descargar_fx_diario import PARES
 
-W = cargar(); ind = indicadores(W)
+import sys
+SOLO_CIEGO = "ciego" in sys.argv
+W = cargar("fx_diario_2017_2020.csv.gz" if SOLO_CIEGO else "fx_diario.csv.gz"); ind = indicadores(W)
+assert W["c"].shape[1] == 28
 print(f"datos: {W['c'].shape[1]} pares · {W['c'].index[0].date()} → {W['c'].index[-1].date()}")
 
 
@@ -24,7 +27,8 @@ def prueba(nom, N, desde, hasta, decide=False, reps=200):
         print("  -> RESERVA CIEGA:", "PASA" if ok else "NO PASA")
 
 
-prueba("Réplica (informativa)", 14, "2021-01-01", "2025-12-31")
-prueba("Réplica (informativa)", 20, "2021-01-01", "2025-12-31")
+if not SOLO_CIEGO:
+    prueba("Réplica (informativa)", 14, "2021-01-01", "2025-12-31")
+    prueba("Réplica (informativa)", 20, "2021-01-01", "2025-12-31")
 prueba("RESERVA CIEGA (decide)", 14, "2018-01-01", "2020-12-31", decide=True)
 prueba("Reserva ciega (informativa)", 20, "2018-01-01", "2020-12-31")

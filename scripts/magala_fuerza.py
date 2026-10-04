@@ -33,9 +33,9 @@ def cruces_sinteticos():
     return pd.concat(filas).dropna()
 
 
-def cargar():
-    if (RAIZ / "data/fx_diario.csv.gz").exists():
-        df = pd.read_csv(RAIZ / "data/fx_diario.csv.gz", parse_dates=["fecha"])
+def cargar(fichero="fx_diario.csv.gz"):
+    if (RAIZ / f"data/{fichero}").exists():
+        df = pd.read_csv(RAIZ / f"data/{fichero}", parse_dates=["fecha"])
     else:
         df = cruces_sinteticos()
     df["fecha"] = df.fecha.dt.normalize()

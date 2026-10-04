@@ -92,7 +92,9 @@ def main(pares=PARES, salida="fx_diario.csv.gz", anios=range(2020, 2027)):
 
 if __name__ == "__main__":
     import sys
-    if "reales" in sys.argv:  # los 28 pares reales, 2017-2025 (2017 de calentamiento)
+    if "ciego" in sys.argv:  # primero lo que necesita la reserva ciega: 2017-2020 de los 28
+        main(PARES, "fx_diario_2017_2020.csv.gz", range(2017, 2021))
+    elif "reales" in sys.argv:  # los 28 pares reales, 2017-2025 (2017 de calentamiento)
         main(PARES, "fx_diario.csv.gz", range(2017, 2026))
     elif "usd" in sys.argv:  # plan B: solo los 7 pares contra el dólar, cruces sintéticos
         main(USD7, "fx_diario_usd.csv.gz")
