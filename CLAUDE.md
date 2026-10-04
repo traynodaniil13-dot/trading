@@ -290,7 +290,7 @@ RTP y LIT antes de gastar seis baterías en la misma familia.
 
 ## 7. Estado de las estrategias
 
-### Con ventaja auditada: NINGUNA.
+### Con ventaja auditada: NINGUNA. (05/10: Momento 09:40 cayó en la reserva ciega 2019-2020.)
 
 ### En vigilancia (ni descartadas ni aprobadas)
 
@@ -352,6 +352,12 @@ mensual IC95% [+0,037, +0,154]. `resultados/2026-09-27_pruebas_duras_momento_pct
 Ventaja realista para planificar: **+0,05/+0,06R** (lo que da en el futuro).
 Veredicto: la mejor pista del proyecto, sin bug ni fragilidad detectable, **pero
 no aprobada** (validación p=0,049). Siguiente: forward-test en demo.
+**RESERVA CIEGA 2019-2020 (05/10, pre-registrada el 03/10, datos nunca vistos, decide): −0,038R, n=495,
+wr 38,6%, p=0,75 · 2019 +0,068 · 2020 −0,146 · paseo aleatorio −0,018 (z −0,34) · TP 22,6% / SL 55,4%.
+NO PASA.** Con 2021-26 (+0,096, positivo los 6 años) y 2019-20 (−0,04), el retrato es el de un efecto
+de régimen 2021-26, no de una ventaja estable. **Se retira como candidata: no se opera con dinero.**
+`resultados/2026-10-05_reserva_ciega_2019_2020.txt`. H4 (Aleix overnight + TP pivote 15m): +0,197R con
+n=42, p=0,25 → NO PASA (muestra mínima).
 **Validación en otro instrumento, ES/S&P 500 (28/09, pre-registrada, reglas
 congeladas, ES nunca usado): +0,023R, n=1.329, p=0,24, 3 de 6 años positivos
 (2021 +0,05 · 2022 −0,01 · 2023 +0,09 · 2024 −0,05 · 2025 −0,04 · 2026 +0,13).
