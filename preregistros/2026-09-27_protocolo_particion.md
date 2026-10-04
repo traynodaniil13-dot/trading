@@ -40,6 +40,7 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 | 6 | 02/10 | Rotura de inside day (lote 4, ±0,40%) | 51,0% a favor (25/49), p=0,50 (no pasa p<0,0083) |
 | 7 | 03/10 | Rejilla masiva alterna (10 finalistas de 28.512) | 9/10 negativas; mejor 09:40 L30 martes +0,192R p=0,061 (umbral 0,00071) |
 | 8 | 04/10 | SMT de Kasen (PDH 1:1,5 y vela 4H 1:2) | −0,009R y +0,007R, peor/igual que sin SMT (umbral 0,0031) |
+| 9 | 04/10 | Aleix reversión 09:30 (6 variantes, 6 años) | 22/24/26: mejor V2 +0,065R p=0,31; V4 +0,023 (umbral 0,0056) |
 
 ## Estado de años ya usados (antes de este protocolo)
 

@@ -600,7 +600,10 @@ paseo aleatorio con deriva.
   +0,036) · V3 liquidez del RTH previo −0,150R. Paseo aleatorio −0,01/−0,02 (z −1,4 a +0,7). Sin el
   filtro FVG H1 (306 ops) ≈ Fede: 1:1 +0,006. **Adenda con DOL = pivote H1 sin barrer** (segunda parte
   del vídeo, 3 variantes más, familia de 6, p<0,0083): 42 ops (14/año); TP alto −0,039 (wr 67%) · 1:1,5
-  −0,120 · 1:3 +0,013 (2025 −0,28), todo dentro del paseo aleatorio. NO PASA. `resultados/2026-10-04_aleix_reversion_0930.txt`.
+  −0,120 · 1:3 +0,013 (2025 −0,28), todo dentro del paseo aleatorio. NO PASA.
+  **6 años 2021-26 sin cambiar reglas (uso nº9 de validación, 04/10):** V4 86 ops, wr 69,8% y −0,008R;
+  el paseo aleatorio da wr 66,1% con la misma regla (el winrate lo pone el TP a 0,38R). Mejor V2 +0,078R
+  p=0,21 (2025 −0,22, 2026 −0,10). Ninguna con z > 0,84. MUERTA. `resultados/2026-10-04_aleix_reversion_6anios.txt`. `resultados/2026-10-04_aleix_reversion_0930.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

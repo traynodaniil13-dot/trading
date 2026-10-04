@@ -64,3 +64,12 @@ Variantes nuevas. Con las 3 anteriores suman **6 en la familia: p < 0,05/6 = 0,0
   igual que V1-V3.
 - **V4:** DOL H1 con TP en el siguiente alto · **V5:** DOL H1 a 1:1,5 · **V6:** DOL H1 a 1:3
   (aproxima el TP en el FVG de 15m del ejemplo).
+
+## Adenda 2 (04/10, ANTES de ejecutar): los 6 años, a petición de Daniil
+
+Las reglas son del autor y no se han ajustado con datos, así que se miden las 6 variantes,
+sin cambiar nada, sobre 2021-2026 (2026 hasta el 23/09). Esto gasta el **uso nº9 de la
+validación** para esta familia.
+- Criterio, 6 años juntos: p < 0,0083 (familia de 6), los 6 años con R > 0 en al menos 5,
+  invertida ≤ 0 y exceso sobre el paseo aleatorio con z > 2.
+- Criterio, solo 2022/24/26: p < 0,0056.
