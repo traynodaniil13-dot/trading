@@ -295,6 +295,14 @@ RTP y LIT antes de gastar seis baterías en la misma familia.
 ### En vigilancia (ni descartadas ni aprobadas)
 
 **OPEN_DRIVE · 1:2 → +0,167R · p=0,026 · 93 ops/año**
+**05/10 — Mina N3 + prueba en años no vistos (pre-registradas):** diseño CFD 21/23/25, 6 variantes (vela de
+2/3/5 min × cuerpo > 0,6/0,8), todas positivas y crecientes con el cuerpo; familia NO pasa (placebo p=0,075).
+Regla elegida m=5 cuerpo>0,8 (diseño +0,225R, 3/3 años) → **años no vistos 2019/20/22/24/26: +0,196R, n=161,
+p=0,039 (umbral 0,0083 por elegir 1 de 6) → NO PASA**; 4/5 años + (2019 +0,73 · 2020 −0,26 · 2022 +0,20 ·
+2024 +0,01 · 2026 +0,16), invertida −0,26, paseo −0,015 (z +1,83). Futuro NQ real 2023-25 +0,166 (no ciego).
+Por el pre-registro queda cerrada para variantes (otros m, cuerpos, stops, ratios). Es la señal fuera de
+muestra más consistente del proyecto, pero no aprobada: solo cabe un forward-test sin dinero de la regla
+exacta. `resultados/2026-10-05_open_drive_ciego.txt`.
 Primera vela M5 de RTH con cuerpo >60% del rango, entrada al cierre en su
 dirección, stop = rango de la vela.
 A favor: es una MESETA, no un pico. Funciona en todo el rango de umbral de cuerpo

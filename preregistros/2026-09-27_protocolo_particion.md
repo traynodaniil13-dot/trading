@@ -46,6 +46,7 @@ validadas, no sobre variantes de diseño, que ya se corrigen en su fase).
 | 12 | 04/10 | Ruptura PDH/PDL + retest con patrón 5m (4 variantes) | mejor V-RTH 1:3 +0,076R p=0,31 (umbral 0,0042) |
 | 13 | 04/10 | Estructura + oferta/demanda R:R≥2,5 (5m/15m/1h) | 1h +0,264R p=0,078 (umbral 0,0038); diseño negativo |
 | 14 | 04/10 | TRADING VOLIUM setup 1 (2 variantes) | V2 +0,188R p=0,18, 2026 −0,83 (umbral 0,0036) |
+| 15 | 05/10 | OPEN_DRIVE m=5 cuerpo>0,8 (con reserva 2019-20 juntas) | +0,196R p=0,039 (umbral 0,0083), 4/5 años + |
 
 ## Estado de años ya usados (antes de este protocolo)
 
