@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.195 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.203 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -517,6 +517,14 @@ máximo del nulo de la familia + placebo de familia + 3/3 años + invertida ≤ 
 supervivientes. Tanda 1: **M1 valor relativo NQ-ES (12 variantes) MUERTA** (mejor +0,088R, n=30, < p95
 nulo +0,200; placebo p=0,44) · **M2 MOC 15:50 en ES (4) MUERTA** (wr 45-49% a 1:1, todas negativas).
 `resultados/2026-10-04_mina_tanda1_m1.txt` · `..._m2.txt`.
+
+### Rejilla coherente impares→pares (05/10, pre-registrada, idea de Daniil) — CERRADA SIN VALIDAR
+19.008 reglas de momento/reversión a hora fija (T 09:35-15:00, L, k, ratio 1-3, sin día de la semana),
+diseño 2019/21/23/25. 4/4 años positivos: 513 (2,7%, por debajo del 6% del azar) · + meseta ≥75%: 431 ·
+**+ por encima del p95 del máximo del placebo de la rejilla (+0,204): 0 → no se gastó la validación.**
+Informativo: lo más coherente es momento a las 10:10-10:50 (L 15-120, ratio 2-3): +0,12/+0,16R, 4/4 años,
+meseta completa, pero dentro de lo que da el azar con 19.008 reglas. Las columnas de validación se
+borraron del CSV sin mirarlas. `resultados/2026-10-05_rejilla_coherente.txt` · `.csv`.
 
 ### Lote 1 de premisas nuevas (27/09, protocolo de partición, diseño 2021/23/25 CFD)
 

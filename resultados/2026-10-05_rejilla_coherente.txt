@@ -1,0 +1,22 @@
+reglas 19,008 · placebo (máximo de la rejilla, 200 reps): media +0.1652 · p95 +0.2036
+4/4 años de diseño: 513 (2.7%; azar puro ~6%) · + meseta: 431 · + n≥400: 431 · + > p95 del placebo: 0
+
+Mejores coherentes por R mínima anual (1-3, informativo):
+   T   L    k modo  ratio  n_dis  R_dis  min_dis  meseta
+1025  60 0.25  mom    3.0    989  0.146    0.140   1.000
+1025  30 0.20  mom    3.0    986  0.131    0.108   1.000
+1025  60 0.20  mom    3.0    989  0.145    0.107   1.000
+1040 120 0.25  mom    2.0    989  0.132    0.106   1.000
+1010  15 0.30  mom    2.0    989  0.131    0.099   0.833
+1010  15 0.30  mom    3.0    989  0.130    0.095   0.833
+1040 120 0.30  mom    2.0    989  0.130    0.094   1.000
+1010  60 0.30  mom    3.0    989  0.158    0.094   1.000
+1050  30 0.25  mom    2.0    988  0.121    0.088   1.000
+1050  30 0.20  mom    1.5    988  0.090    0.084   1.000
+1025  60 0.30  mom    3.0    989  0.132    0.083   1.000
+1025  60 0.30  mom    2.0    989  0.132    0.080   1.000
+1030  60 0.40  mom    1.5    989  0.103    0.079   1.000
+1010  60 0.30  mom    2.0    989  0.124    0.079   1.000
+1025  60 0.25  mom    2.0    989  0.139    0.077   1.000
+
+Ninguna supera el p95 del placebo de la rejilla → NO se gasta la validación. Rejilla cerrada.
