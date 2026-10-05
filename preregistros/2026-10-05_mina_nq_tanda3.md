@@ -37,3 +37,10 @@ del rango, se disparan y hay expansión.
 - q {0,5, 0,7} × ratio {2, 3} = 4.
 
 Expectativa dicha antes: por la tasa base del proyecto, lo más probable es que no sobreviva ninguna.
+
+## Nota tras ejecutar (05/10): T2 estaba mal especificada
+Con el rango ON definido como 18:00-09:29, la apertura de las 09:30 casi nunca queda fuera de él (el
+mercado cotiza seguido y el rango incluye la vela de las 09:29): solo 1 caso en 4 años. No es un
+resultado, es un error de diseño mío. No se rehace: la versión con sentido (apertura fuera del rango
+del día ANTERIOR, aceptación o rechazo) ya está cubierta por familias probadas (apertura fuera del rango
+previo en el lote 4, barrida de PDH/PDL de Kasen y ruptura de PDH/PDL con retesteo).

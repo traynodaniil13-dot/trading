@@ -1,0 +1,15 @@
+/usr/local/lib/python3.11/dist-packages/numpy/lib/_function_base_impl.py:4596: RuntimeWarning: invalid value encountered in scalar subtract
+  diff_b_a = b - a
+
+######## FAMILIA T2 rango overnight · 8 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -inf · p95 +nan · placebo de dirección (máximo real +1.9862): p=0.520
+                variante  n      wr       R  p1c     inv  anios_pos  supera_p95_nulo  pasa
+   RECHAZO k=0.25% 1:2.0  1 +1.0000 +1.9862  NaN -1.0138          1            False False
+    RECHAZO k=0.4% 1:1.5  1 +1.0000 +1.4914  NaN -1.0086          1            False False
+   RECHAZO k=0.25% 1:1.5  1 +1.0000 +1.4862  NaN -1.0138          1            False False
+    RECHAZO k=0.4% 1:2.0  1 +1.0000 +1.4195  NaN -1.0086          1            False False
+ ACEPTACION k=0.4% 1:2.0  1 +0.0000 -1.0095  NaN +0.3541          0            False False
+ ACEPTACION k=0.4% 1:1.5  1 +0.0000 -1.0095  NaN +1.4905          0            False False
+ACEPTACION k=0.25% 1:2.0  1 +0.0000 -1.0152  NaN +1.9848          0            False False
+ACEPTACION k=0.25% 1:1.5  1 +0.0000 -1.0152  NaN +1.4848          0            False False
+SUPERVIVIENTES a validación: ninguna

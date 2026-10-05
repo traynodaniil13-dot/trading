@@ -36,6 +36,8 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 | NQ-2 | N1 apertura de Asia (8) · N2 días de tendencia (8) · N3 OPEN_DRIVE (6) | N1 y N2 **MUERTAS**; N3 no pasa (placebo p=0,075), la mejor regla dio +0,196R en años no vistos con p=0,039 (umbral 0,0083) |
 | Rejilla | Momento/reversión a hora fija, impares→pares, 19.008 reglas | **CERRADA**: 0 por encima del p95 del placebo de la rejilla; validación sin gastar |
 
+| NQ-3 | T1 inventario overnight (8) · T2 rango overnight (8) · T3 compresión → ruptura (4), impares→pares | T1 **MUERTA**; T3 no pasa (+0,186R, 4/4 años, < p95 nulo); T2 mal especificada (1 caso), no se rehace |
+
 ## Próximas tandas (pendientes de datos)
 - M3 (oro): **CANCELADA el 05/10** sin ejecutar, porque Daniil solo opera Nasdaq. El pre-registro queda archivado, la descarga se paró y no se mira el resultado. **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.
 - Petróleo y DAX: descartados (no son Nasdaq).
