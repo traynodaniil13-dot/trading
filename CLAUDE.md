@@ -303,6 +303,8 @@ p=0,039 (umbral 0,0083 por elegir 1 de 6) → NO PASA**; 4/5 años + (2019 +0,73
 Por el pre-registro queda cerrada para variantes (otros m, cuerpos, stops, ratios). Es la señal fuera de
 muestra más consistente del proyecto, pero no aprobada: solo cabe un forward-test sin dinero de la regla
 exacta. `resultados/2026-10-05_open_drive_ciego.txt`.
+**Forward test (días sin ver, `scripts/forward_open_drive.py`, se repite cada semana):** 24/09-02/10/2026: 7 sesiones,
+1 señal (29/09, corto, cerró a las 15:59 en −0,03R). Sin conclusiones hasta tener decenas de señales. `resultados/forward_open_drive.csv`.
 Primera vela M5 de RTH con cuerpo >60% del rango, entrada al cierre en su
 dirección, stop = rango de la vela.
 A favor: es una MESETA, no un pico. Funciona en todo el rango de umbral de cuerpo
