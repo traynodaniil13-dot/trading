@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.251 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.259 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -707,6 +707,15 @@ paseo aleatorio con deriva.
   p=0,025 e invertida −0,46, PERO 2023 negativo (−0,20) → no cumple 3/3 años → NO PASA en diseño. **Bug propio
   cazado antes de leer:** el break-even calculado con rmax (sin el camino) daba +0,44R; con la simulación minuto
   a minuto, +0,225. `resultados/2026-10-05_falso_desplome_apertura.txt`.
+- **Gerard García, "retirar 75.000$ de Apex" (vídeo L5w_tUcnMfM, 05/10, pre-registrado, idea de Daniil):** EMA 20 en
+  M15 y M30 cerradas → barrida del último swing M5 A FAVOR de tendencia → límite en el FVG M5 sin tocar más cercano,
+  promediada opcional en el otro borde; TP/SL monetario 0,625:1 ($500/$800). Londres 02:00-05:00 y NY 09:30-11:00 ×
+  SL 0,25/0,50% × promediar = 8. Diseño impares 2019/21/23/25: **mejor +0,010R (Londres SL 0,5%), p=0,37, todas entre
+  −0,05 y +0,01, ninguna con 3/4 años positivos (solo 2023 fuerte), placebo p=0,50, p95 del nulo +0,057 → MUERTA.**
+  Winrate 53-62% contra un empate de 61,5% sin coste: el "alta probabilidad" lo pone el ratio < 1:1. Racha máxima de
+  5-8 pérdidas seguidas (él dice "rara vez más de dos"). Su resultado es de 20 cuentas de Apex con copiador: varianza
+  multiplicada, no ventaja. El clip de apertura ("zona de acumulación" + piramidar) = ORB/T3/OPEN_DRIVE, ya medidos.
+  `resultados/2026-10-05_gerard_garcia_fvg.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.
