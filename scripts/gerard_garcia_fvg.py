@@ -64,7 +64,7 @@ def camino(h, l, c, d, fills, a, fin, R0):
     return sum(s * (c[fin] - p) * d for _, p, s in u) / R0
 
 
-def variante(sesion, slp, prom):
+def variante(sesion, slp, prom, minfvg=0.0):
     a0, a1, cierre = SESIONES[sesion]
 
     def fn(df):
@@ -99,6 +99,8 @@ def variante(sesion, slp, prom):
                 cand = []
                 for q in fv:
                     top, bot = (l5[q], h5[q - 2]) if d == 1 else (h5[q], l5[q - 2])
+                    if abs(top - bot) < minfvg * c[k]:
+                        continue
                     tras = l[kl5[q] + 1:k + 1] if d == 1 else h[kl5[q] + 1:k + 1]
                     if d == 1 and top < l[k] and (not len(tras) or tras.min() > top):
                         cand.append((top, bot))
@@ -106,11 +108,11 @@ def variante(sesion, slp, prom):
                         cand.append((top, bot))
                 if cand:
                     top, bot = max(cand) if d == 1 else min(cand)
-                    orden = (k, d, top, bot)
+                    orden = (k, d, top, bot, nivel)
                 break                                               # solo la primera barrida del día
             if orden is None:
                 continue
-            k, d, top, bot = orden
+            k, d, top, bot, nivel = orden
             m1 = next((m for m in range(k + 1, fin) if hm[m] <= a1 and ((d == 1 and l[m] <= top) or (d == -1 and h[m] >= top))), None)
             if m1 is None:
                 continue
@@ -129,13 +131,15 @@ def variante(sesion, slp, prom):
                 fl = list(fills)
                 bruta = camino(h, l, c, dd, fl, m1 + 1, fin, R0)
                 res[nom] = bruta - COSTE * sum(x[2] for x in fl) / R0
-            filas.append(dict(i_ent=m1 + 1, precio=p1, dir=d, riesgo=R0, i_fin=fin, **res))
+            filas.append(dict(i_ent=m1 + 1, precio=p1, dir=d, riesgo=R0, i_fin=fin, k_barrida=k, nivel=nivel, fvg_a=top, fvg_b=bot, **res))
         return df, pd.DataFrame(filas)
     return fn
 
 
 V = {f"{s} SL {sl}% {'promedia' if p else 'sin promediar'}": variante(s, sl, p)
      for s in SESIONES for sl in (0.25, 0.50) for p in (False, True)}
+V2 = {f"{s} SL {sl}% {'promedia' if p else 'sin promediar'} FVG>=0,04%": variante(s, sl, p, 0.0004)
+      for s in SESIONES for sl in (0.25, 0.50) for p in (False, True)}
 r_fn = lambda o, invertida=False: o["r_inv" if invertida else "r"].to_numpy()
 carga = lambda anios: {a: loader.cargar_cfd([loader.RAIZ / f"data/nq_cfd_{a}.csv.gz"], verbose=False) for a in anios}
 
@@ -148,6 +152,9 @@ def racha(r):
 
 
 if __name__ == "__main__":
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "v2":
+        V = V2
     tab, sup, ops = mina.evaluar("Gerard García EMA20 + barrida + FVG", V, r_fn, carga(IMPARES),
                                  lambda df, sd: C.paseo_aleatorio(df, sd), semillas=12)
     print("\nInformativo:")

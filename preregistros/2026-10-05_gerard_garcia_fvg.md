@@ -48,3 +48,12 @@ racha máxima de stops seguidos y frecuencia.
 Asimetría direccional (normal − invertida)/2: Londres SL 0,25% sin promediar +0,003 ± 0,013 · NY SL 0,25%
 con promediada +0,027 ± 0,013 (2σ, posible ruido con 2 pruebas). Sin cambios en la regla: el criterio de la
 familia ya compara contra el máximo del paseo aleatorio, que lleva ese sesgo dentro.
+
+## Corrección 1 (05/10, tras la 1ª ejecución, ANTES de volver a ejecutar) — auditoría visual
+Al dibujar las operaciones del 29/09, 30/09 y 01/10/2026 (`resultados/graficos_gerard/`), los FVG elegidos
+miden 0,6-2,3 pts: microhuecos de 5 min que ningún trader marcaría como "imbalance", pegados al precio, que se
+llenan al instante. Es un fallo de MI interpretación, no del autor. Corrección única, fijada sin mirar
+resultados: el FVG tiene que medir al menos el **0,04% del precio** (~12 pts a 30.000, ~8 a 20.000). Todo lo
+demás igual. Son 8 variantes nuevas: **la familia pasa a 16** y el umbral de validación se divide por 16.
+Criterios iguales (p95 del máximo de las 8 nuevas sobre el paseo aleatorio, placebo, 4/4 años, invertida ≤ 0).
+No se harán más correcciones de tamaño de FVG.
