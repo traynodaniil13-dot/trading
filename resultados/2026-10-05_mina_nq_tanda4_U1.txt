@@ -1,0 +1,17 @@
+
+######## FAMILIA U1 ruptura N dias · 6 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0421 · p95 +0.1010 · placebo de dirección (máximo real -0.0609): p=0.800
+   variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+ N=5 k=0.3% 399 +0.3759 -0.0609 +0.8386 -0.0015          1            False False
+N=10 k=0.5% 305 +0.4295 -0.0699 +0.8935 -0.0795          0            False False
+N=20 k=0.5% 249 +0.4378 -0.0756 +0.8947 -0.0669          1            False False
+ N=5 k=0.5% 399 +0.4236 -0.0819 +0.9508 -0.0008          0            False False
+N=10 k=0.3% 305 +0.3574 -0.1134 +0.9499 -0.0295          1            False False
+N=20 k=0.3% 249 +0.3655 -0.1165 +0.9401 +0.0158          1            False False
+SUPERVIVIENTES a validación: ninguna
+  N=5 k=0.3%: largos 67% · por año {2019: -0.055, 2021: -0.111, 2023: 0.031, 2025: -0.126}
+  N=5 k=0.5%: largos 67% · por año {2019: -0.042, 2021: -0.162, 2023: -0.062, 2025: -0.062}
+  N=10 k=0.3%: largos 74% · por año {2019: -0.164, 2021: -0.009, 2023: 0.051, 2025: -0.36}
+  N=10 k=0.5%: largos 74% · por año {2019: -0.044, 2021: -0.005, 2023: -0.03, 2025: -0.204}
+  N=20 k=0.3%: largos 78% · por año {2019: -0.139, 2021: 0.129, 2023: -0.075, 2025: -0.401}
+  N=20 k=0.5%: largos 78% · por año {2019: -0.024, 2021: 0.036, 2023: -0.062, 2025: -0.258}
