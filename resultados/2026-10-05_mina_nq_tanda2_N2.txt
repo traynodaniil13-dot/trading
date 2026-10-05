@@ -1,0 +1,13 @@
+
+######## FAMILIA N2 días de tendencia · 8 variantes · años [2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.1417 · p95 +0.3072 · placebo de dirección (máximo real +0.3656): p=0.505
+         variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+CONT q=2.0 k=0.3%  38 +0.4737 +0.3656 +0.0701 +0.0592          3             True False
+CONT q=1.5 k=0.3% 118 +0.3983 +0.1308 +0.1619 +0.0632          3            False False
+CONT q=2.0 k=0.5%  38 +0.4474 +0.1161 +0.2975 -0.2556          2            False False
+CONT q=1.5 k=0.5% 118 +0.4661 +0.1043 +0.1747 -0.1685          2            False False
+ REV q=1.5 k=0.3% 118 +0.3729 +0.0632 +0.3127 +0.1308          1            False False
+ REV q=2.0 k=0.3%  38 +0.3684 +0.0592 +0.4007 +0.3656          2            False False
+ REV q=1.5 k=0.5% 118 +0.3220 -0.1685 +0.9409 +0.1043          1            False False
+ REV q=2.0 k=0.5%  38 +0.2895 -0.2556 +0.9007 +0.1161          0            False False
+SUPERVIVIENTES a validación: ninguna
