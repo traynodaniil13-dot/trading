@@ -514,7 +514,8 @@ estrategia −0,021R (coste ×2 −0,072). NQ futuro 2023-25: 50,9%. Muerta. `re
 ### Mina de estrategias (desde el 04/10, `mina/README.md`, `src/mina.py`)
 Proceso pedido por Daniil: familias con mecanismo, pre-registro por tanda, criterio común (p95 del
 máximo del nulo de la familia + placebo de familia + 3/3 años + invertida ≤ 0) y validación solo de
-supervivientes. Tanda 1: **M1 valor relativo NQ-ES (12 variantes) MUERTA** (mejor +0,088R, n=30, < p95
+supervivientes. **Solo Nasdaq desde el 05/10.** Tanda NQ-2 (05/10): **N1 apertura de Asia (8) MUERTA** (mejor HK +0,031R, placebo p=0,40)
+· **N2 días de tendencia (8) MUERTA** (placebo p=0,51) · **N3 OPEN_DRIVE (6) no pasa** (placebo p=0,075; ver sección OPEN_DRIVE). Tanda 1: **M1 valor relativo NQ-ES (12 variantes) MUERTA** (mejor +0,088R, n=30, < p95
 nulo +0,200; placebo p=0,44) · **M2 MOC 15:50 en ES (4) MUERTA** (wr 45-49% a 1:1, todas negativas).
 `resultados/2026-10-04_mina_tanda1_m1.txt` · `..._m2.txt`.
 

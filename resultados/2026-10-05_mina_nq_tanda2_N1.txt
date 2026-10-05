@@ -1,0 +1,13 @@
+
+######## FAMILIA N1 apertura de Asia · 8 variantes · años [2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0097 · p95 +0.0415 · placebo de dirección (máximo real +0.0305): p=0.400
+            variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+HongKong L15 k=0.25% 767 +0.4707 +0.0305 +0.1790 -0.0469          2            False False
+HongKong L15 k=0.15% 767 +0.4211 +0.0252 +0.2787 -0.0568          2            False False
+HongKong L30 k=0.25% 767 +0.4498 +0.0079 +0.4064 -0.0243          2            False False
+HongKong L30 k=0.15% 767 +0.4068 -0.0029 +0.5275 -0.0287          2            False False
+   Tokio L30 k=0.25% 758 +0.4406 -0.0288 +0.7912 +0.0055          1            False False
+   Tokio L15 k=0.25% 758 +0.4354 -0.0394 +0.8672 +0.0176          1            False False
+   Tokio L30 k=0.15% 758 +0.3799 -0.0469 +0.8515 -0.0512          1            False False
+   Tokio L15 k=0.15% 758 +0.3799 -0.0502 +0.8700 -0.0505          0            False False
+SUPERVIVIENTES a validación: ninguna

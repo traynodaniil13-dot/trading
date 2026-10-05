@@ -33,6 +33,9 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 | M1 | Valor relativo NQ-ES intradía (reversión/continuación del diferencial), 12 variantes | **MUERTA** (04/10): mejor +0,088R con n=30, por debajo del p95 del nulo (+0,200); placebo de familia p=0,44. Separaciones ≥1,5σ solo en ~20% de los días, sin dirección. |
 | M2 | Desequilibrio de cierre en ES (MOC 15:50), 4 variantes | **MUERTA** (04/10): wr 45-49% a 1:1, todas negativas los 3 años (−0,08 a −0,33R con coste). |
 
+| NQ-2 | N1 apertura de Asia (8) · N2 días de tendencia (8) · N3 OPEN_DRIVE (6) | N1 y N2 **MUERTAS**; N3 no pasa (placebo p=0,075), la mejor regla dio +0,196R en años no vistos con p=0,039 (umbral 0,0083) |
+| Rejilla | Momento/reversión a hora fija, impares→pares, 19.008 reglas | **CERRADA**: 0 por encima del p95 del placebo de la rejilla; validación sin gastar |
+
 ## Próximas tandas (pendientes de datos)
 - M3 (oro): **CANCELADA el 05/10** sin ejecutar, porque Daniil solo opera Nasdaq. El pre-registro queda archivado, la descarga se paró y no se mira el resultado. **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.
 - Petróleo y DAX: descartados (no son Nasdaq).
