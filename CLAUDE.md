@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 30.191 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 30.195 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -681,6 +681,13 @@ paseo aleatorio con deriva.
   H2 ventaja de tendencia de B: z +0,25 → NO. Lo que sí se confirma: promediar a la baja es catastrófico en colas
   (en barajado C da +0,49; en real −0,03: la tendencia real castiga promediar). Gestión, no ventaja.
   `resultados/2026-10-04_piramidaje_investcoin.txt`.
+- **"Falso desplome" de la apertura (vídeo xaZeNPHwKDw, análisis de UNA operación, 05/10, pre-registrado, 4
+  variantes):** velas 5m de 09:30 y 09:35 bajistas que perforan el mínimo de 08:00-09:29, después 09:40 y 09:45
+  alcistas → compra al cierre de 09:45; stop en el mínimo; TP 4R o PDH; con/sin BE. Espejo en cortos. 79 ops en
+  3 años (26/año). Mejor: TP PDH sin BE +0,238R (n=56, p=0,14), por encima del p95 del nulo (+0,169), placebo
+  p=0,025 e invertida −0,46, PERO 2023 negativo (−0,20) → no cumple 3/3 años → NO PASA en diseño. **Bug propio
+  cazado antes de leer:** el break-even calculado con rmax (sin el camino) daba +0,44R; con la simulación minuto
+  a minuto, +0,225. `resultados/2026-10-05_falso_desplome_apertura.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
   los lotes 2-6 y del barrido de 528.

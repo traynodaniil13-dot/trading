@@ -28,3 +28,9 @@ placebo de familia p < 0,05, 3/3 años, invertida ≤ 0. Si alguna sobrevive: va
 y después reserva ciega 2019-2020.
 Expectativa dicha antes: patrón poco frecuente (unas pocas veces al mes) y de la familia barrida +
 giro, medida en cero muchas veces.
+
+## Corrección (05/10, tras la 1ª ejecución, antes de interpretar)
+La 1ª ejecución calculaba el break-even con rmax, sin el camino: daba por ganadas operaciones que
+volvían a la entrada (BE) antes de llegar al TP. Era optimista (sesgo a favor). Se rehace con una
+simulación minuto a minuto (`camino_be`). Las variantes y los criterios no cambian; el resultado
+válido es el de la 2ª ejecución.
