@@ -37,6 +37,7 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 | Rejilla | Momento/reversión a hora fija, impares→pares, 19.008 reglas | **CERRADA**: 0 por encima del p95 del placebo de la rejilla; validación sin gastar |
 
 | NQ-3 | T1 inventario overnight (8) · T2 rango overnight (8) · T3 compresión → ruptura (4), impares→pares | T1 **MUERTA**; T3 no pasa (+0,186R, 4/4 años, < p95 nulo); T2 mal especificada (1 caso), no se rehace |
+| NQ-4 | U1 ruptura de máx./mín. de N días (6) · U2 rebalanceo de ETFs apalancados al cierre (8), impares→pares | U1 **MUERTA** (−0,06 a −0,12R, placebo p=0,80) · U2 **MUERTA** (−0,07 a −0,24R, 0/4 años; la invertida sale +0,05/+0,17, solo como dato) |
 
 ## Próximas tandas (pendientes de datos)
 - M3 (oro): **CANCELADA el 05/10** sin ejecutar, porque Daniil solo opera Nasdaq. El pre-registro queda archivado, la descarga se paró y no se mira el resultado. **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.

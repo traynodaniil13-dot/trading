@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.223 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.237 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -517,7 +517,7 @@ estrategia −0,021R (coste ×2 −0,072). NQ futuro 2023-25: 50,9%. Muerta. `re
 Proceso pedido por Daniil: familias con mecanismo, pre-registro por tanda, criterio común (p95 del
 máximo del nulo de la familia + placebo de familia + 3/3 años + invertida ≤ 0) y validación solo de
 supervivientes. **Solo Nasdaq desde el 05/10.** Tanda NQ-2 (05/10): **N1 apertura de Asia (8) MUERTA** (mejor HK +0,031R, placebo p=0,40)
-· **N2 días de tendencia (8) MUERTA** (placebo p=0,51) · **N3 OPEN_DRIVE (6) no pasa** (placebo p=0,075; ver sección OPEN_DRIVE). Tanda NQ-3 (05/10, impares→pares): **T1 inventario overnight (8) MUERTA** (placebo p=0,66) · **T3 compresión→ruptura (4) no pasa** (mejor +0,186R 4/4 años pero < p95 nulo +0,213; placebo p=0,34) · T2 mal especificada (1 caso; no se rehace, ya cubierta). Tanda 1: **M1 valor relativo NQ-ES (12 variantes) MUERTA** (mejor +0,088R, n=30, < p95
+· **N2 días de tendencia (8) MUERTA** (placebo p=0,51) · **N3 OPEN_DRIVE (6) no pasa** (placebo p=0,075; ver sección OPEN_DRIVE). Tanda NQ-3 (05/10, impares→pares): **T1 inventario overnight (8) MUERTA** (placebo p=0,66) · **T3 compresión→ruptura (4) no pasa** (mejor +0,186R 4/4 años pero < p95 nulo +0,213; placebo p=0,34) · T2 mal especificada (1 caso; no se rehace, ya cubierta). Tanda NQ-4 (05/10, impares→pares): **U1 ruptura de máx./mín. de 5/10/20 días (6) MUERTA** (todas negativas, placebo p=0,80) · **U2 rebalanceo de ETFs apalancados 15:30/15:45 en días de ±1-1,5% (8) MUERTA** (−0,07 a −0,24R, 0/4 años; la invertida, reversión del día al cierre, da +0,05/+0,17R: solo hipótesis, ver MOC F4 que ya murió). Tanda 1: **M1 valor relativo NQ-ES (12 variantes) MUERTA** (mejor +0,088R, n=30, < p95
 nulo +0,200; placebo p=0,44) · **M2 MOC 15:50 en ES (4) MUERTA** (wr 45-49% a 1:1, todas negativas).
 `resultados/2026-10-04_mina_tanda1_m1.txt` · `..._m2.txt`.
 
