@@ -1,0 +1,23 @@
+
+######## FAMILIA Gerard García EMA20 + barrida + FVG · 8 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0762 · p95 +0.1308 · placebo de dirección (máximo real +0.0164): p=0.730
+                                 variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+           NY SL 0.5% promedia FVG>=0,04% 102 +0.5882 +0.0164 +0.4018 +0.0230          2            False False
+      NY SL 0.5% sin promediar FVG>=0,04% 102 +0.5686 -0.0164 +0.5939 +0.0384          2            False False
+     Londres SL 0.25% promedia FVG>=0,04%  80 +0.5750 -0.0289 +0.6329 -0.0473          1            False False
+Londres SL 0.25% sin promediar FVG>=0,04%  80 +0.5875 -0.0427 +0.6882 +0.0044          2            False False
+     NY SL 0.25% sin promediar FVG>=0,04% 102 +0.5784 -0.0755 +0.8321 +0.0469          0            False False
+ Londres SL 0.5% sin promediar FVG>=0,04%  80 +0.4500 -0.1004 +0.9102 +0.0668          1            False False
+          NY SL 0.25% promedia FVG>=0,04% 102 +0.5392 -0.1405 +0.9622 +0.0936          0            False False
+      Londres SL 0.5% promedia FVG>=0,04%  80 +0.4250 -0.1660 +0.9906 +0.1056          0            False False
+SUPERVIVIENTES a validación: ninguna
+
+Informativo:
+  Londres SL 0.25% sin promediar FVG>=0,04%: n=80 (20/año) wr 58.8% (empate sin coste 61,5%) · racha máx. de pérdidas 5 · largos 46% · años {2019: 0.218, 2021: -0.231, 2023: 0.111, 2025: -0.094}
+  Londres SL 0.25% promedia FVG>=0,04%: n=80 (20/año) wr 57.5% (empate sin coste 61,5%) · racha máx. de pérdidas 5 · largos 46% · años {2019: 0.181, 2021: -0.108, 2023: -0.017, 2025: -0.053}
+  Londres SL 0.5% sin promediar FVG>=0,04%: n=80 (20/año) wr 45.0% (empate sin coste 61,5%) · racha máx. de pérdidas 6 · largos 46% · años {2019: 0.198, 2021: -0.307, 2023: -0.105, 2025: -0.018}
+  Londres SL 0.5% promedia FVG>=0,04%: n=80 (20/año) wr 42.5% (empate sin coste 61,5%) · racha máx. de pérdidas 6 · largos 46% · años {2019: -0.178, 2021: -0.327, 2023: -0.15, 2025: -0.006}
+  NY SL 0.25% sin promediar FVG>=0,04%: n=102 (26/año) wr 57.8% (empate sin coste 61,5%) · racha máx. de pérdidas 5 · largos 38% · años {2019: -0.013, 2021: -0.15, 2023: -0.039, 2025: -0.152}
+  NY SL 0.25% promedia FVG>=0,04%: n=102 (26/año) wr 53.9% (empate sin coste 61,5%) · racha máx. de pérdidas 5 · largos 38% · años {2019: -0.07, 2021: -0.104, 2023: -0.165, 2025: -0.269}
+  NY SL 0.5% sin promediar FVG>=0,04%: n=102 (26/año) wr 56.9% (empate sin coste 61,5%) · racha máx. de pérdidas 4 · largos 38% · años {2019: 0.026, 2021: -0.033, 2023: 0.061, 2025: -0.185}
+  NY SL 0.5% promedia FVG>=0,04%: n=102 (26/año) wr 58.8% (empate sin coste 61,5%) · racha máx. de pérdidas 4 · largos 38% · años {2019: -0.014, 2021: 0.133, 2023: 0.089, 2025: -0.172}

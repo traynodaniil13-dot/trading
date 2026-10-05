@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.259 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.267 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -714,7 +714,9 @@ paseo aleatorio con deriva.
   −0,05 y +0,01, ninguna con 3/4 años positivos (solo 2023 fuerte), placebo p=0,50, p95 del nulo +0,057 → MUERTA.**
   Winrate 53-62% contra un empate de 61,5% sin coste: el "alta probabilidad" lo pone el ratio < 1:1. Racha máxima de
   5-8 pérdidas seguidas (él dice "rara vez más de dos"). Su resultado es de 20 cuentas de Apex con copiador: varianza
-  multiplicada, no ventaja. El clip de apertura ("zona de acumulación" + piramidar) = ORB/T3/OPEN_DRIVE, ya medidos.
+  multiplicada, no ventaja. **Corrección 1 (auditoría visual: los FVG elegidos medían 0,6-2,3 pts; se exige FVG ≥ 0,04%
+  del precio, pre-registrada, familia de 16):** 80-102 ops, mejor +0,016R (NY SL 0,5% promedia), p=0,40, ninguna con
+  3/4 años, placebo p=0,73, invertidas positivas en 6/8 → **MUERTA también.** `..._correccion1.txt`. El clip de apertura ("zona de acumulación" + piramidar) = ORB/T3/OPEN_DRIVE, ya medidos.
   `resultados/2026-10-05_gerard_garcia_fvg.txt`.
 - Judas Swing, CRT H4, ORB (5m/15m/1m), Alex Ruiz, Open Market, Aleix Andreu,
   Santiago Amado, David Sánchez, Joaco Trader, Robins, y ~500 configuraciones de
