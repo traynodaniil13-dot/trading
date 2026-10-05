@@ -8,7 +8,8 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 1. **Solo familias con mecanismo.** Cada tanda explica QUIÉN está obligado a comprar o vender y
    POR QUÉ en ese momento. Nada de rejillas a ciegas: 28.512 reglas ya demostraron que eso
    solo produce ruido (`resultados/2026-10-03_rejilla_masiva_alterna.txt`).
-2. **Sitios nuevos antes que el pozo viejo.** El NQ intradía con premisas simples está muy
+2. **Solo Nasdaq (NQ/MNQ): es lo único que Daniil quiere operar (05/10).** Otros mercados no se
+   descargan ni se prueban salvo que él lo pida. Dentro del NQ, sitios nuevos antes que el pozo viejo. El NQ intradía con premisas simples está muy
    exprimido. Primero, mecanismos no probados o instrumentos/datos nuevos.
 3. **Pre-registro de cada tanda** en `preregistros/` ANTES de ejecutar: variantes, parámetros,
    costes y criterios.
@@ -33,5 +34,5 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 | M2 | Desequilibrio de cierre en ES (MOC 15:50), 4 variantes | **MUERTA** (04/10): wr 45-49% a 1:1, todas negativas los 3 años (−0,08 a −0,33R con coste). |
 
 ## Próximas tandas (pendientes de datos)
-- M3: Momento de apertura en el oro (08:20 NY, 9 variantes). **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.
-- Después: petróleo (09:00 NY) y DAX (03:00 NY) con la misma lógica, si M3 da algo o para cerrar la familia.
+- M3 (oro): **CANCELADA el 05/10** sin ejecutar, porque Daniil solo opera Nasdaq. El pre-registro queda archivado, la descarga se paró y no se mira el resultado. **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.
+- Petróleo y DAX: descartados (no son Nasdaq).
