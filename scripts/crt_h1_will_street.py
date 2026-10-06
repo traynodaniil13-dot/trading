@@ -41,7 +41,8 @@ def gatillo(o, h, l, c, ii, hm, d, ini, fin_hora, objetivo, barrido, fin):
                     tramo = np.arange(j0, j + 1)
                     stop = l[tramo].min() if d == 1 else h[tramo].max()
                     r = max((px - stop) * d, 0.0005 * px)
-                    return dict(i_ent=j + 1, precio=px, dir=d, riesgo=r, i_fin=fin, obj_ext=(objetivo - px) * d / r)
+                    return dict(i_ent=j + 1, precio=px, dir=d, riesgo=r, i_fin=fin, obj_ext=(objetivo - px) * d / r,
+                                breaker=breaker, objetivo=objetivo, barrido=barrido, ini=ini)
         if (d == 1 and vh >= objetivo) or (d == -1 and vl <= objetivo):
             return None
         if (d == 1 and (extremo is None or vl < extremo)) or (d == -1 and (extremo is None or vh > extremo)):
