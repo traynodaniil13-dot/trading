@@ -1,0 +1,13 @@
+
+######## FAMILIA CRT H1 Will Street · 4 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0674 · p95 +0.1770 · placebo de dirección (máximo real +0.1741): p=0.380
+                       variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+         Lectura B · TP 3R fijo  95 +0.3474 +0.1741 +0.1654 +0.0905          3            False False
+Lectura B · TP mín(3R, extremo)  95 +0.5579 +0.0575 +0.3138 -0.0492          3            False False
+         Lectura A · TP 3R fijo 547 +0.2980 -0.0404 +0.7271 -0.1264          2            False False
+Lectura A · TP mín(3R, extremo) 547 +0.5941 -0.0913 +0.9929 -0.0505          1            False False
+SUPERVIVIENTES a validación: ninguna
+  Lectura A · TP mín(3R, extremo): n=547 (137/año) wr 59.4% · TP extremo mediano 0.51R · stop mediano 36.7 pts · largos 46%
+  Lectura A · TP 3R fijo: n=547 (137/año) wr 29.8% · TP extremo mediano 0.51R · stop mediano 36.7 pts · largos 46%
+  Lectura B · TP mín(3R, extremo): n=95 (24/año) wr 55.8% · TP extremo mediano 0.88R · stop mediano 28.7 pts · largos 52%
+  Lectura B · TP 3R fijo: n=95 (24/año) wr 34.7% · TP extremo mediano 0.88R · stop mediano 28.7 pts · largos 52%
