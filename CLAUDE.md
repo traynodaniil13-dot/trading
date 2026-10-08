@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.271 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.275 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -667,6 +667,13 @@ paseo aleatorio con deriva.
   (08:00 rango, 09:00 barre y cierra dentro, entrada en la de 10:00): 95 ops (24/año), 3R fijo +0,174R (p 0,17, 3/4
   años) pero < p95 del nulo +0,177, **invertida +0,09** (no es dirección) y la calibración en paseo ya daba ~+0,06 a B.
   Placebo de familia p=0,38 → **MUERTA.** `resultados/2026-10-06_crt_h1_will_street.txt`.
+- **Xavi Ruyra, "mis dos sistemas" (reel, 08/10, pre-registrado, idea de Daniil):** E1 Judas Swing con acumulación
+  pre-market (rango 08:00-09:29 < mediana de 20 sesiones) + manipulación 09:30-09:59 a un FVG H1 + IFVG 1m, stop en la
+  manipulación: 335 ops, **−0,24R (2R) / −0,20R (3R)**, PEOR que sin el filtro de acumulación (−0,12R) y que el paseo
+  aleatorio (−0,08); invertidas +0,06/+0,13 (la continuación del movimiento de apertura, como OPEN_DRIVE: solo hipótesis).
+  E2 PO3 de las aperturas de 15m (09:45/10:00/10:15, manipulación en los 5 primeros min contra la dirección del día y
+  vuelta a la apertura): 981 ops (245/año), −0,06R (2R) / +0,01R (3R). Placebo de familia p=0,40 → **MUERTA.**
+  `resultados/2026-10-08_xavi_ruyra.txt`.
 - **Kevin Davey, inside bar + EMA40 + 2·ATR21 1:1, solo largos, diario, S&P 500 (04/10, pre-registrado):**
   25 ops en 6 años (4/año, 17 días de mediana abierta), wr 60%, +0,194R, p=0,17. NO supera a la base de "solo
   tendencia" (cualquier día con cierre > EMA40, mismos SL/TP: +0,150R, n=116; diferencia +0,04, p=0,42): el

@@ -1,0 +1,14 @@
+
+######## FAMILIA Xavi Ruyra · 4 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0028 · p95 +0.0605 · placebo de dirección (máximo real +0.0091): p=0.400
+                   variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+            E2 PO3 15m · 3R 981 +0.2762 +0.0091 +0.4365 -0.0917          2            False False
+            E2 PO3 15m · 2R 981 +0.3425 -0.0578 +0.8983 -0.0881          1            False False
+E1 Judas + acumulación · 3R 335 +0.2328 -0.2032 +0.9904 +0.1297          1            False False
+E1 Judas + acumulación · 2R 335 +0.2806 -0.2379 +0.9995 +0.0602          1            False False
+SUPERVIVIENTES a validación: ninguna
+  E1 Judas + acumulación · 2R: n=335 (84/año) wr 28.1% stop mediano 23.9 pts · largos 59%
+  E1 Judas + acumulación · 3R: n=335 (84/año) wr 23.3% stop mediano 23.9 pts · largos 59%
+  E2 PO3 15m · 2R: n=981 (245/año) wr 34.3% stop mediano 12.8 pts · largos 53%
+  E2 PO3 15m · 3R: n=981 (245/año) wr 27.6% stop mediano 12.8 pts · largos 53%
+  Informativo E1 SIN acumulación · 2R: n=640 R=-0.1165 wr 32.2%
