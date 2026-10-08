@@ -10,7 +10,7 @@ COSTE = 0.87
 IMPARES, PARES = (2019, 2021, 2023, 2025), (2020, 2022, 2024, 2026)
 
 
-def e1(df, tp, filtro=True):
+def e1(df, tp, filtro=True, invertir=False):
     o, h, l, c = (df[x].to_numpy() for x in "ohlc"); hm, ses = df.hhmm.to_numpy(), df.sesion.to_numpy()
     idx = np.arange(len(df)); H, f = fvg_h1(df); filas, hist = [], []
     for s in pd.unique(ses):
@@ -54,7 +54,7 @@ def e1(df, tp, filtro=True):
                 ext = h[tramo].max() if d == -1 else l[tramo].min()
                 px = c[j]; r = max((ext - px) * -d, 0.0005 * px)
                 if j + 1 <= fin[0]:
-                    filas.append(dict(i_ent=j + 1, precio=px, dir=d, riesgo=r, i_fin=fin[0], obj=tp, coste=COSTE))
+                    filas.append(dict(i_ent=j + 1, precio=px, dir=-d if invertir else d, riesgo=r, i_fin=fin[0], obj=tp, coste=COSTE))
                 break
     return df, pd.DataFrame(filas)
 
