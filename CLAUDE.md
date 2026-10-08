@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.275 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.276 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -674,6 +674,11 @@ paseo aleatorio con deriva.
   E2 PO3 de las aperturas de 15m (09:45/10:00/10:15, manipulación en los 5 primeros min contra la dirección del día y
   vuelta a la apertura): 981 ops (245/año), −0,06R (2R) / +0,01R (3R). Placebo de familia p=0,40 → **MUERTA.**
   `resultados/2026-10-08_xavi_ruyra.txt`.
+- **"Continuación de la apertura" (estrategia propia, 08/10, pre-registrada, UNA versión, solo años pares):** la invertida
+  exacta de Xavi E1 (acumulación pre-market + impulso de apertura a un FVG H1 + entrada a favor del impulso tras el
+  retroceso del IFVG 1m, 3R). En impares había dado +0,13R. **Pares 2020/22/24/26: +0,018R, n=289, p=0,43, 2024 −0,12,
+  z +0,33 sobre el paseo → MUERTA.** La pista "la apertura continúa" vista por la invertida de Xavi era ruido.
+  `resultados/2026-10-08_continuacion_apertura.txt`.
 - **Kevin Davey, inside bar + EMA40 + 2·ATR21 1:1, solo largos, diario, S&P 500 (04/10, pre-registrado):**
   25 ops en 6 años (4/año, 17 días de mediana abierta), wr 60%, +0,194R, p=0,17. NO supera a la base de "solo
   tendencia" (cualquier día con cierre > EMA40, mismos SL/TP: +0,150R, n=116; diferencia +0,04, p=0,42): el

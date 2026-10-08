@@ -1,0 +1,5 @@
+CONTINUACIÓN DE LA APERTURA · años pares (2020, 2022, 2024, 2026)
+n=289 (72/año) R=+0.0178 ee 0.0994 p1c=0.4291 wr 28.4% · invertida -0.0106
+años {2020: 0.03, 2022: 0.119, 2024: -0.121, 2026: 0.05} · stop mediano 33.8 pts · largos 41%
+paseo aleatorio (12 semillas): R=-0.0159 (n=3690) · exceso z=+0.33
+NO PASA
