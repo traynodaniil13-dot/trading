@@ -39,6 +39,7 @@ Proceso para buscar estrategias en serie sin fabricar falsos positivos. Lo pidi�
 | NQ-3 | T1 inventario overnight (8) · T2 rango overnight (8) · T3 compresión → ruptura (4), impares→pares | T1 **MUERTA**; T3 no pasa (+0,186R, 4/4 años, < p95 nulo); T2 mal especificada (1 caso), no se rehace |
 | NQ-4 | U1 ruptura de máx./mín. de N días (6) · U2 rebalanceo de ETFs apalancados al cierre (8), impares→pares | U1 **MUERTA** (−0,06 a −0,12R, placebo p=0,80) · U2 **MUERTA** (−0,07 a −0,24R, 0/4 años; la invertida sale +0,05/+0,17, solo como dato) |
 | NQ-5 | V1 reversión del día al cierre (8, hipótesis de U2, medida SOLO en pares) · V2 reversión de extremos de 60 min (6, impares→pares) | V1 **MUERTA** (mejor +0,013R, p=0,43; 2020/22 negativos) · V2 **MUERTA** (todas ≤ 0, placebo p=0,90) |
+| NQ-6 | W1 Asia estrecha → ruptura en Londres (4) · W2 mañana estrecha → ruptura por la tarde (4) | W1 **MUERTA** (placebo p=0,50) · W2 **MUERTA** (placebo p=0,51) |
 
 ## Próximas tandas (pendientes de datos)
 - M3 (oro): **CANCELADA el 05/10** sin ejecutar, porque Daniil solo opera Nasdaq. El pre-registro queda archivado, la descarga se paró y no se mira el resultado. **Pre-registrada el 04/10** (`preregistros/2026-10-04_mina_tanda3_momento_oro.md`, `scripts/mina_tanda3_oro.py`); falta bajar XAUUSD 2021/23/25.

@@ -1,0 +1,13 @@
+
+######## FAMILIA W2 manana-tarde · 4 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0202 · p95 +0.0776 · placebo de dirección (máximo real +0.0116): p=0.505
+   variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+q=0.8 1:3.0 175 +0.4971 +0.0116 +0.4025 -0.0242          2            False False
+q=0.8 1:2.0 175 +0.4971 +0.0059 +0.4483 -0.0384          1            False False
+q=0.6 1:3.0  58 +0.5517 -0.0166 +0.5732 -0.0254          1            False False
+q=0.6 1:2.0  58 +0.5517 -0.0166 +0.5732 -0.0381          1            False False
+SUPERVIVIENTES a validación: ninguna
+  q=0.6 1:2.0: n=58 wr 55.2% · años {2019: -0.105, 2021: 0.273, 2023: -0.158, 2025: -0.055}
+  q=0.6 1:3.0: n=58 wr 55.2% · años {2019: -0.105, 2021: 0.273, 2023: -0.158, 2025: -0.055}
+  q=0.8 1:2.0: n=175 wr 49.7% · años {2019: -0.006, 2021: 0.151, 2023: -0.071, 2025: -0.042}
+  q=0.8 1:3.0: n=175 wr 49.7% · años {2019: 0.017, 2021: 0.151, 2023: -0.071, 2025: -0.042}
