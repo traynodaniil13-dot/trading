@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.299 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.301 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -691,6 +691,8 @@ paseo aleatorio con deriva.
   (NY −0,23, Londres +0,03). Ninguna pasa diseño. **Toto Londres a validación (uso nº15, regla del autor congelada): NQ
   pares −0,13R (n=206, 2020 −0,45, 2026 −0,18), ES pares −0,14R → MUERTA.** `resultados/2026-10-10_fxreplay_*.txt` ·
   `..._toto_validacion.txt`.
+  **Corrección 1 (uso nº16, mantener hasta SL/TP como dice el PDF, 2019-26):** Londres +0,026R (n=458, p 0,35, 4/8
+  años) · NY +0,036R (n=687, p 0,26, 6/8), z +1,2 sobre el paseo, ES −0,02/+0,05 → NO PASA. `..._toto_correccion1.txt`.
 - **Kevin Davey, inside bar + EMA40 + 2·ATR21 1:1, solo largos, diario, S&P 500 (04/10, pre-registrado):**
   25 ops en 6 años (4/año, 17 días de mediana abierta), wr 60%, +0,194R, p=0,17. NO supera a la base de "solo
   tendencia" (cualquier día con cierre > EMA40, mismos SL/TP: +0,150R, n=116; diferencia +0,04, p=0,42): el
