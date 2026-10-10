@@ -6,7 +6,7 @@ Daniil, 19 años. Objetivo: encontrar algo con ventaja real y suficiente para qu
 el negocio de pasar cuentas de fondeo y cobrar retiros sea rentable. No busca la
 estrategia perfecta, busca una que aguante.
 
-**Estado a 27/09/2026: 49.287 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
+**Estado a 27/09/2026: 49.299 variantes probadas (incluye 28.512 de la rejilla masiva). Con ventaja auditada y viva: CERO.**
 
 Eso no es una razón para parar, y no lo trates como tal. El plan es seguir
 buscando hasta encontrar algo. Lo que sí significa es que la tasa base es brutal:
@@ -684,6 +684,13 @@ paseo aleatorio con deriva.
   FVG inicial, stop en su apertura) · TP 2R fijo. 573-788 ops (143-197/año): **G1 −0,14R · G2 −0,16R · G1+G2 −0,15R, los
   4 años negativos en las tres**, wr 31% (empate a 2R: 33%), por debajo del paseo aleatorio (−0,03/−0,11). Placebo p=0,97
   → **MUERTA.** Otra vez barrida + confirmación. `resultados/2026-10-10_ict_venom.txt`.
+- **6 estrategias en PDF de FX Replay (10/10, pre-registradas, 12 variantes, NQ decide, ES informativo):** Globex de
+  Bernd (−0,02/−0,12R; ES −0,20/−0,28) · JJ Simon Fair Value (mañana +0,036R 4/4 años pero < p95 nulo, placebo 0,11; tarde
+  −0,04) · Toto SBL (NY +0,02; **Londres +0,144R > p95 nulo, placebo 0,035, ES +0,24R, pero 2019 −0,15**) · Omar EBP 4H
+  (fuerte +0,078 4/4 años pero invertida +0,08 y < p95; indeciso −0,13) · ORB (−0,01/−0,01; ES −0,06/−0,15) · Doyle S&D
+  (NY −0,23, Londres +0,03). Ninguna pasa diseño. **Toto Londres a validación (uso nº15, regla del autor congelada): NQ
+  pares −0,13R (n=206, 2020 −0,45, 2026 −0,18), ES pares −0,14R → MUERTA.** `resultados/2026-10-10_fxreplay_*.txt` ·
+  `..._toto_validacion.txt`.
 - **Kevin Davey, inside bar + EMA40 + 2·ATR21 1:1, solo largos, diario, S&P 500 (04/10, pre-registrado):**
   25 ops en 6 años (4/año, 17 días de mediana abierta), wr 60%, +0,194R, p=0,17. NO supera a la base de "solo
   tendencia" (cualquier día con cierre > EMA40, mismos SL/TP: +0,150R, n=116; diferencia +0,04, p=0,42): el
