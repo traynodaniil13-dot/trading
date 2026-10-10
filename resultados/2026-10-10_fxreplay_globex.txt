@@ -1,0 +1,11 @@
+
+######## FAMILIA globex (NQ) · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -0.0491 · p95 +0.0868 · placebo de dirección (máximo real -0.0220): p=0.305
+     variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+TP 2R + BE 1R 322 +0.2826 -0.0220 +0.6229 -0.1359          2            False False
+TP 4R + BE 2R 322 +0.2019 -0.1193 +0.9001 -0.0475          1            False False
+SUPERVIVIENTES a validación: ninguna
+  TP 2R + BE 1R: n=322 (80/año) wr 28.3% stop mediano 16.4 · años {2019: -0.085, 2021: -0.194, 2023: 0.104, 2025: 0.08}
+  TP 4R + BE 2R: n=322 (80/año) wr 20.2% stop mediano 16.4 · años {2019: -0.168, 2021: -0.236, 2023: 0.072, 2025: -0.181}
+  Informativo ES TP 2R + BE 1R: n=230 R=-0.1953 wr 26.5% años {2021: -0.19, 2023: -0.162, 2025: -0.224}
+  Informativo ES TP 4R + BE 2R: n=230 R=-0.2846 wr 19.6% años {2021: -0.231, 2023: -0.303, 2025: -0.311}

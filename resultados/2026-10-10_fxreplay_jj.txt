@@ -1,0 +1,11 @@
+
+######## FAMILIA jj (NQ) · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -0.0094 · p95 +0.0605 · placebo de dirección (máximo real +0.0364): p=0.110
+variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+  mañana 917 +0.4286 +0.0364 +0.1860 -0.0663          4            False False
+   tarde 817 +0.4162 -0.0358 +0.8105 -0.0442          1            False False
+SUPERVIVIENTES a validación: ninguna
+  mañana: n=917 (229/año) wr 42.9% stop mediano 25.0 · años {2019: 0.026, 2021: 0.079, 2023: 0.03, 2025: 0.009}
+  tarde: n=817 (204/año) wr 41.6% stop mediano 16.5 · años {2019: -0.058, 2021: -0.135, 2023: 0.055, 2025: -0.002}
+  Informativo ES mañana: n=637 R=-0.0029 wr 42.5% años {2021: -0.011, 2023: -0.019, 2025: 0.022}
+  Informativo ES tarde: n=561 R=-0.0020 wr 47.4% años {2021: 0.044, 2023: 0.065, 2025: -0.119}

@@ -50,3 +50,17 @@ alcistas y el cierre de la 2ª ≥ 1 rango de la vela por encima de su máximo);
 Londres 03:00-06:00.
 
 Total 12 variantes en 6 familias. Expectativa dicha antes: por la tasa base, lo probable es que no sobreviva ninguna.
+
+## Calibración en paseo aleatorio (8 semillas, rejilla 2021, antes de mirar datos reales)
+Globex −0,13/−0,11 (asimetría −0,08 ± 0,05/0,07: pesimista) · JJ mañana −0,06, tarde +0,00 (asim. +0,046 ± 0,016,
+~3σ: posible sesgo en la tarde, se juzga contra su nulo) · Toto −0,04/−0,03 · EBP +0,01/−0,07 · ORB −0,02/−0,02 ·
+Doyle −0,09/−0,04. Sin cambios en las reglas.
+
+## Adenda (10/10, TRAS el diseño y ANTES de mirar ningún año par): validación de Toto Londres
+En diseño, Toto Londres dio +0,144R (n=252), por encima del p95 del nulo (+0,035), placebo de familia p=0,035 e
+invertida −0,13, pero 3/4 años (2019 −0,15) → no cumple el criterio común. El ES (instrumento del autor,
+informativo pre-declarado) dio +0,24R con 3/3 años. Como la regla es del autor y no se ha ajustado nada, se gasta
+el **uso nº15 de validación** con la regla congelada y UNA prueba:
+- NQ años pares 2020/2022/2024/2026: R > 0 con p < 0,05 (una cola), ≥ 3/4 años positivos, z > 1,65 sobre su paseo.
+- ES años pares 2022/2024/2026: R > 0.
+Pasa solo si se cumple todo. Si pasa: reserva ciega 2017-2018 (en descarga) y forward test. Si no, muere.

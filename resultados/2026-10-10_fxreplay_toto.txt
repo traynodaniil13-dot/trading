@@ -1,0 +1,11 @@
+
+######## FAMILIA toto (NQ) · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -0.0004 · p95 +0.0345 · placebo de dirección (máximo real +0.1436): p=0.035
+variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+ Londres 252 +0.4008 +0.1436 +0.0609 -0.1318          3             True False
+      NY 339 +0.3805 +0.0202 +0.3938 -0.0623          3            False False
+SUPERVIVIENTES a validación: ninguna
+  Londres: n=252 (63/año) wr 40.1% stop mediano 19.0 · años {2019: -0.147, 2021: 0.336, 2023: 0.019, 2025: 0.315}
+  NY: n=339 (85/año) wr 38.1% stop mediano 30.2 · años {2019: 0.016, 2021: 0.108, 2023: 0.145, 2025: -0.262}
+  Informativo ES Londres: n=184 R=+0.2409 wr 46.2% años {2021: 0.453, 2023: 0.061, 2025: 0.208}
+  Informativo ES NY: n=237 R=+0.0030 wr 38.0% años {2021: -0.33, 2023: 0.15, 2025: 0.123}

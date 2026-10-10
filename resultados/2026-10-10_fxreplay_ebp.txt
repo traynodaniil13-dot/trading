@@ -1,0 +1,9 @@
+
+######## FAMILIA ebp (NQ) · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0181 · p95 +0.1060 · placebo de dirección (máximo real +0.0779): p=0.570
+    variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+  EBP fuerte 134 +0.2239 +0.0779 +0.2098 +0.0818          4            False False
+EBP indeciso 148 +0.2297 -0.1255 +0.8949 -0.0241          0            False False
+SUPERVIVIENTES a validación: ninguna
+  EBP fuerte: n=134 (34/año) wr 22.4% stop mediano 45.3 · años {2019: 0.037, 2021: 0.066, 2023: 0.105, 2025: 0.105}
+  EBP indeciso: n=148 (37/año) wr 23.0% stop mediano 37.8 · años {2019: -0.11, 2021: -0.054, 2023: -0.072, 2025: -0.276}

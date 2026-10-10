@@ -1,0 +1,11 @@
+
+######## FAMILIA orb (NQ) · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -0.0245 · p95 +0.0561 · placebo de dirección (máximo real -0.0081): p=0.325
+                variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+            solo mercado 705 +0.4156 -0.0081 +0.5702 -0.0729          1            False False
+autor (mercado o retest) 850 +0.4012 -0.0089 +0.5796 -0.0452          1            False False
+SUPERVIVIENTES a validación: ninguna
+  autor (mercado o retest): n=850 (212/año) wr 40.1% stop mediano 34.8 · años {2019: -0.008, 2021: -0.059, 2023: -0.143, 2025: 0.172}
+  solo mercado: n=705 (176/año) wr 41.6% stop mediano 35.9 · años {2019: -0.016, 2021: -0.001, 2023: -0.132, 2025: 0.115}
+  Informativo ES autor (mercado o retest): n=568 R=-0.0610 wr 38.7% años {2021: 0.028, 2023: -0.099, 2025: -0.108}
+  Informativo ES solo mercado: n=451 R=-0.1491 wr 39.2% años {2021: -0.109, 2023: -0.222, 2025: -0.122}

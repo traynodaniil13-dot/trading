@@ -1,0 +1,11 @@
+
+######## FAMILIA doyle (NQ) · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media +0.0073 · p95 +0.0824 · placebo de dirección (máximo real +0.0260): p=0.480
+variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+ Londres 146 +0.2055 +0.0260 +0.4182 -0.0630          2            False False
+      NY  63 +0.1270 -0.2326 +0.9423 +0.0481          0            False False
+SUPERVIVIENTES a validación: ninguna
+  NY: n=63 (16/año) wr 12.7% stop mediano 18.4 · años {2019: -0.312, 2021: -0.051, 2023: -0.372, 2025: -0.163}
+  Londres: n=146 (36/año) wr 20.5% stop mediano 9.5 · años {2019: 0.556, 2021: -0.024, 2023: -0.331, 2025: 0.012}
+  Informativo ES NY: n=55 R=-0.4084 wr 10.9% años {2021: -0.584, 2023: -0.406, 2025: -0.188}
+  Informativo ES Londres: n=88 R=-0.2778 wr 13.6% años {2021: -0.358, 2023: -0.311, 2025: -0.14}
