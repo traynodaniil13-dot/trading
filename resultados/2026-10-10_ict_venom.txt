@@ -1,0 +1,11 @@
+
+######## FAMILIA ICT Venom · 3 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -0.0398 · p95 +0.1134 · placebo de dirección (máximo real -0.1379): p=0.970
+         variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+           G1 BPR 573 +0.3106 -0.1379 +0.9911 +0.0311          0            False False
+            G1+G2 788 +0.3135 -0.1509 +0.9988 -0.0252          0            False False
+G2 Venom Breakout 714 +0.3165 -0.1591 +0.9988 -0.1297          0            False False
+SUPERVIVIENTES a validación: ninguna
+  G1 BPR: n=573 (143/año) wr 31.1% stop mediano 15.8 pts · largos 44%
+  G2 Venom Breakout: n=714 (178/año) wr 31.7% stop mediano 8.9 pts · largos 45%
+  G1+G2: n=788 (197/año) wr 31.3% stop mediano 11.4 pts · largos 45%
