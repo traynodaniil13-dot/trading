@@ -64,3 +64,11 @@ el **uso nº15 de validación** con la regla congelada y UNA prueba:
 - NQ años pares 2020/2022/2024/2026: R > 0 con p < 0,05 (una cola), ≥ 3/4 años positivos, z > 1,65 sobre su paseo.
 - ES años pares 2022/2024/2026: R > 0.
 Pasa solo si se cumple todo. Si pasa: reserva ciega 2017-2018 (en descarga) y forward test. Si no, muere.
+
+## Corrección 1 de Toto (10/10, tras la pregunta de Daniil, ANTES de ejecutar)
+Auditoría de la traducción: el PDF dice que la estrategia es "mejor para CFD porque a menudo hay que mantener la
+operación pasado el cierre para llegar al TP". Mi versión cerraba a las 15:59: eso corta ganadoras y no es la regla del
+autor. Corrección única: se mantiene hasta SL o TP (máximo 5 sesiones); todo lo demás igual. Como los años pares ya se
+miraron con la versión de 15:59, se evalúa UNA vez sobre todo lo disponible y se cuenta como **uso nº16**:
+NQ 2019-2026 (Londres y NY) y ES 2021-2026. Pasa la variante si: NQ p < 0,025 (dos variantes), ≥ 6/8 años positivos,
+z > 1,65 sobre su paseo aleatorio y ES > 0. Aviso: mantener días no es operable en Lucid (cierre diario obligatorio).

@@ -130,7 +130,7 @@ def jj(df, ventana, coste):
 
 
 # ---------------- 3 · Toto Capital SBL
-def toto(df, ventana, coste):
+def toto(df, ventana, coste, mantener=False):
     o, h, l, c = (df[x].to_numpy() for x in "ohlc")
     kf, kl, O, H, L, Cc = velas(df, "15min")
     e = {n: pd.Series(Cc).ewm(span=n, adjust=False).mean().to_numpy() for n in (50, 100, 200)}
@@ -166,8 +166,9 @@ def toto(df, ventana, coste):
             if nivel is not None and ((d == -1 and l[j] <= nivel) or (d == 1 and h[j] >= nivel)):
                 tramo = np.arange(js, j + 1); sl = h[tramo].max() if d == -1 else l[tramo].min()
                 px = c[j]
-                if j + 1 <= fin[0]:
-                    filas.append(fila(df, j, px, d, abs(sl - px), fin[0], 2.0, None, coste))
+                f_ = min(j + 5 * 1380, len(df) - 1) if mantener else fin[0]
+                if j + 1 <= f_:
+                    filas.append(fila(df, j, px, d, abs(sl - px), f_, 2.0, None, coste))
                 break
     return df, pd.DataFrame(filas)
 
