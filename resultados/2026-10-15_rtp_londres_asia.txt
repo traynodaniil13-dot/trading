@@ -1,0 +1,21 @@
+# RTP (Jacko) en las velas de 3h de Londres y Asia · 15/10/2026
+# Pre-registro: preregistros/2026-10-15_rtp_londres_asia.md · script: scripts/rtp_londres_asia.py
+# CFD NQ, diseño impares 2019/21/23/25, coste 0,87 pts. TP = extremo opuesto de la caja, cierre al final de la vela.
+
+
+######## FAMILIA RTP Londres/Asia · 2 variantes · años [2019, 2021, 2023, 2025]
+nulo (máximo de la familia, 12 semillas): media -0.0180 · p95 +0.0275 · placebo de dirección (máximo real -0.0213): p=0.405
+       variante   n      wr       R     p1c     inv  anios_pos  supera_p95_nulo  pasa
+   A Asia 21:00 230 +0.4609 -0.0213 +0.7083 -0.0498          2            False False
+L Londres 03:00 522 +0.5479 -0.0298 +0.8274 -0.0986          1            False False
+SUPERVIVIENTES a validación: ninguna
+
+Detalle diseño:
+  L Londres 03:00: n=522 R=-0.0298 p1c=0.8274 wr 54.8% · TP 46.0% SL 24.7% · ratio mediano 0.69 · riesgo mediano 25.3 pts · inv -0.0986 · años {2019: -0.115, 2021: -0.023, 2023: -0.025, 2025: 0.054}
+  A Asia 21:00: n=230 R=-0.0213 p1c=0.7083 wr 46.1% · TP 28.3% SL 10.9% · ratio mediano 0.75 · riesgo mediano 22.7 pts · inv -0.0498 · años {2019: 0.033, 2021: -0.029, 2023: -0.069, 2025: 0.003}
+
+Informativo (no decide): RTP NY 09:00 con TP en el extremo opuesto, mismos años:
+  NY 09:00: n=662 R=-0.0815 p1c=0.9963 wr 56.5% · TP 53.2% SL 33.5% · ratio mediano 0.59 · riesgo mediano 47.1 pts · inv +0.0376 · años {2019: -0.081, 2021: -0.116, 2023: -0.117, 2025: -0.009}
+
+VEREDICTO: ninguna supera el p95 del nulo (+0,028), placebo de familia p=0,41, ninguna 4/4 años. MUERTAS.
+Validación pares sin gastar. RTP queda cerrado en NY, Londres y Asia.

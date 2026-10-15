@@ -580,6 +580,11 @@ paseo aleatorio con deriva.
   2021-22: −0,089R (n=340). Según el pre-registro, "el mercado ha cambiado" no
   vale como excusa: como mucho es régimen 2023-26, y eso no se opera.
   **RTP queda cerrada del todo. No reabrir.**
+  **15/10 — Londres y Asia (vídeo NatOlyJntdw, "también funciona en Londres y Asia", pre-registrado, 2 variantes,
+  diseño impares 2019/21/23/25, TP en el extremo opuesto como dice él):** Londres 03:00 −0,030R (n=522, wr 55%,
+  1/4 años) · Asia 21:00 −0,021R (n=230, 2/4 años), invertidas negativas, p95 del nulo +0,028, placebo de
+  familia p=0,41 → **MUERTAS.** Lo demás del vídeo (retroceso para 1:2, ratio 0,2-0,75 en fondeada, mover el
+  TP al cerrar la vela) es gestión sobre el mismo cero. `resultados/2026-10-15_rtp_londres_asia.txt`.
 - **LIT / inducción de liquidez**: dos baterías (16 + 8 celdas). Dio el R más alto
   del proyecto (+0,2405R, n=146) y no significaba nada: máximo real a +0,40σ del
   máximo del nulo. El displacement es un pico de ruido y va al REVÉS en la
