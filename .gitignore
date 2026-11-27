@@ -4,3 +4,6 @@ data/*.pkl
 __pycache__/
 *.pyc
 data/cache_dukascopy/
+analisis_ruyra/*/*.webm
+analisis_ruyra/*/*.mp3
+analisis_ruyra/*/frames/
