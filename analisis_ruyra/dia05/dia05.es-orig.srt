@@ -1,0 +1,1464 @@
+1
+00:00:01,040 --> 00:00:07,279
+Vale, señores, bienvenidos directamente
+
+2
+00:00:03,600 --> 00:00:09,160
+a el nuevo episodio de la bootcam. Hoy
+
+3
+00:00:07,279 --> 00:00:11,880
+toca psicología, va a ser un videito muy
+
+4
+00:00:09,160 --> 00:00:14,160
+corto, pero quiero que os quedéis con el
+
+5
+00:00:11,880 --> 00:00:15,719
+mensaje antes de empezar. Quiero que sea
+
+6
+00:00:14,160 --> 00:00:18,359
+uno de estos, o sea, quiero que este
+
+7
+00:00:15,719 --> 00:00:20,160
+mensaje sea el que va a los primeros
+
+8
+00:00:18,359 --> 00:00:21,920
+capítulos porque es el que más
+
+9
+00:00:20,160 --> 00:00:25,000
+probabilidad vais a ver, el mayor número
+
+10
+00:00:21,920 --> 00:00:26,920
+de personas y e es super importante y a
+
+11
+00:00:25,000 --> 00:00:29,960
+mí me ha ido muy bien. Antes de empezar,
+
+12
+00:00:26,920 --> 00:00:32,399
+lo que voy a hacer es eh compartiros el
+
+13
+00:00:29,960 --> 00:00:35,120
+Trading View porque quiero dejar claras
+
+14
+00:00:32,399 --> 00:00:36,680
+dos cosas, ¿vale? Entonces, quiero dejar
+
+15
+00:00:35,120 --> 00:00:39,040
+claras dos cosas que las voy a
+
+16
+00:00:36,680 --> 00:00:40,760
+ahora eh respecto al último vídeo.
+
+17
+00:00:39,040 --> 00:00:42,920
+Entonces, vamos a compartir el viw. Creo
+
+18
+00:00:40,760 --> 00:00:45,200
+que ya estaría compartido. Ahí está.
+
+19
+00:00:42,920 --> 00:00:46,360
+Vale, antes de entrar con la psicología,
+
+20
+00:00:45,200 --> 00:00:48,520
+vale, solo quiero aclarar dos cosas
+
+21
+00:00:46,360 --> 00:00:50,239
+rápidas para los más principiantes, que
+
+22
+00:00:48,520 --> 00:00:53,320
+se me ha olvidado decirlo. Yo os dije
+
+23
+00:00:50,239 --> 00:00:56,480
+que operábamos el NQ y el SP500, ¿vale?
+
+24
+00:00:53,320 --> 00:01:02,440
+ES, pero para principiantes lo que vais
+
+25
+00:00:56,480 --> 00:01:08,320
+a hacer es operar el MNQ, ¿vale? MNQ y
+
+26
+00:01:02,440 --> 00:01:11,640
+os vais al Z. Y para el SP500, el M
+
+27
+00:01:08,320 --> 00:01:14,000
+tenéis el eh Z también, ¿vale? Entonces,
+
+28
+00:01:11,640 --> 00:01:16,360
+calma, ¿vale? Calma, lo vamos a ver
+
+29
+00:01:14,000 --> 00:01:17,720
+mucho más adelante qué diferencias hay.
+
+30
+00:01:16,360 --> 00:01:18,960
+De primeros os diré que es exactamente
+
+31
+00:01:17,720 --> 00:01:20,360
+lo mismo, que no cambia nada de lo que
+
+32
+00:01:18,960 --> 00:01:21,840
+hemos aprendido, no cambia absolutamente
+
+33
+00:01:20,360 --> 00:01:23,600
+nada. Lo único que cambia es el riesgo
+
+34
+00:01:21,840 --> 00:01:25,119
+con el que vais a estar operando, ¿vale?
+
+35
+00:01:23,600 --> 00:01:26,759
+Y como al principio quiero que operéis
+
+36
+00:01:25,119 --> 00:01:28,799
+con bajo riesgo, vais a estar operando
+
+37
+00:01:26,759 --> 00:01:31,400
+el MNQ. Más adelante, tranquilos, que
+
+38
+00:01:28,799 --> 00:01:35,799
+veremos todo. Y lo segundo de todo, aquí
+
+39
+00:01:31,400 --> 00:01:37,439
+al lado de diciembre 5 CME vais a ver
+
+40
+00:01:35,799 --> 00:01:39,000
+una, bueno, veis que yo tengo como un
+
+41
+00:01:37,439 --> 00:01:40,520
+puntito verde justo aquí arriba.
+
+42
+00:01:39,000 --> 00:01:42,640
+Vosotros aquí a la derecha vais a tener
+
+43
+00:01:40,520 --> 00:01:44,960
+una D naranja, ¿vale? Y si clicáis
+
+44
+00:01:42,640 --> 00:01:47,280
+encima os va a aparecer que el data,
+
+45
+00:01:44,960 --> 00:01:49,719
+¿vale?, que los datos están atrasados,
+
+46
+00:01:47,280 --> 00:01:51,159
+eh, retrasados 10 minutos. Eso es porque
+
+47
+00:01:49,719 --> 00:01:52,520
+no tienes los datos de Trading View
+
+48
+00:01:51,159 --> 00:01:55,079
+comprados, que te los puedes comprar.
+
+49
+00:01:52,520 --> 00:01:58,399
+Los datos de CME creo que son 7 € al
+
+50
+00:01:55,079 --> 00:02:00,200
+mes, no estoy seguro, pero e cuando te
+
+51
+00:01:58,399 --> 00:02:01,560
+compras una cuenta de fondeo te vi
+
+52
+00:02:00,200 --> 00:02:02,680
+incluido, ¿vale? Entonces, yo no lo pago
+
+53
+00:02:01,560 --> 00:02:04,920
+y simplemente, como siempre tengo
+
+54
+00:02:02,680 --> 00:02:06,439
+cuentas de fondeo, puedo ver los datos
+
+55
+00:02:04,920 --> 00:02:10,479
+en tiempo real, simplemente para que lo
+
+56
+00:02:06,439 --> 00:02:12,879
+sepáis. Una vez sabéis esto, eh, pequeño
+
+57
+00:02:10,479 --> 00:02:14,519
+inciso antes de empezar, ahora sí que le
+
+58
+00:02:12,879 --> 00:02:17,959
+metemos con lo que yo tenía pensado
+
+59
+00:02:14,519 --> 00:02:19,400
+hacer de psicología. Y el vídeo que os
+
+60
+00:02:17,959 --> 00:02:21,959
+voy a enseñar hoy o lo que os voy a
+
+61
+00:02:19,400 --> 00:02:24,959
+explicar hoy es superimportante y se
+
+62
+00:02:21,959 --> 00:02:27,640
+reduce todo a no intentes aprender de
+
+63
+00:02:24,959 --> 00:02:31,400
+más, ¿vale? El mayor problema de los
+
+64
+00:02:27,640 --> 00:02:33,120
+traders es que de alguna forma siempre
+
+65
+00:02:31,400 --> 00:02:35,440
+le ponemos la culpa a cosas que no somos
+
+66
+00:02:33,120 --> 00:02:37,239
+nosotros y lo gracioso es que siempre
+
+67
+00:02:35,440 --> 00:02:39,519
+tenemos la culpa nosotros. Siempre,
+
+68
+00:02:37,239 --> 00:02:41,720
+siempre, siempre, el 100% de las veces,
+
+69
+00:02:39,519 --> 00:02:43,280
+pero el 100, eh, no hay excepción.
+
+70
+00:02:41,720 --> 00:02:46,840
+Entonces, muchas veces nos
+
+71
+00:02:43,280 --> 00:02:49,400
+autosaboteamos, ¿vale? Y intentamos de
+
+72
+00:02:46,840 --> 00:02:51,480
+alguna forma aprender más. ¿Qué
+
+73
+00:02:49,400 --> 00:02:54,319
+significa aprender más? Aprender nuevos
+
+74
+00:02:51,480 --> 00:02:58,080
+conceptos, cambiar de estrategia,
+
+75
+00:02:54,319 --> 00:03:00,200
+comprar cuatro mentorías, eh, ver vídeos
+
+76
+00:02:58,080 --> 00:03:04,159
+de YouTube, bueno, dar volteretas.
+
+77
+00:03:00,200 --> 00:03:06,680
+Entonces, lo que yo te diría es,
+
+78
+00:03:04,159 --> 00:03:10,840
+si estás con una persona, quédate con
+
+79
+00:03:06,680 --> 00:03:12,879
+esa persona, ¿vale? Ya está. Si tú estás
+
+80
+00:03:10,840 --> 00:03:14,840
+con una persona, te quedas con esa
+
+81
+00:03:12,879 --> 00:03:16,319
+persona. Y es super importante porque
+
+82
+00:03:14,840 --> 00:03:19,920
+voy a ver yo ahora mismo si tengo unas
+
+83
+00:03:16,319 --> 00:03:21,200
+fotos e de lo que os quiero enseñar,
+
+84
+00:03:19,920 --> 00:03:24,440
+pero os voy a enseñar la liada que yo
+
+85
+00:03:21,200 --> 00:03:27,040
+hice, ¿vale?
+
+86
+00:03:24,440 --> 00:03:29,120
+Vais a ver a ver si tengo fotos porque
+
+87
+00:03:27,040 --> 00:03:31,599
+yo empecé con la estrategia de TJR,
+
+88
+00:03:29,120 --> 00:03:31,599
+¿vale?
+
+89
+00:03:31,720 --> 00:03:35,879
+y después de un tiempo me cambié.
+
+90
+00:03:33,760 --> 00:03:38,159
+Entonces, graso error, ¿vale? Obviamente
+
+91
+00:03:35,879 --> 00:03:40,080
+yo en ese momento no lo sabía, pero voy
+
+92
+00:03:38,159 --> 00:03:42,799
+a buscar si tengo algún trade antiguo
+
+93
+00:03:40,080 --> 00:03:45,760
+para Mira, mirad, mirad. Vale, yo antes
+
+94
+00:03:42,799 --> 00:03:48,720
+empezaba trades, bueno, no sé si se ve,
+
+95
+00:03:45,760 --> 00:03:50,959
+pero RR super altos.
+
+96
+00:03:48,720 --> 00:03:53,400
+RR super altos. Todo un montón de fotos
+
+97
+00:03:50,959 --> 00:03:55,280
+de hace un montón de tiempo, ¿vale? Ah,
+
+98
+00:03:53,400 --> 00:03:57,120
+no se ve ahora. Bueno, la cosa es que
+
+99
+00:03:55,280 --> 00:04:00,040
+tengo un montón de fotos aquí, ¿vale?
+
+100
+00:03:57,120 --> 00:04:01,720
+Todas eran trades con RR super alto y
+
+101
+00:04:00,040 --> 00:04:03,599
+una estrategia que a mí no me gustaba.
+
+102
+00:04:01,720 --> 00:04:06,079
+Entonces, yo empecé con TJR y obviamente
+
+103
+00:04:03,599 --> 00:04:07,280
+en ese momento tú no sabes si a ti te va
+
+104
+00:04:06,079 --> 00:04:08,439
+a gustar o no esa estrategia, al igual
+
+105
+00:04:07,280 --> 00:04:10,959
+que tú estás viendo esto y no sabes si
+
+106
+00:04:08,439 --> 00:04:12,840
+te va a gustar mi estrategia, supernmal.
+
+107
+00:04:10,959 --> 00:04:14,239
+Vale, el problema, ¿cuál es? Que yo
+
+108
+00:04:12,840 --> 00:04:15,720
+después de entender toda estrategia, de
+
+109
+00:04:14,239 --> 00:04:18,000
+aprender todos los conceptos y hacer
+
+110
+00:04:15,720 --> 00:04:20,479
+todo, estuve 6 meses con cuentas de
+
+111
+00:04:18,000 --> 00:04:22,360
+fondeo con esta estrategia. Yo estaba
+
+112
+00:04:20,479 --> 00:04:23,919
+gambleando, yo estaba literalmente
+
+113
+00:04:22,360 --> 00:04:26,479
+tratándolo como un casino, estaba
+
+114
+00:04:23,919 --> 00:04:29,320
+rompiendo mis reglas y qué hice, le puse
+
+115
+00:04:26,479 --> 00:04:31,199
+la culpa a la estrategia. ¿Qué pasaba?
+
+116
+00:04:29,320 --> 00:04:33,000
+Que cuando yo perdía con esta
+
+117
+00:04:31,199 --> 00:04:34,960
+estrategia, veía a gente con otras
+
+118
+00:04:33,000 --> 00:04:37,000
+estrategias ganar. Es totalmente normal.
+
+119
+00:04:34,960 --> 00:04:38,520
+Y cuando ellos ganan, o sea, y cuando tú
+
+120
+00:04:37,000 --> 00:04:40,759
+pierdes, ellos ganan. Y cuando ellos
+
+121
+00:04:38,520 --> 00:04:43,520
+pierden, tú ganas, ¿vale? Porque es lo
+
+122
+00:04:40,759 --> 00:04:45,240
+que hay. O sea, no puedes guiarte con
+
+123
+00:04:43,520 --> 00:04:47,639
+las estrategias de los demás. ¿Qué hice
+
+124
+00:04:45,240 --> 00:04:48,919
+yo? Exactamente eso. Me guié con la
+
+125
+00:04:47,639 --> 00:04:51,560
+estrategia de los demás. empeczé a
+
+126
+00:04:48,919 --> 00:04:53,600
+operar otra cosa y perdí literalmente 9
+
+127
+00:04:51,560 --> 00:04:55,720
+meses simplemente por cambiar de
+
+128
+00:04:53,600 --> 00:04:57,120
+estrategia. Y es algo que siempre me
+
+129
+00:04:55,720 --> 00:05:00,199
+había prometido que no hiciese. Es
+
+130
+00:04:57,120 --> 00:05:02,320
+decir, si tengo una estrategia y empiezo
+
+131
+00:05:00,199 --> 00:05:04,320
+con algo, me quedo porque todas las
+
+132
+00:05:02,320 --> 00:05:06,360
+estrategias funcionan, todas. Y yo os lo
+
+133
+00:05:04,320 --> 00:05:08,240
+prometo que todas las las estrategias
+
+134
+00:05:06,360 --> 00:05:10,639
+funcionan hasta la más tonta. y os vais
+
+135
+00:05:08,240 --> 00:05:13,320
+a dar cuenta que el trading es 100%
+
+136
+00:05:10,639 --> 00:05:16,120
+gestión de riesgo. Es todo gestionar
+
+137
+00:05:13,320 --> 00:05:19,280
+bien el riesgo. Y de alguna forma os
+
+138
+00:05:16,120 --> 00:05:20,600
+quiero hacer ver que obvia, o sea, hay
+
+139
+00:05:19,280 --> 00:05:22,000
+muchísima gente que está estancada en el
+
+140
+00:05:20,600 --> 00:05:23,759
+trading y muchísima gente está haciendo
+
+141
+00:05:22,000 --> 00:05:25,280
+este strategy hopping. ¿Qué es estrategy
+
+142
+00:05:23,759 --> 00:05:27,600
+hopping? Lo que os he explicado. Cambian
+
+143
+00:05:25,280 --> 00:05:29,400
+de de estrategia todo el rato. Todo el
+
+144
+00:05:27,600 --> 00:05:30,520
+rato. Conozco a gente que lleva 5 años
+
+145
+00:05:29,400 --> 00:05:33,240
+haciendo trading y ha tenido siete
+
+146
+00:05:30,520 --> 00:05:34,520
+mentores, ocho. Y es que no lo juzgo. Es
+
+147
+00:05:33,240 --> 00:05:36,479
+muy fácil cambiarte de estrategia. Es
+
+148
+00:05:34,520 --> 00:05:37,840
+muy fácil ver que pierdes y que hay un
+
+149
+00:05:36,479 --> 00:05:39,280
+tío que no para de ganar en directo con
+
+150
+00:05:37,840 --> 00:05:40,680
+todo el mundo y tiene una mentoría justo
+
+151
+00:05:39,280 --> 00:05:42,800
+barata y justo tienes dinero para
+
+152
+00:05:40,680 --> 00:05:43,960
+comprarle la mentoría. Pero antes de
+
+153
+00:05:42,800 --> 00:05:45,600
+hacer eso, analiza por qué estás
+
+154
+00:05:43,960 --> 00:05:48,199
+perdiendo dinero y ya verás que eres tú
+
+155
+00:05:45,600 --> 00:05:50,680
+y que no necesitas nada más. Entonces
+
+156
+00:05:48,199 --> 00:05:52,120
+hay una persona, dos, bueno, no sé, hay
+
+157
+00:05:50,680 --> 00:05:53,319
+muchísima gente que me ha dicho, "Bro,
+
+158
+00:05:52,120 --> 00:05:55,199
+estoy aprendiendo." Esto no sé si lo
+
+159
+00:05:53,319 --> 00:05:57,280
+dije en algún vídeo, pero bro, estoy
+
+160
+00:05:55,199 --> 00:05:59,319
+aprendiendo de Alex Ruiz, "Bro, estoy
+
+161
+00:05:57,280 --> 00:06:01,360
+aprendiendo de Adrianus, bro, estoy
+
+162
+00:05:59,319 --> 00:06:03,120
+aprendiendo de Gerard García, bro, estoy
+
+163
+00:06:01,360 --> 00:06:05,919
+aprendiendo de PB, bro, estoy
+
+164
+00:06:03,120 --> 00:06:07,360
+aprendiendo de quien sea." Y me dicen,
+
+165
+00:06:05,919 --> 00:06:09,479
+"Y además también estoy aprendiendo de
+
+166
+00:06:07,360 --> 00:06:13,720
+ti." Y yo les envío un audio porque yo
+
+167
+00:06:09,479 --> 00:06:15,479
+soy ser sincero y les digo, "Lo primero,
+
+168
+00:06:13,720 --> 00:06:16,800
+toda la gente que estás diciendo gana
+
+169
+00:06:15,479 --> 00:06:18,759
+dinero. Toda la gente que estás diciendo
+
+170
+00:06:16,800 --> 00:06:20,039
+probablemente sean muy buenos traders y
+
+171
+00:06:18,759 --> 00:06:21,639
+no hay una estrategia que sea mejor que
+
+172
+00:06:20,039 --> 00:06:23,120
+la otra, ¿vale? Yo creo que soy el único
+
+173
+00:06:21,639 --> 00:06:25,800
+trader que no te va a juzgar ni las
+
+174
+00:06:23,120 --> 00:06:27,120
+promediadas, ni el Orderflow, ni el ICT.
+
+175
+00:06:25,800 --> 00:06:30,599
+Yo es lo que os digo, yo creo que todo
+
+176
+00:06:27,120 --> 00:06:32,520
+funciona, ¿vale? Y
+
+177
+00:06:30,599 --> 00:06:34,039
+si tú empiezas con alguien y te sientes
+
+178
+00:06:32,520 --> 00:06:37,560
+identificado con alguien o te gusta su
+
+179
+00:06:34,039 --> 00:06:41,440
+contenido y empiezas con él, no cambies.
+
+180
+00:06:37,560 --> 00:06:43,319
+No hagas Orderflow, promediadas, ICT,
+
+181
+00:06:41,440 --> 00:06:46,319
+soportes y resistencia a la vez. ¿Por
+
+182
+00:06:43,319 --> 00:06:49,440
+qué? estás llenando tu cerebro de unas
+
+183
+00:06:46,319 --> 00:06:51,199
+locuras que para flipar, porque donde
+
+184
+00:06:49,440 --> 00:06:52,840
+una estrategia te dice que compras, las
+
+185
+00:06:51,199 --> 00:06:55,520
+otras dos te dicen que vendes y que
+
+186
+00:06:52,840 --> 00:06:58,360
+vendas y al y al revés y es demasiado.
+
+187
+00:06:55,520 --> 00:06:59,840
+Estás añadiendo demasiados conceptos. De
+
+188
+00:06:58,360 --> 00:07:02,280
+hecho, yo al principio cuando empecé con
+
+189
+00:06:59,840 --> 00:07:04,360
+ICT empecé a meter conceptos, conceptos,
+
+190
+00:07:02,280 --> 00:07:07,879
+conceptos, conceptos y tenía igual 9 10
+
+191
+00:07:04,360 --> 00:07:10,199
+conceptos y pum, lo que me hizo mejorar
+
+192
+00:07:07,879 --> 00:07:12,280
+que fue tener cuatro, quitar conceptos,
+
+193
+00:07:10,199 --> 00:07:13,840
+hacerlo simple, simplificar el trading y
+
+194
+00:07:12,280 --> 00:07:15,840
+es lo que os voy a enseñar.
+
+195
+00:07:13,840 --> 00:07:17,440
+Y lo que quiero que entendáis, ¿vale?
+
+196
+00:07:15,840 --> 00:07:20,520
+Entonces, si os tengo que dar un consejo
+
+197
+00:07:17,440 --> 00:07:23,599
+es quedaros con una cosa, no perdáis el
+
+198
+00:07:20,520 --> 00:07:25,800
+tiempo saltando de cosas, ¿vale? Yo,
+
+199
+00:07:23,599 --> 00:07:27,319
+para que os hagáis una idea super corta
+
+200
+00:07:25,800 --> 00:07:28,960
+de si os va a gustar mi estrategia o no,
+
+201
+00:07:27,319 --> 00:07:30,960
+porque igual ahora explicando esto
+
+202
+00:07:28,960 --> 00:07:32,879
+vosotros decís, "Hostia, pues a mí no me
+
+203
+00:07:30,960 --> 00:07:36,759
+gusta este tipo de trading." Vale, mi
+
+204
+00:07:32,879 --> 00:07:38,759
+estrategia es de ratio beneficio bajo,
+
+205
+00:07:36,759 --> 00:07:41,520
+¿vale? De risk reward bajo. ¿Qué
+
+206
+00:07:38,759 --> 00:07:43,599
+significa esto, Chavi? que arriesgo
+
+207
+00:07:41,520 --> 00:07:45,400
+prácticamente lo mismo, o sea, es decir,
+
+208
+00:07:43,599 --> 00:07:47,479
+que puedo ganar exactamente lo mismo que
+
+209
+00:07:45,400 --> 00:07:50,599
+pierdo. Ejemplo, normalmente arriesgo
+
+210
+00:07:47,479 --> 00:07:52,280
+$00 y cuando gano gano 500 y cuando
+
+211
+00:07:50,599 --> 00:07:53,879
+pierdo pierdo 500. ¿Qué pasa si gano y
+
+212
+00:07:52,280 --> 00:07:56,159
+si pierdo en días separados? Que me
+
+213
+00:07:53,879 --> 00:07:58,400
+quedó break, me quedó igual. ¿Qué pasa
+
+214
+00:07:56,159 --> 00:07:59,960
+con estas estrategias? Que estás poco
+
+215
+00:07:58,400 --> 00:08:02,080
+tiempo en un trade, que creo que es algo
+
+216
+00:07:59,960 --> 00:08:03,759
+super bueno, puedes arriesgar un poquito
+
+217
+00:08:02,080 --> 00:08:06,000
+más fuerte porque tienes un porcentaje
+
+218
+00:08:03,759 --> 00:08:07,360
+de acierto más alto. A mí estas tres
+
+219
+00:08:06,000 --> 00:08:10,479
+cosas son las que me han hecho quedarme
+
+220
+00:08:07,360 --> 00:08:12,039
+con esta estrategia. ¿Por qué? Porque ya
+
+221
+00:08:10,479 --> 00:08:13,960
+de por sí el trading es superdfícil
+
+222
+00:08:12,039 --> 00:08:15,280
+estar mucho tiempo en un trade o a mí me
+
+223
+00:08:13,960 --> 00:08:18,159
+lo parece, era uno de mis problemas que
+
+224
+00:08:15,280 --> 00:08:21,120
+entraba en un trade y lo cerraba antes y
+
+225
+00:08:18,159 --> 00:08:22,680
+e no sé, no podía estar una hora viendo
+
+226
+00:08:21,120 --> 00:08:24,639
+como un trade se movía y que me iba casi
+
+227
+00:08:22,680 --> 00:08:27,479
+a break even y volvía. Y yo me di cuenta
+
+228
+00:08:24,639 --> 00:08:29,720
+que a mí me gustaban trades rápidos y
+
+229
+00:08:27,479 --> 00:08:31,639
+también me di cuenta de que me costaba
+
+230
+00:08:29,720 --> 00:08:33,000
+mucho aguantar un día un día eh
+
+231
+00:08:31,639 --> 00:08:34,719
+negativo. Y cuando empecé con esa
+
+232
+00:08:33,000 --> 00:08:37,479
+estrategia que os he enseñado, yo tenía
+
+233
+00:08:34,719 --> 00:08:38,719
+un 50% de acierto, pero un ratio
+
+234
+00:08:37,479 --> 00:08:40,200
+beneficio más alto. Por lo tanto,
+
+235
+00:08:38,719 --> 00:08:42,000
+obviamente era una estrategia rentable,
+
+236
+00:08:40,200 --> 00:08:44,920
+por eso digo que todas funcionan. ¿Qué
+
+237
+00:08:42,000 --> 00:08:47,920
+pasa? Que al tener un 50% de riesgo de
+
+238
+00:08:44,920 --> 00:08:49,600
+de porcentaje de acierto, perdonar, yo
+
+239
+00:08:47,920 --> 00:08:51,120
+no estoy cómodo operando, no lo estoy,
+
+240
+00:08:49,600 --> 00:08:52,800
+¿vale? Y eso soy yo. Puede que no vaya
+
+241
+00:08:51,120 --> 00:08:55,399
+contigo y por eso te aviso. Yo no lo
+
+242
+00:08:52,800 --> 00:08:57,040
+estoy. Yo estoy muy cómodo sabiendo que
+
+243
+00:08:55,399 --> 00:08:58,320
+la mayoría de veces voy a ganar, aunque
+
+244
+00:08:57,040 --> 00:09:00,519
+gane menos dinero y aunque sea un
+
+245
+00:08:58,320 --> 00:09:03,399
+recorrido más corto. Pero para mí es muy
+
+246
+00:09:00,519 --> 00:09:05,160
+sencillo perder y saber que tengo un 70%
+
+247
+00:09:03,399 --> 00:09:07,320
+de acierto porque digo, ostra, es muy
+
+248
+00:09:05,160 --> 00:09:08,519
+probable que mañana gane. Y de alguna
+
+249
+00:09:07,320 --> 00:09:10,760
+forma esto me ayuda a mejorar la
+
+250
+00:09:08,519 --> 00:09:12,279
+psicología y ya os dije que para mí la
+
+251
+00:09:10,760 --> 00:09:13,680
+psicología es lo más importante y ese es
+
+252
+00:09:12,279 --> 00:09:16,680
+el por qué de por qué, o sea, ese es el
+
+253
+00:09:13,680 --> 00:09:21,880
+porqué de mi estrategia actual.
+
+254
+00:09:16,680 --> 00:09:24,519
+Entonces, e mensaje del vídeo, repito,
+
+255
+00:09:21,880 --> 00:09:27,200
+quédate con una cosa,
+
+256
+00:09:24,519 --> 00:09:29,880
+no te sobrecompliques, no sobreanalices,
+
+257
+00:09:27,200 --> 00:09:32,600
+no te sobreestimules, te va a pasar
+
+258
+00:09:29,880 --> 00:09:34,480
+100%. Pero acuérdate de este vídeo
+
+259
+00:09:32,600 --> 00:09:37,440
+cuando te pase. Yo también he
+
+260
+00:09:34,480 --> 00:09:39,040
+sobreanalizado, he mirado 9000 cosas.
+
+261
+00:09:37,440 --> 00:09:40,560
+Eh, ahí lo que tienes que hacer es
+
+262
+00:09:39,040 --> 00:09:42,360
+descanso,
+
+263
+00:09:40,560 --> 00:09:43,760
+dar un paso atrás de los gráficos y
+
+264
+00:09:42,360 --> 00:09:45,320
+realmente centrarte en lo que te tienes
+
+265
+00:09:43,760 --> 00:09:46,720
+que centrar. Esto me pasaba también
+
+266
+00:09:45,320 --> 00:09:48,600
+cuando llevaba muchas horas practicando
+
+267
+00:09:46,720 --> 00:09:49,920
+en backtesting, ¿vale? Si no sabéis qué
+
+268
+00:09:48,600 --> 00:09:52,160
+es back testing, es una manera de
+
+269
+00:09:49,920 --> 00:09:53,600
+practicar tu estrategia eh, tirando
+
+270
+00:09:52,160 --> 00:09:56,560
+atrás en el tiempo. Obviamente habrá
+
+271
+00:09:53,600 --> 00:09:57,920
+vídeos sobre eso, pero em lo que me
+
+272
+00:09:56,560 --> 00:10:00,160
+pasaba es tantas horas de backtest
+
+273
+00:09:57,920 --> 00:10:01,480
+empezaba a fijarme en cosas que no
+
+274
+00:10:00,160 --> 00:10:03,600
+debería fijarme, empezaba a
+
+275
+00:10:01,480 --> 00:10:04,720
+sobreanalizar todo y llegaba un punto en
+
+276
+00:10:03,600 --> 00:10:06,240
+el que no sabía ni si comprar ni si
+
+277
+00:10:04,720 --> 00:10:07,959
+vender porque veía pros y contras en
+
+278
+00:10:06,240 --> 00:10:09,440
+todo. Y eso es lo que yo quiero evitar,
+
+279
+00:10:07,959 --> 00:10:13,360
+¿vale? Yo lo que quiero evitar es que os
+
+280
+00:10:09,440 --> 00:10:15,040
+pase eso y de alguna forma también
+
+281
+00:10:13,360 --> 00:10:20,040
+necesito que os quedéis con la idea de
+
+282
+00:10:15,040 --> 00:10:24,560
+que lo básico funciona. Eso
+
+283
+00:10:20,040 --> 00:10:28,160
+es lo más importante. Y
+
+284
+00:10:24,560 --> 00:10:30,160
+es super importante también que
+
+285
+00:10:28,160 --> 00:10:32,519
+entendáis, ¿vale? No me quiero ir por
+
+286
+00:10:30,160 --> 00:10:34,120
+las ramas con otro tema, pero es muy
+
+287
+00:10:32,519 --> 00:10:35,880
+importante que entendáis que al
+
+288
+00:10:34,120 --> 00:10:37,519
+principio
+
+289
+00:10:35,880 --> 00:10:39,720
+vais a romper vuestras reglas. Al
+
+290
+00:10:37,519 --> 00:10:41,279
+principio vais a perder dinero, al
+
+291
+00:10:39,720 --> 00:10:43,560
+principio vais a creer que el tren no
+
+292
+00:10:41,279 --> 00:10:47,839
+funciona, al principio no sabréis ni qué
+
+293
+00:10:43,560 --> 00:10:50,240
+está pasando y es normal, ¿vale? Tenéis
+
+294
+00:10:47,839 --> 00:10:52,240
+que entender que la mayoría de gente
+
+295
+00:10:50,240 --> 00:10:54,480
+está estancada en el trading porque no
+
+296
+00:10:52,240 --> 00:10:56,959
+aprenden de sus error de sus errores. Y
+
+297
+00:10:54,480 --> 00:10:58,480
+uno de esos errores, ¿cuál es?
+
+298
+00:10:56,959 --> 00:11:00,519
+cambiar todo el rato de estrategia,
+
+299
+00:10:58,480 --> 00:11:04,160
+sobreanalizar todo el rato, añadir
+
+300
+00:11:00,519 --> 00:11:07,360
+continuamente cosas y
+
+301
+00:11:04,160 --> 00:11:10,240
+no quiero que os pase eso porque
+
+302
+00:11:07,360 --> 00:11:11,800
+de alguna forma si
+
+303
+00:11:10,240 --> 00:11:14,120
+estás estancado del trading, obviamente
+
+304
+00:11:11,800 --> 00:11:15,920
+es tu culpa, pero
+
+305
+00:11:14,120 --> 00:11:18,000
+si realmente lo quieres, ¿vale? Si
+
+306
+00:11:15,920 --> 00:11:20,959
+realmente de verdad quieres hacer
+
+307
+00:11:18,000 --> 00:11:22,920
+trading, si realmente de verdad lo vas a
+
+308
+00:11:20,959 --> 00:11:25,120
+dar todo, a mí no me sirve que hagas
+
+309
+00:11:22,920 --> 00:11:27,120
+20,000 horas de back testing, no me
+
+310
+00:11:25,120 --> 00:11:28,360
+sirve que hagas 20,000 horas de journal,
+
+311
+00:11:27,120 --> 00:11:30,839
+no me sirve que seas buenísimo
+
+312
+00:11:28,360 --> 00:11:33,680
+analizando si luego no puedes seguir tus
+
+313
+00:11:30,839 --> 00:11:38,079
+reglas. Y pequeño inciso, ¿pasa algo si
+
+314
+00:11:33,680 --> 00:11:40,800
+rompes tus reglas? No es normal. Yo aún
+
+315
+00:11:38,079 --> 00:11:43,040
+rompo mis reglas, es normal, somos
+
+316
+00:11:40,800 --> 00:11:44,440
+humanos, ¿vale? Es totalmente normal y
+
+317
+00:11:43,040 --> 00:11:46,839
+creo que te entre la cabeza. Es normal
+
+318
+00:11:44,440 --> 00:11:50,320
+que rompa reglas. Es normal y te va a
+
+319
+00:11:46,839 --> 00:11:53,040
+pasar, pero lo que no lo que no te
+
+320
+00:11:50,320 --> 00:11:55,000
+acepto es
+
+321
+00:11:53,040 --> 00:11:57,320
+que luego no intentes mejorar, que
+
+322
+00:11:55,000 --> 00:11:58,920
+rompas reglas, no revises el diario, no
+
+323
+00:11:57,320 --> 00:12:01,399
+hagas el diario porque te ha dado palo,
+
+324
+00:11:58,920 --> 00:12:03,560
+porque ese día estás enfadado y que las
+
+325
+00:12:01,399 --> 00:12:04,800
+empieces a romper cada día, cada día y
+
+326
+00:12:03,560 --> 00:12:06,560
+que digas a todo el mundo que te encanta
+
+327
+00:12:04,800 --> 00:12:08,160
+el trading, que estás obsesionado y que
+
+328
+00:12:06,560 --> 00:12:10,120
+no pares de cambiarte de estrategia, de
+
+329
+00:12:08,160 --> 00:12:11,760
+romper tus reglas, de hacer el tonto,
+
+330
+00:12:10,120 --> 00:12:13,680
+porque
+
+331
+00:12:11,760 --> 00:12:15,160
+vas a estar
+
+332
+00:12:13,680 --> 00:12:17,199
+en un bucle
+
+333
+00:12:15,160 --> 00:12:18,399
+de mucho tiempo estando así, ¿vale? Y es
+
+334
+00:12:17,199 --> 00:12:20,800
+el bu que está todo el mundo, o sea,
+
+335
+00:12:18,399 --> 00:12:23,399
+literalmente ese es el trading, ¿vale?
+
+336
+00:12:20,800 --> 00:12:25,240
+Es si es tus reglas ganas dinero, ¿no?
+
+337
+00:12:23,399 --> 00:12:27,720
+Si es tus reglas pierdes dinero. Es
+
+338
+00:12:25,240 --> 00:12:30,279
+difícil seguir tus reglas. Muy muy muy
+
+339
+00:12:27,720 --> 00:12:34,040
+muy muy
+
+340
+00:12:30,279 --> 00:12:36,600
+difícil. Es fácil romperlas, muy fácil.
+
+341
+00:12:34,040 --> 00:12:39,360
+De ahí la estadística del 1%, el 99%.
+
+342
+00:12:36,600 --> 00:12:41,199
+Vale, entonces voy a dejar el vídeo por
+
+343
+00:12:39,360 --> 00:12:44,519
+aquí.
+
+344
+00:12:41,199 --> 00:12:47,480
+Quédate con el mensaje, ¿vale?
+
+345
+00:12:44,519 --> 00:12:48,920
+No te flipes, ¿vale? Seguramente
+
+346
+00:12:47,480 --> 00:12:50,600
+o ya sabes todo lo que tienes que saber
+
+347
+00:12:48,920 --> 00:12:51,920
+de trading si estás viendo este vídeo.
+
+348
+00:12:50,600 --> 00:12:53,120
+Ya sabes todo, ya tienes todos los
+
+349
+00:12:51,920 --> 00:12:54,720
+conceptos, tienes todo lo que tienes que
+
+350
+00:12:53,120 --> 00:12:56,160
+saber,
+
+351
+00:12:54,720 --> 00:12:57,680
+tienes que mejorar tú, no tienes que
+
+352
+00:12:56,160 --> 00:13:00,760
+mejorar la estrategia, eres tú el que
+
+353
+00:12:57,680 --> 00:13:03,480
+tiene que reflexionar. Y si eres nuevo,
+
+354
+00:13:00,760 --> 00:13:06,760
+que ya te sirva de
+
+355
+00:13:03,480 --> 00:13:11,160
+aviso. Hm. No cambies de estrategia, no
+
+356
+00:13:06,760 --> 00:13:13,720
+hagas el mono, no ve tranquilo, confía
+
+357
+00:13:11,160 --> 00:13:16,000
+en ti y cuando la líes, que la vas a
+
+358
+00:13:13,720 --> 00:13:17,680
+liar, date cuenta de que es tu culpa. Y
+
+359
+00:13:16,000 --> 00:13:19,240
+cuando te des cuenta de de que es tu
+
+360
+00:13:17,680 --> 00:13:20,320
+culpa, mira cómo puedes solucionarlo,
+
+361
+00:13:19,240 --> 00:13:21,959
+¿vale? ¿Qué he hecho mal? ¿Por qué lo he
+
+362
+00:13:20,320 --> 00:13:23,920
+hecho mal? ¿Cómo lo resuelvo? También
+
+363
+00:13:21,959 --> 00:13:25,040
+hablaremos de eso. Pero nada, tíos,
+
+364
+00:13:23,920 --> 00:13:29,000
+espero que os haya molado, creo que ha
+
+365
+00:13:25,040 --> 00:13:31,360
+quedado un vídeo muy guay y nos vemos.
+
+366
+00:13:29,000 --> 00:13:31,360
+mañana.
+

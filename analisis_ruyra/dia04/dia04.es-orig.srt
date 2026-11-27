@@ -1,0 +1,2144 @@
+1
+00:00:00,599 --> 00:00:04,799
+Bienvenidos
+
+2
+00:00:02,120 --> 00:00:08,440
+al día 4
+
+3
+00:00:04,799 --> 00:00:10,519
+hoy de la bootcamp. Perdonad porque no
+
+4
+00:00:08,440 --> 00:00:12,080
+sé qué me ha dejado mi madre aquí. Me ha
+
+5
+00:00:10,519 --> 00:00:14,799
+dejado
+
+6
+00:00:12,080 --> 00:00:16,359
+como unos cascos
+
+7
+00:00:14,799 --> 00:00:18,995
+que además no me los ha comprado. Creo
+
+8
+00:00:16,359 --> 00:00:20,640
+que la caja está vacía. Lok me ha dejado
+
+9
+00:00:18,995 --> 00:00:22,199
+[resoplido] un ordenador. Bueno, no sé
+
+10
+00:00:20,640 --> 00:00:25,439
+qué está pasando. ¿Sabes lo típico que
+
+11
+00:00:22,199 --> 00:00:27,000
+vuestra madre decide ordenar cosas en tu
+
+12
+00:00:25,439 --> 00:00:29,000
+habitación? Como si fuese tu habitación
+
+13
+00:00:27,000 --> 00:00:31,640
+un desguace. Pues lo mismo. Entonces,
+
+14
+00:00:29,000 --> 00:00:34,840
+perdonar el desorden, pero cosas que
+
+15
+00:00:31,640 --> 00:00:38,239
+pasan. Empezamos hoy, ¿vale? Hoy es día
+
+16
+00:00:34,840 --> 00:00:39,960
+importante porque empezamos con Trading
+
+17
+00:00:38,239 --> 00:00:42,360
+View, empezamos con conceptos de
+
+18
+00:00:39,960 --> 00:00:44,160
+trading, empezamos ya a ver cositas, ya
+
+19
+00:00:42,360 --> 00:00:45,879
+no soy yo solo hablando de psicología,
+
+20
+00:00:44,160 --> 00:00:47,920
+ya no soy yo motivándote, ya no soy yo
+
+21
+00:00:45,879 --> 00:00:51,199
+explicándote cómo poner mis colores de
+
+22
+00:00:47,920 --> 00:00:55,760
+velas, sino que soy yo explicándote cómo
+
+23
+00:00:51,199 --> 00:00:57,359
+leer estas velas. Así que bienvenidos a
+
+24
+00:00:55,760 --> 00:00:59,600
+tendencias, temporalidades, habrá
+
+25
+00:00:57,359 --> 00:01:01,680
+muchísimas cosas que vamos a cubrir y
+
+26
+00:00:59,600 --> 00:01:03,719
+repito, como en todos los vídeos, si hay
+
+27
+00:01:01,680 --> 00:01:05,439
+una duda por comentarios, si no se
+
+28
+00:01:03,719 --> 00:01:07,680
+entiende algo por el Discord me podéis
+
+29
+00:01:05,439 --> 00:01:09,200
+preguntar por Instagram si os contesto y
+
+30
+00:01:07,680 --> 00:01:12,040
+por algún motivo veo el mensaje también,
+
+31
+00:01:09,200 --> 00:01:13,680
+pero intentaré aclarar todo. Si algo no
+
+32
+00:01:12,040 --> 00:01:14,840
+se entiende, pues me lo decís, ¿vale?
+
+33
+00:01:13,680 --> 00:01:16,240
+Porque pensar que yo nunca he explicado
+
+34
+00:01:14,840 --> 00:01:18,280
+algo tan para tan tan para
+
+35
+00:01:16,240 --> 00:01:20,759
+principiantes. Entonces, lo primero de
+
+36
+00:01:18,280 --> 00:01:22,560
+todo, ¿qué estamos viendo aquí? Estamos
+
+37
+00:01:20,759 --> 00:01:25,040
+viendo un gráfico, ¿vale? Estamos viendo
+
+38
+00:01:22,560 --> 00:01:27,280
+el gráfico de, en este caso, el Nasdaq.
+
+39
+00:01:25,040 --> 00:01:29,240
+Perfecto.
+
+40
+00:01:27,280 --> 00:01:30,560
+¿De qué está hecho el gráfico? Sencillo,
+
+41
+00:01:29,240 --> 00:01:32,680
+¿vale? De velas, todo el mundo lo sabe.
+
+42
+00:01:30,560 --> 00:01:34,439
+Velas japonesas. No os voy a explicar la
+
+43
+00:01:32,680 --> 00:01:36,600
+historia de las velas japonesas, de cómo
+
+44
+00:01:34,439 --> 00:01:37,799
+están construidas porque no tengo ni
+
+45
+00:01:36,600 --> 00:01:39,360
+idea, ¿vale? Yo os voy a explicar
+
+46
+00:01:37,799 --> 00:01:40,720
+simplemente qué es lo que tenéis que
+
+47
+00:01:39,360 --> 00:01:42,600
+saber de estas velas, de estos
+
+48
+00:01:40,720 --> 00:01:46,640
+cuadraditos rectangulares. Vale,
+
+49
+00:01:42,600 --> 00:01:48,079
+nosotros tenemos velas alcistas, ¿vale?
+
+50
+00:01:46,640 --> 00:01:51,079
+Que puede ser, por ejemplo, este de
+
+51
+00:01:48,079 --> 00:01:51,079
+aquí.
+
+52
+00:01:51,159 --> 00:01:54,520
+Y tenemos velas bajistas, ¿vale? Las
+
+53
+00:01:52,840 --> 00:01:57,119
+vamos a poner de un color un poquito más
+
+54
+00:01:54,520 --> 00:01:58,439
+oscuro porque eh en el gráfico lo
+
+55
+00:01:57,119 --> 00:01:59,719
+tenemos de esta forma, ¿vale? Como veis,
+
+56
+00:01:58,439 --> 00:02:01,880
+las alcistas son más grises y las
+
+57
+00:01:59,719 --> 00:02:03,119
+bajistas son un poquito más oscuras, que
+
+58
+00:02:01,880 --> 00:02:05,000
+de hecho podemos hacerlo así para que
+
+59
+00:02:03,119 --> 00:02:07,000
+quede incluso más claro. Entonces,
+
+60
+00:02:05,000 --> 00:02:09,119
+tenemos mechas a velas alcistas y
+
+61
+00:02:07,000 --> 00:02:11,879
+bajistas. ¿Qué tienen estas velas? ¿De
+
+62
+00:02:09,119 --> 00:02:13,440
+qué están hechas estas velas? Tienen una
+
+63
+00:02:11,879 --> 00:02:15,599
+mecha que es este palito de aquí, se
+
+64
+00:02:13,440 --> 00:02:18,680
+llama mecha, ¿vale? Se llama wick. Os
+
+65
+00:02:15,599 --> 00:02:20,760
+voy a decir muchas veces, vaya wick. Eso
+
+66
+00:02:18,680 --> 00:02:23,599
+es mecha, ¿vale? Es esta línea de aquí
+
+67
+00:02:20,760 --> 00:02:26,319
+arriba. Entonces, tenemos la mecha y
+
+68
+00:02:23,599 --> 00:02:28,360
+tenemos el cuerpo. Muy fácil. Mecha para
+
+69
+00:02:26,319 --> 00:02:30,560
+arriba, mecha para abajo y cuerpo en
+
+70
+00:02:28,360 --> 00:02:32,720
+medio. El rectángulo es el cuerpo.
+
+71
+00:02:30,560 --> 00:02:36,319
+Sersencillo. Chavi, ¿de qué me sirve
+
+72
+00:02:32,720 --> 00:02:38,680
+saber estas cosas? Super importante. Voy
+
+73
+00:02:36,319 --> 00:02:41,800
+a explicaros de una forma simple cómo
+
+74
+00:02:38,680 --> 00:02:44,159
+funcionan estas velas. Y es algo, es un
+
+75
+00:02:41,800 --> 00:02:46,040
+concepto tan importante y es un concepto
+
+76
+00:02:44,159 --> 00:02:47,959
+que ahora tú vas a decir, "Wow, para qué
+
+77
+00:02:46,040 --> 00:02:49,480
+quiero saber yo esto." Vale, entonces es
+
+78
+00:02:47,959 --> 00:02:51,200
+un concepto super importante para los
+
+79
+00:02:49,480 --> 00:02:54,239
+más avanzados os va a empezar a sonar el
+
+80
+00:02:51,200 --> 00:02:56,360
+PO3, el open high low close. Si eres
+
+81
+00:02:54,239 --> 00:02:59,519
+noob y estás empezando, no te preocupes,
+
+82
+00:02:56,360 --> 00:03:00,720
+pero esto lo vamos a ver muchísimo más
+
+83
+00:02:59,519 --> 00:03:02,080
+adelante, pero quiero hacerte una
+
+84
+00:03:00,720 --> 00:03:04,319
+pequeña intro para que tengas un poquito
+
+85
+00:03:02,080 --> 00:03:06,519
+de idea de cómo funciona, ¿vale?
+
+86
+00:03:04,319 --> 00:03:08,480
+Entonces, sin entrar mucho en detalle,
+
+87
+00:03:06,519 --> 00:03:09,959
+nosotros qué tenem, qué nos dicen, ¿no?
+
+88
+00:03:08,480 --> 00:03:12,519
+Estas, porque nosotros las velas nos
+
+89
+00:03:09,959 --> 00:03:14,959
+hablan, ¿vale? La mecha nos cuenta, eh,
+
+90
+00:03:12,519 --> 00:03:17,480
+nos cuenta y la historia, básicamente.
+
+91
+00:03:14,959 --> 00:03:19,239
+Entonces, las mechas nos dicen
+
+92
+00:03:17,480 --> 00:03:22,959
+diferentes cosas. Si empezamos con la
+
+93
+00:03:19,239 --> 00:03:25,720
+vela alcista, tenemos el cuerpo, que es
+
+94
+00:03:22,959 --> 00:03:27,599
+este de aquí. El cuerpo acaba aquí y
+
+95
+00:03:25,720 --> 00:03:31,159
+empieza aquí arriba. Entonces, tú tienes
+
+96
+00:03:27,599 --> 00:03:33,799
+que saber que una vela alcista abre
+
+97
+00:03:31,159 --> 00:03:36,200
+justo aquí, es decir, en la parte del
+
+98
+00:03:33,799 --> 00:03:38,920
+cuerpo inferior. Este es el open, la
+
+99
+00:03:36,200 --> 00:03:41,599
+apertura de la vela. Y el cierre es este
+
+100
+00:03:38,920 --> 00:03:43,680
+de aquí arriba, ¿vale? El cierre de la
+
+101
+00:03:41,599 --> 00:03:45,200
+vela es el de aquí arriba, es decir,
+
+102
+00:03:43,680 --> 00:03:47,200
+siempre en las velas alcistas vamos a
+
+103
+00:03:45,200 --> 00:03:48,920
+tener una apertura aquí abajo y un
+
+104
+00:03:47,200 --> 00:03:51,360
+cierre allí arriba, obvio, ¿no? Porque
+
+105
+00:03:48,920 --> 00:03:53,120
+si no no sería una vela alcista. Y por
+
+106
+00:03:51,360 --> 00:03:55,920
+lo tanto, en las velas alcistas, ¿qué
+
+107
+00:03:53,120 --> 00:03:58,200
+tenemos? Lo contrario, ¿vale? Tenemos
+
+108
+00:03:55,920 --> 00:04:00,480
+una apertura
+
+109
+00:03:58,200 --> 00:04:02,079
+aquí arriba y un close abajo, porque si
+
+110
+00:04:00,480 --> 00:04:04,280
+abrimos aquí y cerramos aquí, ¿qué
+
+111
+00:04:02,079 --> 00:04:06,360
+tenemos? Pues una bajada, obvio. ¿Vale?
+
+112
+00:04:04,280 --> 00:04:09,920
+¿Qué nos dicen estas mechas? Estas
+
+113
+00:04:06,360 --> 00:04:11,720
+mechas nos dicen al punto más más más
+
+114
+00:04:09,920 --> 00:04:13,560
+alto o más bajo en el que ha estado la
+
+115
+00:04:11,720 --> 00:04:16,359
+vela en algún momento, ¿vale? En este
+
+116
+00:04:13,560 --> 00:04:18,199
+caso, la mecha, o sea, las velas, las
+
+117
+00:04:16,359 --> 00:04:19,880
+wicks que estén por arriba de las velas
+
+118
+00:04:18,199 --> 00:04:22,280
+nos dirán el punto máximo en el que
+
+119
+00:04:19,880 --> 00:04:23,880
+estab estas velas y las velas y las
+
+120
+00:04:22,280 --> 00:04:26,160
+mechas de abajo, perdón, nos dirán el
+
+121
+00:04:23,880 --> 00:04:28,560
+punto mínimo, el punto más bajo en el
+
+122
+00:04:26,160 --> 00:04:30,639
+que ha estado esa vela. Entonces, tú
+
+123
+00:04:28,560 --> 00:04:34,160
+aquí lo que tienes que entender es que
+
+124
+00:04:30,639 --> 00:04:35,600
+la vela muchas veces puede abrir aquí,
+
+125
+00:04:34,160 --> 00:04:37,840
+¿vale? Pongamos un ejemplo de una vela
+
+126
+00:04:35,600 --> 00:04:42,039
+bajista. Puedes tener la apertura de la
+
+127
+00:04:37,840 --> 00:04:42,039
+vela aquí y la vela puede hacer
+
+128
+00:04:42,520 --> 00:04:47,360
+subir un montón y de repente hacer
+
+129
+00:04:48,000 --> 00:04:53,720
+bajar un montón y de repente
+
+130
+00:04:50,919 --> 00:04:57,000
+pum, se acaba. ¿Vale? ¿Y qué tienes?
+
+131
+00:04:53,720 --> 00:04:58,759
+Pues básicamente tienes un cuerpo y
+
+132
+00:04:57,000 --> 00:05:00,520
+luego tienes pues el punto mínimo, que
+
+133
+00:04:58,759 --> 00:05:01,960
+es el de aquí abajo, y el punto máximo
+
+134
+00:05:00,520 --> 00:05:04,080
+que es el de allí arriba. ¿Vale? Espero
+
+135
+00:05:01,960 --> 00:05:05,960
+que se haya entendido más o menos.
+
+136
+00:05:04,080 --> 00:05:08,360
+Entonces, acabáis de escuchar algo muy
+
+137
+00:05:05,960 --> 00:05:10,080
+interesante interesante que es la vela
+
+138
+00:05:08,360 --> 00:05:12,280
+haceu
+
+139
+00:05:10,080 --> 00:05:13,919
+hasta que se acaba. ¿Qué es esto de
+
+140
+00:05:12,280 --> 00:05:16,000
+hasta que se acaba? ¿Cuándo se acaba una
+
+141
+00:05:13,919 --> 00:05:18,440
+vela? Vale, vamos a entrar a hablar de
+
+142
+00:05:16,000 --> 00:05:21,120
+las temporalidades de cada vela, que es
+
+143
+00:05:18,440 --> 00:05:23,000
+lo que tenemos justo aquí arriba. Vale,
+
+144
+00:05:21,120 --> 00:05:24,680
+antes de empezar os recomiendo que le
+
+145
+00:05:23,000 --> 00:05:27,080
+deis al botoncito este y os pongáis en
+
+146
+00:05:24,680 --> 00:05:29,880
+favoritos estas temporalidades. Si no
+
+147
+00:05:27,080 --> 00:05:31,600
+habéis pagado el Trading View Premium,
+
+148
+00:05:29,880 --> 00:05:33,319
+no os va a dejar utilizar los segundos y
+
+149
+00:05:31,600 --> 00:05:35,319
+creo que igual 2 minutos tampoco, pero
+
+150
+00:05:33,319 --> 00:05:36,919
+no pasa nada, poneros todos los otros,
+
+151
+00:05:35,319 --> 00:05:38,800
+¿vale? Ponerlo la estrellita y os va a
+
+152
+00:05:36,919 --> 00:05:42,080
+aparecer ahí arriba. Entonces, ¿qué son
+
+153
+00:05:38,800 --> 00:05:43,919
+esas temporalidades? ¿Vale? Tú las velas
+
+154
+00:05:42,080 --> 00:05:45,120
+las tú puedes elegir de qué color, o
+
+155
+00:05:43,919 --> 00:05:48,759
+sea, de qué temporalidad quieres ver
+
+156
+00:05:45,120 --> 00:05:50,479
+estas velas, ¿vale? Ejemplo, ahora mismo
+
+157
+00:05:48,759 --> 00:05:51,759
+estamos viendo una vela que se está
+
+158
+00:05:50,479 --> 00:05:53,120
+imprimiendo, es esta de aquí, que si
+
+159
+00:05:51,759 --> 00:05:55,680
+veis está moviendo porque justo el
+
+160
+00:05:53,120 --> 00:05:59,120
+mercado está abierto. Y esta vela de
+
+161
+00:05:55,680 --> 00:06:00,560
+aquí va a ser o va a tener una duración
+
+162
+00:05:59,120 --> 00:06:02,199
+dependiendo de lo que vayamos a
+
+163
+00:06:00,560 --> 00:06:04,319
+seleccionar aquí arriba. Es decir, ahora
+
+164
+00:06:02,199 --> 00:06:07,240
+estamos en 5 minutos. Esto quiere decir
+
+165
+00:06:04,319 --> 00:06:10,080
+que esta vela de aquí dura 5 minutos, es
+
+166
+00:06:07,240 --> 00:06:11,479
+decir, tarda 5 minutos en cerrarse. Como
+
+167
+00:06:10,080 --> 00:06:16,000
+veis, aquí tenemos un contador a la
+
+168
+00:06:11,479 --> 00:06:17,599
+derecha que pone 227, 226, 225, 224. Ese
+
+169
+00:06:16,000 --> 00:06:20,720
+es el tiempo que le queda la berra, a la
+
+170
+00:06:17,599 --> 00:06:23,520
+vela para cerrarse. ¿Por qué? Porque son
+
+171
+00:06:20,720 --> 00:06:25,720
+las 12:22 y si dura 5 minutos la vela,
+
+172
+00:06:23,520 --> 00:06:28,160
+¿a qué hora va a cerrar? Hay 25.
+
+173
+00:06:25,720 --> 00:06:30,319
+¿Estamos de acuerdo? Vale, perfecto.
+
+174
+00:06:28,160 --> 00:06:33,560
+Cuando llegue 25 vamos a abrir otra vela
+
+175
+00:06:30,319 --> 00:06:37,919
+de 5 minutos. ¿Qué pasa si de esta vela
+
+176
+00:06:33,560 --> 00:06:40,080
+de 5 minutos escalamos a un minuto?
+
+177
+00:06:37,919 --> 00:06:43,720
+¿Qué tenemos? Cinco velas de un minuto.
+
+178
+00:06:40,080 --> 00:06:46,240
+1 2 3 4 5. Justo aquí hemos abierto
+
+179
+00:06:43,720 --> 00:06:48,440
+otra. Vale, entonces imaginaros que yo
+
+180
+00:06:46,240 --> 00:06:50,160
+digo, "Vale, voy a marcarme a, o sea,
+
+181
+00:06:48,440 --> 00:06:52,560
+aquí abajo, ¿vale, chavales? Si veis
+
+182
+00:06:50,160 --> 00:06:54,000
+como muevo el ratón, vais a ver que aquí
+
+183
+00:06:52,560 --> 00:06:57,680
+abajo cambia la hora, o sea, ¿vale?,
+
+184
+00:06:54,000 --> 00:06:59,479
+veis, 124, 05, 06, 07, justo aquí abajo
+
+185
+00:06:57,680 --> 00:07:01,000
+del todo, ¿vale? Entonces, aquí también
+
+186
+00:06:59,479 --> 00:07:02,919
+lo uso yo para ver la hora. Entonces,
+
+187
+00:07:01,000 --> 00:07:05,840
+ahora todas estas velas son de 1 minuto
+
+188
+00:07:02,919 --> 00:07:07,639
+y como veis cierren 35 segundos, 34.
+
+189
+00:07:05,840 --> 00:07:09,280
+¿Por qué cierren 30 segundos? Porque
+
+190
+00:07:07,639 --> 00:07:12,160
+quedan 30 segundos para que pasemos al
+
+191
+00:07:09,280 --> 00:07:14,919
+siguiente minuto, al 24, ¿vale? Y lo
+
+192
+00:07:12,160 --> 00:07:17,400
+mismo pasa con 15 minutos. Como veis,
+
+193
+00:07:14,919 --> 00:07:19,440
+estamos en 15 minutos. Y como faltan
+
+194
+00:07:17,400 --> 00:07:21,560
+exactamente 6 minutos y 20 segundos para
+
+195
+00:07:19,440 --> 00:07:23,560
+que sean las 12:30, en 15 minutos vamos
+
+196
+00:07:21,560 --> 00:07:26,240
+a tener otra vez. Y lo mismo en 1 hora,
+
+197
+00:07:23,560 --> 00:07:29,160
+en 4 horas, en diario, quedan 4 horas y
+
+198
+00:07:26,240 --> 00:07:31,240
+36 minutos para que acabe el día
+
+199
+00:07:29,160 --> 00:07:36,599
+en Estados en horario de Estados Unidos.
+
+200
+00:07:31,240 --> 00:07:39,440
+Y es así con todo, ¿vale? Entonces s s
+
+201
+00:07:36,599 --> 00:07:42,560
+super importante, ¿vale?
+
+202
+00:07:39,440 --> 00:07:44,919
+Esto apuntarlo en mayúscula, el tiempo
+
+203
+00:07:42,560 --> 00:07:47,560
+es fractal.
+
+204
+00:07:44,919 --> 00:07:49,599
+¿Vale? ¿Qué significa que el tiempo es
+
+205
+00:07:47,560 --> 00:07:51,919
+fractal? Esto básicamente lo que
+
+206
+00:07:49,599 --> 00:07:54,759
+significa, ¿vale? Significa que el
+
+207
+00:07:51,919 --> 00:07:57,440
+precio se mueve y actúa de la misma
+
+208
+00:07:54,759 --> 00:08:00,720
+forma en todas las temporalidades. Vale,
+
+209
+00:07:57,440 --> 00:08:00,720
+voy a escribirlo.
+
+210
+00:08:04,199 --> 00:08:09,879
+O sea, el tiempo, no, el precio, perdón.
+
+211
+00:08:08,159 --> 00:08:10,879
+Wow. hecho tachar en la libreta. Me
+
+212
+00:08:09,879 --> 00:08:14,639
+acuerdo que me pasaba a mí. Lo
+
+213
+00:08:10,879 --> 00:08:14,639
+apuntabais y luego lo tachabais.
+
+214
+00:08:20,240 --> 00:08:24,240
+Vale, el precio actúa de la misma forma
+
+215
+00:08:22,199 --> 00:08:26,080
+en cualquier temporalidad. Las velas se
+
+216
+00:08:24,240 --> 00:08:27,680
+comportan de la misma forma en cualquier
+
+217
+00:08:26,080 --> 00:08:29,919
+temporalidad. Da igual si es diario, 4
+
+218
+00:08:27,680 --> 00:08:32,120
+horas, 1 hora, 15 minutos, media hora,
+
+219
+00:08:29,919 --> 00:08:33,919
+da absolutamente igual, ¿vale? El precio
+
+220
+00:08:32,120 --> 00:08:35,880
+es fractaal. Y esto es super importante
+
+221
+00:08:33,919 --> 00:08:37,200
+que lo entendáis porque más adelante a
+
+222
+00:08:35,880 --> 00:08:39,120
+la hora de estudiar los conceptos y
+
+223
+00:08:37,200 --> 00:08:41,640
+hacer análisis vais a tener que tener
+
+224
+00:08:39,120 --> 00:08:43,519
+vais a tener que eh saber que el precio
+
+225
+00:08:41,640 --> 00:08:45,399
+se va a comportar de la misma forma en
+
+226
+00:08:43,519 --> 00:08:47,880
+todas las temporalidades, en todas.
+
+227
+00:08:45,399 --> 00:08:51,720
+¿Vale? Entonces, una vez entendemos
+
+228
+00:08:47,880 --> 00:08:54,120
+esto, vamos a hacer un análisis s
+
+229
+00:08:51,720 --> 00:08:56,480
+sencillo de cómo se mueve el precio,
+
+230
+00:08:54,120 --> 00:08:57,839
+¿vale? Cómo se mueve, ¿vale? Entonces,
+
+231
+00:08:56,480 --> 00:09:00,279
+vamos a esperar primero porque os quiero
+
+232
+00:08:57,839 --> 00:09:02,120
+enseñar este ejemplo de aquí. Como veis,
+
+233
+00:09:00,279 --> 00:09:04,079
+hemos acabado cerrando esa vela de 5
+
+234
+00:09:02,120 --> 00:09:06,200
+minutos. Y ahora al lado de esa vela
+
+235
+00:09:04,079 --> 00:09:08,399
+hemos abierto una nueva que cierra en 4
+
+236
+00:09:06,200 --> 00:09:10,480
+minutos y 30 segundos hasta las 12:30.
+
+237
+00:09:08,399 --> 00:09:12,079
+¿Vale? Entonces, si tú te marcas el alto
+
+238
+00:09:10,480 --> 00:09:13,720
+de la vela de 5 minutos, este es el
+
+239
+00:09:12,079 --> 00:09:15,360
+punto más alto en el que ha estado, esto
+
+240
+00:09:13,720 --> 00:09:18,040
+de aquí. Y el punto más bajo en el que
+
+241
+00:09:15,360 --> 00:09:21,519
+ha estado en este momento ha sido aquí.
+
+242
+00:09:18,040 --> 00:09:23,200
+Entonces, nosotros sabemos que, vale,
+
+243
+00:09:21,519 --> 00:09:24,880
+nosotros sabemos que la vela ha abierto
+
+244
+00:09:23,200 --> 00:09:27,279
+aquí
+
+245
+00:09:24,880 --> 00:09:29,399
+y ha cerrado aquí abajo, ¿vale?
+
+246
+00:09:27,279 --> 00:09:32,600
+Entonces, la vela ha hecho tu, ha subido
+
+247
+00:09:29,399 --> 00:09:32,600
+hasta aquí.
+
+248
+00:09:33,079 --> 00:09:37,040
+ha bajado hasta aquí y pum, ha cerrado
+
+249
+00:09:34,800 --> 00:09:40,000
+aquí. Vale, perfecto. Entonces, si nos
+
+250
+00:09:37,040 --> 00:09:42,800
+marcamos el punto máximo y el mínimo de
+
+251
+00:09:40,000 --> 00:09:46,040
+la vela y escalamos a un minuto, vamos a
+
+252
+00:09:42,800 --> 00:09:48,079
+ver que esta vela de 5 minutos está
+
+253
+00:09:46,040 --> 00:09:53,040
+compuesta por cuántas velas de un
+
+254
+00:09:48,079 --> 00:09:54,640
+minuto? Una, 2, 3, 4, 5 y se acaba.
+
+255
+00:09:53,040 --> 00:09:57,839
+Vale, empezamos por esta porque es justo
+
+256
+00:09:54,640 --> 00:10:03,640
+a las 2:20. A las 12:20, perdonad. 12 y
+
+257
+00:09:57,839 --> 00:10:07,320
+20 12 y 21 y 22 23 24 y justo en el
+
+258
+00:10:03,640 --> 00:10:09,480
+cambio de vela hay 25.
+
+259
+00:10:07,320 --> 00:10:14,880
+Cambiamos de vela, ¿vale? Se entiende,
+
+260
+00:10:09,480 --> 00:10:18,120
+es decir, 1 2 3 4 5 justo p abrimos a la
+
+261
+00:10:14,880 --> 00:10:20,760
+25 esta nueva vela que ya la estamos ya
+
+262
+00:10:18,120 --> 00:10:23,279
+se está moviendo, ¿vale? Entonces, una
+
+263
+00:10:20,760 --> 00:10:26,040
+vez entendido esto, ¿vale? Em, no quiero
+
+264
+00:10:23,279 --> 00:10:27,800
+ahora mismo que hagáis ningún tipo de
+
+265
+00:10:26,040 --> 00:10:30,120
+análisis, locura, decir, "Vale, todas
+
+266
+00:10:27,800 --> 00:10:32,200
+las velas se abren, bajan, tal, calma."
+
+267
+00:10:30,120 --> 00:10:33,680
+Quiero que lo entendáis. Y de hecho, un
+
+268
+00:10:32,200 --> 00:10:36,000
+ejercicio que os puede ir superb es
+
+269
+00:10:33,680 --> 00:10:37,839
+simplemente entrar al gráfico y marcaros
+
+270
+00:10:36,000 --> 00:10:39,839
+esos puntos máximos y mínimos de las
+
+271
+00:10:37,839 --> 00:10:43,440
+velas y las aperturas. Por ejemplo,
+
+272
+00:10:39,839 --> 00:10:45,920
+cogéis una vela alcista y decís, "Mira,
+
+273
+00:10:43,440 --> 00:10:48,920
+apertura aquí abajo." Voy a hacer, de
+
+274
+00:10:45,920 --> 00:10:48,920
+hecho,
+
+275
+00:10:49,320 --> 00:10:55,120
+un momento que esto está un poco
+
+276
+00:10:52,440 --> 00:10:56,760
+What, what? What? What? Vale, val mía,
+
+277
+00:10:55,120 --> 00:10:59,120
+¿eh? Imaginaros que pilláis esta vela y
+
+278
+00:10:56,760 --> 00:11:02,720
+decís, "Vale, ¿qué pasa?" Hemos abierto
+
+279
+00:10:59,120 --> 00:11:05,240
+aquí, hemos cerrado aquí. El punto
+
+280
+00:11:02,720 --> 00:11:07,040
+mínimo ha sido este de aquí y el punto
+
+281
+00:11:05,240 --> 00:11:09,160
+máximo ha sido este de aquí. Ya está, no
+
+282
+00:11:07,040 --> 00:11:10,720
+necesito más. Chavi, ¿qué pasa si hay
+
+283
+00:11:09,160 --> 00:11:13,120
+una vela que no tiene mecha? Puede
+
+284
+00:11:10,720 --> 00:11:15,000
+pasar, por ejemplo, eh, esta de aquí,
+
+285
+00:11:13,120 --> 00:11:16,480
+¿vale? Tiene un poquito de mecha. Hay
+
+286
+00:11:15,000 --> 00:11:18,040
+velas que no van a tener. Esta si
+
+287
+00:11:16,480 --> 00:11:20,000
+hacemos zoom zoom zoom, vamos a ver que
+
+288
+00:11:18,040 --> 00:11:22,079
+tiene un poquito, pero no pasa nada.
+
+289
+00:11:20,000 --> 00:11:23,959
+Pues hacéis zoom y lo marcáis. Y en caso
+
+290
+00:11:22,079 --> 00:11:25,440
+de que no haya la apertura de la vela,
+
+291
+00:11:23,959 --> 00:11:27,839
+ha sido al mismo tiempo el punto más
+
+292
+00:11:25,440 --> 00:11:30,120
+bajo. ¿Vale? Es así de sencillo.
+
+293
+00:11:27,839 --> 00:11:31,480
+Entonces, una vez entendemos esto,
+
+294
+00:11:30,120 --> 00:11:33,600
+tenéis que entender cómo se mueve el
+
+295
+00:11:31,480 --> 00:11:36,000
+precio. Nosotros sabemos que el precio
+
+296
+00:11:33,600 --> 00:11:37,399
+se mueve con tendencias, ¿no? Siempre se
+
+297
+00:11:36,000 --> 00:11:39,880
+ha escuchado y si no hacéis trading os
+
+298
+00:11:37,399 --> 00:11:44,000
+va a sonar. Estamos alcistas, estamos
+
+299
+00:11:39,880 --> 00:11:46,279
+bajistas, ¿vale? El trading se mueve de
+
+300
+00:11:44,000 --> 00:11:47,959
+una manera siempre muy parecida, ¿vale?
+
+301
+00:11:46,279 --> 00:11:51,720
+El trading, el mercado. Entonces, nunca
+
+302
+00:11:47,959 --> 00:11:53,399
+vas a ver el mercado hacer así. Sube,
+
+303
+00:11:51,720 --> 00:11:54,920
+baja,
+
+304
+00:11:53,399 --> 00:12:00,399
+sube,
+
+305
+00:11:54,920 --> 00:12:02,959
+baja, sube, baja, sube, baja. Porque de
+
+306
+00:12:00,399 --> 00:12:06,279
+esta forma no nos moveríamos. A esto se
+
+307
+00:12:02,959 --> 00:12:07,880
+le llama acumulación porque acumulamos,
+
+308
+00:12:06,279 --> 00:12:09,399
+¿vale? Concepto que ya veremos más
+
+309
+00:12:07,880 --> 00:12:11,600
+adelante, pero para que os quede claro,
+
+310
+00:12:09,399 --> 00:12:13,560
+podemos ver esto, obvio, el mercado se
+
+311
+00:12:11,600 --> 00:12:15,839
+mueve así y estas tendencias se ven
+
+312
+00:12:13,560 --> 00:12:17,720
+mucho, ¿no? La verdad que no. Si te vas
+
+313
+00:12:15,839 --> 00:12:21,279
+a un a un time frame super alto, como
+
+314
+00:12:17,720 --> 00:12:23,240
+por ejemplo el diario, rara vez vas a
+
+315
+00:12:21,279 --> 00:12:25,040
+ver esto. Como veis, estamos siempre
+
+316
+00:12:23,240 --> 00:12:26,639
+subiendo, ¿vale? No, el precio no hace
+
+317
+00:12:25,040 --> 00:12:29,120
+todo el rato así porque si no no nos
+
+318
+00:12:26,639 --> 00:12:31,519
+moveríamos nunca, ¿vale? Entonces, como
+
+319
+00:12:29,120 --> 00:12:35,279
+veis, tenemos una tendencia alcista,
+
+320
+00:12:31,519 --> 00:12:36,800
+¿vale? Pequeño inciso, cómo nos gusta
+
+321
+00:12:35,279 --> 00:12:38,279
+que se mueva el mercado o qué dos
+
+322
+00:12:36,800 --> 00:12:39,760
+tendencias tenemos, ¿vale? Porque
+
+323
+00:12:38,279 --> 00:12:42,760
+obviamente es lo que os digo, el mercado
+
+324
+00:12:39,760 --> 00:12:44,680
+no va a hacer subid para arriba todo el
+
+325
+00:12:42,760 --> 00:12:48,120
+rato sin parar, no, no. La subida es en
+
+326
+00:12:44,680 --> 00:12:51,160
+modo escalera. Es sube, retrocede un
+
+327
+00:12:48,120 --> 00:12:54,160
+poquito, respira, sube, retrocede un
+
+328
+00:12:51,160 --> 00:12:57,720
+poquito, respira, sube, retrocede un
+
+329
+00:12:54,160 --> 00:13:00,000
+poquito, respira, sube y continuamente
+
+330
+00:12:57,720 --> 00:13:02,560
+nos da este tipo de estructura. ¿Qué
+
+331
+00:13:00,000 --> 00:13:06,199
+pasa con las bajadas? Pasa exactamente
+
+332
+00:13:02,560 --> 00:13:10,639
+lo mismo. ¿Qué tenemos? Baja, sube un
+
+333
+00:13:06,199 --> 00:13:14,240
+poquito, baja, sube un poquito, baja,
+
+334
+00:13:10,639 --> 00:13:17,480
+sube un poquito, baja, perdonar, y acaba
+
+335
+00:13:14,240 --> 00:13:20,639
+dando una tendencia bajista. Vale, como
+
+336
+00:13:17,480 --> 00:13:21,959
+podéis ver e en el en el gráfico, vamos
+
+337
+00:13:20,639 --> 00:13:23,800
+a buscar ejemplos y os recomiendo que
+
+338
+00:13:21,959 --> 00:13:26,920
+hagáis lo mismo. Tenéis que buscar
+
+339
+00:13:23,800 --> 00:13:28,920
+ejemplos de este estos tipos eh de
+
+340
+00:13:26,920 --> 00:13:30,560
+tendencias, ¿vale? En este caso tenemos
+
+341
+00:13:28,920 --> 00:13:33,519
+una tendencia. Mira, tenemos aquí los
+
+342
+00:13:30,560 --> 00:13:37,639
+dos ejemplos. ¿Qué tenemos? Sube,
+
+343
+00:13:33,519 --> 00:13:41,320
+retrocede, sube, retrocede, sube,
+
+344
+00:13:37,639 --> 00:13:43,920
+retrocede, sube, retrocede, sube.
+
+345
+00:13:41,320 --> 00:13:48,199
+Perfecto. Tendencia super bonita. ¿Y qué
+
+346
+00:13:43,920 --> 00:13:51,839
+tenemos aquí? Baja, retrocede, baja,
+
+347
+00:13:48,199 --> 00:13:55,040
+retrocede, baja, retrocede, baja,
+
+348
+00:13:51,839 --> 00:13:57,720
+retrocede, baja y eventualmente sube,
+
+349
+00:13:55,040 --> 00:14:00,240
+retrocede, sube, retrocede, sube. Vale.
+
+350
+00:13:57,720 --> 00:14:02,160
+Y obviamente, Chavi, ¿hasta qué punto
+
+351
+00:14:00,240 --> 00:14:03,600
+sabemos cuándo baja, cuándo sube? calma,
+
+352
+00:14:02,160 --> 00:14:05,320
+¿vale? Ya veremos de qué zona se puede
+
+353
+00:14:03,600 --> 00:14:07,120
+reaccionar el precio, cuándo podemos
+
+354
+00:14:05,320 --> 00:14:09,519
+determinar si cambiamos de una tendencia
+
+355
+00:14:07,120 --> 00:14:11,560
+alcista a una bajista. Todo eso se verá.
+
+356
+00:14:09,519 --> 00:14:13,040
+Estamos en el día 4ro. Mucha calma.
+
+357
+00:14:11,560 --> 00:14:14,920
+Simplemente quiero que entiendas y que
+
+358
+00:14:13,040 --> 00:14:16,959
+veas cómo realmente funcionan estas
+
+359
+00:14:14,920 --> 00:14:19,519
+tendencias. Y lo que diría superb
+
+360
+00:14:16,959 --> 00:14:21,720
+también es eh marcártelo en el gráfico.
+
+361
+00:14:19,519 --> 00:14:23,480
+Es decir, una vez hayas marcado estas
+
+362
+00:14:21,720 --> 00:14:26,000
+aperturas de las velas, te recomiendo
+
+363
+00:14:23,480 --> 00:14:28,560
+que vayas al gráfico a marcarte estas
+
+364
+00:14:26,000 --> 00:14:30,759
+tendencias. Voy a ver ahora mismo si me
+
+365
+00:14:28,560 --> 00:14:31,880
+queda algo más importante para explicar,
+
+366
+00:14:30,759 --> 00:14:33,320
+porque sí que hay algo que quiero
+
+367
+00:14:31,880 --> 00:14:36,279
+explicar, pero no sé si hacerlo en este
+
+368
+00:14:33,320 --> 00:14:37,759
+vídeo, que son los altos y los bajos. Y
+
+369
+00:14:36,279 --> 00:14:41,600
+yo creo que sí que vamos a explicarlo en
+
+370
+00:14:37,759 --> 00:14:44,199
+este vídeo y vamos a dejarlo ahí, ¿vale?
+
+371
+00:14:41,600 --> 00:14:46,440
+¿Qué es un alto y qué es un bajo, ¿vale?
+
+372
+00:14:44,199 --> 00:14:47,519
+Porque obviamente en el gráfico, o sea,
+
+373
+00:14:46,440 --> 00:14:49,160
+en el trading muchas veces vais a
+
+374
+00:14:47,519 --> 00:14:50,920
+escuchar, "Bu, voy a por ese alto o
+
+375
+00:14:49,160 --> 00:14:52,519
+hemos quitado este alto, hemos quitado
+
+376
+00:14:50,920 --> 00:14:54,160
+esa liquidez." Vale, liquidez iremos
+
+377
+00:14:52,519 --> 00:14:55,519
+mucho más adelante a verlo, pero de
+
+378
+00:14:54,160 --> 00:14:58,880
+momento quiero explicaros que es un alto
+
+379
+00:14:55,519 --> 00:15:01,120
+y qué es un bajo, ¿vale?
+
+380
+00:14:58,880 --> 00:15:03,120
+Mucha gente o high versus low, ¿vale?
+
+381
+00:15:01,120 --> 00:15:04,880
+Muchas veces me vais a escuchar decir
+
+382
+00:15:03,120 --> 00:15:06,160
+high versus low, es en inglés, ¿vale?
+
+383
+00:15:04,880 --> 00:15:09,519
+Pero muchas veces hablo en inglés porque
+
+384
+00:15:06,160 --> 00:15:12,040
+soy ¿vale? Entonces
+
+385
+00:15:09,519 --> 00:15:14,480
+mucha gente tiende a complicarse con
+
+386
+00:15:12,040 --> 00:15:16,279
+esto y es algo sers sencillo y a la
+
+387
+00:15:14,480 --> 00:15:18,240
+gente le cuesta identificarlo, ¿vale? Y
+
+388
+00:15:16,279 --> 00:15:19,959
+no lo juzgo, pero es muy fácil.
+
+389
+00:15:18,240 --> 00:15:21,680
+Entonces,
+
+390
+00:15:19,959 --> 00:15:23,639
+¿qué es un alto? Vale, vamos a empezar
+
+391
+00:15:21,680 --> 00:15:26,480
+con alto.
+
+392
+00:15:23,639 --> 00:15:29,800
+¿Qué es un alto? Un alto es tan simple,
+
+393
+00:15:26,480 --> 00:15:32,199
+¿vale? Apuntarlo tan fácil como una vela
+
+394
+00:15:29,800 --> 00:15:36,000
+hacia arriba seguido de una vela hacia
+
+395
+00:15:32,199 --> 00:15:39,000
+abajo. Ya está. ¿Qué necesitas? Una vela
+
+396
+00:15:36,000 --> 00:15:41,600
+hacia arriba y al ladito de esa vela una
+
+397
+00:15:39,000 --> 00:15:43,480
+hacia abajo.
+
+398
+00:15:41,600 --> 00:15:47,399
+Ya está. Tienes tu alto. Vale, tienes tu
+
+399
+00:15:43,480 --> 00:15:49,040
+alto. Ya estás. Estás super ready.
+
+400
+00:15:47,399 --> 00:15:52,480
+Ahora vamos a ver ejemplos. ¿Qué es un
+
+401
+00:15:49,040 --> 00:15:54,519
+bajo? Vale, atención. Es en vez de
+
+402
+00:15:52,480 --> 00:15:56,800
+empezar con una vela hacia arriba, es
+
+403
+00:15:54,519 --> 00:16:00,319
+una vela hacia abajo y seguido, justo al
+
+404
+00:15:56,800 --> 00:16:02,279
+ladito, una vela hacia arriba.
+
+405
+00:16:00,319 --> 00:16:05,279
+Tienes el alto
+
+406
+00:16:02,279 --> 00:16:07,639
+y tienes el bajo.
+
+407
+00:16:05,279 --> 00:16:09,160
+Sí, vale. Seguro que aquí dices, "Buah,
+
+408
+00:16:07,639 --> 00:16:11,040
+esto está chupado." Vale, a ver si es
+
+409
+00:16:09,160 --> 00:16:14,759
+verdad. Para mí lo es y y no me costó ni
+
+410
+00:16:11,040 --> 00:16:18,480
+al principio. Vale, ¿qué tenemos aquí?
+
+411
+00:16:14,759 --> 00:16:21,600
+Vela hacia arriba, vela hacia abajo,
+
+412
+00:16:18,480 --> 00:16:24,480
+vela gris arriba, vela eh negra hacia
+
+413
+00:16:21,600 --> 00:16:27,240
+abajo. Es un alto. ¿Cómo marcamos el
+
+414
+00:16:24,480 --> 00:16:29,199
+alto? Cogemos el cuerpo de la gris,
+
+415
+00:16:27,240 --> 00:16:32,160
+cogemos la mecha de la negra. ¿Cómo lo
+
+416
+00:16:29,199 --> 00:16:34,319
+marcamos? Siempre vamos a marcar la
+
+417
+00:16:32,160 --> 00:16:35,680
+mecha más alta. Da igual si es de la
+
+418
+00:16:34,319 --> 00:16:37,279
+gris o de la negra. En este caso tenemos
+
+419
+00:16:35,680 --> 00:16:41,800
+una mecha aquí arriba. Así que la
+
+420
+00:16:37,279 --> 00:16:41,800
+marcamos. Esto es un alto.
+
+421
+00:16:41,920 --> 00:16:46,279
+Alto. Esto es un alto,
+
+422
+00:16:44,560 --> 00:16:48,120
+Chavi. Aquí tenemos vela gris. Vela
+
+423
+00:16:46,279 --> 00:16:49,680
+gris. No es ni un alto ni un bajo. Vela
+
+424
+00:16:48,120 --> 00:16:51,440
+gris. Vela gris no es ni un alto ni un
+
+425
+00:16:49,680 --> 00:16:53,880
+bajo. Recordar que necesitamos siempre
+
+426
+00:16:51,440 --> 00:16:55,360
+un alcista y una bajista. ¿Vale?
+
+427
+00:16:53,880 --> 00:16:57,480
+Entonces ahora mismo estamos marcando un
+
+428
+00:16:55,360 --> 00:17:00,040
+alto en una temporalidad de 5 minutos.
+
+429
+00:16:57,480 --> 00:17:03,160
+¿Qué pasa? Que si vamos a un minuto, a
+
+430
+00:17:00,040 --> 00:17:05,480
+la misma zona donde estábamos,
+
+431
+00:17:03,160 --> 00:17:07,280
+tenemos varios altos y bajos. Es normal
+
+432
+00:17:05,480 --> 00:17:10,199
+porque imprimimos más velas. ¿Qué
+
+433
+00:17:07,280 --> 00:17:12,439
+tenemos aquí? Vela hacia arriba. La gris
+
+434
+00:17:10,199 --> 00:17:13,880
+pequeñita. V hacia abajo. Vale. Una,
+
+435
+00:17:12,439 --> 00:17:15,799
+dos. ¿Cuál es la mecha más alta? La que
+
+436
+00:17:13,880 --> 00:17:18,439
+hemos marcado. Perfecto. ¿Qué tenemos
+
+437
+00:17:15,799 --> 00:17:20,280
+aquí? Ver hacia arriba, ver hacia abajo.
+
+438
+00:17:18,439 --> 00:17:24,319
+¿Cuál es la más grande? ¿Esta o esta?
+
+439
+00:17:20,280 --> 00:17:24,319
+Esta. Otro alto.
+
+440
+00:17:24,640 --> 00:17:30,679
+Pero ojo, ¿qué tenemos aquí? Vel hacia
+
+441
+00:17:27,079 --> 00:17:32,720
+abajo, vel hacia arriba. Vale, lo veis.
+
+442
+00:17:30,679 --> 00:17:34,720
+Hacia abajo, vel hacia arriba. Que
+
+443
+00:17:32,720 --> 00:17:36,720
+tenemos un bajo también. Pues marcamos
+
+444
+00:17:34,720 --> 00:17:38,360
+el bajo, ¿vale? un bajo. ¿Por qué
+
+445
+00:17:36,720 --> 00:17:40,400
+escogemos esta mecha? Porque este no
+
+446
+00:17:38,360 --> 00:17:43,200
+tiene mecha. O sea, directamente la vela
+
+447
+00:17:40,400 --> 00:17:45,720
+gris esta no tiene mecha o tiene una
+
+448
+00:17:43,200 --> 00:17:47,520
+giga enana, o sea, es enana, ¿vale?
+
+449
+00:17:45,720 --> 00:17:49,880
+Entonces, marcamos la más grande y aquí
+
+450
+00:17:47,520 --> 00:17:52,000
+tendríamos un bajo. ¿Se está
+
+451
+00:17:49,880 --> 00:17:54,679
+entendiendo? Creo que es ese es el flow.
+
+452
+00:17:52,000 --> 00:17:56,240
+O sea, simplemente eh y también los que
+
+453
+00:17:54,679 --> 00:17:57,840
+me preguntéis, "Savi, ¿qué altos son
+
+454
+00:17:56,240 --> 00:17:59,960
+relevantes? ¿Qué bajos son relevantes?"
+
+455
+00:17:57,840 --> 00:18:01,640
+Eh, ¿cómo tal? Aquí hay mucho de todo.
+
+456
+00:17:59,960 --> 00:18:02,960
+Ya os explicaré también más adelante qué
+
+457
+00:18:01,640 --> 00:18:06,559
+es lo importante y qué no es lo
+
+458
+00:18:02,960 --> 00:18:08,960
+importante, ¿vale? Pero em vamos a
+
+459
+00:18:06,559 --> 00:18:10,440
+seguir con ejemplos, o sea, cualquiera,
+
+460
+00:18:08,960 --> 00:18:13,159
+cualquiera está lleno. ¿Qué tenemos? Vel
+
+461
+00:18:10,440 --> 00:18:15,039
+hacia arriba, vela hacia abajo,
+
+462
+00:18:13,159 --> 00:18:17,360
+alto. Vela hacia abajo, vela hacia
+
+463
+00:18:15,039 --> 00:18:18,880
+arriba, bajo. ¿Por qué pillamos esta?
+
+464
+00:18:17,360 --> 00:18:20,559
+Porque es la la mecha más alta. ¿Qué
+
+465
+00:18:18,880 --> 00:18:22,400
+tenemos aquí? Vela hacia arriba, vela
+
+466
+00:18:20,559 --> 00:18:25,000
+hacia abajo,
+
+467
+00:18:22,400 --> 00:18:26,799
+alto. Vela hacia abajo. Y una vela hacia
+
+468
+00:18:25,000 --> 00:18:28,440
+abajo. ¿Qué hay? Nada. No hay nada. No
+
+469
+00:18:26,799 --> 00:18:30,640
+es ni un alto ni un bajo, ¿vale? No hay
+
+470
+00:18:28,440 --> 00:18:31,880
+nada. Entonces, una vez hacéis este
+
+471
+00:18:30,640 --> 00:18:34,120
+ejercicio, yo recomendaría que os
+
+472
+00:18:31,880 --> 00:18:35,919
+marcaseis 20 altos y 20 bajos, ¿vale?
+
+473
+00:18:34,120 --> 00:18:37,679
+Una vez lo entendáis y lo hagáis bien,
+
+474
+00:18:35,919 --> 00:18:39,760
+lo que vais a entender también es cómo
+
+475
+00:18:37,679 --> 00:18:41,640
+funcionan las estas tendencias que os he
+
+476
+00:18:39,760 --> 00:18:45,919
+dicho, ¿vale? Porque todo esto que
+
+477
+00:18:41,640 --> 00:18:49,520
+marcamos que son altos y esto que son
+
+478
+00:18:45,919 --> 00:18:52,159
+bajos, ¿vale? Estos son bajos
+
+479
+00:18:49,520 --> 00:18:56,280
+y estos son altos, ¿vale? Entonces, una
+
+480
+00:18:52,159 --> 00:18:56,280
+tendencia alcista son
+
+481
+00:18:58,039 --> 00:19:03,480
+altos más altos y bajos más altos. Vale,
+
+482
+00:19:01,760 --> 00:19:06,960
+a mí esto me emparano muchísimo y me
+
+483
+00:19:03,480 --> 00:19:08,440
+rayaba muchísimo y como que era muy
+
+484
+00:19:06,960 --> 00:19:11,200
+raro, ¿no? Altos más altos y bajos más
+
+485
+00:19:08,440 --> 00:19:13,880
+altos. ¿Qué quiere decir? Mira el dibujo
+
+486
+00:19:11,200 --> 00:19:16,039
+alto que tenemos luego un alto más alto.
+
+487
+00:19:13,880 --> 00:19:19,039
+Este alto de aquí está más alto de aquí.
+
+488
+00:19:16,039 --> 00:19:20,679
+Retroceso, ¿vale? O bajadita. Y otra
+
+489
+00:19:19,039 --> 00:19:23,080
+subida. otro alto que es más alto que el
+
+490
+00:19:20,679 --> 00:19:25,240
+anterior. Y lo mismo con estos bajos
+
+491
+00:19:23,080 --> 00:19:28,640
+bajo y el siguiente que se crea es más
+
+492
+00:19:25,240 --> 00:19:30,760
+alto que el último bajo, ¿vale? Entonces
+
+493
+00:19:28,640 --> 00:19:35,880
+es altos más altos y bajos más bajos.
+
+494
+00:19:30,760 --> 00:19:35,880
+Hay más altos y una tendencia bajista.
+
+495
+00:19:37,039 --> 00:19:43,120
+Esto es bajo.
+
+496
+00:19:39,320 --> 00:19:46,600
+Bajo y esto es alto. Esto es alto. Por
+
+497
+00:19:43,120 --> 00:19:46,600
+lo tanto, ¿qué tenemos?
+
+498
+00:19:50,320 --> 00:19:57,159
+es bajos más bajos y altos más bajos.
+
+499
+00:19:54,720 --> 00:20:00,559
+¿Vale? ¿Por qué? Porque los bajos están
+
+500
+00:19:57,159 --> 00:20:03,039
+cada vez más ah bajos que los anteriores
+
+501
+00:20:00,559 --> 00:20:05,080
+y eh los altos están cada vez más bajos
+
+502
+00:20:03,039 --> 00:20:06,559
+que los anteriores. ¿Vale? ¿Se entiende?
+
+503
+00:20:05,080 --> 00:20:08,840
+Simplemente es para que tú acabes de
+
+504
+00:20:06,559 --> 00:20:10,520
+cuadrar con las tendencias.
+
+505
+00:20:08,840 --> 00:20:13,320
+Entonces, para acabar esto, para acabar
+
+506
+00:20:10,520 --> 00:20:14,520
+todo el episodio, todo el vídeo, ¿vale?
+
+507
+00:20:13,320 --> 00:20:15,720
+Una cosa que te tienes que quedar en
+
+508
+00:20:14,520 --> 00:20:17,360
+cuenta, que te tienes que tener en
+
+509
+00:20:15,720 --> 00:20:18,919
+cuenta, ¿para qué tenemos tantas
+
+510
+00:20:17,360 --> 00:20:20,280
+temporalidades?
+
+511
+00:20:18,919 --> 00:20:21,919
+Yo si me tengo que quedar con algo de
+
+512
+00:20:20,280 --> 00:20:24,480
+las temporalidades y voy a hacer la
+
+513
+00:20:21,919 --> 00:20:28,360
+pantalla grande,
+
+514
+00:20:24,480 --> 00:20:32,320
+es que mayor temporalidad, mayor
+
+515
+00:20:28,360 --> 00:20:35,799
+importancia, mayor mayor temporalidad
+
+516
+00:20:32,320 --> 00:20:37,720
+más fuerza o más fuerza no, pero más
+
+517
+00:20:35,799 --> 00:20:39,960
+presencia, más importancia. Dejémoslo en
+
+518
+00:20:37,720 --> 00:20:41,520
+más importancia, ¿vale? Tenerlo en
+
+519
+00:20:39,960 --> 00:20:43,200
+mente, ¿vale? Cuanta más saltas la
+
+520
+00:20:41,520 --> 00:20:47,120
+temporalidad,
+
+521
+00:20:43,200 --> 00:20:49,080
+más importancia tiene y h más apoyados
+
+522
+00:20:47,120 --> 00:20:50,840
+en eso vamos a estar. Vale, pequeña
+
+523
+00:20:49,080 --> 00:20:52,200
+pista así para acabar el vídeo. Así que
+
+524
+00:20:50,840 --> 00:20:53,240
+nada, tíos, si hay alguien que esté
+
+525
+00:20:52,200 --> 00:20:54,679
+viendo este vídeo que ya sabe hacer
+
+526
+00:20:53,240 --> 00:20:57,000
+trading y cree que falta algo que me
+
+527
+00:20:54,679 --> 00:20:58,400
+deja algún concepto, lo meto en el otro
+
+528
+00:20:57,000 --> 00:21:00,880
+vídeo. Pero yo creo que de introducción
+
+529
+00:20:58,400 --> 00:21:02,240
+está supergay porque el próximo ya va a
+
+530
+00:21:00,880 --> 00:21:04,120
+ser liquidez, o sea, ya vamos a empezar
+
+531
+00:21:02,240 --> 00:21:05,679
+a full con los conceptos porque esta es
+
+532
+00:21:04,120 --> 00:21:08,720
+una introducción sers sencilla y creo
+
+533
+00:21:05,679 --> 00:21:10,240
+que se ha entendido perfecto. Entonces,
+
+534
+00:21:08,720 --> 00:21:13,520
+espero que hayáis disfrutado. Un abrazo
+
+535
+00:21:10,240 --> 00:21:16,159
+a todos de nuevo y nos vemos. Hay que
+
+536
+00:21:13,520 --> 00:21:16,159
+seguir currando.
+

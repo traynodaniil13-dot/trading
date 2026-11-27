@@ -1,0 +1,2296 @@
+1
+00:00:00,600 --> 00:00:04,600
+Muy buenas chavales, bienvenidos al día
+
+2
+00:00:02,200 --> 00:00:06,600
+312 de la bootcamp porque no sé ni en
+
+3
+00:00:04,600 --> 00:00:08,000
+qué día estamos y hoy vídeo que no os
+
+4
+00:00:06,600 --> 00:00:09,400
+vais a esperar,
+
+5
+00:00:08,000 --> 00:00:10,700
+pero es un demasiado, o sea, es algo que
+
+6
+00:00:09,400 --> 00:00:11,800
+yo no me había no había pensado y he
+
+7
+00:00:10,700 --> 00:00:12,700
+dicho, Xavi, tienes que explicar
+
+8
+00:00:11,800 --> 00:00:14,600
+esto.
+
+9
+00:00:12,700 --> 00:00:16,100
+Qué riesgo-beneficio utilizamos para
+
+10
+00:00:14,600 --> 00:00:17,900
+hacer trades, dónde va nuestro take
+
+11
+00:00:16,100 --> 00:00:20,200
+profit, dónde va nuestro stop loss y
+
+12
+00:00:17,900 --> 00:00:21,100
+sobre todo cómo calcular cómo calcular
+
+13
+00:00:20,200 --> 00:00:22,700
+por eh
+
+14
+00:00:21,100 --> 00:00:25,100
+perdón, que no sé hablar, eh los
+
+15
+00:00:22,700 --> 00:00:26,600
+contratos a la hora de saber cuánto
+
+16
+00:00:25,100 --> 00:00:28,800
+queremos arriesgar, es decir, imaginaros
+
+17
+00:00:26,600 --> 00:00:30,100
+que queremos arriesgar 500 dólares, cómo
+
+18
+00:00:28,800 --> 00:00:31,400
+vamos a hacer para arriesgar 500
+
+19
+00:00:30,100 --> 00:00:33,700
+dólares. Os lo voy a enseñar en este
+
+20
+00:00:31,400 --> 00:00:35,000
+vídeo y además de todo Holo, este zoom
+
+21
+00:00:33,700 --> 00:00:37,000
+qué loco.
+
+22
+00:00:35,000 --> 00:00:38,700
+Y además de todo chavales, más adelante
+
+23
+00:00:37,000 --> 00:00:40,000
+veremos una gestión de riesgo, en plan
+
+24
+00:00:38,700 --> 00:00:42,400
+os diré exactamente cuánto tenéis que
+
+25
+00:00:40,000 --> 00:00:45,200
+arriesgar en cada trade y no solo eso,
+
+26
+00:00:42,400 --> 00:00:47,700
+sino que eh un segundo, esto está muy
+
+27
+00:00:45,200 --> 00:00:50,500
+grande, vale. Eh y no solo eso, sino que
+
+28
+00:00:47,700 --> 00:00:51,900
+también lo que vais a estar viendo es
+
+29
+00:00:50,500 --> 00:00:53,800
+en un futuro, de hecho en el vídeo de
+
+30
+00:00:51,900 --> 00:00:55,400
+mañana vais a estar viendo cómo hacer el
+
+31
+00:00:53,800 --> 00:00:57,000
+diario de trading, el journal, para qué
+
+32
+00:00:55,400 --> 00:00:59,200
+funciona y ahora ya vamos a empezar a
+
+33
+00:00:57,000 --> 00:01:01,600
+meter cosas como take profit, stop loss,
+
+34
+00:00:59,200 --> 00:01:02,900
+RR, cómo hacer el journal, cuándo ir
+
+35
+00:01:01,600 --> 00:01:05,400
+break even, que esto será un vídeo más
+
+36
+00:01:02,900 --> 00:01:07,500
+largo y luego ya pasaremos a eh la
+
+37
+00:01:05,400 --> 00:01:08,900
+estrategia, ¿vale?
+
+38
+00:01:07,500 --> 00:01:10,700
+sistemas de entrada y cuando tengamos
+
+39
+00:01:08,900 --> 00:01:12,000
+sistemas de entrada va a ser backtesting
+
+40
+00:01:10,700 --> 00:01:13,800
+y luego ya todo encarado a cuentas de
+
+41
+00:01:12,000 --> 00:01:14,700
+fondeo, el paso a paso de qué es lo que
+
+42
+00:01:13,800 --> 00:01:16,300
+tenéis que hacer después de haber
+
+43
+00:01:14,700 --> 00:01:18,200
+entendido toda la estrategia, cómo
+
+44
+00:01:16,300 --> 00:01:20,200
+practicarla, dónde practicarla, ejemplos
+
+45
+00:01:18,200 --> 00:01:21,100
+de cómo hacerlo, tú bla bla bla bla,
+
+46
+00:01:20,200 --> 00:01:23,000
+¿vale?
+
+47
+00:01:21,100 --> 00:01:25,100
+Pero vídeo súper sencillo y súper
+
+48
+00:01:23,000 --> 00:01:26,100
+cortito hoy porque es súper fácil,
+
+49
+00:01:25,100 --> 00:01:28,800
+¿vale? entender lo que os voy a
+
+50
+00:01:26,100 --> 00:01:30,700
+explicar. Lo primero de todo, qué risk
+
+51
+00:01:28,800 --> 00:01:33,300
+reward, ¿vale? RR, lo vais a escuchar
+
+52
+00:01:30,700 --> 00:01:35,900
+mil veces y significa risk reward. ¿Qué
+
+53
+00:01:33,300 --> 00:01:37,700
+significa risk reward? Como veis en este
+
+54
+00:01:35,900 --> 00:01:39,500
+dibujito de aquí, esto por ejemplo es el
+
+55
+00:01:37,700 --> 00:01:42,400
+dibujo que tenemos para ir en largos,
+
+56
+00:01:39,500 --> 00:01:44,200
+¿vale? Y como veis este es el stop loss,
+
+57
+00:01:42,400 --> 00:01:45,800
+el tamaño del stop loss es de la línea
+
+58
+00:01:44,200 --> 00:01:48,600
+para abajo, la zona gris, y el tamaño
+
+59
+00:01:45,800 --> 00:01:50,300
+del TP es la zona azul. En este caso si
+
+60
+00:01:48,600 --> 00:01:53,800
+paso el cursor del mouse por encima,
+
+61
+00:01:50,300 --> 00:01:56,600
+veis que aquí pone cantidad 1.119
+
+62
+00:01:53,800 --> 00:01:59,000
+ratio riesgo-beneficio 0.94. Os tenéis
+
+63
+00:01:56,600 --> 00:02:03,392
+que fijar siempre en esto, en el 0.94.
+
+64
+00:01:59,000 --> 00:02:05,992
+Como veis si sube a 1,01, aquí a 1,64,
+
+65
+00:02:03,392 --> 00:02:08,192
+aquí a 2,65. Y esto es básicamente el
+
+66
+00:02:05,992 --> 00:02:11,192
+riesgo-beneficio. ¿Qué significa? Que si
+
+67
+00:02:08,192 --> 00:02:14,092
+yo estoy arriesgando aquí $500
+
+68
+00:02:11,192 --> 00:02:16,192
+y mi riesgo-beneficio es de un 1 a 1,
+
+69
+00:02:14,092 --> 00:02:18,292
+significa que estoy arriesgando lo mismo
+
+70
+00:02:16,192 --> 00:02:20,692
+que voy a ganar. Por lo tanto, si aquí
+
+71
+00:02:18,292 --> 00:02:21,992
+arriesgo $500 y en teoría los pierdo,
+
+72
+00:02:20,692 --> 00:02:22,992
+¿vale? Porque si me toca ahí abajo del
+
+73
+00:02:21,992 --> 00:02:25,492
+todo,
+
+74
+00:02:22,992 --> 00:02:29,092
+son menos $500,
+
+75
+00:02:25,492 --> 00:02:31,592
+aquí arriba serían más $500, ¿vale?
+
+76
+00:02:29,092 --> 00:02:34,192
+Más $500. ¿Qué pasa si en vez de tener
+
+77
+00:02:31,592 --> 00:02:36,492
+un ratio de 1 a 1 tengo un ratio de 1 a
+
+78
+00:02:34,192 --> 00:02:37,992
+2? Pues que esto sería más $1000,
+
+79
+00:02:36,492 --> 00:02:39,492
+básicamente porque multiplicamos lo que
+
+80
+00:02:37,992 --> 00:02:42,792
+estamos arriesgando por dos, porque es
+
+81
+00:02:39,492 --> 00:02:45,992
+el doble. Entonces serían $1000. Que es,
+
+82
+00:02:42,792 --> 00:02:47,592
+yo que sé, un ratio a a 0,5, un ratio
+
+83
+00:02:45,992 --> 00:02:49,092
+negativo que ya os digo que estos ratios
+
+84
+00:02:47,592 --> 00:02:50,292
+no los vamos a estar usando, pues
+
+85
+00:02:49,092 --> 00:02:52,892
+ganarías la mitad de lo que estás
+
+86
+00:02:50,292 --> 00:02:55,292
+arriesgando, que sería $250,
+
+87
+00:02:52,892 --> 00:02:57,192
+¿vale? Una vez entendéis esto,
+
+88
+00:02:55,292 --> 00:02:59,192
+lo que os tenéis que quedar un poquito
+
+89
+00:02:57,192 --> 00:03:01,292
+en mente es que la mayoría de veces
+
+90
+00:02:59,192 --> 00:03:04,192
+nuestro riesgo-beneficio, ¿vale? Siempre
+
+91
+00:03:01,292 --> 00:03:06,492
+va a ser entre un 1 a 1, ¿vale? Un 1 a
+
+92
+00:03:04,192 --> 00:03:08,092
+1, un 1 a 1, o sea, entre 1 a 1 y un 1 a
+
+93
+00:03:06,492 --> 00:03:11,192
+2, pero entre medio también vamos a
+
+94
+00:03:08,092 --> 00:03:13,792
+utilizar un 1 a 1,5, ¿vale? Entonces
+
+95
+00:03:11,192 --> 00:03:16,092
+estos tres son los RR que vamos a usar y
+
+96
+00:03:13,792 --> 00:03:18,392
+dependiendo del contexto que tengamos y
+
+97
+00:03:16,092 --> 00:03:21,292
+dependiendo de la fase en la que
+
+98
+00:03:18,392 --> 00:03:24,692
+estemos, vamos a utilizar un RR u otro.
+
+99
+00:03:21,292 --> 00:03:26,192
+Ya os adelanto que el RR a 1 a 1,5 lo
+
+100
+00:03:24,692 --> 00:03:28,192
+vamos a estar utilizando para
+
+101
+00:03:26,192 --> 00:03:30,592
+evaluaciones, para cuentas de fondeo.
+
+102
+00:03:28,192 --> 00:03:32,092
+Cuando entremos a eh explicar qué tipo
+
+103
+00:03:30,592 --> 00:03:34,292
+de riesgo vamos a estar usando, vais a
+
+104
+00:03:32,092 --> 00:03:36,092
+entender por qué utilizamos este RR,
+
+105
+00:03:34,292 --> 00:03:38,292
+pero la verdad es que yo ya no tengo un
+
+106
+00:03:36,092 --> 00:03:40,192
+riesgo-beneficio fijo como tal, ¿por
+
+107
+00:03:38,292 --> 00:03:44,392
+qué? Porque esto varía según las
+
+108
+00:03:40,192 --> 00:03:46,392
+condiciones del trade y Uh, me llaman.
+
+109
+00:03:44,392 --> 00:03:48,892
+Ahora no puedo. Voy a decir que no me
+
+110
+00:03:46,392 --> 00:03:48,892
+llamen ahora.
+
+111
+00:03:53,892 --> 00:03:56,492
+Vale.
+
+112
+00:03:54,892 --> 00:03:58,892
+Tengo que ir al gimnasio y me están aquí
+
+113
+00:03:56,492 --> 00:04:01,392
+llamando los colegas. Vale. Como sabéis,
+
+114
+00:03:58,892 --> 00:04:03,994
+ehm o sea, como os he dicho, básicamente
+
+115
+00:04:01,392 --> 00:04:05,794
+yo voy a ir eh a ratio u otro
+
+116
+00:04:03,994 --> 00:04:07,894
+dependiendo del contexto del mercado.
+
+117
+00:04:05,794 --> 00:04:09,994
+¿Por qué? Vamos a verlo. Imaginaros
+
+118
+00:04:07,894 --> 00:04:11,394
+nosotros, vale, que tocamos un key
+
+119
+00:04:09,994 --> 00:04:12,594
+level.
+
+120
+00:04:11,394 --> 00:04:14,794
+Con esto vais a entender perfecto,
+
+121
+00:04:12,594 --> 00:04:16,794
+¿vale? Tocamos un key level,
+
+122
+00:04:14,794 --> 00:04:19,094
+tenemos aquí, pues yo qué sé, relative
+
+123
+00:04:16,794 --> 00:04:21,494
+equal highs alineado con data highs,
+
+124
+00:04:19,094 --> 00:04:24,194
+tenemos un objetivo superfuerte y además
+
+125
+00:04:21,494 --> 00:04:24,194
+hemos bajado
+
+126
+00:04:24,794 --> 00:04:29,494
+dejando un montón de low resistance
+
+127
+00:04:26,494 --> 00:04:31,394
+liquidity. Por lo tanto, aquí si tocamos
+
+128
+00:04:29,494 --> 00:04:32,594
+el key level y nos da un inverse fair
+
+129
+00:04:31,394 --> 00:04:34,494
+value gap hacia arriba de la
+
+130
+00:04:32,594 --> 00:04:37,294
+temporalidad más alta de la manipulation
+
+131
+00:04:34,494 --> 00:04:40,794
+leg, que es lo que vimos, ¿vale?
+
+132
+00:04:37,294 --> 00:04:42,794
+Vamos a poner pues nuestro largo
+
+133
+00:04:40,794 --> 00:04:44,694
+y, como veis, ya ya hablaremos donde va
+
+134
+00:04:42,794 --> 00:04:45,694
+el take profit y el stop loss, pero como
+
+135
+00:04:44,694 --> 00:04:47,294
+veis,
+
+136
+00:04:45,694 --> 00:04:49,694
+lo que queremos ir a buscar es nuestro
+
+137
+00:04:47,294 --> 00:04:51,694
+draw liquidity, ¿no? Nuestro objetivo.
+
+138
+00:04:49,694 --> 00:04:53,094
+En este caso, nuestro objetivo es
+
+139
+00:04:51,694 --> 00:04:54,894
+superclaro, tenemos un montón de
+
+140
+00:04:53,094 --> 00:04:56,994
+liquidez, no hay motivo para no ir a
+
+141
+00:04:54,894 --> 00:04:58,794
+buscar esos altos y en este caso, como
+
+142
+00:04:56,994 --> 00:05:01,294
+veis, nuestro ratio riesgo-beneficio es
+
+143
+00:04:58,794 --> 00:05:03,694
+de un 1 a 2,22. Normalmente, como os
+
+144
+00:05:01,294 --> 00:05:05,194
+digo, de máximo suelo hacer un 1 a 2 por
+
+145
+00:05:03,694 --> 00:05:07,494
+como es el mercado, ¿vale?
+
+146
+00:05:05,194 --> 00:05:10,794
+Entendamos que la entrada me la da pues
+
+147
+00:05:07,494 --> 00:05:12,694
+que sea aquí, ¿vale? Y es un 1 a 2,19 y
+
+148
+00:05:10,794 --> 00:05:15,394
+en este caso no hay nada que pueda hacer
+
+149
+00:05:12,694 --> 00:05:17,678
+que mi trade se dé la vuelta, ¿vale? ¿A
+
+150
+00:05:15,394 --> 00:05:19,698
+qué me refiero? Imaginaros un escenario
+
+151
+00:05:17,678 --> 00:05:19,698
+[carraspeo]
+
+152
+00:05:19,894 --> 00:05:24,794
+donde tenemos esto, ¿vale?
+
+153
+00:05:22,494 --> 00:05:26,794
+Nosotros caemos,
+
+154
+00:05:24,794 --> 00:05:28,994
+nos da un inverse fair value gap, pero
+
+155
+00:05:26,794 --> 00:05:30,994
+tenemos una caída un poquito más fuerte,
+
+156
+00:05:28,994 --> 00:05:33,094
+aquí tenemos algún objetivo que igual no
+
+157
+00:05:30,994 --> 00:05:35,094
+es tan claro y también tenemos un
+
+158
+00:05:33,094 --> 00:05:37,994
+objetivo aquí abajo que del todo como
+
+159
+00:05:35,094 --> 00:05:42,394
+que no tenemos tanta confianza y en esta
+
+160
+00:05:37,994 --> 00:05:42,394
+bajada hemos tenido un FVG bajista
+
+161
+00:05:43,194 --> 00:05:47,194
+de 15 minutos,
+
+162
+00:05:44,894 --> 00:05:49,194
+¿vale? Aquí lo que tú puedes hacer es
+
+163
+00:05:47,194 --> 00:05:51,694
+entrar en el trade,
+
+164
+00:05:49,194 --> 00:05:53,294
+pero en este caso, como tú no sabes si
+
+165
+00:05:51,694 --> 00:05:54,694
+la condición, acordaros del vídeo de
+
+166
+00:05:53,294 --> 00:05:57,594
+condiciones,
+
+167
+00:05:54,694 --> 00:05:59,394
+como tú no sabes si la condición se va a
+
+168
+00:05:57,594 --> 00:06:03,394
+invalidar o se va a respetar, es decir,
+
+169
+00:05:59,394 --> 00:06:05,094
+tú no sabes si el precio va a hacer así
+
+170
+00:06:03,394 --> 00:06:06,895
+o si va a seguir subiendo, ¿vale? O si
+
+171
+00:06:05,094 --> 00:06:08,595
+va a hacer así. Y como no lo sabes y
+
+172
+00:06:06,895 --> 00:06:10,295
+como nosotros no nos gusta predecir, que
+
+173
+00:06:08,595 --> 00:06:12,695
+es lo que os dije del vídeo anterior, lo
+
+174
+00:06:10,295 --> 00:06:14,095
+que hacemos es salir antes de que se
+
+175
+00:06:12,695 --> 00:06:16,295
+Bueno, salir justo cuando se toque la
+
+176
+00:06:14,095 --> 00:06:18,295
+condición. Y en este caso, por ejemplo,
+
+177
+00:06:16,295 --> 00:06:20,995
+el ratio riesgo-beneficio que vamos a
+
+178
+00:06:18,295 --> 00:06:23,295
+estar aplicando es un ratio
+
+179
+00:06:20,995 --> 00:06:25,895
+riesgo-beneficio menor. ¿Por qué? Porque
+
+180
+00:06:23,295 --> 00:06:27,595
+en este caso no tenemos tan claro que el
+
+181
+00:06:25,895 --> 00:06:28,895
+precio vaya a subir mucho más arriba
+
+182
+00:06:27,595 --> 00:06:30,295
+porque no sabemos lo que va a pasar con
+
+183
+00:06:28,895 --> 00:06:32,695
+esta condición.
+
+184
+00:06:30,295 --> 00:06:35,395
+¿Por qué a mí me gusta ir a por ratios
+
+185
+00:06:32,695 --> 00:06:37,195
+eh pequeños, ratios cortos? Por el
+
+186
+00:06:35,395 --> 00:06:38,595
+simple motivo de que
+
+187
+00:06:37,195 --> 00:06:41,295
+tienen un porcentaje de acierto más
+
+188
+00:06:38,595 --> 00:06:42,995
+alto. Esto es obvio. Si tú quieres que
+
+189
+00:06:41,295 --> 00:06:45,895
+tu trade, por ejemplo,
+
+190
+00:06:42,995 --> 00:06:45,895
+haga un recorrido
+
+191
+00:06:46,595 --> 00:06:51,895
+así, ¿vale? Al final tienes un 50-50% de
+
+192
+00:06:50,395 --> 00:06:54,095
+posibilidades en caso de que lo hagas en
+
+193
+00:06:51,895 --> 00:06:56,295
+una manera random, ¿no? Tienes 50% de
+
+194
+00:06:54,095 --> 00:06:57,695
+posibilidades de que baje y 50% de
+
+195
+00:06:56,295 --> 00:06:58,995
+posibilidades de que suba porque
+
+196
+00:06:57,695 --> 00:07:00,795
+literalmente estás buscando el mismo
+
+197
+00:06:58,995 --> 00:07:03,595
+recorrido tanto para abajo como para
+
+198
+00:07:00,795 --> 00:07:05,195
+arriba. Y cuanto más subes el take
+
+199
+00:07:03,595 --> 00:07:07,595
+profit y más sube este ratio
+
+200
+00:07:05,195 --> 00:07:09,495
+riesgo-beneficio, obviamente más difícil
+
+201
+00:07:07,595 --> 00:07:10,795
+es que llegue hasta arriba del todo
+
+202
+00:07:09,495 --> 00:07:12,095
+porque estás exigiendo un mayor
+
+203
+00:07:10,795 --> 00:07:14,495
+movimiento en comparación con lo que
+
+204
+00:07:12,095 --> 00:07:15,895
+estás arriesgando. Esto es algo obvio y
+
+205
+00:07:14,495 --> 00:07:18,195
+lo que hace la gente que tiene un
+
+206
+00:07:15,895 --> 00:07:20,395
+riesgo-beneficio más alto es tener un
+
+207
+00:07:18,195 --> 00:07:21,595
+porcentaje de acierto más bajo. ¿Y esto
+
+208
+00:07:20,395 --> 00:07:24,495
+qué implica?
+
+209
+00:07:21,595 --> 00:07:26,095
+Muchas veces lo que implica es tener que
+
+210
+00:07:24,495 --> 00:07:27,995
+tener un win rate más bajo, es decir,
+
+211
+00:07:26,095 --> 00:07:29,495
+tener un porcentaje de acierto más bajo
+
+212
+00:07:27,995 --> 00:07:31,995
+y lo que hace, perdonar que me acabo de
+
+213
+00:07:29,495 --> 00:07:33,695
+repetir, es que tengas que soportar más
+
+214
+00:07:31,995 --> 00:07:35,295
+pérdidas. Yo, por ejemplo, para que os
+
+215
+00:07:33,695 --> 00:07:36,895
+hagáis una idea, cuando estaba empezando
+
+216
+00:07:35,295 --> 00:07:39,095
+a hacer trading al el primer año que
+
+217
+00:07:36,895 --> 00:07:41,695
+hice trading, tenía un ratio
+
+218
+00:07:39,095 --> 00:07:44,495
+riesgo-beneficio de 1 a 3, un RR de 1 a
+
+219
+00:07:41,695 --> 00:07:47,295
+3. Y mi porcentaje de acierto era del
+
+220
+00:07:44,495 --> 00:07:49,695
+50% o del 45%.
+
+221
+00:07:47,295 --> 00:07:52,395
+¿Qué significa? Que de cada 10 trades yo
+
+222
+00:07:49,695 --> 00:07:54,495
+ganaba 4,5 de media. Y esto implica que
+
+223
+00:07:52,395 --> 00:07:56,895
+tienes que sentarte un día, aplicar tu
+
+224
+00:07:54,495 --> 00:07:59,195
+estrategia, ver un stop loss, asumir el
+
+225
+00:07:56,895 --> 00:08:00,595
+stop loss, que pase el siguiente día,
+
+226
+00:07:59,195 --> 00:08:02,595
+ver otro stop loss, que pase el
+
+227
+00:08:00,595 --> 00:08:04,395
+siguiente día, ver otro stop loss. Y
+
+228
+00:08:02,595 --> 00:08:05,595
+luego, cuando te va a venir el take
+
+229
+00:08:04,395 --> 00:08:07,295
+profit,
+
+230
+00:08:05,595 --> 00:08:09,197
+tienes que aguantar los trades durante
+
+231
+00:08:07,295 --> 00:08:10,897
+mucho tiempo. Es decir,
+
+232
+00:08:09,197 --> 00:08:14,297
+si tú vienes de perder 3 días seguidos
+
+233
+00:08:10,897 --> 00:08:16,597
+500 y el cuarto día te pones menos 1000,
+
+234
+00:08:14,297 --> 00:08:19,497
+en la mente lo que piensa es encerrar el
+
+235
+00:08:16,597 --> 00:08:21,497
+trade, en salirte antes, en hacer
+
+236
+00:08:19,497 --> 00:08:22,897
+tonterías. Y
+
+237
+00:08:21,497 --> 00:08:24,097
+esto es algo que a mí me pasó, no le
+
+238
+00:08:22,897 --> 00:08:25,997
+pasa a todo el mundo, no tengo nada en
+
+239
+00:08:24,097 --> 00:08:27,597
+contra de los RR altos, funcionan de
+
+240
+00:08:25,997 --> 00:08:29,197
+ madre, conozco traders buenísimos
+
+241
+00:08:27,597 --> 00:08:31,197
+que los usan, pero a mí para mi
+
+242
+00:08:29,197 --> 00:08:33,897
+psicología lo que me costaba mucho era
+
+243
+00:08:31,197 --> 00:08:35,297
+dos cosas. La primera, estar muchísimo
+
+244
+00:08:33,897 --> 00:08:37,697
+tiempo durante un trade, delante de un
+
+245
+00:08:35,297 --> 00:08:39,097
+trade. Me ponía nervioso. ¿Sabéis? Todo
+
+246
+00:08:37,697 --> 00:08:41,297
+el rato viendo el dinero, el la
+
+247
+00:08:39,097 --> 00:08:44,005
+dopamina, el tal. Me ponía nervioso, no
+
+248
+00:08:41,297 --> 00:08:45,297
+me gusta estar mucho tiempo delante de
+
+249
+00:08:44,005 --> 00:08:46,697
+[carraspeo] del gráfico y menos estando
+
+250
+00:08:45,297 --> 00:08:49,597
+dentro de un trade.
+
+251
+00:08:46,697 --> 00:08:52,197
+Y lo segundo de todo es que no
+
+252
+00:08:49,597 --> 00:08:54,097
+tolero o al menos no toleraba del todo
+
+253
+00:08:52,197 --> 00:08:55,397
+los días rojos. Me costaba mucho, es
+
+254
+00:08:54,097 --> 00:08:58,497
+decir, me costaba mucho asumir días
+
+255
+00:08:55,397 --> 00:09:00,597
+rojos y más sabiendo detrás de mi cabeza
+
+256
+00:08:58,497 --> 00:09:02,797
+que tengo un 45% de acierto. Es que
+
+257
+00:09:00,597 --> 00:09:03,597
+entraba en los trades sin confianza.
+
+258
+00:09:02,797 --> 00:09:04,997
+¿Qué es lo [resoplido] que vi cuando
+
+259
+00:09:03,597 --> 00:09:07,097
+cambié un poco mi sistema, que es lo que
+
+260
+00:09:04,997 --> 00:09:08,397
+os voy a explicar, y ajusté los ratios a
+
+261
+00:09:07,097 --> 00:09:10,097
+uno a uno?
+
+262
+00:09:08,397 --> 00:09:11,997
+Que los trades duraban menos, estaba en
+
+263
+00:09:10,097 --> 00:09:14,597
+un trade igual 3 minutos,
+
+264
+00:09:11,997 --> 00:09:17,297
+5, 2 minutos, no 1 hora.
+
+265
+00:09:14,597 --> 00:09:19,997
+Y que el el porcentaje de acierto subía
+
+266
+00:09:17,297 --> 00:09:21,497
+un montón. Entonces, cuando pierdo,
+
+267
+00:09:19,997 --> 00:09:22,897
+pierdo lo mismo que lo que gano cuando
+
+268
+00:09:21,497 --> 00:09:25,497
+utilizo un ratio uno a uno, que para mí
+
+269
+00:09:22,897 --> 00:09:27,797
+son mis favoritos, pero gano el 70% de
+
+270
+00:09:25,497 --> 00:09:29,797
+las veces. ¿Esto qué implica? Que cuando
+
+271
+00:09:27,797 --> 00:09:31,397
+me cabreo porque he perdido un trade,
+
+272
+00:09:29,797 --> 00:09:34,397
+detrás de mi cabeza, en vez de tener un
+
+273
+00:09:31,397 --> 00:09:36,397
+45% de acierto, las ganas de recuperar
+
+274
+00:09:34,397 --> 00:09:38,297
+el trade sabiendo que tendré que estar 1
+
+275
+00:09:36,397 --> 00:09:40,097
+hora en un trade o 40 minutos o 30
+
+276
+00:09:38,297 --> 00:09:42,497
+minutos para recuperarlo, en vez de
+
+277
+00:09:40,097 --> 00:09:44,797
+tener eso, tengo que sé que tengo un un
+
+278
+00:09:42,497 --> 00:09:46,797
+70% de de acierto. Entonces pienso, oye,
+
+279
+00:09:44,797 --> 00:09:48,497
+he perdido, pero con este porcentaje de
+
+280
+00:09:46,797 --> 00:09:50,297
+acierto que tengo es posible que mañana
+
+281
+00:09:48,497 --> 00:09:52,597
+gane y pasado también.
+
+282
+00:09:50,297 --> 00:09:53,497
+Entonces, a mí este sistema me encanta,
+
+283
+00:09:52,597 --> 00:09:54,897
+¿vale?
+
+284
+00:09:53,497 --> 00:09:56,597
+Tema superimportante, esto ya lo he
+
+285
+00:09:54,897 --> 00:09:59,097
+hablado un poquito. ¿Dónde va el take
+
+286
+00:09:56,597 --> 00:10:02,197
+profit? El take profit va a ir siempre,
+
+287
+00:09:59,097 --> 00:10:03,797
+¿vale? Esto apuntároslo, siempre mínimo
+
+288
+00:10:02,197 --> 00:10:05,497
+un uno a uno. Es decir, nunca vamos a
+
+289
+00:10:03,797 --> 00:10:07,197
+estar utilizando ratios eh negativos,
+
+290
+00:10:05,497 --> 00:10:09,597
+nunca vas a arriesgar 500 para ganar
+
+291
+00:10:07,197 --> 00:10:11,598
+400, no tiene sentido en mi cabeza. Lo
+
+292
+00:10:09,597 --> 00:10:13,698
+que vamos hacer es arriesgar siempre, o
+
+293
+00:10:11,598 --> 00:10:15,298
+sea, arriesgar siempre una cantidad que
+
+294
+00:10:13,698 --> 00:10:17,998
+tenga un riesgo beneficio de uno a uno
+
+295
+00:10:15,298 --> 00:10:21,098
+mínimo, ¿vale? Y el take profit dónde va
+
+296
+00:10:17,998 --> 00:10:23,398
+a ir. Va a ir en zonas de conflicto. ¿Me
+
+297
+00:10:21,098 --> 00:10:25,198
+explico? Va a ir en zonas donde sea
+
+298
+00:10:23,398 --> 00:10:26,598
+posible que el precio se dé la vuelta.
+
+299
+00:10:25,198 --> 00:10:27,898
+Os voy a explicar Os voy a dar de
+
+300
+00:10:26,598 --> 00:10:28,798
+ejemplo hoy un trade que he pillado,
+
+301
+00:10:27,898 --> 00:10:30,498
+pero
+
+302
+00:10:28,798 --> 00:10:32,598
+muchas veces ¿dónde va a ir un take
+
+303
+00:10:30,498 --> 00:10:34,498
+profit? O en una
+
+304
+00:10:32,598 --> 00:10:36,698
+clara o en una
+
+305
+00:10:34,498 --> 00:10:39,398
+clara o en un
+
+306
+00:10:36,698 --> 00:10:40,498
+o las veces que no sepas realmente hacia
+
+307
+00:10:39,398 --> 00:10:43,498
+dónde va a ir el precio, en una
+
+308
+00:10:40,498 --> 00:10:44,998
+condición, en un de 5 o 15 minutos,
+
+309
+00:10:43,498 --> 00:10:48,098
+porque sí podemos salir en un take
+
+310
+00:10:44,998 --> 00:10:50,398
+profit en un de 5 o 15 minutos, ¿vale?
+
+311
+00:10:48,098 --> 00:10:51,898
+Y los stop losses dónde van.
+
+312
+00:10:50,398 --> 00:10:53,798
+Siempre, no os quiero liar porque yo a
+
+313
+00:10:51,898 --> 00:10:55,198
+veces lo cambio, ¿vale? Ahora veremos
+
+314
+00:10:53,798 --> 00:10:58,098
+ejemplos tranquilos, yo a veces lo
+
+315
+00:10:55,198 --> 00:11:00,098
+cambio, pero al principio tenéis que
+
+316
+00:10:58,098 --> 00:11:02,098
+quedaros con esto siempre, ¿vale? El
+
+317
+00:11:00,098 --> 00:11:03,698
+stop loss La idea de poner un stop loss
+
+318
+00:11:02,098 --> 00:11:06,098
+es
+
+319
+00:11:03,698 --> 00:11:08,298
+El stop loss va donde tu idea del ya
+
+320
+00:11:06,098 --> 00:11:10,198
+queda invalidada. Es decir, el stop loss
+
+321
+00:11:08,298 --> 00:11:11,798
+tiene un sentido. Aparte de que lo pones
+
+322
+00:11:10,198 --> 00:11:13,898
+porque hay un momento en el que no
+
+323
+00:11:11,798 --> 00:11:15,098
+quieres perder más, es decir, no tiene
+
+324
+00:11:13,898 --> 00:11:16,798
+sentido ir sin stop loss porque te
+
+325
+00:11:15,098 --> 00:11:18,498
+puedes arruinar, nunca sabes exactamente
+
+326
+00:11:16,798 --> 00:11:20,198
+lo que va a hacer el mercado y no tienes
+
+327
+00:11:18,498 --> 00:11:22,098
+la certeza de que el mercado se mueva de
+
+328
+00:11:20,198 --> 00:11:23,598
+una manera que tú creas,
+
+329
+00:11:22,098 --> 00:11:25,698
+el stop loss lo pones en un sitio donde
+
+330
+00:11:23,598 --> 00:11:28,198
+tú dices, Ostras, si el precio llega a
+
+331
+00:11:25,698 --> 00:11:30,098
+esta zona mi idea del
+
+332
+00:11:28,198 --> 00:11:32,698
+todo lo que yo he analizado es
+
+333
+00:11:30,098 --> 00:11:34,498
+incorrecta, queda invalidada. Es decir,
+
+334
+00:11:32,698 --> 00:11:36,198
+si toca mi stop loss no veo sentido en
+
+335
+00:11:34,498 --> 00:11:37,598
+el que vuelva a subir o vuelva a bajar,
+
+336
+00:11:36,198 --> 00:11:40,098
+¿vale? Si toca el stop loss estoy
+
+337
+00:11:37,598 --> 00:11:42,198
+equivocado, ¿vale? Y un ejemplo perfecto
+
+338
+00:11:40,098 --> 00:11:45,298
+de dónde va a estar el stop loss siempre
+
+339
+00:11:42,198 --> 00:11:47,498
+va en la mecha de O sea, siempre va en
+
+340
+00:11:45,298 --> 00:11:50,898
+la mecha de arriba del todo del rango de
+
+341
+00:11:47,498 --> 00:11:53,298
+nuestra entrada, ¿vale? Me explico.
+
+342
+00:11:50,898 --> 00:11:55,098
+Ehm, voy a poner aquí el gráfico de 5
+
+343
+00:11:53,298 --> 00:11:57,598
+minutos y voy a enseñaros la entrada que
+
+344
+00:11:55,098 --> 00:11:57,598
+he tenido hoy.
+
+345
+00:12:01,898 --> 00:12:05,998
+¿Vale?
+
+346
+00:12:03,098 --> 00:12:08,698
+¿Qué tenemos por aquí? Una acumulación,
+
+347
+00:12:05,998 --> 00:12:10,098
+hemos manipulado ¿Dónde está la
+
+348
+00:12:08,698 --> 00:12:11,298
+Vamos a introducir conceptos que ya
+
+349
+00:12:10,098 --> 00:12:13,799
+hemos hecho. La
+
+350
+00:12:11,298 --> 00:12:14,499
+es de este bajo a este bajo Y, ¿cuál es
+
+351
+00:12:13,799 --> 00:12:16,299
+el
+
+352
+00:12:14,499 --> 00:12:17,699
+de la temporalidad más alta? Pues justo
+
+353
+00:12:16,299 --> 00:12:19,299
+este de aquí porque da la casualidad de
+
+354
+00:12:17,699 --> 00:12:21,199
+que estamos en la temporalidad de 5
+
+355
+00:12:19,299 --> 00:12:22,699
+minutos y más de 5 minutos es algo que
+
+356
+00:12:21,199 --> 00:12:23,599
+no usamos para hacer entradas como vimos
+
+357
+00:12:22,699 --> 00:12:25,599
+ayer.
+
+358
+00:12:23,599 --> 00:12:27,199
+¿Qué hacemos?
+
+359
+00:12:25,599 --> 00:12:28,699
+Tenemos un inverse
+
+360
+00:12:27,199 --> 00:12:30,799
+cerramos por encima.
+
+361
+00:12:28,699 --> 00:12:32,899
+Yo entro aquí en largos
+
+362
+00:12:30,799 --> 00:12:34,199
+y mi stop loss donde va? Mi stop loss va
+
+363
+00:12:32,899 --> 00:12:36,899
+en la mecha
+
+364
+00:12:34,199 --> 00:12:39,799
+de la manipulación. Va en la mecha, en
+
+365
+00:12:36,899 --> 00:12:41,999
+el bajo que causa esta manipulación.
+
+366
+00:12:39,799 --> 00:12:43,499
+Siempre, apuntároslo, ¿vale? Muchas
+
+367
+00:12:41,999 --> 00:12:46,299
+veces vais a ver, Xavi, ¿por qué pones
+
+368
+00:12:43,499 --> 00:12:47,799
+el stop loss así? Esto va con el tiempo
+
+369
+00:12:46,299 --> 00:12:49,699
+y esto vais a verlo vosotros en un
+
+370
+00:12:47,799 --> 00:12:51,499
+futuro. Si hay alguien más avanzado le
+
+371
+00:12:49,699 --> 00:12:52,999
+puedo dar un tip para poder acortar los
+
+372
+00:12:51,499 --> 00:12:55,099
+stop losses.
+
+373
+00:12:52,999 --> 00:12:56,299
+Cuando tienes un Si si eres noob haz
+
+374
+00:12:55,099 --> 00:12:57,799
+así.
+
+375
+00:12:56,299 --> 00:12:59,799
+Pero cuando tienes un objetivo
+
+376
+00:12:57,799 --> 00:13:01,599
+superclaro, cuando tienes un
+
+377
+00:12:59,799 --> 00:13:04,599
+que esté clarísimo
+
+378
+00:13:01,599 --> 00:13:07,199
+y veas que la inversión es con fuerza,
+
+379
+00:13:04,599 --> 00:13:08,999
+que tiene desplazamiento, que un
+
+380
+00:13:07,199 --> 00:13:11,199
+tiene fuerza, en este caso no porque
+
+381
+00:13:08,999 --> 00:13:13,399
+dejamos mucha mecha, lo que puedes hacer
+
+382
+00:13:11,199 --> 00:13:14,799
+es asumir que tu zona está protegida,
+
+383
+00:13:13,399 --> 00:13:17,899
+asumir que el precio va a tener un
+
+384
+00:13:14,799 --> 00:13:19,499
+montón de velocidad, asumir que tu es
+
+385
+00:13:17,899 --> 00:13:21,499
+correcto y ahí sí que puedes decir,
+
+386
+00:13:19,499 --> 00:13:23,099
+vale, ya directamente solo que tengamos
+
+387
+00:13:21,499 --> 00:13:25,199
+un retroceso fuerte no quiero ver el
+
+388
+00:13:23,099 --> 00:13:26,999
+precio bajar, ¿vale? Pero de normal yo
+
+389
+00:13:25,199 --> 00:13:28,399
+os diría que tengáis que tuvieseis el
+
+390
+00:13:26,999 --> 00:13:30,299
+stop aquí.
+
+391
+00:13:28,399 --> 00:13:32,099
+Entonces, una vez tenemos el stop loss
+
+392
+00:13:30,299 --> 00:13:33,999
+en la mecha,
+
+393
+00:13:32,099 --> 00:13:35,499
+¿por qué en la mecha? Porque es el bajo,
+
+394
+00:13:33,999 --> 00:13:38,099
+no queremos Podemos ver el precio
+
+395
+00:13:35,499 --> 00:13:40,099
+perfectamente bajar y seguir subiendo,
+
+396
+00:13:38,099 --> 00:13:41,499
+porque esto nos dice que está protegido
+
+397
+00:13:40,099 --> 00:13:42,699
+el precio y es la manipulación, no
+
+398
+00:13:41,499 --> 00:13:44,299
+queremos ver una manipulación
+
+399
+00:13:42,699 --> 00:13:45,199
+manipulada, ¿vale?
+
+400
+00:13:44,299 --> 00:13:47,199
+¿Y el
+
+401
+00:13:45,199 --> 00:13:49,299
+donde va? Vamos a ver en qué zona se
+
+402
+00:13:47,199 --> 00:13:52,499
+puede girar el precio. ¿Cómo podemos
+
+403
+00:13:49,299 --> 00:13:54,199
+verlo? Pues mirad, ¿dónde está
+
+404
+00:13:52,499 --> 00:13:56,199
+pues igual? A ver, aquí hay muchas, hay
+
+405
+00:13:54,199 --> 00:13:57,499
+varios saltos, pero pongamos que es esta
+
+406
+00:13:56,199 --> 00:13:59,199
+de aquí, ¿no?
+
+407
+00:13:57,499 --> 00:14:02,399
+¿Vamos a estar estirando el hasta aquí
+
+408
+00:13:59,199 --> 00:14:04,799
+arriba del todo? No. ¿Por qué no? Pues
+
+409
+00:14:02,399 --> 00:14:05,899
+porque estas condiciones de 5 minutos
+
+410
+00:14:04,799 --> 00:14:07,299
+que son
+
+411
+00:14:05,899 --> 00:14:09,299
+de 5 minutos,
+
+412
+00:14:07,299 --> 00:14:11,899
+¿cómo sabemos si se van a invalidar? No
+
+413
+00:14:09,299 --> 00:14:14,499
+lo sabemos. No sé Yo no sé si el precio
+
+414
+00:14:11,899 --> 00:14:16,101
+va a subir hasta aquí y luego va a bajar
+
+415
+00:14:14,499 --> 00:14:17,901
+o si se lo va a atravesar, si lo va a
+
+416
+00:14:16,101 --> 00:14:20,201
+invalidar. Por lo tanto, ya de primeras,
+
+417
+00:14:17,901 --> 00:14:22,401
+el primer take profit debería ser aquí
+
+418
+00:14:20,201 --> 00:14:24,901
+abajo del todo, en el primer FVG de 5
+
+419
+00:14:22,401 --> 00:14:26,201
+minutos. Ya ha bajado el RR de un 1 a 3
+
+420
+00:14:24,901 --> 00:14:27,801
+a un 1 a 2.
+
+421
+00:14:26,201 --> 00:14:30,101
+Y no solo eso, sino que si nos vamos a
+
+422
+00:14:27,801 --> 00:14:31,901
+una temporalidad más alta, ¿qué vemos?
+
+423
+00:14:30,101 --> 00:14:34,501
+Ostras,
+
+424
+00:14:31,901 --> 00:14:36,901
+aquí tenemos un FVG de 30 minutos que
+
+425
+00:14:34,501 --> 00:14:38,301
+tiene más peso que el de 5 minutos. ¿Qué
+
+426
+00:14:36,901 --> 00:14:40,701
+vamos a hacer?
+
+427
+00:14:38,301 --> 00:14:42,201
+Bajar el take profit aún más, al de 30
+
+428
+00:14:40,701 --> 00:14:44,401
+minutos, porque yo no sé qué va a pasar
+
+429
+00:14:42,201 --> 00:14:45,701
+aquí. Esta es mi condición. Si tocamos
+
+430
+00:14:44,401 --> 00:14:47,601
+el fair value gap de 30 y seguimos
+
+431
+00:14:45,701 --> 00:14:50,501
+bajando, puedo buscar una venta
+
+432
+00:14:47,601 --> 00:14:52,401
+perfectamente, pero si sé que el precio
+
+433
+00:14:50,501 --> 00:14:53,901
+para determinar si quiere bajar tiene
+
+434
+00:14:52,401 --> 00:14:55,601
+que tocar ese nivel, también puedo
+
+435
+00:14:53,901 --> 00:14:57,101
+buscar unos largos. Y tranquilos que la
+
+436
+00:14:55,601 --> 00:14:58,801
+estrategia vais a ver todo. Yo aquí
+
+437
+00:14:57,101 --> 00:15:00,501
+estoy hablando del take profit, ¿vale?
+
+438
+00:14:58,801 --> 00:15:02,301
+Pero lo ponemos en zonas de conflicto.
+
+439
+00:15:00,501 --> 00:15:03,901
+¿Por qué? Porque si el precio quiere
+
+440
+00:15:02,301 --> 00:15:05,801
+bajar va a tener que tocar el imbalance
+
+441
+00:15:03,901 --> 00:15:07,201
+para seguir bajando y si el precio
+
+442
+00:15:05,801 --> 00:15:09,101
+quiere subir va a tener que llegar al
+
+443
+00:15:07,201 --> 00:15:12,201
+imbalance. Así que nosotros entramos
+
+444
+00:15:09,101 --> 00:15:14,201
+aquí con un 1 a 1 y mirad qué fácil este
+
+445
+00:15:12,201 --> 00:15:16,001
+trade.
+
+446
+00:15:14,201 --> 00:15:17,701
+Ya está. El trade ha durado literalmente
+
+447
+00:15:16,001 --> 00:15:20,101
+8 minutos.
+
+448
+00:15:17,701 --> 00:15:21,401
+Ha sufrido cero y la dirección ha sido
+
+449
+00:15:20,101 --> 00:15:23,101
+superacertada. Y este es el trade que yo
+
+450
+00:15:21,401 --> 00:15:25,201
+he pillado hoy para ganar 10.000 dólares
+
+451
+00:15:23,101 --> 00:15:26,701
+en cuentas fondeadas y en cuentas de
+
+452
+00:15:25,201 --> 00:15:29,201
+capital propio con una empresa que es
+
+453
+00:15:26,701 --> 00:15:31,301
+Funded. Así que funciona muy bien,
+
+454
+00:15:29,201 --> 00:15:32,901
+¿vale? Vamos a ver, por ejemplo, otros
+
+455
+00:15:31,301 --> 00:15:34,301
+ejemplos. Me los me los voy a totalmente
+
+456
+00:15:32,901 --> 00:15:36,401
+inventar, ¿vale? Aunque ya no tengan
+
+457
+00:15:34,301 --> 00:15:39,601
+estrategia. Imaginaros que nosotros
+
+458
+00:15:36,401 --> 00:15:41,701
+queremos entrar a partir de este IFVG de
+
+459
+00:15:39,601 --> 00:15:43,101
+5 minutos, ¿no? Es el más alto de qué?
+
+460
+00:15:41,701 --> 00:15:45,401
+De la manipulation leg. Tenemos un low
+
+461
+00:15:43,101 --> 00:15:47,601
+aquí, tenemos un alto aquí. Vale.
+
+462
+00:15:45,401 --> 00:15:49,101
+Entramos aquí. Oipa, perdonad. Entramos
+
+463
+00:15:47,601 --> 00:15:51,101
+aquí en cortos.
+
+464
+00:15:49,101 --> 00:15:53,001
+¿Dónde va el stop loss? En la mecha de
+
+465
+00:15:51,101 --> 00:15:56,601
+arriba del todo, aquí.
+
+466
+00:15:53,001 --> 00:15:57,801
+¿Dónde va el take profit? Take profit va
+
+467
+00:15:56,601 --> 00:15:58,901
+al 1 a 1.
+
+468
+00:15:57,801 --> 00:16:01,501
+¿Por qué?
+
+469
+00:15:58,901 --> 00:16:04,001
+Porque nuestro objetivo es este de aquí,
+
+470
+00:16:01,501 --> 00:16:05,801
+que es nuestra sell side liquidity,
+
+471
+00:16:04,001 --> 00:16:07,901
+¿vale? Es nuestra nuestro bajo, nuestra
+
+472
+00:16:05,801 --> 00:16:11,501
+sell side liquidity que además esto está
+
+473
+00:16:07,901 --> 00:16:14,001
+alineado con low resistance liquidity.
+
+474
+00:16:11,501 --> 00:16:17,001
+Entonces, ¿por qué nuestro take profit
+
+475
+00:16:14,001 --> 00:16:19,102
+es 1 a 1 y por qué no hacemos así?
+
+476
+00:16:17,001 --> 00:16:22,302
+Porque veis que el el riesgo beneficio
+
+477
+00:16:19,102 --> 00:16:24,702
+es 0,6. Aquí nosotros no vamos a estar
+
+478
+00:16:22,302 --> 00:16:26,302
+entrando, ¿vale? Nosotros
+
+479
+00:16:24,702 --> 00:16:27,402
+vamos a estar entrando buscando el 1 a
+
+480
+00:16:26,302 --> 00:16:29,202
+1.
+
+481
+00:16:27,402 --> 00:16:31,302
+Y, Xavi, ¿qué hacemos cuando se toque el
+
+482
+00:16:29,202 --> 00:16:33,502
+objetivo? Ahí vamos
+
+483
+00:16:31,302 --> 00:16:35,002
+Ahí protegemos nuestra operación, ¿vale?
+
+484
+00:16:33,502 --> 00:16:37,302
+¿Por qué? Porque tú no sabes si el
+
+485
+00:16:35,002 --> 00:16:38,702
+precio va a reaccionar de esta zona o si
+
+486
+00:16:37,302 --> 00:16:41,102
+va a seguir bajando. Y mirad lo que
+
+487
+00:16:38,702 --> 00:16:41,102
+pasa.
+
+488
+00:16:45,002 --> 00:16:48,502
+El precio toca la
+
+489
+00:16:47,102 --> 00:16:50,802
+es decir, el precio toca nuestro
+
+490
+00:16:48,502 --> 00:16:52,402
+objetivo y justo cuando el precio toca
+
+491
+00:16:50,802 --> 00:16:54,802
+nuestro objetivo, nosotros hacemos y
+
+492
+00:16:52,402 --> 00:16:56,702
+arrastramos el stop loss a
+
+493
+00:16:54,802 --> 00:16:58,702
+aquí. ¿Qué esto significa? Que si el
+
+494
+00:16:56,702 --> 00:17:00,102
+precio vuelve a subir,
+
+495
+00:16:58,702 --> 00:17:01,602
+nos saca aquí, nos saca en nuestra zona
+
+496
+00:17:00,102 --> 00:17:04,602
+de entrada y no perdemos ni ganamos, nos
+
+497
+00:17:01,602 --> 00:17:07,302
+quedamos en más cero. Pero si sigue
+
+498
+00:17:04,602 --> 00:17:10,002
+bajando por algún motivo,
+
+499
+00:17:07,302 --> 00:17:11,902
+nos llevamos esa victoria, ¿vale? Por
+
+500
+00:17:10,002 --> 00:17:14,802
+eso es tan importante siempre ir a por
+
+501
+00:17:11,902 --> 00:17:17,402
+el 1 a 1, siempre. Y en caso de que tu
+
+502
+00:17:14,802 --> 00:17:18,602
+objetivo esté más cerca que un 1 a 1, es
+
+503
+00:17:17,402 --> 00:17:21,302
+decir, que esté, por ejemplo, en este
+
+504
+00:17:18,602 --> 00:17:24,002
+caso a un 1 a 0,6 como hemos visto, lo
+
+505
+00:17:21,302 --> 00:17:26,202
+que vas a hacer es dar el 1 a 1 y dejar
+
+506
+00:17:24,002 --> 00:17:28,902
+que corra el trade, ¿vale? Y las veces
+
+507
+00:17:26,202 --> 00:17:31,602
+que tengas varios objetivos como eh
+
+508
+00:17:28,902 --> 00:17:33,902
+hemos visto antes, el el la
+
+509
+00:17:31,602 --> 00:17:35,702
+y gaps de 5 minutos, vas a buscar el 1 a
+
+510
+00:17:33,902 --> 00:17:37,802
+1 hasta la primera condición que ponga
+
+511
+00:17:35,702 --> 00:17:39,502
+tu trade en peligro, ¿vale?
+
+512
+00:17:37,802 --> 00:17:41,202
+No voy a entrar muchísimo en detalle
+
+513
+00:17:39,502 --> 00:17:41,902
+porque ya estoy añadiendo cosas como el
+
+514
+00:17:41,202 --> 00:17:44,302
+ir
+
+515
+00:17:41,902 --> 00:17:45,802
+que son cosas que he explicado. Y repito
+
+516
+00:17:44,302 --> 00:17:47,702
+que igual que ayer se os abrieron los
+
+517
+00:17:45,802 --> 00:17:49,802
+ojos con el vídeo de condiciones, se os
+
+518
+00:17:47,702 --> 00:17:51,902
+van a abrir los ojos con el vídeo de y
+
+519
+00:17:49,802 --> 00:17:53,802
+de la estrategia porque va a ser cuando
+
+520
+00:17:51,902 --> 00:17:55,802
+digáis, ostra. Y vais a ver tantas
+
+521
+00:17:53,802 --> 00:17:57,502
+repeticiones de tantos trades en vivo y
+
+522
+00:17:55,802 --> 00:17:59,302
+reales que
+
+523
+00:17:57,502 --> 00:18:01,702
+ahí lo vais a entender todo, ¿vale?
+
+524
+00:17:59,302 --> 00:18:03,102
+Entonces, eso es lo primero y lo segundo
+
+525
+00:18:01,702 --> 00:18:05,102
+de todo Bueno, no, de hecho no os voy a
+
+526
+00:18:03,102 --> 00:18:06,502
+explicar ni eh cómo calcular los
+
+527
+00:18:05,102 --> 00:18:08,402
+contratos porque eso quiero que lo
+
+528
+00:18:06,502 --> 00:18:10,102
+hagáis eh cuando os esté explicando la
+
+529
+00:18:08,402 --> 00:18:11,302
+gestión de riesgo que vamos a hacer
+
+530
+00:18:10,102 --> 00:18:13,502
+porque tiene mucho más sentido hablar
+
+531
+00:18:11,302 --> 00:18:15,202
+pues de cómo calcular contratos a la
+
+532
+00:18:13,502 --> 00:18:18,102
+hora de hablar de riesgo y no ahora que
+
+533
+00:18:15,202 --> 00:18:19,402
+os acabo de explicar lo del
+
+534
+00:18:18,102 --> 00:18:21,003
+Pero bueno, creo que os que Quiero que
+
+535
+00:18:19,402 --> 00:18:23,103
+os quedéis con la
+
+536
+00:18:21,003 --> 00:18:25,003
+ehm explicación del riesgo beneficio,
+
+537
+00:18:23,103 --> 00:18:26,203
+sobre todo porque no solo quiero
+
+538
+00:18:25,003 --> 00:18:28,303
+enseñaros lo que os sé, sino quiero
+
+539
+00:18:26,203 --> 00:18:30,503
+explicaros cuál es el razonamiento que
+
+540
+00:18:28,303 --> 00:18:32,103
+hay detrás de las cosas que utilizo y
+
+541
+00:18:30,503 --> 00:18:33,903
+cuál es el razonamiento detrás de todos
+
+542
+00:18:32,103 --> 00:18:35,903
+los take profits y stop losses. Y, como
+
+543
+00:18:33,903 --> 00:18:37,403
+veis, tiene mucho sentido.
+
+544
+00:18:35,903 --> 00:18:38,803
+Intento siempre operar de una forma en
+
+545
+00:18:37,403 --> 00:18:40,403
+la que en mi cabeza tenga sentido,
+
+546
+00:18:38,803 --> 00:18:43,103
+¿vale? Por eso pongo mi take profit en
+
+547
+00:18:40,403 --> 00:18:45,203
+condiciones, por eso eh voy break even
+
+548
+00:18:43,103 --> 00:18:46,503
+cuando tocamos una zona de conflicto,
+
+549
+00:18:45,203 --> 00:18:48,003
+por eso utilizo ratios riesgos
+
+550
+00:18:46,503 --> 00:18:51,203
+beneficios porque me va bien
+
+551
+00:18:48,003 --> 00:18:52,603
+psicológicamente y todo esto
+
+552
+00:18:51,203 --> 00:18:55,103
+se ha construido durante 1 año de
+
+553
+00:18:52,603 --> 00:18:56,803
+muchísimo trabajo y por eso ehm tiene
+
+554
+00:18:55,103 --> 00:18:57,903
+tanta explicación y tantos vídeos detrás
+
+555
+00:18:56,803 --> 00:18:59,103
+de esto, ¿vale?
+
+556
+00:18:57,903 --> 00:19:01,003
+Pero bueno, chavales, espero que os haya
+
+557
+00:18:59,103 --> 00:19:02,503
+gustado el vídeo. Nos vemos mañana con
+
+558
+00:19:01,003 --> 00:19:03,803
+el vídeo del journal. Va a estar súper
+
+559
+00:19:02,503 --> 00:19:05,103
+bien. Os voy a explicar exactamente qué
+
+560
+00:19:03,803 --> 00:19:07,903
+es el journal, cómo hacerlo, por qué
+
+561
+00:19:05,103 --> 00:19:11,403
+hacerlo, cómo analizarlo y demás.
+
+562
+00:19:07,903 --> 00:19:12,603
+Y después os explicaré directamente eh
+
+563
+00:19:11,403 --> 00:19:14,703
+empezaremos con la estrategia. Eso sí
+
+564
+00:19:12,603 --> 00:19:16,803
+que es la bomba, o sea,
+
+565
+00:19:14,703 --> 00:19:18,303
+miraros este vídeo, disfrutarlo. Mañana
+
+566
+00:19:16,803 --> 00:19:19,703
+atentos con el diario y a la que tengáis
+
+567
+00:19:18,303 --> 00:19:21,203
+el diario empezamos a arrancar con
+
+568
+00:19:19,703 --> 00:19:24,303
+conceptos que directamente ya son
+
+569
+00:19:21,203 --> 00:19:25,803
+estrategia básicamente, ¿vale? Y una vez
+
+570
+00:19:24,303 --> 00:19:26,903
+entendamos eso, ya os he dicho antes lo
+
+571
+00:19:25,803 --> 00:19:28,703
+que haremos, así que ya me callo porque
+
+572
+00:19:26,903 --> 00:19:29,903
+soy un yapper profesional.
+
+573
+00:19:28,703 --> 00:19:32,503
+Un abrazo.
+
+574
+00:19:29,903 --> 00:19:32,503
+No hay deberes hoy.
+

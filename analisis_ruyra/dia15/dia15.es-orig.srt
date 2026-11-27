@@ -1,0 +1,2164 @@
+1
+00:00:00,719 --> 00:00:06,319
+Muy buenas, chavales. Bienvenidos a un
+
+2
+00:00:03,399 --> 00:00:09,040
+nuevo episodio de La Bootcam.
+
+3
+00:00:06,319 --> 00:00:11,320
+Buenos días porque es por la mañana y
+
+4
+00:00:09,040 --> 00:00:13,519
+hoy vamos a grabar, o sea, hoy vamos a
+
+5
+00:00:11,320 --> 00:00:15,740
+explicar key levels, ¿vale? Me hace
+
+6
+00:00:13,519 --> 00:00:19,199
+bastante ilusión explicar esto porque ya
+
+7
+00:00:15,740 --> 00:00:21,439
+[carraspeo] entramos en más material,
+
+8
+00:00:19,199 --> 00:00:24,720
+así que vamos a meterle directamente,
+
+9
+00:00:21,439 --> 00:00:27,199
+¿vale? Okay. Lo primero de todo, ¿qué
+
+10
+00:00:24,720 --> 00:00:29,320
+son key levels? Vale, los key levels son
+
+11
+00:00:27,199 --> 00:00:31,759
+zonas donde nosotros estamos buscando
+
+12
+00:00:29,320 --> 00:00:35,399
+que el precio se dé la vuelta o que se
+
+13
+00:00:31,759 --> 00:00:37,399
+frene o básicamente una zona donde es
+
+14
+00:00:35,399 --> 00:00:39,239
+una zona de conflicto, es una zona donde
+
+15
+00:00:37,399 --> 00:00:41,520
+el precio tiene que decidir si se quiere
+
+16
+00:00:39,239 --> 00:00:43,160
+dar la vuelta o si no, pero es
+
+17
+00:00:41,520 --> 00:00:45,200
+normalmente una zona de conflicto, una
+
+18
+00:00:43,160 --> 00:00:46,960
+zona donde el precio sube, sube, sube,
+
+19
+00:00:45,200 --> 00:00:48,920
+llega ahí, dice, "Wep, ahora nos
+
+20
+00:00:46,960 --> 00:00:50,239
+giramos, retrocedemos y seguimos
+
+21
+00:00:48,920 --> 00:00:52,160
+subiendo, ¿no? No sabemos lo que va a
+
+22
+00:00:50,239 --> 00:00:54,120
+pasar, ¿vale?" Y lo mismo cuando
+
+23
+00:00:52,160 --> 00:00:56,239
+bajamos, bajamos, bajamos, bajamos, pum,
+
+24
+00:00:54,120 --> 00:00:58,000
+tocamos esa zona y de repente ahí, ¿qué
+
+25
+00:00:56,239 --> 00:01:00,359
+es lo que nosotros normalmente buscamos?
+
+26
+00:00:58,000 --> 00:01:02,399
+Pues nuestro trade buscando ese cambio
+
+27
+00:01:00,359 --> 00:01:03,680
+de tendencia, ¿vale? Por eso en estos
+
+28
+00:01:02,399 --> 00:01:05,760
+dibujos lo que estáis viendo es que el
+
+29
+00:01:03,680 --> 00:01:07,759
+precio baja hasta que toca una zona
+
+30
+00:01:05,760 --> 00:01:09,280
+determinada y después de tocar esa zona,
+
+31
+00:01:07,759 --> 00:01:10,720
+pum, se da la vuelta. Muchas veces
+
+32
+00:01:09,280 --> 00:01:12,520
+nosotros vamos a encontrar la zona
+
+33
+00:01:10,720 --> 00:01:15,560
+exacta donde el precio se puede dar la
+
+34
+00:01:12,520 --> 00:01:17,520
+vuelta. Entonces, por otro lado, tenemos
+
+35
+00:01:15,560 --> 00:01:19,320
+exactamente lo mismo. Momento, voy a
+
+36
+00:01:17,520 --> 00:01:21,360
+poner el muel en silencio. Por otro
+
+37
+00:01:19,320 --> 00:01:22,840
+lado, tenemos lo mismo, eh, cuando
+
+38
+00:01:21,360 --> 00:01:24,600
+estamos subiendo, ¿no? Subimos, subimos,
+
+39
+00:01:22,840 --> 00:01:26,360
+subimos y eventualmente tocamos un key
+
+40
+00:01:24,600 --> 00:01:29,600
+level donde el precio se puede dar la
+
+41
+00:01:26,360 --> 00:01:30,960
+vuelta. Entonces, cero complicaciones,
+
+42
+00:01:29,600 --> 00:01:32,799
+¿vale? Cero complicaciones para
+
+43
+00:01:30,960 --> 00:01:35,280
+encontrar estos key levels. ¿Por qué?
+
+44
+00:01:32,799 --> 00:01:37,880
+Porque yo solo uso dos cosas s super
+
+45
+00:01:35,280 --> 00:01:40,079
+fáciles. FGS, que ya lo habéis visto, y
+
+46
+00:01:37,880 --> 00:01:41,640
+liquidez, que ya lo habéis visto. No
+
+47
+00:01:40,079 --> 00:01:43,399
+necesitáis nada más para identificar los
+
+48
+00:01:41,640 --> 00:01:45,000
+K levels, ¿vale?
+
+49
+00:01:43,399 --> 00:01:47,520
+Obviamente hay conceptos que te van a
+
+50
+00:01:45,000 --> 00:01:49,079
+ayudar a identificar eh un key level más
+
+51
+00:01:47,520 --> 00:01:51,560
+concreto, hay conceptos que te van a
+
+52
+00:01:49,079 --> 00:01:53,200
+ayudar a ser más preciso, que lo vamos a
+
+53
+00:01:51,560 --> 00:01:56,000
+ver, que eso es el equilibrium, vas a
+
+54
+00:01:53,200 --> 00:01:58,200
+usar también los SMTs, pero calma,
+
+55
+00:01:56,000 --> 00:02:01,360
+¿vale? Vamos paso por paso. Entonces, lo
+
+56
+00:01:58,200 --> 00:02:02,799
+primero de todo, a mí como key level me
+
+57
+00:02:01,360 --> 00:02:04,000
+sirven, esto apuntarlo porque es esta
+
+58
+00:02:02,799 --> 00:02:06,280
+parte de aquí abajo y es importante,
+
+59
+00:02:04,000 --> 00:02:09,119
+¿vale? A mí como key level me sirven
+
+60
+00:02:06,280 --> 00:02:11,680
+FVGs de 15 minutos, de una hora y de 4
+
+61
+00:02:09,119 --> 00:02:13,720
+horas, ¿vale? Nunca voy a usar un key
+
+62
+00:02:11,680 --> 00:02:16,241
+level, o sea, nunca voy a usar un FVG de
+
+63
+00:02:13,720 --> 00:02:18,440
+5 minutos como key level, nunca.
+
+64
+00:02:16,241 --> 00:02:20,360
+[carraspeo] Entonces, si hay un fair
+
+65
+00:02:18,440 --> 00:02:22,319
+value up de una hora y de 4 horas, mejor
+
+66
+00:02:20,360 --> 00:02:23,959
+que hay uno de 15 minutos. Chavi,
+
+67
+00:02:22,319 --> 00:02:26,519
+¿significa que uno de 15 minutos sea
+
+68
+00:02:23,959 --> 00:02:27,959
+peor y que dé menos win rate? No, los de
+
+69
+00:02:26,519 --> 00:02:29,680
+15 minutos se utilizan cuando el
+
+70
+00:02:27,959 --> 00:02:31,720
+movimiento está esponsoreado por un gap
+
+71
+00:02:29,680 --> 00:02:34,000
+de una hora y 4 horas. Chavi, no sé lo
+
+72
+00:02:31,720 --> 00:02:35,440
+que significa esponsorear. se verá más
+
+73
+00:02:34,000 --> 00:02:37,160
+adelante del bootcamp, no te preocupes,
+
+74
+00:02:35,440 --> 00:02:40,640
+lo voy a explicar y lo vas a entender,
+
+75
+00:02:37,160 --> 00:02:42,319
+pero quédate con los gaps de 15 minutos,
+
+76
+00:02:40,640 --> 00:02:44,680
+1 hora y 4 horas que son muy importantes
+
+77
+00:02:42,319 --> 00:02:46,159
+y los vamos a estar marcando muchísimo.
+
+78
+00:02:44,680 --> 00:02:47,519
+Además, los gaps de 15 minutos más
+
+79
+00:02:46,159 --> 00:02:49,400
+adelante veréis cómo los usamos, pero
+
+80
+00:02:47,519 --> 00:02:51,159
+normalmente los usamos más como
+
+81
+00:02:49,400 --> 00:02:54,280
+condiciones y no tanto como key levels,
+
+82
+00:02:51,159 --> 00:02:56,480
+¿vale? Entonces, estos FVGs de una hora
+
+83
+00:02:54,280 --> 00:02:58,959
+y de 4 horas yo necesito que tengan
+
+84
+00:02:56,480 --> 00:03:01,760
+algún tipo de liquidez, ¿vale? Necesito
+
+85
+00:02:58,959 --> 00:03:04,400
+altos y bajos que estén dentro de FVGs.
+
+86
+00:03:01,760 --> 00:03:06,000
+Me explico. Nosotros si creamos por aquí
+
+87
+00:03:04,400 --> 00:03:08,480
+un FVG, tranquilos que vamos a ver
+
+88
+00:03:06,000 --> 00:03:10,200
+ejemplos. El precio va a hacer esto,
+
+89
+00:03:08,480 --> 00:03:12,920
+¿vale? Imagínate que estamos pues
+
+90
+00:03:10,200 --> 00:03:15,519
+subiendo, ¿vale? Creamos el FVG y el
+
+91
+00:03:12,920 --> 00:03:18,560
+precio va a tocar el FVG,
+
+92
+00:03:15,519 --> 00:03:20,680
+va a dejar aquí un bajo dentro del FVG,
+
+93
+00:03:18,560 --> 00:03:22,599
+¿vale? Va a dejar un bajo. Muchas veces
+
+94
+00:03:20,680 --> 00:03:24,040
+el bajo que deja no es exactamente ni
+
+95
+00:03:22,599 --> 00:03:26,519
+dentro. Muchas veces no va ni a tocar el
+
+96
+00:03:24,040 --> 00:03:28,599
+FVG y va a tener un bajo aquí. Y esto,
+
+97
+00:03:26,519 --> 00:03:30,720
+¿qué hace? sea un punto de liquidez
+
+98
+00:03:28,599 --> 00:03:33,480
+super bueno. ¿Por qué? Porque sabemos
+
+99
+00:03:30,720 --> 00:03:35,480
+que los EFVG son como un imán y sabemos
+
+100
+00:03:33,480 --> 00:03:37,159
+que esta salsa liquidity es dinero, es
+
+101
+00:03:35,480 --> 00:03:39,040
+liquidez. El mercado quiere ir a buscar
+
+102
+00:03:37,159 --> 00:03:41,599
+eso, ¿no? Por lo tanto, ¿qué hace el
+
+103
+00:03:39,040 --> 00:03:44,280
+precio? Directamente se lleva ese low,
+
+104
+00:03:41,599 --> 00:03:46,200
+se lleva esa ese gap y luego da la
+
+105
+00:03:44,280 --> 00:03:48,879
+continuación hacia arriba. Por lo tanto,
+
+106
+00:03:46,200 --> 00:03:51,280
+bajos que estén alineados con FVGs o
+
+107
+00:03:48,879 --> 00:03:52,920
+altos que estén alineados con FVGs son
+
+108
+00:03:51,280 --> 00:03:55,400
+puntos superimportantes. Y esto quiero
+
+109
+00:03:52,920 --> 00:03:58,360
+que os quede super mega hiper claro
+
+110
+00:03:55,400 --> 00:04:00,159
+porque es muy importante. Entonces,
+
+111
+00:03:58,360 --> 00:04:02,959
+parón, para que se entienda, si tú
+
+112
+00:04:00,159 --> 00:04:06,760
+tienes un FVG de una hora,
+
+113
+00:04:02,959 --> 00:04:09,200
+en una hora no necesito ver esto,
+
+114
+00:04:06,760 --> 00:04:11,319
+¿vale? No necesito ver esto. ¿Por qué?
+
+115
+00:04:09,200 --> 00:04:13,000
+Porque nosotros al tocar el FVG de una
+
+116
+00:04:11,319 --> 00:04:15,760
+hora, ¿vale?,
+
+117
+00:04:13,000 --> 00:04:17,560
+muchas veces en una temporalidad menor,
+
+118
+00:04:15,760 --> 00:04:20,639
+¿vale? Pensar que en este FVG de una
+
+119
+00:04:17,560 --> 00:04:23,280
+hora igual tenemos cuatro o tres o dos
+
+120
+00:04:20,639 --> 00:04:25,400
+gaps de 15 minutos, FVGs de 15 minutos.
+
+121
+00:04:23,280 --> 00:04:27,440
+Por lo tanto, dentro de este FVG de una
+
+122
+00:04:25,400 --> 00:04:28,800
+hora ya estamos quitando liquidez. Ahí
+
+123
+00:04:27,440 --> 00:04:31,039
+lo que tendrías que hacer es ir a una
+
+124
+00:04:28,800 --> 00:04:33,560
+temporalidad menor, 15 minutos, 30
+
+125
+00:04:31,039 --> 00:04:35,199
+minutos, 5 minutos y ver si realmente
+
+126
+00:04:33,560 --> 00:04:37,360
+estamos quitando algún tipo de liquidez,
+
+127
+00:04:35,199 --> 00:04:39,400
+algún tipo de cellide liquidity, algún
+
+128
+00:04:37,360 --> 00:04:40,720
+tipo de bajo, ¿vale? Pero con una
+
+129
+00:04:39,400 --> 00:04:42,400
+temporalidad tan alta, una hora, no
+
+130
+00:04:40,720 --> 00:04:44,759
+vamos a estar dos o tres horas esperando
+
+131
+00:04:42,400 --> 00:04:46,160
+a que se toque el gap, que salgamos, que
+
+132
+00:04:44,759 --> 00:04:48,639
+se vuelva a tocar y que luego suba
+
+133
+00:04:46,160 --> 00:04:51,479
+porque h no es óptimo. Entonces, a veces
+
+134
+00:04:48,639 --> 00:04:53,880
+pasa, sí, pero la mayoría de veces no.
+
+135
+00:04:51,479 --> 00:04:55,759
+Entonces, eh, ejemplos de key levels que
+
+136
+00:04:53,880 --> 00:04:57,680
+nosotros ya hemos visto. Ejemplos de key
+
+137
+00:04:55,759 --> 00:04:59,479
+levels, new day opening app, new week
+
+138
+00:04:57,680 --> 00:05:01,560
+opening app y altos y bajos de horario y
+
+139
+00:04:59,479 --> 00:05:03,800
+4 horas. ¿Os acordáis en el vídeo de
+
+140
+00:05:01,560 --> 00:05:05,520
+liquidez que visteis como los New Days
+
+141
+00:05:03,800 --> 00:05:07,520
+opening y New Week opening Gaps son un
+
+142
+00:05:05,520 --> 00:05:09,160
+objetivo muy claro? También os enseñé
+
+143
+00:05:07,520 --> 00:05:11,280
+como la low resistance liquidity es un
+
+144
+00:05:09,160 --> 00:05:13,120
+objetivo muy claro. Pues, ¿qué es lo
+
+145
+00:05:11,280 --> 00:05:14,840
+importante de lo que vamos a ver hoy? Lo
+
+146
+00:05:13,120 --> 00:05:16,680
+importante de lo que vamos a ver hoy es
+
+147
+00:05:14,840 --> 00:05:19,120
+alinear todos los puntos de liquidez que
+
+148
+00:05:16,680 --> 00:05:21,240
+hemos visto con estos key levels, ¿vale?
+
+149
+00:05:19,120 --> 00:05:23,360
+Vosotros imaginaros que tenemos aquí
+
+150
+00:05:21,240 --> 00:05:25,160
+unos equals, ¿vale? Tenemos unos altos
+
+151
+00:05:23,360 --> 00:05:27,520
+iguales. Sabemos que el precio es muy
+
+152
+00:05:25,160 --> 00:05:30,960
+probable que llegue hasta ahí y el
+
+153
+00:05:27,520 --> 00:05:30,960
+precio hace esto.
+
+154
+00:05:36,759 --> 00:05:41,600
+Vale, tocamos una zona de conflicto,
+
+155
+00:05:39,440 --> 00:05:43,600
+tocamos un key level. Entonces, aquí ya
+
+156
+00:05:41,600 --> 00:05:45,759
+no solo estás tocando un key level,
+
+157
+00:05:43,600 --> 00:05:47,319
+estás tocando un key level, estás
+
+158
+00:05:45,759 --> 00:05:48,360
+teniendo una reacción alcista, estás
+
+159
+00:05:47,319 --> 00:05:50,720
+teniendo esta flechita hacia arriba
+
+160
+00:05:48,360 --> 00:05:53,039
+alcista y tienes cosas a favor. Es
+
+161
+00:05:50,720 --> 00:05:55,479
+decir, tu trade tiene un sentido. ¿Por
+
+162
+00:05:53,039 --> 00:05:56,800
+qué? Porque tienes equal high, que sabes
+
+163
+00:05:55,479 --> 00:05:59,520
+que es un objetivo que es muy probable
+
+164
+00:05:56,800 --> 00:06:01,280
+que se visite, que se te ha creado aquí
+
+165
+00:05:59,520 --> 00:06:03,919
+low resistance liquidity, que la vimos
+
+166
+00:06:01,280 --> 00:06:06,479
+el otro día, ¿vale? Se te alínean, se te
+
+167
+00:06:03,919 --> 00:06:11,440
+alí liquidez y sobre todo haces que
+
+168
+00:06:06,479 --> 00:06:14,039
+tengas 1 2 3 4 5 6 7 8 9 10 puntos de
+
+169
+00:06:11,440 --> 00:06:15,479
+liquidez a favor y uno en contra. Por lo
+
+170
+00:06:14,039 --> 00:06:17,720
+tanto, tiene muchísimo sentido que el
+
+171
+00:06:15,479 --> 00:06:19,319
+precio acabe dando ese take profit hacia
+
+172
+00:06:17,720 --> 00:06:21,160
+allí arriba. Y esa es la gracia de
+
+173
+00:06:19,319 --> 00:06:23,960
+alinear la liquidez con los key levels,
+
+174
+00:06:21,160 --> 00:06:26,479
+porque te hace saber si realmente ese
+
+175
+00:06:23,960 --> 00:06:28,000
+key level va a aguantar la zona o no.
+
+176
+00:06:26,479 --> 00:06:30,240
+¿Vale? Entonces, vamos a ver algunos
+
+177
+00:06:28,000 --> 00:06:32,199
+ejemplos
+
+178
+00:06:30,240 --> 00:06:34,360
+que tengo preparados
+
+179
+00:06:32,199 --> 00:06:37,880
+y mirar exactamente lo que pasa. Vale,
+
+180
+00:06:34,360 --> 00:06:39,800
+aquí tenemos un FVG de una hora.
+
+181
+00:06:37,880 --> 00:06:42,880
+Como veis, el precio toca ese FVG de una
+
+182
+00:06:39,800 --> 00:06:44,240
+hora. Y yo aquí
+
+183
+00:06:42,880 --> 00:06:45,280
+de primeras, ¿vale? Quiero que se
+
+184
+00:06:44,240 --> 00:06:47,160
+entienda muy bien porque es un poco
+
+185
+00:06:45,280 --> 00:06:49,680
+lioso esto.
+
+186
+00:06:47,160 --> 00:06:52,680
+De primeras. Vale,
+
+187
+00:06:49,680 --> 00:06:54,520
+si a mí el precio me da una reacción de
+
+188
+00:06:52,680 --> 00:06:56,680
+este desde este gap de una hora, si me
+
+189
+00:06:54,520 --> 00:06:59,560
+da una buena reacción, no necesito que
+
+190
+00:06:56,680 --> 00:07:04,039
+el precio vuelva a revisitar ese bajo y
+
+191
+00:06:59,560 --> 00:07:06,440
+suba. ¿Vale? ¿Cuándo sí que necesitaría
+
+192
+00:07:04,039 --> 00:07:09,039
+que se revisite este bajo? Vale,
+
+193
+00:07:06,440 --> 00:07:10,879
+cuidado. Si no me da una reacción y por
+
+194
+00:07:09,039 --> 00:07:13,840
+ejemplo el precio toca este fair value
+
+195
+00:07:10,879 --> 00:07:16,160
+app y nos quedamos por aquí todo el rato
+
+196
+00:07:13,840 --> 00:07:18,840
+una hora, ¿vale? una hora consolidando
+
+197
+00:07:16,160 --> 00:07:22,199
+por esta zona que no nos movemos. Si
+
+198
+00:07:18,840 --> 00:07:24,120
+justo abre otra vela de una hora y
+
+199
+00:07:22,199 --> 00:07:26,240
+tenemos el bajo que se ha creado
+
+200
+00:07:24,120 --> 00:07:29,520
+supercerca, sí que me vale la pena
+
+201
+00:07:26,240 --> 00:07:30,960
+buscar esa manipulación. Vale, ya vais a
+
+202
+00:07:29,520 --> 00:07:32,240
+hacer un vídeo también de qué significa
+
+203
+00:07:30,960 --> 00:07:34,319
+manipulación. No sé si me estoy
+
+204
+00:07:32,240 --> 00:07:36,840
+explicando, ¿vale? Si no me lo puedo
+
+205
+00:07:34,319 --> 00:07:39,080
+repetir en otro vídeo o lo que sea, pero
+
+206
+00:07:36,840 --> 00:07:41,000
+si si tocamos un cap de una hora y
+
+207
+00:07:39,080 --> 00:07:42,520
+tenemos una buena reacción hacia arriba,
+
+208
+00:07:41,000 --> 00:07:44,960
+estamos listos para que el precio que
+
+209
+00:07:42,520 --> 00:07:48,000
+haga, que distribuya, ¿vale? que se vaya
+
+210
+00:07:44,960 --> 00:07:49,840
+para arriba. Si el precio toca el gap de
+
+211
+00:07:48,000 --> 00:07:52,800
+una hora y no tiene una reacción muy
+
+212
+00:07:49,840 --> 00:07:54,479
+fuerte, nos quedamos justo por esa zona
+
+213
+00:07:52,800 --> 00:07:57,080
+y justo al abrir la siguiente vela de
+
+214
+00:07:54,479 --> 00:07:59,599
+una hora estamos a esta altura. Estamos
+
+215
+00:07:57,080 --> 00:08:01,599
+justo a esta altura, ¿vale? Y no a esta
+
+216
+00:07:59,599 --> 00:08:03,280
+altura de aquí arriba, sino aquí abajo.
+
+217
+00:08:01,599 --> 00:08:05,639
+Como estamos super cerca de quitar ese
+
+218
+00:08:03,280 --> 00:08:07,120
+low, esa ese bajo, a mí no me interesa
+
+219
+00:08:05,639 --> 00:08:08,840
+tener ese bajo en mi stoploss para
+
+220
+00:08:07,120 --> 00:08:11,000
+buscar compras. Lo que prefiero es que
+
+221
+00:08:08,840 --> 00:08:13,080
+quitemos ese bajo, que volvamos a quitar
+
+222
+00:08:11,000 --> 00:08:15,080
+el gap y que luego subamos. Vale, creo
+
+223
+00:08:13,080 --> 00:08:17,039
+que aquí sí que se ha entendido bien.
+
+224
+00:08:15,080 --> 00:08:19,440
+Entonces, ¿por qué aquí no necesito que
+
+225
+00:08:17,039 --> 00:08:21,800
+se revisite ese low? Porque como hemos
+
+226
+00:08:19,440 --> 00:08:23,560
+visto antes, que os he explicado, seguro
+
+227
+00:08:21,800 --> 00:08:25,639
+que si bajamos de temporalidad hemos
+
+228
+00:08:23,560 --> 00:08:27,159
+quitado algún tipo de liquidez. Por lo
+
+229
+00:08:25,639 --> 00:08:29,639
+tanto, vemos que hemos tocado el gap de
+
+230
+00:08:27,159 --> 00:08:32,640
+una hora y, "Wow, ¿con qué se alí el gap
+
+231
+00:08:29,639 --> 00:08:35,560
+de una hora?" Toma ya, con un bajo de 15
+
+232
+00:08:32,640 --> 00:08:38,039
+minutos y además ese bajo de 15 minutos
+
+233
+00:08:35,560 --> 00:08:41,800
+está dentro de un FVG también de 15
+
+234
+00:08:38,039 --> 00:08:44,760
+minutos. Así que la zona es preciosa y
+
+235
+00:08:41,800 --> 00:08:48,519
+ostras, ¿qué está pasando? Justo después
+
+236
+00:08:44,760 --> 00:08:50,560
+de la reacción que nos ha dado un IFVG
+
+237
+00:08:48,519 --> 00:08:52,320
+de 15 minutos hacia arriba. Por lo
+
+238
+00:08:50,560 --> 00:08:55,040
+tanto, ¿tiene sentido que el precio
+
+239
+00:08:52,320 --> 00:08:58,720
+vuelva hasta aquí abajo? No. Al tener
+
+240
+00:08:55,040 --> 00:09:00,880
+ese IFVG y dejar de respetar ese price
+
+241
+00:08:58,720 --> 00:09:02,399
+action, ese esa bajada, a mí lo que me
+
+242
+00:09:00,880 --> 00:09:04,440
+dice el precio es que queremos subir.
+
+243
+00:09:02,399 --> 00:09:06,680
+¿Vale? Entonces, como veis, después de
+
+244
+00:09:04,440 --> 00:09:08,160
+tocar ese gap de una hora, que podría
+
+245
+00:09:06,680 --> 00:09:11,079
+ser un monkey level, el precio acaba
+
+246
+00:09:08,160 --> 00:09:12,480
+subiendo, ¿vale? Acaba subiendo, acaba
+
+247
+00:09:11,079 --> 00:09:14,839
+dando una muy buena reacción. Mirad,
+
+248
+00:09:12,480 --> 00:09:18,320
+desde que tocamos el gap, aquí abajo del
+
+249
+00:09:14,839 --> 00:09:20,440
+todo tenemos una reacción de 443 puntos.
+
+250
+00:09:18,320 --> 00:09:23,839
+Es un movimiento brutal. Aquí seguro que
+
+251
+00:09:20,440 --> 00:09:27,079
+podrías haber pillado un un trade, pero
+
+252
+00:09:23,839 --> 00:09:28,680
+eventualmente, ¿qué pasa?
+
+253
+00:09:27,079 --> 00:09:31,079
+que el precio no consigue despegar de
+
+254
+00:09:28,680 --> 00:09:34,079
+este rango, no consigue, ¿vale? Lo
+
+255
+00:09:31,079 --> 00:09:37,079
+intenta, lo intenta y por algún motivo
+
+256
+00:09:34,079 --> 00:09:39,320
+le cuesta, ¿vale? ¿Qué hace el precio?
+
+257
+00:09:37,079 --> 00:09:41,000
+Vale, atentos a esto. ¿Qué hace el
+
+258
+00:09:39,320 --> 00:09:42,880
+precio? Como veis, o sea, os estoy
+
+259
+00:09:41,000 --> 00:09:44,360
+poniendo un ejemplo con literalmente
+
+260
+00:09:42,880 --> 00:09:45,880
+para que veáis viendo cómo se mueve el
+
+261
+00:09:44,360 --> 00:09:51,079
+mercado todo el rato. ¿Qué hace el
+
+262
+00:09:45,880 --> 00:09:54,440
+precio? Pum, qué acabamos de tocar
+
+263
+00:09:51,079 --> 00:09:56,399
+un gap de una hora, ¿no? Vale, ¿qué
+
+264
+00:09:54,440 --> 00:09:59,040
+tenemos dentro de este gap de una hora?
+
+265
+00:09:56,399 --> 00:10:01,920
+Ostras, un alto de 30 minutos, por
+
+266
+00:09:59,040 --> 00:10:05,040
+ejemplo, o seguro que hay de 15 también.
+
+267
+00:10:01,920 --> 00:10:06,560
+Un alto de 15 minutos. Y wow, esto está
+
+268
+00:10:05,040 --> 00:10:08,959
+dentro de un fair value, tanto de una
+
+269
+00:10:06,560 --> 00:10:11,279
+hora como de 30 minutos. Super buena
+
+270
+00:10:08,959 --> 00:10:16,200
+zona para que el precio reaccione. ¿Y
+
+271
+00:10:11,279 --> 00:10:16,200
+dónde va a ir el precio? Vamos a verlo.
+
+272
+00:10:22,560 --> 00:10:28,200
+Mirar qué ha hecho. Ha acabado bajando
+
+273
+00:10:25,959 --> 00:10:31,000
+hasta dónde? Hasta el siguiente key
+
+274
+00:10:28,200 --> 00:10:33,320
+level. ¿Vale? ¿Cuál es el siguiente key
+
+275
+00:10:31,000 --> 00:10:35,440
+level que teníamos? Pues como hemos como
+
+276
+00:10:33,320 --> 00:10:36,959
+os hemos dicho,
+
+277
+00:10:35,440 --> 00:10:41,399
+el siguiente key level que teníamos,
+
+278
+00:10:36,959 --> 00:10:44,079
+¿cuál era? Un bajo de dentro un FVG.
+
+279
+00:10:41,399 --> 00:10:46,440
+Este bajo que hemos dejado hace 13
+
+280
+00:10:44,079 --> 00:10:48,720
+horas, ¿vale? Es un muy buen key level.
+
+281
+00:10:46,440 --> 00:10:51,279
+¿Por qué? Porque todo este movimiento
+
+282
+00:10:48,720 --> 00:10:53,839
+que hemos creado, no hay ningún FVG de
+
+283
+00:10:51,279 --> 00:10:55,800
+una hora. Si nos vamos a 4 horas, no hay
+
+284
+00:10:53,839 --> 00:10:57,959
+ningún FVG de 4 horas aquí, ¿vale? No
+
+285
+00:10:55,800 --> 00:11:00,000
+hay nada. El único FVG que tenemos de
+
+286
+00:10:57,959 --> 00:11:02,639
+una hora es este de aquí que ya está
+
+287
+00:11:00,000 --> 00:11:04,560
+marcado y tenemos un bajo que está
+
+288
+00:11:02,639 --> 00:11:08,040
+dentro de él. Por lo tanto, cuando el
+
+289
+00:11:04,560 --> 00:11:09,920
+precio llega aquí abajo, yo directamente
+
+290
+00:11:08,040 --> 00:11:12,279
+lo que busco es, ostras, vale, estamos
+
+291
+00:11:09,920 --> 00:11:15,120
+aquí abajo, quiero que el precio vuelva
+
+292
+00:11:12,279 --> 00:11:16,880
+a tocar este bajo dentro del FVG y que
+
+293
+00:11:15,120 --> 00:11:18,440
+ahí me dé una subida, ¿vale? No quiero
+
+294
+00:11:16,880 --> 00:11:20,920
+buscar la subida antes porque tengo en
+
+295
+00:11:18,440 --> 00:11:22,600
+mi stop loss un FVG de una hora y un
+
+296
+00:11:20,920 --> 00:11:26,760
+bajo que está dentro de un FVG de una
+
+297
+00:11:22,600 --> 00:11:26,760
+hora. Y el precio, ¿qué hace?
+
+298
+00:11:27,519 --> 00:11:31,639
+Sube la gente aquí seguro que se mete en
+
+299
+00:11:29,760 --> 00:11:33,680
+compras. Tú no puedes ir en compras.
+
+300
+00:11:31,639 --> 00:11:35,480
+¿Por qué? Porque es que además estos son
+
+301
+00:11:33,680 --> 00:11:37,560
+relativificows, que también lo hemos
+
+302
+00:11:35,480 --> 00:11:39,680
+visto, no se han acabado de quitar estos
+
+303
+00:11:37,560 --> 00:11:41,440
+puntos de liquidez, por lo tanto vamos
+
+304
+00:11:39,680 --> 00:11:43,480
+directamente a quitarlo y tal como lo
+
+305
+00:11:41,440 --> 00:11:47,040
+quitamos, esto ha sido esta mañana,
+
+306
+00:11:43,480 --> 00:11:49,560
+mirad la reacción, tocamos el FVG
+
+307
+00:11:47,040 --> 00:11:50,959
+y ya llevamos una subida de unos 380
+
+308
+00:11:49,560 --> 00:11:54,680
+puntos y no sé si hemos seguido
+
+309
+00:11:50,959 --> 00:11:54,680
+subiendo, ¿vale?
+
+310
+00:11:55,639 --> 00:12:01,760
+y seguimos subiendo una subida de 420
+
+311
+00:11:59,399 --> 00:12:04,040
+puntos desde ese key level. Y ahora,
+
+312
+00:12:01,760 --> 00:12:06,279
+¿qué hemos hecho? Hemos tocado un gap de
+
+313
+00:12:04,040 --> 00:12:07,639
+una hora que es otro key level. Y aquí
+
+314
+00:12:06,279 --> 00:12:11,000
+vamos a determinar si el precio
+
+315
+00:12:07,639 --> 00:12:13,720
+realmente pues quiere bajar otra vez
+
+316
+00:12:11,000 --> 00:12:15,519
+hacia aquí o si quiere seguir subiendo,
+
+317
+00:12:13,720 --> 00:12:17,800
+¿vale? Y a partir de ahí ya es cuando
+
+318
+00:12:15,519 --> 00:12:20,639
+nosotros construimos condiciones y vamos
+
+319
+00:12:17,800 --> 00:12:23,120
+mirando diferentes cosas.
+
+320
+00:12:20,639 --> 00:12:25,880
+Segundo ejemplo, ¿vale? ¿Qué tenemos por
+
+321
+00:12:23,120 --> 00:12:27,320
+aquí? Este ejemplo es sencillo, ¿vale?
+
+322
+00:12:25,880 --> 00:12:30,279
+¿Qué tenemos por aquí? Lo vimos el otro
+
+323
+00:12:27,320 --> 00:12:32,199
+día. Opa, un agujero blanco. New Day
+
+324
+00:12:30,279 --> 00:12:34,680
+opening up. Vale, este ejemplo lo vimos
+
+325
+00:12:32,199 --> 00:12:36,320
+literalmente el otro día. ¿De dónde va a
+
+326
+00:12:34,680 --> 00:12:39,040
+poder reaccionar el precio? Pues si nos
+
+327
+00:12:36,320 --> 00:12:41,560
+damos cuenta aquí que tenemos un alto de
+
+328
+00:12:39,040 --> 00:12:43,399
+una hora que está dentro de un FVG de
+
+329
+00:12:41,560 --> 00:12:45,199
+una hora. Por lo tanto, creo que no hay
+
+330
+00:12:43,399 --> 00:12:46,959
+mejor zona para que el precio reaccione.
+
+331
+00:12:45,199 --> 00:12:50,839
+Es un key level. Entonces, tenemos
+
+332
+00:12:46,959 --> 00:12:52,839
+subida. Tu tu tu. Y cuando toquemos este
+
+333
+00:12:50,839 --> 00:12:54,959
+key level, ahí es donde yo siempre os
+
+334
+00:12:52,839 --> 00:12:56,519
+digo que el precio va a decir, ostras,
+
+335
+00:12:54,959 --> 00:12:58,399
+vamos a seguir subiendo o nos vamos a
+
+336
+00:12:56,519 --> 00:13:00,199
+dar la vuelta. Entonces, ¿qué es más
+
+337
+00:12:58,399 --> 00:13:02,000
+probable? Yo creo que es más probable
+
+338
+00:13:00,199 --> 00:13:03,680
+que se dé la vuelta. ¿Por qué? Por el
+
+339
+00:13:02,000 --> 00:13:04,839
+objetivo que tenemos. Tenemos un new
+
+340
+00:13:03,680 --> 00:13:06,920
+opening gap, sabemos que hay mucha
+
+341
+00:13:04,839 --> 00:13:08,560
+liquidez ahí. Por lo tanto, si juntamos
+
+342
+00:13:06,920 --> 00:13:09,760
+un key level con un punto de liquidez,
+
+343
+00:13:08,560 --> 00:13:12,680
+que sabemos que es muy probable que se
+
+344
+00:13:09,760 --> 00:13:14,199
+toque, voa, podemos saber que 100% de
+
+345
+00:13:12,680 --> 00:13:16,560
+aquí tiene que haber una reacción. ¿Qué
+
+346
+00:13:14,199 --> 00:13:18,120
+hace el precio?
+
+347
+00:13:16,560 --> 00:13:19,360
+reacciona.
+
+348
+00:13:18,120 --> 00:13:21,040
+Ahora mismo. Veis que aquí hay una vela
+
+349
+00:13:19,360 --> 00:13:23,839
+negra. Esto en una hora no parece nada,
+
+350
+00:13:21,040 --> 00:13:26,120
+pero te vas a 5 minutos
+
+351
+00:13:23,839 --> 00:13:27,800
+y es una bajada notable. Igual
+
+352
+00:13:26,120 --> 00:13:29,920
+hay gente que aquí ha entrado en cortos
+
+353
+00:13:27,800 --> 00:13:32,800
+y ha dicho, "Ostra, el new week opening
+
+354
+00:13:29,920 --> 00:13:34,720
+up está ahí abajo. A tomar por culo. Me
+
+355
+00:13:32,800 --> 00:13:37,320
+meto en en cortos porque he visto que mi
+
+356
+00:13:34,720 --> 00:13:39,240
+estrategia se presenta." Vale, me lo
+
+357
+00:13:37,320 --> 00:13:41,320
+invento. Vale, he visto que aquí hay un
+
+358
+00:13:39,240 --> 00:13:43,360
+inverse per value up, por lo tanto es
+
+359
+00:13:41,320 --> 00:13:45,920
+obligatorio que que bajemos a buscar
+
+360
+00:13:43,360 --> 00:13:47,440
+todo eso. O sea, es super obligatorio.
+
+361
+00:13:45,920 --> 00:13:49,959
+Equivocado. Estás buscando un inverser
+
+362
+00:13:47,440 --> 00:13:51,480
+value up, pero mira cuánta liquidez
+
+363
+00:13:49,959 --> 00:13:53,079
+tienes en contra. Tienes un alto aquí
+
+364
+00:13:51,480 --> 00:13:54,920
+que nos ha quitado. Tienes otro alto
+
+365
+00:13:53,079 --> 00:13:57,160
+aquí dentro de un gap. Tienes otro alto
+
+366
+00:13:54,920 --> 00:14:00,440
+más pequeñito ahí. Estás entrando antes
+
+367
+00:13:57,160 --> 00:14:02,199
+de tiempo. ¿Qué hace el precio?
+
+368
+00:14:00,440 --> 00:14:05,199
+Sí, sí. Vas bien, vas bien, tío. De
+
+369
+00:14:02,199 --> 00:14:05,199
+repente,
+
+370
+00:14:10,360 --> 00:14:13,800
+vamos a ponerlo en 15 minutos para que
+
+371
+00:14:11,720 --> 00:14:15,680
+sea más rápido. Bueno, pero como veis
+
+372
+00:14:13,800 --> 00:14:17,120
+aquí falta de fuerza, es decir, ya de
+
+373
+00:14:15,680 --> 00:14:21,160
+primeras falta de fuerza porque el
+
+374
+00:14:17,120 --> 00:14:21,160
+precio no está preparado para bajar.
+
+375
+00:14:21,360 --> 00:14:25,839
+Pum. Venga,
+
+376
+00:14:23,639 --> 00:14:27,920
+stoploss a todo el mundo que ha entrado.
+
+377
+00:14:25,839 --> 00:14:30,480
+Da otra bajada. Aquí la gente seguro que
+
+378
+00:14:27,920 --> 00:14:32,560
+dice, "Buah, ha quitado a toda la gente
+
+379
+00:14:30,480 --> 00:14:34,560
+que ya estaba con el stop loss aquí.
+
+380
+00:14:32,560 --> 00:14:36,959
+Ahora dado una bajada. Entro 100%. Entro
+
+381
+00:14:34,560 --> 00:14:38,560
+100%.
+
+382
+00:14:36,959 --> 00:14:39,680
+No ha tocado el key level. Calma, no
+
+383
+00:14:38,560 --> 00:14:42,639
+tienes que entrar a ningún lado. El
+
+384
+00:14:39,680 --> 00:14:44,320
+precio no se va a ir sin ti. Pum, quita
+
+385
+00:14:42,639 --> 00:14:46,440
+todo el mundo. Vale, ahora sí que sí.
+
+386
+00:14:44,320 --> 00:14:48,720
+Quita todo el mundo. Toque al key level
+
+387
+00:14:46,440 --> 00:14:50,720
+y ahora el precio ya estaría preparado,
+
+388
+00:14:48,720 --> 00:14:53,720
+¿no?, para bajar hacia el New weekending
+
+389
+00:14:50,720 --> 00:14:53,720
+up.
+
+390
+00:14:55,759 --> 00:14:59,720
+Pum.
+
+391
+00:14:57,720 --> 00:15:01,680
+Mirad, eh, qué diferencia. No toca aquí
+
+392
+00:14:59,720 --> 00:15:03,040
+level, acumula, acumula, no se mueve, no
+
+393
+00:15:01,680 --> 00:15:05,920
+se mueve, no se mueve, no se mueve, no
+
+394
+00:15:03,040 --> 00:15:08,600
+se mueve. Toca K level, pum, bajada del
+
+395
+00:15:05,920 --> 00:15:10,680
+tirón. Mirad en una hora cómo se ve.
+
+396
+00:15:08,600 --> 00:15:12,000
+Mirad qué bajada tan bonito. Tocamos
+
+397
+00:15:10,680 --> 00:15:13,600
+justo el kilver, ¿eh? Mirad cómo hemos
+
+398
+00:15:12,000 --> 00:15:15,440
+aguantado justo ese gap después de haber
+
+399
+00:15:13,600 --> 00:15:17,440
+quitado esos saltos de dentro. Es
+
+400
+00:15:15,440 --> 00:15:20,519
+brutal, chat. Wow, mi voz es brutal,
+
+401
+00:15:17,440 --> 00:15:23,040
+chavales. O sea, si entendéis esto es es
+
+402
+00:15:20,519 --> 00:15:24,800
+muy fácil. Vale, siguiente ejemplo. Creo
+
+403
+00:15:23,040 --> 00:15:27,680
+que este ejemplo también es, o sea, es
+
+404
+00:15:24,800 --> 00:15:31,079
+brutal. Vale, esto es en 15 minutos,
+
+405
+00:15:27,680 --> 00:15:34,199
+¿no? ¿Qué hace el mercado? Hemos, bueno,
+
+406
+00:15:31,079 --> 00:15:36,880
+tenemos una clara byide liquidity, ¿no?
+
+407
+00:15:34,199 --> 00:15:38,519
+Y qué tenemos aquí un gap de 15 minutos,
+
+408
+00:15:36,880 --> 00:15:41,240
+¿vale?
+
+409
+00:15:38,519 --> 00:15:44,199
+Si nos vamos al gap de 15 minutos, ¿qué
+
+410
+00:15:41,240 --> 00:15:46,759
+tenemos? Pues un bajo que está dentro de
+
+411
+00:15:44,199 --> 00:15:49,000
+este gap de 15 minutos.
+
+412
+00:15:46,759 --> 00:15:51,759
+Y además
+
+413
+00:15:49,000 --> 00:15:53,639
+justo son las 5, o sea, aquí son justo
+
+414
+00:15:51,759 --> 00:15:55,680
+las,
+
+415
+00:15:53,639 --> 00:15:58,560
+a ver, la hora exacta, son justo las
+
+416
+00:15:55,680 --> 00:16:00,480
+3:40 y dentro de 5 minutos tenemos una
+
+417
+00:15:58,560 --> 00:16:03,959
+nueva apertura de ver. Por lo tanto,
+
+418
+00:16:00,480 --> 00:16:06,600
+¿qué hace el precio? Mirarlo.
+
+419
+00:16:03,959 --> 00:16:12,079
+Quita el bajo que está dentro de un gap,
+
+420
+00:16:06,600 --> 00:16:14,160
+tanto de 5 minutos como de 15 minutos. Y
+
+421
+00:16:12,079 --> 00:16:17,160
+eventualmente, ¿qué hace el precio
+
+422
+00:16:14,160 --> 00:16:17,160
+después?
+
+423
+00:16:21,120 --> 00:16:24,440
+Voy a buscaros de hecho un ejemplo de
+
+424
+00:16:22,399 --> 00:16:27,680
+trade y todo.
+
+425
+00:16:24,440 --> 00:16:29,360
+Mirar. Wow. da este inverse fair value
+
+426
+00:16:27,680 --> 00:16:33,040
+up.
+
+427
+00:16:29,360 --> 00:16:37,519
+Tú aquí entras con tus con tu largo,
+
+428
+00:16:33,040 --> 00:16:37,519
+tu B liquidity está ahí y
+
+429
+00:16:42,959 --> 00:16:47,440
+bueno, te esperas hasta que te da el
+
+430
+00:16:44,319 --> 00:16:50,360
+take profit,
+
+431
+00:16:47,440 --> 00:16:52,600
+que creo que te lo da. Vamos, eso es. y
+
+432
+00:16:50,360 --> 00:16:53,959
+te da el take profit. Ya está, porque
+
+433
+00:16:52,600 --> 00:16:55,040
+estás respetando los key levels, estás
+
+434
+00:16:53,959 --> 00:16:57,199
+sabiendo en todo el momento lo que está
+
+435
+00:16:55,040 --> 00:16:59,680
+pasando. Mirar este ejemplo de aquí.
+
+436
+00:16:57,199 --> 00:17:02,399
+¿Qué hace el precio? Creamos un gap de
+
+437
+00:16:59,680 --> 00:17:05,560
+15 minutos, lo marcamos, tenemos un buen
+
+438
+00:17:02,399 --> 00:17:05,560
+key level
+
+439
+00:17:07,120 --> 00:17:15,839
+y si nos damos cuenta, esperar,
+
+440
+00:17:11,839 --> 00:17:17,400
+si nos damos cuenta el precio que hace.
+
+441
+00:17:15,839 --> 00:17:20,760
+No acabamos de tocar ese out de 15
+
+442
+00:17:17,400 --> 00:17:22,959
+minutos, pero que nos deja por aquí.
+
+443
+00:17:20,760 --> 00:17:25,640
+Un bajo,
+
+444
+00:17:22,959 --> 00:17:27,559
+otro bajo. ¿Qué nos interesa que haga el
+
+445
+00:17:25,640 --> 00:17:29,799
+precio?
+
+446
+00:17:27,559 --> 00:17:31,480
+Bajo uno fuera. Bajo dos fuera. Tocamos
+
+447
+00:17:29,799 --> 00:17:35,600
+el FVG. Nos da una reacción hacia
+
+448
+00:17:31,480 --> 00:17:35,600
+arriba. ¿Qué es lo que hace el precio?
+
+449
+00:17:36,919 --> 00:17:42,760
+Bajo uno fuera.
+
+450
+00:17:39,120 --> 00:17:45,760
+Bajo dos fuera. Tocamos FVG.
+
+451
+00:17:42,760 --> 00:17:45,760
+Vuela.
+
+452
+00:17:48,600 --> 00:17:51,039
+No sé.
+
+453
+00:17:49,559 --> 00:17:53,080
+No hay no hay nada más que decir. Vamos
+
+454
+00:17:51,039 --> 00:17:54,400
+a dejarlo por aquí.
+
+455
+00:17:53,080 --> 00:17:56,640
+Deberes que tenéis vosotros es
+
+456
+00:17:54,400 --> 00:17:58,919
+literalmente hacer esto. O sea, todos
+
+457
+00:17:56,640 --> 00:18:01,919
+los ejemplos que yo busco son un
+
+458
+00:17:58,919 --> 00:18:03,159
+momento. O sea, os lo juro que ni lo O
+
+459
+00:18:01,919 --> 00:18:05,520
+sea, yo puedo estar ahora mismo el
+
+460
+00:18:03,159 --> 00:18:07,840
+gráfico, estoy aquí y digo, mira,
+
+461
+00:18:05,520 --> 00:18:11,280
+ejemplo, o sea, literalmente ejemplo,
+
+462
+00:18:07,840 --> 00:18:11,280
+tiro para atrás,
+
+463
+00:18:13,080 --> 00:18:18,000
+¿qué hace el precio?
+
+464
+00:18:16,080 --> 00:18:21,280
+Alto dentro de un gap. De hecho, aquí se
+
+465
+00:18:18,000 --> 00:18:24,960
+crea otro alto. Vale,
+
+466
+00:18:21,280 --> 00:18:26,840
+alto. ¿Y qué tenemos aquí? FVG. Vale,
+
+467
+00:18:24,960 --> 00:18:29,080
+tenemos un alto y aquí tenemos un FVG.
+
+468
+00:18:26,840 --> 00:18:32,640
+¿Qué hace el precio? Quita el alto, toca
+
+469
+00:18:29,080 --> 00:18:35,679
+el FG, nos giramos
+
+470
+00:18:32,640 --> 00:18:37,039
+ahora mismo. Mirad qué tenemos por aquí.
+
+471
+00:18:35,679 --> 00:18:38,200
+Claro, es que esto ya es para flipar.
+
+472
+00:18:37,039 --> 00:18:39,480
+Mirad, eh, vamos a poner más cosas
+
+473
+00:18:38,200 --> 00:18:41,799
+juntas. Es que quiero que veáis que
+
+474
+00:18:39,480 --> 00:18:44,080
+realmente es es fácil y que lo veo, o
+
+475
+00:18:41,799 --> 00:18:47,120
+sea, lo he visto tantas veces que ya.
+
+476
+00:18:44,080 --> 00:18:48,960
+Alto. ¿Qué tenemos por aquí?
+
+477
+00:18:47,120 --> 00:18:50,919
+FVG.
+
+478
+00:18:48,960 --> 00:18:53,039
+Estamos en una tendencia bajista, ¿no?
+
+479
+00:18:50,919 --> 00:18:54,320
+Por lo tanto, queremos buscar una venta.
+
+480
+00:18:53,039 --> 00:18:55,559
+¿Dónde es importante que clavemos la
+
+481
+00:18:54,320 --> 00:18:56,960
+venta? Pues cuando se toque nuestra
+
+482
+00:18:55,559 --> 00:19:01,120
+zona. Vale, tenemos marcada nuestra
+
+483
+00:18:56,960 --> 00:19:01,120
+zona. Tenemos marcada nuestra zona.
+
+484
+00:19:03,200 --> 00:19:11,120
+Pum, tocamos alto FVG. Wow. ¿Qué tenemos
+
+485
+00:19:07,520 --> 00:19:13,960
+alineado con nosotros? Un,
+
+486
+00:19:11,120 --> 00:19:16,520
+dos,
+
+487
+00:19:13,960 --> 00:19:18,360
+tres,
+
+488
+00:19:16,520 --> 00:19:20,799
+bueno, cuatro, cinco, low resistance
+
+489
+00:19:18,360 --> 00:19:22,600
+liquidity.
+
+490
+00:19:20,799 --> 00:19:24,880
+Tocamos esa zona y automáticamente
+
+491
+00:19:22,600 --> 00:19:27,880
+después de darnos este IFVG de 5
+
+492
+00:19:24,880 --> 00:19:27,880
+minutos,
+
+493
+00:19:29,159 --> 00:19:35,919
+wow, bajada enorme. ¿Sabéis lo que os
+
+494
+00:19:32,200 --> 00:19:38,240
+digo? O sea, es brutal. Es brutal.
+
+495
+00:19:35,919 --> 00:19:40,440
+Y con la práctica, con el tiempo, os lo
+
+496
+00:19:38,240 --> 00:19:42,039
+juro que suena excusas, suena mentor de
+
+497
+00:19:40,440 --> 00:19:43,280
+ suena nada, chavales, ya
+
+498
+00:19:42,039 --> 00:19:45,520
+aprenderéis con el tiempo, no os quiero
+
+499
+00:19:43,280 --> 00:19:47,640
+enseñar nada. El trading es todo tiempo,
+
+500
+00:19:45,520 --> 00:19:49,159
+todo tiempo, todo. ¿Vale? Entonces,
+
+501
+00:19:47,640 --> 00:19:50,360
+después de practicar esto mucho, después
+
+502
+00:19:49,159 --> 00:19:52,400
+de hacer muchísimas horas de back
+
+503
+00:19:50,360 --> 00:19:54,720
+testing, tú mismo de ver tantos
+
+504
+00:19:52,400 --> 00:19:56,559
+ejemplos, obviamente vas a empezar a
+
+505
+00:19:54,720 --> 00:19:57,960
+decir, "Ah, mira, aquí sí que necesito
+
+506
+00:19:56,559 --> 00:19:59,760
+que se quite el bajo. Ah, mira, aquí ya
+
+507
+00:19:57,960 --> 00:20:01,240
+no hace falta por esto." Y tranquilo,
+
+508
+00:19:59,760 --> 00:20:02,679
+porque aunque tú ahora creas que no, te
+
+509
+00:20:01,240 --> 00:20:05,000
+va a pasar y vas a aprender tú solo
+
+510
+00:20:02,679 --> 00:20:06,880
+muchas cosas, ¿vale? Y muchas cosas son
+
+511
+00:20:05,000 --> 00:20:09,120
+experiencia horas, ¿no? No me puedo
+
+512
+00:20:06,880 --> 00:20:10,960
+poner yo aquí hacer 100,000 ejemplos
+
+513
+00:20:09,120 --> 00:20:13,400
+porque te dormirías y porque cada
+
+514
+00:20:10,960 --> 00:20:17,360
+ejemplo es distinto, pero mirad qué
+
+515
+00:20:13,400 --> 00:20:19,799
+preciosidad de trade. O sea, es locura.
+
+516
+00:20:17,360 --> 00:20:23,080
+Y aquí ya estáis viendo como tocamos un
+
+517
+00:20:19,799 --> 00:20:25,039
+key level, tenemos un IFVG. ¿Por qué?
+
+518
+00:20:23,080 --> 00:20:27,440
+Porque el IFVG nos dice que ya estamos
+
+519
+00:20:25,039 --> 00:20:30,840
+dejando de respetar, por ejemplo, las
+
+520
+00:20:27,440 --> 00:20:32,400
+velas alcistas. Y si la bajada ha sido
+
+521
+00:20:30,840 --> 00:20:35,320
+bajista,
+
+522
+00:20:32,400 --> 00:20:38,440
+tocamos un key level bajista y dejamos
+
+523
+00:20:35,320 --> 00:20:40,799
+de respetar FVGs alcistas, tengo todo
+
+524
+00:20:38,440 --> 00:20:44,159
+para que baje el precio. Y combinas esto
+
+525
+00:20:40,799 --> 00:20:46,400
+con un key level, con un FVG, con eh la
+
+526
+00:20:44,159 --> 00:20:48,039
+temporalidad alta y con la liquidez que
+
+527
+00:20:46,400 --> 00:20:50,280
+hemos estudiado. Y es que es muy
+
+528
+00:20:48,039 --> 00:20:51,520
+sencillo y aún quedan cosas, muchas
+
+529
+00:20:50,280 --> 00:20:54,880
+cosas y os va a explotar la cabeza
+
+530
+00:20:51,520 --> 00:20:57,000
+porque quedan muchísimas cosas, pero
+
+531
+00:20:54,880 --> 00:21:00,840
+poco a poco. Vale, espero que os haya
+
+532
+00:20:57,000 --> 00:21:03,400
+molado este vídeo. Muy top, la verdad, y
+
+533
+00:21:00,840 --> 00:21:06,200
+deberes hacer esto, buscar ejemplos
+
+534
+00:21:03,400 --> 00:21:07,640
+máximos que podáis, que lo veáis así, en
+
+535
+00:21:06,200 --> 00:21:09,760
+plan que tengáis ya el ojo preparado
+
+536
+00:21:07,640 --> 00:21:12,919
+para ah, mira, alto, pum, kilver, pum,
+
+537
+00:21:09,760 --> 00:21:16,240
+tracción, buah, y si vais muy sobrados,
+
+538
+00:21:12,919 --> 00:21:18,919
+poner todo junto ifvs entre 30 segundos
+
+539
+00:21:16,240 --> 00:21:20,880
+y 5 minutos, acordaros, y ir
+
+540
+00:21:18,919 --> 00:21:24,320
+practicando, ¿vale? Pero bueno, tíos,
+
+541
+00:21:20,880 --> 00:21:24,320
+nos vemos en next vídeo.
+

@@ -1,0 +1,1008 @@
+1
+00:00:00,654 --> 00:00:02,674
+[grito]
+
+2
+00:00:04,000 --> 00:00:09,960
+Let's go. Bienvenidos al día
+
+3
+00:00:07,400 --> 00:00:11,800
+10, creo, de la bootcamp y vamos a
+
+4
+00:00:09,960 --> 00:00:13,400
+meterle
+
+5
+00:00:11,800 --> 00:00:15,080
+noticias directamente. ¿Qué son las
+
+6
+00:00:13,400 --> 00:00:16,560
+noticias? ¿Cómo utilizamos las noticias?
+
+7
+00:00:15,080 --> 00:00:19,160
+¿Dónde miramos las noticias? ¿Qué
+
+8
+00:00:16,560 --> 00:00:20,560
+impacto tienen las noticias? Así que
+
+9
+00:00:19,160 --> 00:00:23,580
+Let's get it.
+
+10
+00:00:20,560 --> 00:00:25,440
+Vamos a hacer esto pequeño.
+
+11
+00:00:23,580 --> 00:00:27,120
+[silbido]
+
+12
+00:00:25,440 --> 00:00:28,760
+Vale, perfecto. ¿Qué tenemos que saber
+
+13
+00:00:27,120 --> 00:00:31,720
+de las noticias, vale?
+
+14
+00:00:28,760 --> 00:00:34,960
+Nosotros siempre, ¿vale? Siempre
+
+15
+00:00:31,720 --> 00:00:34,960
+operamos, epa,
+
+16
+00:00:35,960 --> 00:00:38,760
+la sesión
+
+17
+00:00:37,560 --> 00:00:40,280
+de
+
+18
+00:00:38,760 --> 00:00:41,880
+Nueva York, ¿vale?
+
+19
+00:00:40,280 --> 00:00:44,040
+Haremos un vídeo también de qué sesiones
+
+20
+00:00:41,880 --> 00:00:45,760
+hay y en qué hora es cada una de ellas,
+
+21
+00:00:44,040 --> 00:00:47,040
+pero de momento tenéis que saber que
+
+22
+00:00:45,760 --> 00:00:49,160
+nosotros operamos la sesión de Nueva
+
+23
+00:00:47,040 --> 00:00:52,160
+York. Entonces, ¿a qué hora es la sesión
+
+24
+00:00:49,160 --> 00:00:55,000
+de Nueva York? Es a las 9:30 horario
+
+25
+00:00:52,160 --> 00:00:57,480
+Nueva York hasta las 11:00 de la mañana,
+
+26
+00:00:55,000 --> 00:01:00,600
+¿vale? Esto es a.m. Y esto en horario
+
+27
+00:00:57,480 --> 00:01:02,560
+España es de 3:30 a 5:00 de la tarde,
+
+28
+00:01:00,600 --> 00:01:04,080
+¿vale? Por si os lo queréis apuntar.
+
+29
+00:01:02,560 --> 00:01:05,640
+Entonces,
+
+30
+00:01:04,080 --> 00:01:07,200
+este periodo de tiempo normalmente
+
+31
+00:01:05,640 --> 00:01:10,320
+tenemos noticias que pueden tener un
+
+32
+00:01:07,200 --> 00:01:12,520
+alto impacto y incluso a veces noticias
+
+33
+00:01:10,320 --> 00:01:14,000
+que son a las 8:30 o que pasan antes de
+
+34
+00:01:12,520 --> 00:01:15,920
+que el mercado abra, porque el mercado
+
+35
+00:01:14,000 --> 00:01:17,720
+justo abre a las 9:30, a veces hay
+
+36
+00:01:15,920 --> 00:01:20,200
+noticias en las que nosotros nos podemos
+
+37
+00:01:17,720 --> 00:01:22,080
+apoyar. ¿Cómo? Lo vais a ver más
+
+38
+00:01:20,200 --> 00:01:23,240
+adelante cuando expliquemos PO3 y lo
+
+39
+00:01:22,080 --> 00:01:25,120
+vais a ver más adelante cuando
+
+40
+00:01:23,240 --> 00:01:26,720
+expliquemos qué tipos de liquidez
+
+41
+00:01:25,120 --> 00:01:28,960
+podemos tarjetear.
+
+42
+00:01:26,720 --> 00:01:31,240
+Pero lo primero de todo es entender qué
+
+43
+00:01:28,960 --> 00:01:33,240
+noticias son de alto impacto y
+
+44
+00:01:31,240 --> 00:01:34,760
+obviamente dónde mirar las noticias.
+
+45
+00:01:33,240 --> 00:01:37,640
+Entonces,
+
+46
+00:01:34,760 --> 00:01:37,640
+noticias
+
+47
+00:01:41,520 --> 00:01:45,080
+con las que tenemos que ir con cuidado.
+
+48
+00:01:43,240 --> 00:01:47,200
+Lo primero de todo es superimportante
+
+49
+00:01:45,080 --> 00:01:48,800
+que sepáis que no tenemos que estar
+
+50
+00:01:47,200 --> 00:01:50,400
+mirando las noticias, no tenemos que
+
+51
+00:01:48,800 --> 00:01:52,880
+estar mirando YouTube, Twitter todo el
+
+52
+00:01:50,400 --> 00:01:54,640
+rato, nada, ¿vale? Nada. Yo de hecho no
+
+53
+00:01:52,880 --> 00:01:56,920
+sé ni qué son la mayoría de noticias.
+
+54
+00:01:54,640 --> 00:01:58,720
+¿Lo debería de saber como trader? Puede.
+
+55
+00:01:56,920 --> 00:01:59,800
+¿Me hace falta? No.
+
+56
+00:01:58,720 --> 00:02:01,812
+¿Me quiero complicar sabiéndolo?
+
+57
+00:01:59,800 --> 00:02:03,372
+Tampoco, ¿vale? Es lo que os digo, que
+
+58
+00:02:01,812 --> 00:02:05,372
+yo hago trading de una manera bastante
+
+59
+00:02:03,372 --> 00:02:07,812
+chill. Entonces, ¿qué noticias son las
+
+60
+00:02:05,372 --> 00:02:11,252
+que tenéis que ir con cuidado?
+
+61
+00:02:07,812 --> 00:02:11,252
+La primera, FOMC.
+
+62
+00:02:12,332 --> 00:02:17,772
+La segunda, CPI.
+
+63
+00:02:15,212 --> 00:02:19,692
+La tercera, NFP.
+
+64
+00:02:17,772 --> 00:02:20,932
+Y la cuarta, esto no es una noticia,
+
+65
+00:02:19,692 --> 00:02:22,492
+pero es un día que sí que tenéis que ir
+
+66
+00:02:20,932 --> 00:02:25,332
+con cuidado.
+
+67
+00:02:22,492 --> 00:02:29,212
+¿Vale? Entonces, ¿qué significa esto?
+
+68
+00:02:25,332 --> 00:02:31,052
+Los días donde veáis FOMC, CPI, NFP,
+
+69
+00:02:29,212 --> 00:02:32,212
+bueno, de hecho CPI a mí me gusta.
+
+70
+00:02:31,052 --> 00:02:33,612
+Perdonar.
+
+71
+00:02:32,212 --> 00:02:35,892
+Es una noticia de alto impacto, pero no
+
+72
+00:02:33,612 --> 00:02:37,332
+quiere decir que no pueda eh operarlo,
+
+73
+00:02:35,892 --> 00:02:40,372
+¿vale? Pero estos días hay que ir con
+
+74
+00:02:37,332 --> 00:02:42,132
+cuidado, ¿vale? Cuando veáis FOMC, NFP y
+
+75
+00:02:40,372 --> 00:02:43,692
+un un lunes que no tenga noticias,
+
+76
+00:02:42,132 --> 00:02:45,932
+¿vale? Un no news Mondays, tenéis que ir
+
+77
+00:02:43,692 --> 00:02:49,932
+con cuidado. Entonces, ¿qué significa ir
+
+78
+00:02:45,932 --> 00:02:51,692
+con cuidado? Yo directamente FOMC
+
+79
+00:02:49,932 --> 00:02:54,932
+Bueno, se pone todo en rojo. Yo FOMC no
+
+80
+00:02:51,692 --> 00:02:56,452
+lo opero, ¿vale? FOMC
+
+81
+00:02:54,932 --> 00:02:58,532
+no opero.
+
+82
+00:02:56,452 --> 00:03:01,452
+NFP
+
+83
+00:02:58,532 --> 00:03:01,452
+voy con cuidado.
+
+84
+00:03:01,892 --> 00:03:05,132
+Que quiere decir que si no veo nada que
+
+85
+00:03:03,092 --> 00:03:07,612
+me guste, no no voy a operar. Y lo mismo
+
+86
+00:03:05,132 --> 00:03:07,612
+con
+
+87
+00:03:10,132 --> 00:03:13,292
+Y lo mismo con los lunes que no hay
+
+88
+00:03:11,292 --> 00:03:15,252
+noticias. Entonces, voy a compartiros
+
+89
+00:03:13,292 --> 00:03:16,412
+pantalla exactamente de dónde miramos
+
+90
+00:03:15,252 --> 00:03:18,732
+estas cosas, porque es que no tiene
+
+91
+00:03:16,412 --> 00:03:21,492
+mucho misterio, es bastante sencillo.
+
+92
+00:03:18,732 --> 00:03:23,092
+¿Vale? Y como veis, es aquí, en esta
+
+93
+00:03:21,492 --> 00:03:25,492
+página web. Entonces, lo que vais a
+
+94
+00:03:23,092 --> 00:03:28,172
+buscar vosotros va a ser directamente en
+
+95
+00:03:25,492 --> 00:03:30,172
+Google forexfactory.com, como veis ahí
+
+96
+00:03:28,172 --> 00:03:31,452
+arriba, forexfactory.com, y os va a
+
+97
+00:03:30,172 --> 00:03:32,852
+aparecer esta web que yo al principio
+
+98
+00:03:31,452 --> 00:03:35,172
+cuando la vi dije, "Wow, me van a
+
+99
+00:03:32,852 --> 00:03:38,052
+hackear." Es bastante rara, pero
+
+100
+00:03:35,172 --> 00:03:39,372
+tranquilos que es es es chill. Entonces,
+
+101
+00:03:38,052 --> 00:03:40,972
+¿cuál es la configuración que tenéis que
+
+102
+00:03:39,372 --> 00:03:44,132
+tener? Lo primero de todo que vais a
+
+103
+00:03:40,972 --> 00:03:46,492
+hacer es iros a eh aquí arriba del todo,
+
+104
+00:03:44,132 --> 00:03:48,732
+¿vale? Arriba del todo en ese reloj, y
+
+105
+00:03:46,492 --> 00:03:50,092
+aquí vais a poner Eastern Time New York
+
+106
+00:03:48,732 --> 00:03:52,252
+USA and Canada. Vais a poner
+
+107
+00:03:50,092 --> 00:03:54,012
+literalmente esto, ¿por qué? Porque
+
+108
+00:03:52,252 --> 00:03:56,452
+nosotros siempre miramos las noticias en
+
+109
+00:03:54,012 --> 00:03:57,692
+horario Nueva York, ¿vale?
+
+110
+00:03:56,452 --> 00:03:59,572
+Al igual que os dije que teníais que
+
+111
+00:03:57,692 --> 00:04:01,052
+tener el TradingView con el horario de
+
+112
+00:03:59,572 --> 00:04:02,934
+Nueva York que en el primer vídeo.
+
+113
+00:04:01,052 --> 00:04:05,814
+Entonces, una vez guardáis esto, vais a
+
+114
+00:04:02,934 --> 00:04:08,334
+iros aquí, a este embudo.
+
+115
+00:04:05,814 --> 00:04:10,134
+Y cuando le dais aquí, vais a tener esta
+
+116
+00:04:08,334 --> 00:04:12,334
+configuración, es decir, vais a quitar
+
+117
+00:04:10,134 --> 00:04:15,134
+las carpetas amarillas y vais a quitar
+
+118
+00:04:12,334 --> 00:04:17,294
+todas estas monedas porque ah solo
+
+119
+00:04:15,134 --> 00:04:18,774
+afecta el dólar al Nasdaq y al S&P 500,
+
+120
+00:04:17,294 --> 00:04:20,174
+entonces a mí me da igual la libra, el
+
+121
+00:04:18,774 --> 00:04:22,574
+euro y todo lo demás. Así que lo
+
+122
+00:04:20,174 --> 00:04:25,174
+desactiváis todo y aplicáis el filtro,
+
+123
+00:04:22,574 --> 00:04:26,854
+¿vale? Entonces, aquí vais a ver
+
+124
+00:04:25,174 --> 00:04:29,654
+eh todas las noticias que tenemos, por
+
+125
+00:04:26,854 --> 00:04:31,894
+ejemplo, esta semana de aquí, ¿vale?
+
+126
+00:04:29,654 --> 00:04:33,414
+Como veis, martes 3, estas noticias
+
+127
+00:04:31,894 --> 00:04:35,174
+tenemos Jobs Jobs Openings y
+
+128
+00:04:33,414 --> 00:04:37,174
+Congressional Elections.
+
+129
+00:04:35,174 --> 00:04:39,614
+Miércoles 4, a las 10 de la mañana, todo
+
+130
+00:04:37,174 --> 00:04:41,974
+horario Nueva York, eh PMI.
+
+131
+00:04:39,614 --> 00:04:43,454
+El jueves, esto, ¿vale? Entonces,
+
+132
+00:04:41,974 --> 00:04:44,894
+superimportante,
+
+133
+00:04:43,454 --> 00:04:46,854
+aquí te sale la hora, por ejemplo, veis
+
+134
+00:04:44,894 --> 00:04:48,734
+que aquí tenemos noticias 8:30,
+
+135
+00:04:46,854 --> 00:04:51,014
+8:30 son básicamente noticias que
+
+136
+00:04:48,734 --> 00:04:53,094
+ocurren antes de que abra el mercado
+
+137
+00:04:51,014 --> 00:04:55,414
+y tenéis que ir con cuidado con ciertas
+
+138
+00:04:53,094 --> 00:04:57,614
+noticias. Esta de aquí, que veis Nonfarm
+
+139
+00:04:55,414 --> 00:05:00,694
+Employment Change, es la que os he dicho
+
+140
+00:04:57,614 --> 00:05:02,734
+antes de NFP. Entonces, el viernes, que
+
+141
+00:05:00,694 --> 00:05:04,254
+tenemos esta noticia a las 8:30, una
+
+142
+00:05:02,734 --> 00:05:05,734
+hora antes de que abra el mercado, yo
+
+143
+00:05:04,254 --> 00:05:07,254
+voy a ir con cuidado. ¿Por qué voy a ir
+
+144
+00:05:05,734 --> 00:05:09,174
+con cuidado? Porque son días en los que
+
+145
+00:05:07,254 --> 00:05:10,614
+normalmente el precio está lento y yo,
+
+146
+00:05:09,174 --> 00:05:12,374
+si está lento el precio, prefiero no
+
+147
+00:05:10,614 --> 00:05:14,174
+operar. ¿Quiere decir que no vaya a
+
+148
+00:05:12,374 --> 00:05:16,014
+operar? Para nada, pero voy a ir con
+
+149
+00:05:14,174 --> 00:05:18,534
+cuidado, ¿vale?
+
+150
+00:05:16,014 --> 00:05:19,974
+Em después tenemos, por ejemplo, días
+
+151
+00:05:18,534 --> 00:05:21,494
+que no tenemos noticias, veis que este
+
+152
+00:05:19,974 --> 00:05:23,214
+lunes es un cuadradito blanco, que no
+
+153
+00:05:21,494 --> 00:05:25,294
+hay absolutamente nada. Esto es un No
+
+154
+00:05:23,214 --> 00:05:27,734
+News Mondays, es un Monday, es un lunes
+
+155
+00:05:25,294 --> 00:05:29,094
+que no hay noticias y que el el precio
+
+156
+00:05:27,734 --> 00:05:30,694
+probablemente también se pueda mover de
+
+157
+00:05:29,094 --> 00:05:32,614
+una forma lenta. Entonces, estos días
+
+158
+00:05:30,694 --> 00:05:35,374
+hay que ir con cuidado y finalmente voy
+
+159
+00:05:32,614 --> 00:05:37,654
+a buscar otro día donde veis que tenemos
+
+160
+00:05:35,374 --> 00:05:39,374
+FOMC Meeting Minutes, ¿vale?
+
+161
+00:05:37,654 --> 00:05:41,414
+Cuando hay FOMC, yo son días donde no
+
+162
+00:05:39,374 --> 00:05:42,934
+opero, directamente este día descanso,
+
+163
+00:05:41,414 --> 00:05:44,734
+no entro ni al gráfico.
+
+164
+00:05:42,934 --> 00:05:46,334
+Y superimportante el detalle este de
+
+165
+00:05:44,734 --> 00:05:48,334
+aquí, que justo lo he visto, como veis,
+
+166
+00:05:46,334 --> 00:05:49,934
+Bank Holiday, esta carpeta gris, Bank
+
+167
+00:05:48,334 --> 00:05:51,574
+Holiday significa que es festivo en
+
+168
+00:05:49,934 --> 00:05:53,454
+Estados Unidos y que el mercado no abre,
+
+169
+00:05:51,574 --> 00:05:54,694
+así que este día ya es
+
+170
+00:05:53,454 --> 00:05:56,254
+ya es de no operar, pero porque no
+
+171
+00:05:54,694 --> 00:05:59,414
+podemos, quiero decir, eh o sea,
+
+172
+00:05:56,254 --> 00:06:00,694
+podemos, pero tú cuando veas esto, ni ni
+
+173
+00:05:59,414 --> 00:06:03,334
+te presentes, vaya, está cerrado el
+
+174
+00:06:00,694 --> 00:06:04,855
+cole, así que fuera. Y todas las otras
+
+175
+00:06:03,334 --> 00:06:08,295
+carpetas que veis, como unemployment
+
+176
+00:06:04,855 --> 00:06:11,975
+claims, PPI, core retail sales, retail
+
+177
+00:06:08,295 --> 00:06:13,815
+sales, em, me lo invento, premium warm
+
+178
+00:06:11,975 --> 00:06:15,415
+consumer sentiment, vale, todas estas
+
+179
+00:06:13,815 --> 00:06:18,095
+noticias, obviamente, son importantes,
+
+180
+00:06:15,415 --> 00:06:19,975
+pero no tanto. Y hay maneras de eh
+
+181
+00:06:18,095 --> 00:06:21,415
+operarlas, pero para que os tengáis que
+
+182
+00:06:19,975 --> 00:06:23,455
+quedar con una idea, ¿vale? Voy a
+
+183
+00:06:21,415 --> 00:06:26,015
+apuntarlo otra vez en el en el en el
+
+184
+00:06:23,455 --> 00:06:29,215
+gráfico.
+
+185
+00:06:26,015 --> 00:06:29,215
+A ver si puedo ponerlo bien.
+
+186
+00:06:30,775 --> 00:06:35,055
+Un momentito, que esto se me está
+
+187
+00:06:32,655 --> 00:06:35,055
+liando.
+
+188
+00:06:39,015 --> 00:06:43,215
+Vale.
+
+189
+00:06:40,495 --> 00:06:45,375
+Eh, las noticias estas, que son a las 10
+
+190
+00:06:43,215 --> 00:06:48,415
+o las 9:45, algo que os tenéis que
+
+191
+00:06:45,375 --> 00:06:48,415
+apuntar es
+
+192
+00:06:49,975 --> 00:06:54,575
+nunca operar
+
+193
+00:06:51,935 --> 00:06:54,575
+antes
+
+194
+00:07:01,015 --> 00:07:04,655
+¿Vale? Nunca vas a operar 3 minutos
+
+195
+00:07:02,935 --> 00:07:06,375
+entre 5 y 3 minutos antes de que salga
+
+196
+00:07:04,655 --> 00:07:08,455
+una noticia. ¿Qué quiere decir? Si
+
+197
+00:07:06,375 --> 00:07:12,215
+tienes una noticia a las 9:45 y a las
+
+198
+00:07:08,455 --> 00:07:13,815
+9:42 aparece un trade, no vas a entrar.
+
+199
+00:07:12,215 --> 00:07:16,655
+Si tienes una noticia a las 10 y a las
+
+200
+00:07:13,815 --> 00:07:18,935
+9:55, 56,
+
+201
+00:07:16,655 --> 00:07:21,215
+se hay una o sea, tienes una entrada de
+
+202
+00:07:18,935 --> 00:07:22,775
+tu estrategia, no vas a entrar. Nunca
+
+203
+00:07:21,215 --> 00:07:24,775
+operas 3 minutos antes de que salga la
+
+204
+00:07:22,775 --> 00:07:27,135
+noticia. Siempre te esperas a ver lo que
+
+205
+00:07:24,775 --> 00:07:29,175
+hace la noticia, porque realmente
+
+206
+00:07:27,135 --> 00:07:31,255
+no sabes lo que va a hacer una noticia,
+
+207
+00:07:29,175 --> 00:07:32,695
+es algo aleatorio. Sí que dependiendo
+
+208
+00:07:31,255 --> 00:07:33,895
+del sentimiento del mercado y de las
+
+209
+00:07:32,695 --> 00:07:35,255
+cosas que estén pasando, pues puedes
+
+210
+00:07:33,895 --> 00:07:38,055
+saber si hay más probabilidad de que sea
+
+211
+00:07:35,255 --> 00:07:39,295
+alcista o bajista o lo que sea, pero yo
+
+212
+00:07:38,055 --> 00:07:40,495
+no me la juego y normalmente ahí no
+
+213
+00:07:39,295 --> 00:07:41,575
+estoy operando.
+
+214
+00:07:40,495 --> 00:07:44,055
+Algo que también puedes hacer al
+
+215
+00:07:41,575 --> 00:07:44,935
+principio para pillar soltura es meterte
+
+216
+00:07:44,055 --> 00:07:46,455
+en el Discord, yo te dejo en la
+
+217
+00:07:44,935 --> 00:07:47,815
+descripción, gratis, comunidad
+
+218
+00:07:46,455 --> 00:07:49,295
+totalmente gratis. Te metes en el
+
+219
+00:07:47,815 --> 00:07:51,455
+Discord y ahí verás las noticias que
+
+220
+00:07:49,295 --> 00:07:53,295
+tenemos cada día. Muchas veces digo cómo
+
+221
+00:07:51,455 --> 00:07:54,815
+me cómo voy a operarlo, pero ya verás tú
+
+222
+00:07:53,295 --> 00:07:55,975
+mismo haciendo práctica que las noticias
+
+223
+00:07:54,815 --> 00:07:58,335
+son todo el rato las mismas, se van
+
+224
+00:07:55,975 --> 00:08:00,415
+repitiendo cada mes y eventualmente vas
+
+225
+00:07:58,335 --> 00:08:01,695
+a saber, pues, cómo esperarte y cómo no.
+
+226
+00:08:00,415 --> 00:08:03,055
+Pero yo te recomiendo de todas formas
+
+227
+00:08:01,695 --> 00:08:04,655
+que entres al Discord para conocer a
+
+228
+00:08:03,055 --> 00:08:06,215
+gente y que la gente te ayude, porque la
+
+229
+00:08:04,655 --> 00:08:08,097
+verdad que está superbién y hay más de
+
+230
+00:08:06,215 --> 00:08:10,017
+6,000 personas que
+
+231
+00:08:08,097 --> 00:08:11,697
+te dicen exactamente pues qué es lo que
+
+232
+00:08:10,017 --> 00:08:12,857
+ellos opinan o cómo ellos han empezado y
+
+233
+00:08:11,697 --> 00:08:15,017
+hay mucha gente que estará igual en la
+
+234
+00:08:12,857 --> 00:08:16,217
+misma situación que tú. Así que vamos a
+
+235
+00:08:15,017 --> 00:08:18,177
+dejar este vídeo por aquí, super
+
+236
+00:08:16,217 --> 00:08:19,857
+sencillo, super importante que reviséis
+
+237
+00:08:18,177 --> 00:08:21,137
+estas noticias cada día antes de operar
+
+238
+00:08:19,857 --> 00:08:23,297
+porque igual hay una noticia de alto
+
+239
+00:08:21,137 --> 00:08:24,777
+impacto y no lo sabéis, igual hay un
+
+240
+00:08:23,297 --> 00:08:26,697
+bank holiday y el mercado está cerrado y
+
+241
+00:08:24,777 --> 00:08:28,337
+no lo sabéis, igual hay una noticia a
+
+242
+00:08:26,697 --> 00:08:29,897
+las 10 y eso te va bien saber que no
+
+243
+00:08:28,337 --> 00:08:31,817
+puedes operar 5 minutos antes de que
+
+244
+00:08:29,897 --> 00:08:33,217
+sean las 10, pero creo que el mensaje ha
+
+245
+00:08:31,817 --> 00:08:35,177
+quedado claro, no sé si me he dejado
+
+246
+00:08:33,217 --> 00:08:36,697
+algo, pero
+
+247
+00:08:35,177 --> 00:08:37,857
+bueno, si me he dejado algo me lo decís
+
+248
+00:08:36,697 --> 00:08:39,137
+por comentarios, si no se ha quedado
+
+249
+00:08:37,857 --> 00:08:40,537
+claro algo me lo dejáis por comentarios,
+
+250
+00:08:39,137 --> 00:08:42,377
+pero bueno, espero que os haya molado
+
+251
+00:08:40,537 --> 00:08:45,297
+este vídeo de las noticias y nos vemos
+
+252
+00:08:42,377 --> 00:08:45,297
+en el siguiente vídeo.
+

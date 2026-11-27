@@ -1,0 +1,1932 @@
+1
+00:00:00,919 --> 00:00:03,919
+Yo,
+
+2
+00:00:02,619 --> 00:00:06,680
+[aplausos]
+
+3
+00:00:03,919 --> 00:00:11,519
+chavales, suadera mítica para los que
+
+4
+00:00:06,680 --> 00:00:13,480
+seáis más más más más OG. Buenas tardes,
+
+5
+00:00:11,519 --> 00:00:16,880
+vídeo de hoy. Bu, tengo la webcam fatal,
+
+6
+00:00:13,480 --> 00:00:16,880
+me acabo de dar cuenta.
+
+7
+00:00:18,320 --> 00:00:22,240
+Vídeo de hoy, ¿qué toca? ¿Qué toca?
+
+8
+00:00:19,720 --> 00:00:24,519
+Vídeo super corto porque he decidido una
+
+9
+00:00:22,240 --> 00:00:26,640
+cosa que no no creo que os guste, pero
+
+10
+00:00:24,519 --> 00:00:28,920
+es lo mejor para vosotros y es no
+
+11
+00:00:26,640 --> 00:00:32,000
+explicaros CDs, ¿vale? Yo hoy iba a
+
+12
+00:00:28,920 --> 00:00:34,680
+explicaros IFVGs y CSD. Y no voy a
+
+13
+00:00:32,000 --> 00:00:36,640
+explicaros CSD. ¿Por qué, Chavi? Porque
+
+14
+00:00:34,680 --> 00:00:39,600
+ya es añadir cosas que no tocan. No uso
+
+15
+00:00:36,640 --> 00:00:41,399
+si dis casi. Hago una entry con si disk.
+
+16
+00:00:39,600 --> 00:00:43,920
+¿Qué hago? Sí, de cada 100 trades igual
+
+17
+00:00:41,399 --> 00:00:45,079
+lo uso una vez. Entonces no creo que sea
+
+18
+00:00:43,920 --> 00:00:47,559
+algo que tenga que explicar porque os
+
+19
+00:00:45,079 --> 00:00:49,039
+vais a liar y sé que os vais a liar. Y
+
+20
+00:00:47,559 --> 00:00:51,120
+para los que digáis, "Chavi, te lo estás
+
+21
+00:00:49,039 --> 00:00:53,280
+guardando para ti, no nos quieres."
+
+22
+00:00:51,120 --> 00:00:54,920
+Tengo un vídeo de YouTube ya subido de
+
+23
+00:00:53,280 --> 00:00:56,680
+hace tiempo explicando si es dis, así
+
+24
+00:00:54,920 --> 00:00:59,199
+que si lo quieres ver por curiosidad o
+
+25
+00:00:56,680 --> 00:01:01,600
+lo quieres añadir lo puedes ver, ¿vale?
+
+26
+00:00:59,199 --> 00:01:03,519
+Pero aquí la bootcam no lo voy a
+
+27
+00:01:01,600 --> 00:01:05,400
+explicar porque no creo que sea
+
+28
+00:01:03,519 --> 00:01:07,799
+necesario. Entonces, esto es más una
+
+29
+00:01:05,400 --> 00:01:10,280
+clase de confirmación que no de otra
+
+30
+00:01:07,799 --> 00:01:12,200
+cosa, porque la última vez ya os ya os
+
+31
+00:01:10,280 --> 00:01:15,119
+empecé a explicar
+
+32
+00:01:12,200 --> 00:01:18,400
+el hecho de qué pasa cuando un FVG no se
+
+33
+00:01:15,119 --> 00:01:20,680
+respeta, que tenemos un IFVG, pero hoy
+
+34
+00:01:18,400 --> 00:01:23,159
+vamos a dedicar exclusivamente toda la
+
+35
+00:01:20,680 --> 00:01:25,520
+clase a hablar sobre IFVGs porque hay
+
+36
+00:01:23,159 --> 00:01:27,479
+varias cosas que quiero que sepáis y eh
+
+37
+00:01:25,520 --> 00:01:29,640
+luego os pondré los deberes y en la
+
+38
+00:01:27,479 --> 00:01:33,479
+próxima clase vamos a empezar a ver key
+
+39
+00:01:29,640 --> 00:01:35,000
+levels, SMTs, SMTs control manipulation,
+
+40
+00:01:33,479 --> 00:01:36,520
+vamos a empezar a explicar cómo
+
+41
+00:01:35,000 --> 00:01:38,640
+identificar la dirección del día del
+
+42
+00:01:36,520 --> 00:01:40,840
+mercado. Y una vez tengamos todo esto,
+
+43
+00:01:38,640 --> 00:01:42,680
+que viene la estrategia y después que
+
+44
+00:01:40,840 --> 00:01:44,719
+viene la práctica de la estrategia con
+
+45
+00:01:42,680 --> 00:01:46,719
+back testing y después que viene hablar
+
+46
+00:01:44,719 --> 00:01:48,240
+sobre prop firms y después que viene
+
+47
+00:01:46,719 --> 00:01:49,960
+gestión de riesgo para props, cómo
+
+48
+00:01:48,240 --> 00:01:51,560
+configurar una cuenta, cuáles son las
+
+49
+00:01:49,960 --> 00:01:53,360
+mejores cuentas, cómo llegar al primer
+
+50
+00:01:51,560 --> 00:01:55,520
+retiro, cómo escalar el trading, todo
+
+51
+00:01:53,360 --> 00:01:58,840
+eso se va a explicar aquí porque soy el
+
+52
+00:01:55,520 --> 00:02:02,280
+goat de los goats. Así que
+
+53
+00:01:58,840 --> 00:02:02,280
+let's do it.
+
+54
+00:02:03,600 --> 00:02:12,040
+Activos. Vale, vamos a hacerlo. Vamos a
+
+55
+00:02:07,640 --> 00:02:13,599
+hacerlo. Parezco tonto a veces. Vale,
+
+56
+00:02:12,040 --> 00:02:15,000
+recordemos, ¿vale? Vamos a hacer un poco
+
+57
+00:02:13,599 --> 00:02:16,760
+de memoria, ¿no? De qué es lo que
+
+58
+00:02:15,000 --> 00:02:18,319
+estábamos viendo nosotros. ¿Qué es un
+
+59
+00:02:16,760 --> 00:02:20,800
+fair value app? O sea, ¿qué es un fair
+
+60
+00:02:18,319 --> 00:02:22,959
+value app? Creo que todos lo tenemos
+
+61
+00:02:20,800 --> 00:02:26,239
+supercaro, ¿vale? Es una secuencia de
+
+62
+00:02:22,959 --> 00:02:26,239
+tres velas.
+
+63
+00:02:30,080 --> 00:02:33,160
+Secuencita de tres velas. Vale, voy a
+
+64
+00:02:31,560 --> 00:02:35,480
+hacerlo superrápido porque sé que lo
+
+65
+00:02:33,160 --> 00:02:37,239
+tenéis claro, ¿vale? Es una secuencia de
+
+66
+00:02:35,480 --> 00:02:39,400
+tres velas y un FALWAP, que es pues
+
+67
+00:02:37,239 --> 00:02:42,440
+básicamente este espacio en blanco que
+
+68
+00:02:39,400 --> 00:02:43,879
+tenemos en medio, ¿vale? Cogiendo la
+
+69
+00:02:42,440 --> 00:02:45,360
+parte mínima en la que ha estado la
+
+70
+00:02:43,879 --> 00:02:47,080
+tercera vela en algún momento y la
+
+71
+00:02:45,360 --> 00:02:48,400
+máxima en la que ha estado la primera.
+
+72
+00:02:47,080 --> 00:02:50,920
+Entonces, esto que vemos aquí es, por
+
+73
+00:02:48,400 --> 00:02:53,560
+ejemplo, un FVG alcista. Vamos a
+
+74
+00:02:50,920 --> 00:02:56,680
+dibujarlo de color verde. Entonces, ¿qué
+
+75
+00:02:53,560 --> 00:02:59,280
+es un IFVG? Vale, porque es super
+
+76
+00:02:56,680 --> 00:03:02,760
+importante que entendáis que los inverse
+
+77
+00:02:59,280 --> 00:03:02,760
+fair value apps
+
+78
+00:03:02,920 --> 00:03:08,599
+son nuestro sistema de entrada, ¿vale?
+
+79
+00:03:04,879 --> 00:03:08,599
+Los vamos a usar como
+
+80
+00:03:10,040 --> 00:03:14,120
+sistema de entrada y
+
+81
+00:03:20,200 --> 00:03:23,599
+super importante, ¿vale? Es nuestro
+
+82
+00:03:21,959 --> 00:03:25,640
+sistema de entrada. ¿Qué quiere decir
+
+83
+00:03:23,599 --> 00:03:28,280
+que es nuestro sistema de entrada?
+
+84
+00:03:25,640 --> 00:03:30,959
+Básicamente significa que yo nunca,
+
+85
+00:03:28,280 --> 00:03:33,439
+nunca, nunca voy a darle al botón de
+
+86
+00:03:30,959 --> 00:03:36,040
+comprar o vender sin un inversofer value
+
+87
+00:03:33,439 --> 00:03:38,720
+app, ¿vale? Es nuestra confirmación.
+
+88
+00:03:36,040 --> 00:03:40,599
+Siempre, siempre, siempre necesito un
+
+89
+00:03:38,720 --> 00:03:43,280
+inversor value up. Así que les vais a
+
+90
+00:03:40,599 --> 00:03:45,959
+ cariño porque son obligatorios. ¿Y
+
+91
+00:03:43,280 --> 00:03:48,040
+qué nos confirman? Que el precio quiere
+
+92
+00:03:45,959 --> 00:03:50,480
+cambiar de tendencia. ¿Cómo puede ser
+
+93
+00:03:48,040 --> 00:03:52,680
+esto? Pues nosotros sabemos que el
+
+94
+00:03:50,480 --> 00:03:54,239
+precio se mueve con una tendencia
+
+95
+00:03:52,680 --> 00:03:55,760
+alcista
+
+96
+00:03:54,239 --> 00:03:58,640
+o
+
+97
+00:03:55,760 --> 00:04:01,480
+con una tendencia bajista, ¿no? Y
+
+98
+00:03:58,640 --> 00:04:03,760
+sabemos también que el precio va de un
+
+99
+00:04:01,480 --> 00:04:07,640
+punto de liquidez
+
+100
+00:04:03,760 --> 00:04:10,560
+a otro punto de liquidez a través de
+
+101
+00:04:07,640 --> 00:04:13,040
+imbalances. Y estos imbalances son los
+
+102
+00:04:10,560 --> 00:04:15,560
+FVGs, ¿no? Vale, hasta aquí estamos
+
+103
+00:04:13,040 --> 00:04:17,359
+todos en la misma línea. ¿Qué pasa? que
+
+104
+00:04:15,560 --> 00:04:20,239
+el precio, como ya sabemos y hemos dicho
+
+105
+00:04:17,359 --> 00:04:23,800
+varias veces, no siempre sube de manera
+
+106
+00:04:20,239 --> 00:04:27,040
+infinita. Eventualmente el precio decide
+
+107
+00:04:23,800 --> 00:04:30,680
+bajar y toda bajada tiene un empiezo,
+
+108
+00:04:27,040 --> 00:04:32,680
+¿no? Tiene un un por qué. El por qué lo
+
+109
+00:04:30,680 --> 00:04:34,520
+vamos a ver en la zona de key levels,
+
+110
+00:04:32,680 --> 00:04:36,440
+donde vais a ver exactamente en qué
+
+111
+00:04:34,520 --> 00:04:39,039
+niveles podemos esperarnos que el precio
+
+112
+00:04:36,440 --> 00:04:40,720
+se dé la vuelta, pero una de nuestras
+
+113
+00:04:39,039 --> 00:04:42,400
+confirmaciones, que nos básicamente
+
+114
+00:04:40,720 --> 00:04:44,720
+confirma si el precio se quiere girar o
+
+115
+00:04:42,400 --> 00:04:47,280
+no, son los inverse fair value apps.
+
+116
+00:04:44,720 --> 00:04:51,000
+Como veis, aquí creamos un FVG alcista y
+
+117
+00:04:47,280 --> 00:04:52,560
+el precio lo toca y sube. Aquí lo toca y
+
+118
+00:04:51,000 --> 00:04:56,880
+sube.
+
+119
+00:04:52,560 --> 00:04:59,800
+Aquí lo toca y sube. Aquí lo toca y
+
+120
+00:04:56,880 --> 00:05:01,880
+sube, pero eventualmente
+
+121
+00:04:59,800 --> 00:05:04,600
+aquí,
+
+122
+00:05:01,880 --> 00:05:08,000
+¿vale? Justo en esta bajada aquí crea
+
+123
+00:05:04,600 --> 00:05:12,479
+otro fervali alcista y el precio en vez
+
+124
+00:05:08,000 --> 00:05:14,759
+de tocarlo y subir, ¿qué hace?
+
+125
+00:05:12,479 --> 00:05:17,120
+Pum, lo atraviesa. ¿Vale? Y el hecho de
+
+126
+00:05:14,759 --> 00:05:19,600
+atravesarlo convierte este fair value
+
+127
+00:05:17,120 --> 00:05:21,840
+app,
+
+128
+00:05:19,600 --> 00:05:24,400
+bueno, yo siempre los pongo en gris en
+
+129
+00:05:21,840 --> 00:05:26,840
+un inverse fair value up, ¿vale? Y
+
+130
+00:05:24,400 --> 00:05:29,080
+normalmente esto, ¿qué nos dice? Pues
+
+131
+00:05:26,840 --> 00:05:31,720
+nosotros sabemos que el precio cuando
+
+132
+00:05:29,080 --> 00:05:33,240
+está subiendo y retrocede, coge más
+
+133
+00:05:31,720 --> 00:05:35,240
+órdenes, sigue subiendo. Coge más
+
+134
+00:05:33,240 --> 00:05:37,199
+órdenes, sigue subiendo. Y obviamente
+
+135
+00:05:35,240 --> 00:05:41,120
+estos FVGs alcistas lo que hacen es que
+
+136
+00:05:37,199 --> 00:05:42,840
+el precio pueda seguir e pues subiendo,
+
+137
+00:05:41,120 --> 00:05:45,479
+¿no? Continuando esa tendencia. Pero
+
+138
+00:05:42,840 --> 00:05:47,280
+cuando estos FVGs alcistas que se crean
+
+139
+00:05:45,479 --> 00:05:48,960
+dejan de aguantar el precio y el precio
+
+140
+00:05:47,280 --> 00:05:50,919
+consigue atravesarlos, ¿qué quiere
+
+141
+00:05:48,960 --> 00:05:52,479
+decir? Que tenemos más fuerza vendedora
+
+142
+00:05:50,919 --> 00:05:55,960
+que no compradora. Por lo tanto, esta
+
+143
+00:05:52,479 --> 00:05:58,199
+tendencia alcista deja de eh respetarse
+
+144
+00:05:55,960 --> 00:06:00,840
+y empieza una nueva tendencia bajista,
+
+145
+00:05:58,199 --> 00:06:03,960
+¿vale? En esta tendencia bajista, ¿qué
+
+146
+00:06:00,840 --> 00:06:06,000
+tenemos? Pues empezamos a
+
+147
+00:06:03,960 --> 00:06:07,840
+invalidar, a invertir todos estos fair
+
+148
+00:06:06,000 --> 00:06:11,319
+valwops, ¿vale? Todos los que teníamos
+
+149
+00:06:07,840 --> 00:06:12,919
+en la subida se empiecen a invertir
+
+150
+00:06:11,319 --> 00:06:15,280
+y tranquilos que vamos a ver ejemplos.
+
+151
+00:06:12,919 --> 00:06:17,240
+¿Y qué empezamos a ver en esta bajada?
+
+152
+00:06:15,280 --> 00:06:20,440
+Pues que ahora cambian las tornas. Ahora
+
+153
+00:06:17,240 --> 00:06:22,360
+empezamos a crear FVGs bajistas. Al
+
+154
+00:06:20,440 --> 00:06:24,800
+igual que lo estamos creando aquí
+
+155
+00:06:22,360 --> 00:06:27,960
+alcistas, empezamos a crear FVGs
+
+156
+00:06:24,800 --> 00:06:31,440
+bajistas y el precio empieza a
+
+157
+00:06:27,960 --> 00:06:32,720
+respetarlos. ¿Vale? Entonces, perdonar.
+
+158
+00:06:31,440 --> 00:06:35,400
+Entonces, una vez tenemos esto
+
+159
+00:06:32,720 --> 00:06:36,680
+entendido,
+
+160
+00:06:35,400 --> 00:06:38,240
+es super importante también que
+
+161
+00:06:36,680 --> 00:06:40,039
+entendemos como vamos a hacer un mini
+
+162
+00:06:38,240 --> 00:06:42,599
+repaso del último día, tenemos que
+
+163
+00:06:40,039 --> 00:06:46,000
+entender que estos IFVGs
+
+164
+00:06:42,599 --> 00:06:51,639
+necesitan confirmarse con todo el cuerpo
+
+165
+00:06:46,000 --> 00:06:51,639
+de la vela. ¿Vale? ¿Qué significa esto?
+
+166
+00:06:52,280 --> 00:06:56,720
+Si nosotros tenemos un FVG marcado, por
+
+167
+00:06:54,720 --> 00:07:01,520
+ejemplo, de 5 minutos, ¿vale? Imaginaros
+
+168
+00:06:56,720 --> 00:07:01,520
+que esto es un FVG de 5 minutos.
+
+169
+00:07:04,400 --> 00:07:09,120
+Necesitamos ver la vela de 5 minutos, no
+
+170
+00:07:07,319 --> 00:07:11,560
+una vela de un minuto. Acordaros que si
+
+171
+00:07:09,120 --> 00:07:14,280
+yo me marco un Ferbalwap de 5 minutos,
+
+172
+00:07:11,560 --> 00:07:16,560
+necesito que la vela de 5 minutos
+
+173
+00:07:14,280 --> 00:07:18,160
+invierta, ¿vale? No me sirve que sea una
+
+174
+00:07:16,560 --> 00:07:20,560
+vela de 1 minuto, no me sirve que sea
+
+175
+00:07:18,160 --> 00:07:22,960
+una vela de 2 minutos. Si yo me marco el
+
+176
+00:07:20,560 --> 00:07:26,039
+FVG en 5 minutos, necesito que la
+
+177
+00:07:22,960 --> 00:07:28,039
+inversión sea en 5 minutos. ¿Cuándo
+
+178
+00:07:26,039 --> 00:07:31,840
+tenemos una inversión?
+
+179
+00:07:28,039 --> 00:07:34,400
+Cuando la vela cierra por debajo, super
+
+180
+00:07:31,840 --> 00:07:36,960
+importante la palabra cierra, ¿vale? A
+
+181
+00:07:34,400 --> 00:07:39,680
+mí no me importa si en algún momento
+
+182
+00:07:36,960 --> 00:07:43,000
+esta vela baja, baja, baja, baja, baja,
+
+183
+00:07:39,680 --> 00:07:45,800
+baja, baja hasta aquí. Vale, pero si
+
+184
+00:07:43,000 --> 00:07:48,120
+eventualmente llega aquí y antes del
+
+185
+00:07:45,800 --> 00:07:52,120
+cierre hace
+
+186
+00:07:48,120 --> 00:07:55,039
+pum y deja esta mecha, no ha invertido
+
+187
+00:07:52,120 --> 00:07:58,360
+el fair value up. Se está respetando,
+
+188
+00:07:55,039 --> 00:08:03,120
+¿vale? se está respetando. En cambio, si
+
+189
+00:07:58,360 --> 00:08:06,360
+el precio hace así, tu y aquí retrocede
+
+190
+00:08:03,120 --> 00:08:07,840
+y deja esta mecha,
+
+191
+00:08:06,360 --> 00:08:10,159
+sí que ha invertido porque ha cerrado
+
+192
+00:08:07,840 --> 00:08:13,120
+por debajo de este cuadradito. Entonces
+
+193
+00:08:10,159 --> 00:08:16,000
+esto después del cierre se convierte en
+
+194
+00:08:13,120 --> 00:08:18,879
+vez de en un FVG de 5 minutos, se
+
+195
+00:08:16,000 --> 00:08:21,400
+convierte en un IFVG. ¿Y qué nos dice el
+
+196
+00:08:18,879 --> 00:08:23,159
+precio? que probablemente empecemos a
+
+197
+00:08:21,400 --> 00:08:25,440
+bajar
+
+198
+00:08:23,159 --> 00:08:27,879
+y empecemos a respetar una tendencia
+
+199
+00:08:25,440 --> 00:08:29,840
+bajista, ¿vale?
+
+200
+00:08:27,879 --> 00:08:32,760
+Normalmente nos giramos en ciertas
+
+201
+00:08:29,840 --> 00:08:35,320
+zonas, ¿vale? Normalmente estos IFVGs se
+
+202
+00:08:32,760 --> 00:08:37,719
+presentan en ciertas zonas específicas
+
+203
+00:08:35,320 --> 00:08:39,120
+del mercado, en ciertos niveles que
+
+204
+00:08:37,719 --> 00:08:41,039
+nosotros vamos a ver en el siguiente
+
+205
+00:08:39,120 --> 00:08:42,360
+vídeo. Así que no os preocupéis porque
+
+206
+00:08:41,039 --> 00:08:44,480
+ya vamos a hacer un ejercicio
+
+207
+00:08:42,360 --> 00:08:45,959
+identificando esos niveles y sobre todo
+
+208
+00:08:44,480 --> 00:08:47,920
+poniendo un poquito todo junto para que
+
+209
+00:08:45,959 --> 00:08:49,480
+empezáis a ver cuál es la estrategia o
+
+210
+00:08:47,920 --> 00:08:51,320
+qué tipo de entradas queremos hacer,
+
+211
+00:08:49,480 --> 00:08:53,279
+¿vale? Pero antes de todo, ahora lo que
+
+212
+00:08:51,320 --> 00:08:56,360
+vamos a hacer es buscar ejemplos en el
+
+213
+00:08:53,279 --> 00:08:58,839
+gráfico de IFVGs. Y después de encontrar
+
+214
+00:08:56,360 --> 00:09:01,000
+estos ejemplos de IFVGs, lo que vais a
+
+215
+00:08:58,839 --> 00:09:03,160
+hacer es vosotros en vuestra casa buscar
+
+216
+00:09:01,000 --> 00:09:05,839
+esos ejemplos y es lo único que quiero
+
+217
+00:09:03,160 --> 00:09:08,480
+que veáis hoy, ¿vale? Entonces, vamos a
+
+218
+00:09:05,839 --> 00:09:10,480
+ver algunos ejemplos, si puedo ser si
+
+219
+00:09:08,480 --> 00:09:12,600
+pueden ser de una temporalidad alta en
+
+220
+00:09:10,480 --> 00:09:16,160
+la que quede claro todo, pero este
+
+221
+00:09:12,600 --> 00:09:21,000
+ejemplo es eh bastante perfecto. Vale,
+
+222
+00:09:16,160 --> 00:09:21,000
+como estáis viendo, tenemos aquí
+
+223
+00:09:24,360 --> 00:09:30,360
+tenemos aquí un punto de liquidez, ¿no?
+
+224
+00:09:27,120 --> 00:09:34,200
+Una cellide liquidity.
+
+225
+00:09:30,360 --> 00:09:37,000
+Y el precio, ¿qué hace? Bajamos,
+
+226
+00:09:34,200 --> 00:09:38,680
+quitamos esta liquidez dejando una nueva
+
+227
+00:09:37,000 --> 00:09:41,399
+salsa liquidity, ¿vale? Un nuevo punto
+
+228
+00:09:38,680 --> 00:09:42,640
+de dinero. Y después, ¿qué queremos
+
+229
+00:09:41,399 --> 00:09:44,279
+hacer? Pues obviamente tenemos
+
+230
+00:09:42,640 --> 00:09:47,120
+diferentes puntos, ¿no? Tenemos by
+
+231
+00:09:44,279 --> 00:09:49,079
+liquidity aquí, by Liquidity aquí.
+
+232
+00:09:47,120 --> 00:09:51,959
+Entonces, si nos damos cuenta, después
+
+233
+00:09:49,079 --> 00:09:54,480
+de haber quitado esta sside liquidity,
+
+234
+00:09:51,959 --> 00:09:57,880
+que tenemos
+
+235
+00:09:54,480 --> 00:09:59,440
+un FVG aquí bajista, ¿vale?, que se
+
+236
+00:09:57,880 --> 00:10:01,760
+invierte, como veis, acabamos de cerrar
+
+237
+00:09:59,440 --> 00:10:04,680
+por encima.
+
+238
+00:10:01,760 --> 00:10:07,040
+Y después de cerrar por encima, el
+
+239
+00:10:04,680 --> 00:10:12,120
+precio que hace.
+
+240
+00:10:07,040 --> 00:10:15,279
+Mirad qué curioso. El precio pasa de
+
+241
+00:10:12,120 --> 00:10:18,560
+bajar, respetar fair value, bajar,
+
+242
+00:10:15,279 --> 00:10:21,640
+respetar bajar a
+
+243
+00:10:18,560 --> 00:10:24,440
+invertir el fair value a bajista. Y
+
+244
+00:10:21,640 --> 00:10:28,440
+durante esta inversión, ¿qué hace?
+
+245
+00:10:24,440 --> 00:10:31,120
+crea un FVG alcista, como veis aquí,
+
+246
+00:10:28,440 --> 00:10:33,279
+y el precio lo respeta y sigue subiendo.
+
+247
+00:10:31,120 --> 00:10:36,040
+¿Por qué? Porque está cambiando el
+
+248
+00:10:33,279 --> 00:10:38,839
+orderflow. Estamos cambiando de una
+
+249
+00:10:36,040 --> 00:10:41,600
+acción de precio bajista a una acción de
+
+250
+00:10:38,839 --> 00:10:42,800
+precio alcista. ¿Vale? Es super
+
+251
+00:10:41,600 --> 00:10:45,800
+importante que antes de entrar en
+
+252
+00:10:42,800 --> 00:10:47,560
+estrategia os apuntéis que
+
+253
+00:10:45,800 --> 00:10:50,279
+solo
+
+254
+00:10:47,560 --> 00:10:52,639
+vamos a estar
+
+255
+00:10:50,279 --> 00:10:56,519
+eh tomando
+
+256
+00:10:52,639 --> 00:10:59,000
+inverse fair value apps de entre 30
+
+257
+00:10:56,519 --> 00:11:02,440
+segundos
+
+258
+00:10:59,000 --> 00:11:04,600
+a 5 minutos, ¿vale? Nunca vamos a estar
+
+259
+00:11:02,440 --> 00:11:07,079
+pillando un inversofer value de 15
+
+260
+00:11:04,600 --> 00:11:08,279
+minutos. Y esto me ha hecho, o sea, os
+
+261
+00:11:07,079 --> 00:11:09,800
+lo he dicho porque justo el que hemos
+
+262
+00:11:08,279 --> 00:11:11,120
+pillado ha sido de 15 minutos. Como veis
+
+263
+00:11:09,800 --> 00:11:13,880
+ahí arriba, la temporalidad es de 15
+
+264
+00:11:11,120 --> 00:11:15,959
+minutos, pero solo vamos a estar tomando
+
+265
+00:11:13,880 --> 00:11:18,480
+inverso value de entre 30 segundos a 5
+
+266
+00:11:15,959 --> 00:11:20,560
+minutos. ¿Por qué? Nosotros lo que
+
+267
+00:11:18,480 --> 00:11:21,720
+tenemos es eh no me quiero ir mucho del
+
+268
+00:11:20,560 --> 00:11:24,120
+tema, ¿vale? Pero nosotros lo que
+
+269
+00:11:21,720 --> 00:11:25,760
+tenemos son diferentes temporalidades y
+
+270
+00:11:24,120 --> 00:11:28,120
+para cada temporalidad nosotros vamos a
+
+271
+00:11:25,760 --> 00:11:30,360
+usar un concepto o vamos a tratarlo de
+
+272
+00:11:28,120 --> 00:11:32,240
+una forma distinta, ¿vale? Eh, más
+
+273
+00:11:30,360 --> 00:11:34,040
+adelante vais a ver como una hora y 4
+
+274
+00:11:32,240 --> 00:11:36,760
+horas. Sí que lo usamos, por ejemplo,
+
+275
+00:11:34,040 --> 00:11:40,800
+con FVGs, sí que lo usamos para tener un
+
+276
+00:11:36,760 --> 00:11:43,040
+contexto, pero como nuestras entradas
+
+277
+00:11:40,800 --> 00:11:45,639
+son siempre de entre 30 segundos a 5
+
+278
+00:11:43,040 --> 00:11:47,680
+minutos, ¿vale? Como sabéis, hacemos eh
+
+279
+00:11:45,639 --> 00:11:49,120
+trading, o sea, nuestros trades duran
+
+280
+00:11:47,680 --> 00:11:50,600
+muy poco tiempo. Yo nunca estoy en un
+
+281
+00:11:49,120 --> 00:11:52,519
+trade más de media hora, más de 20
+
+282
+00:11:50,600 --> 00:11:55,839
+minutos, es raro. Normalmente estoy en
+
+283
+00:11:52,519 --> 00:11:57,240
+el trade entre 1 minuto y 10 minutos.
+
+284
+00:11:55,839 --> 00:11:59,320
+Pues esto significa que estas
+
+285
+00:11:57,240 --> 00:12:01,440
+ejecuciones, estas entradas tienen que
+
+286
+00:11:59,320 --> 00:12:04,240
+estar en una temporalidad baja. En este
+
+287
+00:12:01,440 --> 00:12:07,000
+caso, siempre vamos a buscar los IFVGs
+
+288
+00:12:04,240 --> 00:12:08,240
+de 30 segundos a 5 minutos. ¿Vale?
+
+289
+00:12:07,000 --> 00:12:10,480
+Entonces, ¿qué es lo que estamos viendo
+
+290
+00:12:08,240 --> 00:12:12,760
+por aquí?
+
+291
+00:12:10,480 --> 00:12:15,573
+Como veis, el precio ah, bueno, este
+
+292
+00:12:12,760 --> 00:12:16,760
+ejemplo no es el mejor, de hecho.
+
+293
+00:12:15,573 --> 00:12:18,839
+[resoplido]
+
+294
+00:12:16,760 --> 00:12:20,920
+Voy a buscaros uno que se vea supercaro.
+
+295
+00:12:18,839 --> 00:12:24,720
+Vale, este sí que es clarísimo. ¿Qué
+
+296
+00:12:20,920 --> 00:12:24,720
+está pasando justo aquí?
+
+297
+00:12:24,880 --> 00:12:28,360
+Ah. Justo aquí,
+
+298
+00:12:28,800 --> 00:12:33,320
+¿qué pasa? Justo aquí el precio que es
+
+299
+00:12:31,279 --> 00:12:35,199
+lo que hace. Vale, vamos a verlo. Mira,
+
+300
+00:12:33,320 --> 00:12:37,880
+vamos a ver exactamente todo lo que pasa
+
+301
+00:12:35,199 --> 00:12:41,000
+y vais a flipar, ¿vale? Porque es es
+
+302
+00:12:37,880 --> 00:12:43,360
+ejemplo brutalítico.
+
+303
+00:12:41,000 --> 00:12:44,959
+¿Qué tenemos aquí? Este indicador que os
+
+304
+00:12:43,360 --> 00:12:46,800
+enseñé la última vez que eran equal
+
+305
+00:12:44,959 --> 00:12:48,240
+lows, ¿vale? Sabemos que los equal lows
+
+306
+00:12:46,800 --> 00:12:50,519
+son un punto de liquidez super
+
+307
+00:12:48,240 --> 00:12:52,720
+importante y estos equals a la vez, ¿qué
+
+308
+00:12:50,519 --> 00:12:54,839
+son? La sell size liquidity, el rango es
+
+309
+00:12:52,720 --> 00:12:57,160
+el bajo más prominente, ¿no? ¿Qué hace
+
+310
+00:12:54,839 --> 00:12:59,360
+el precio? Quita estos equals y durante
+
+311
+00:12:57,160 --> 00:13:03,079
+esta caída, ¿qué hace?
+
+312
+00:12:59,360 --> 00:13:03,079
+Deja un alto por aquí,
+
+313
+00:13:04,680 --> 00:13:11,440
+otro alto por aquí, otro alto por aquí,
+
+314
+00:13:09,120 --> 00:13:13,279
+otro alto por aquí,
+
+315
+00:13:11,440 --> 00:13:14,480
+otro alto por aquí. Es decir, deja un
+
+316
+00:13:13,279 --> 00:13:16,519
+montón de dinerito, un montón de
+
+317
+00:13:14,480 --> 00:13:19,639
+liquidez. Entonces, ¿qué tenemos?
+
+318
+00:13:16,519 --> 00:13:22,600
+Quitamos directamente los equals
+
+319
+00:13:19,639 --> 00:13:25,480
+y creamos un nuevo Cellside Liquidity,
+
+320
+00:13:22,600 --> 00:13:27,440
+¿vale? Esto es una salsa liquidity,
+
+321
+00:13:25,480 --> 00:13:31,079
+ó, ¿vale? Un dinerito, un cash, lo que
+
+322
+00:13:27,440 --> 00:13:34,040
+sea, contra 1 2 3 4 5 6. Bueno, está
+
+323
+00:13:31,079 --> 00:13:36,160
+claro que queremos subir, ¿no? Vale,
+
+324
+00:13:34,040 --> 00:13:39,519
+entonces, ¿qué tenemos justo después de
+
+325
+00:13:36,160 --> 00:13:42,760
+quitar esa liquidez de abajo? ¡Ostras!
+
+326
+00:13:39,519 --> 00:13:45,199
+Aquí teníamos un fair value de 5 minutos
+
+327
+00:13:42,760 --> 00:13:48,199
+bajista que si el precio quiere seguir
+
+328
+00:13:45,199 --> 00:13:48,199
+bajando.
+
+329
+00:13:50,160 --> 00:13:55,360
+Tenemos un fav de 5 minutos
+
+330
+00:13:53,720 --> 00:13:57,199
+bajista que si el precio quiere seguir
+
+331
+00:13:55,360 --> 00:13:59,680
+bajando, idealmente lo que vamos a hacer
+
+332
+00:13:57,199 --> 00:14:01,399
+es continuar una tendencia bajista, ¿no?
+
+333
+00:13:59,680 --> 00:14:02,800
+Como la que hemos tenido aquí, que hemos
+
+334
+00:14:01,399 --> 00:14:05,360
+seguido bajando. Hemos tocado un gap de
+
+335
+00:14:02,800 --> 00:14:07,399
+5 minutos. Aquí bajamos, hemos subido,
+
+336
+00:14:05,360 --> 00:14:10,040
+hemos bajado, hemos subido tocando otro
+
+337
+00:14:07,399 --> 00:14:12,680
+gap. Mirad cóm respetado constantemente
+
+338
+00:14:10,040 --> 00:14:15,519
+este orderflow, ¿no? Tocamos gap de 5
+
+339
+00:14:12,680 --> 00:14:18,160
+minutos bajista,
+
+340
+00:14:15,519 --> 00:14:21,639
+bajamos, tocamos otro gap de 5 minutos
+
+341
+00:14:18,160 --> 00:14:25,079
+bajista, bajamos, tocamos otro gap de 5
+
+342
+00:14:21,639 --> 00:14:28,440
+minutos bajista, bajamos, tocamos aquí
+
+343
+00:14:25,079 --> 00:14:32,279
+otro gap de 5 minutos bajista, bajamos,
+
+344
+00:14:28,440 --> 00:14:35,160
+¿vale? Y eventualmente, ¿qué sucede?
+
+345
+00:14:32,279 --> 00:14:38,040
+Lo que sucede es
+
+346
+00:14:35,160 --> 00:14:40,360
+que este gap de 5 minutos
+
+347
+00:14:38,040 --> 00:14:43,399
+no lo respetamos y en vez de seguir
+
+348
+00:14:40,360 --> 00:14:45,639
+bajándolo cerramos por encima, ¿vale?
+
+349
+00:14:43,399 --> 00:14:47,000
+Cerramos por encima de este gap.
+
+350
+00:14:45,639 --> 00:14:49,120
+Entonces, ¿qué pasa cuando cerramos por
+
+351
+00:14:47,000 --> 00:14:52,720
+encima de este gap?
+
+352
+00:14:49,120 --> 00:14:55,720
+Wow, el precio empieza a crear FVGs
+
+353
+00:14:52,720 --> 00:14:55,720
+alcistas
+
+354
+00:14:56,920 --> 00:15:01,759
+y los empezamos
+
+355
+00:14:59,759 --> 00:15:04,839
+y y los empezamos a respetar. Está
+
+356
+00:15:01,759 --> 00:15:06,880
+cambiando la tendencia. Qué guay.
+
+357
+00:15:04,839 --> 00:15:09,920
+Todo el rato creamos otro Fervali
+
+358
+00:15:06,880 --> 00:15:12,759
+alcista. El precio lo respeta. Seguimos
+
+359
+00:15:09,920 --> 00:15:16,360
+subiendo a quitar toda la byide
+
+360
+00:15:12,759 --> 00:15:19,600
+liquidity. Vale, eventualmente, ¿qué es
+
+361
+00:15:16,360 --> 00:15:19,600
+lo que pasa?
+
+362
+00:15:20,240 --> 00:15:25,120
+Eventualmente
+
+363
+00:15:22,600 --> 00:15:28,639
+llegamos a una zona importante, a un
+
+364
+00:15:25,120 --> 00:15:28,639
+nivel importante.
+
+365
+00:15:31,920 --> 00:15:37,120
+¿Qué hacemos aquí? Uy, hemos creado
+
+366
+00:15:34,720 --> 00:15:39,160
+equal high. Hemos creado estas líneas
+
+367
+00:15:37,120 --> 00:15:40,959
+rojas, hemos creado equal high y no nos
+
+368
+00:15:39,160 --> 00:15:44,399
+interesa tener equal high en nuestro
+
+369
+00:15:40,959 --> 00:15:47,079
+stoploss. Además, tenemos un gap que
+
+370
+00:15:44,399 --> 00:15:52,319
+está alineado, ¿no? Con estos equaliz un
+
+371
+00:15:47,079 --> 00:15:52,319
+gap bajista. Y mirad qué hace el precio.
+
+372
+00:15:53,680 --> 00:15:58,680
+Calma. Esperamos. Pum. Quitamos esos
+
+373
+00:15:56,680 --> 00:16:00,959
+equalizs. Vale, nos olvidamos de esos
+
+374
+00:15:58,680 --> 00:16:03,800
+equaliz y automáticamente,
+
+375
+00:16:00,959 --> 00:16:07,040
+wow, invertimos este fair value para
+
+376
+00:16:03,800 --> 00:16:07,040
+hacia abajo
+
+377
+00:16:07,240 --> 00:16:11,519
+y justo después de la inversión, si
+
+378
+00:16:08,959 --> 00:16:14,199
+hubiésemos entrado, ¿qué hubiese pasado?
+
+379
+00:16:11,519 --> 00:16:16,639
+Wow, hubiésemos ganado muchísimo dinero.
+
+380
+00:16:14,199 --> 00:16:18,600
+¿Por qué tiene sentido entrar aquí? ¿Por
+
+381
+00:16:16,639 --> 00:16:21,720
+qué? Pues porque aquí arriba en nuestro
+
+382
+00:16:18,600 --> 00:16:24,800
+stop loss tenemos solo una liquidez, una
+
+383
+00:16:21,720 --> 00:16:26,399
+sellidity. ¿Y qué tenemos abajo? Wow.
+
+384
+00:16:24,800 --> 00:16:28,560
+Uno,
+
+385
+00:16:26,399 --> 00:16:31,560
+dos,
+
+386
+00:16:28,560 --> 00:16:31,560
+tres,
+
+387
+00:16:31,920 --> 00:16:35,959
+cuatro
+
+388
+00:16:33,920 --> 00:16:39,040
+cco,
+
+389
+00:16:35,959 --> 00:16:40,600
+seis y hemos ido de cellide liquidity.
+
+390
+00:16:39,040 --> 00:16:43,040
+En este caso, perdonar, esto es by
+
+391
+00:16:40,600 --> 00:16:45,639
+Liquidity. De B liquidity a todas estas
+
+392
+00:16:43,040 --> 00:16:47,360
+Cells Side Liquidity. ¿Lo veis? Ya estoy
+
+393
+00:16:45,639 --> 00:16:51,399
+poniendo muchas cosas. juntos. Os juro
+
+394
+00:16:47,360 --> 00:16:53,399
+que no quiero adelantarme, pero
+
+395
+00:16:51,399 --> 00:16:56,000
+es una locura. O sea, lo estáis viendo
+
+396
+00:16:53,399 --> 00:16:58,720
+vosotros. Y quiero que intentéis hacer
+
+397
+00:16:56,000 --> 00:17:01,199
+esto, ¿vale? Que veáis sells liquidities
+
+398
+00:16:58,720 --> 00:17:02,839
+y by side liquidities, os las parquéis y
+
+399
+00:17:01,199 --> 00:17:05,120
+a partir de allí veáis cómo el precio
+
+400
+00:17:02,839 --> 00:17:06,640
+reacciona. Vais a ver que durante que en
+
+401
+00:17:05,120 --> 00:17:09,600
+muchos aspectos, ¿vale? En muchos casos
+
+402
+00:17:06,640 --> 00:17:11,720
+vais a ver que no reaccionamos, es
+
+403
+00:17:09,600 --> 00:17:13,319
+decir, que podemos quitar una Bquidity,
+
+404
+00:17:11,720 --> 00:17:14,839
+que no hay reacción, que no tenemos
+
+405
+00:17:13,319 --> 00:17:16,880
+ningún inverse per valwap o que no se
+
+406
+00:17:14,839 --> 00:17:19,000
+respeta. Por eso digo, tranquilos,
+
+407
+00:17:16,880 --> 00:17:20,919
+porque e en el vídeo de key levels vais
+
+408
+00:17:19,000 --> 00:17:22,679
+a estar viendo exactamente de qué zonas
+
+409
+00:17:20,919 --> 00:17:25,079
+va a reaccionar y de qué zonas no, pero
+
+410
+00:17:22,679 --> 00:17:27,120
+es super importante que para este vídeo
+
+411
+00:17:25,079 --> 00:17:28,880
+os quede claro que vamos a estar
+
+412
+00:17:27,120 --> 00:17:31,200
+pillando inverse fer valwaps de entre 30
+
+413
+00:17:28,880 --> 00:17:33,440
+segundos y 5 minutos, que los invers
+
+414
+00:17:31,200 --> 00:17:37,960
+value sirven para ver cómo el mercado
+
+415
+00:17:33,440 --> 00:17:41,360
+cambia de tendencia y que em básicamente
+
+416
+00:17:37,960 --> 00:17:44,200
+los inverso valws siempre siempre
+
+417
+00:17:41,360 --> 00:17:45,520
+necesitas que sean
+
+418
+00:17:44,200 --> 00:17:46,640
+Vale, esto no s no lo había añadido.
+
+419
+00:17:45,520 --> 00:17:48,760
+Mira, de hecho voy a hacerlo ahora antes
+
+420
+00:17:46,640 --> 00:17:49,880
+de irme. Super guay, super guay que me
+
+421
+00:17:48,760 --> 00:17:52,000
+haba acordado de esto porque me lo
+
+422
+00:17:49,880 --> 00:17:54,240
+hubieseis dicho en comentarios, ¿vale?
+
+423
+00:17:52,000 --> 00:17:56,880
+Super importante, ¿vale? Esto ya es
+
+424
+00:17:54,240 --> 00:18:00,640
+contenido más avanzado, ¿vale?
+
+425
+00:17:56,880 --> 00:18:00,640
+Un inverse fair value
+
+426
+00:18:00,840 --> 00:18:08,600
+no puede tardar
+
+427
+00:18:05,240 --> 00:18:10,840
+más de tres velas,
+
+428
+00:18:08,600 --> 00:18:13,360
+tres, cuatro velas
+
+429
+00:18:10,840 --> 00:18:15,799
+en darse, ¿vale? Cuando digo darse me
+
+430
+00:18:13,360 --> 00:18:18,720
+refiero a invertirse, es decir,
+
+431
+00:18:15,799 --> 00:18:22,240
+imaginaros que
+
+432
+00:18:18,720 --> 00:18:25,440
+tenemos una subida y creamos un fair
+
+433
+00:18:22,240 --> 00:18:27,559
+value appista, ¿vale? Alcista. Si tú
+
+434
+00:18:25,440 --> 00:18:29,280
+quieres que el fair value app
+
+435
+00:18:27,559 --> 00:18:31,120
+se invierta, ¿vale? Que este fair value
+
+436
+00:18:29,280 --> 00:18:33,799
+up se invierta, es super importante que
+
+437
+00:18:31,120 --> 00:18:37,679
+busques una vera fuerte, ¿vale? No te
+
+438
+00:18:33,799 --> 00:18:37,679
+interesa ver esto,
+
+439
+00:18:40,280 --> 00:18:44,159
+¿vale? No te entes a ver que tardemos
+
+440
+00:18:42,559 --> 00:18:46,400
+mucho en invertirlo. Como veis, aquí
+
+441
+00:18:44,159 --> 00:18:48,799
+acabamos cerrando por debajo de él, pero
+
+442
+00:18:46,400 --> 00:18:49,840
+tardamos mucho. Así que sea cual sea la
+
+443
+00:18:48,799 --> 00:18:51,679
+temporalidad en la que tú lo hayas
+
+444
+00:18:49,840 --> 00:18:53,559
+marcado, intenta que sean menos de tres
+
+445
+00:18:51,679 --> 00:18:55,559
+o cuatro velas. Si ya se tardan más de
+
+446
+00:18:53,559 --> 00:19:00,280
+tres o cuatro velas, no nos acaba
+
+447
+00:18:55,559 --> 00:19:04,360
+gustando. ¿Vale? Y lo eh siguiente es
+
+448
+00:19:00,280 --> 00:19:04,360
+que siempre, ¿vale?,
+
+449
+00:19:04,799 --> 00:19:09,440
+vamos a estar,
+
+450
+00:19:07,679 --> 00:19:11,120
+no, esto no lo voy a explicar, perdonad.
+
+451
+00:19:09,440 --> 00:19:12,520
+Ya está,
+
+452
+00:19:11,120 --> 00:19:14,039
+dejamos por aquí el vídeo. Os voy a
+
+453
+00:19:12,520 --> 00:19:15,799
+explicar algo que va relacionado con la
+
+454
+00:19:14,039 --> 00:19:17,760
+manipulación, pero es un concepto que
+
+455
+00:19:15,799 --> 00:19:19,120
+veremos más hacia adelante. Así que de
+
+456
+00:19:17,760 --> 00:19:21,120
+momento quedaros con el concepto de
+
+457
+00:19:19,120 --> 00:19:22,360
+IFVGs. Es que lo que me pasa es que yo
+
+458
+00:19:21,120 --> 00:19:24,159
+estoy acostumbrado a hacer contenido
+
+459
+00:19:22,360 --> 00:19:26,360
+super avanzado y muchas veces me olvido
+
+460
+00:19:24,159 --> 00:19:28,320
+de que hay gente que muchas cosas no las
+
+461
+00:19:26,360 --> 00:19:29,919
+sabe y no me quiero avanzar. Así que
+
+462
+00:19:28,320 --> 00:19:31,320
+nada, tíos, voy a dejarlo por aquí.
+
+463
+00:19:29,919 --> 00:19:32,679
+Decidme si os ha gustado. Creo que ha
+
+464
+00:19:31,320 --> 00:19:33,880
+quedado muy guay y se ha entendido bien,
+
+465
+00:19:32,679 --> 00:19:35,600
+pero igualmente cualquier duda,
+
+466
+00:19:33,880 --> 00:19:37,480
+cualquier cosita, lo que sea,
+
+467
+00:19:35,600 --> 00:19:39,720
+comentarios porque leo a todo el mundo.
+
+468
+00:19:37,480 --> 00:19:41,200
+Así que un abrazo, os quiero mucho y
+
+469
+00:19:39,720 --> 00:19:43,280
+let's go. Ya os he dicho los deberes
+
+470
+00:19:41,200 --> 00:19:46,360
+hoy, eh, hacerlos. Recordatorio de
+
+471
+00:19:43,280 --> 00:19:48,679
+deberes, buscar, va, voy a ser más más
+
+472
+00:19:46,360 --> 00:19:51,159
+concreto, buscar
+
+473
+00:19:48,679 --> 00:19:54,200
+20 ejemplos de Inverser Valwaps y luego
+
+474
+00:19:51,159 --> 00:19:55,640
+dedicar un rato, simplemente un rato, a
+
+475
+00:19:54,200 --> 00:19:56,760
+alinear las cosas que he alineado, un
+
+476
+00:19:55,640 --> 00:19:58,760
+poquito la liquidez, lo que habéis
+
+477
+00:19:56,760 --> 00:20:00,919
+aprendido de liquidez con inversor value
+
+478
+00:19:58,760 --> 00:20:02,400
+y ver cómo cambian las tendencias, ver
+
+479
+00:20:00,919 --> 00:20:05,440
+qué ver qué pasa después de que se
+
+480
+00:20:02,400 --> 00:20:07,080
+invierta un gap y cómo empezamos a dejar
+
+481
+00:20:05,440 --> 00:20:08,960
+de respetar una tendencia y empezar a
+
+482
+00:20:07,080 --> 00:20:11,200
+respetar otra. Así que nada, tíos, eso
+
+483
+00:20:08,960 --> 00:20:11,200
+es todo.
+

@@ -1,0 +1,1700 @@
+1
+00:00:00,500 --> 00:00:04,700
+Muy buenas, chavales. Bienvenidos a un
+
+2
+00:00:02,300 --> 00:00:06,400
+vídeo súper corto de cómo están dividido
+
+3
+00:00:04,700 --> 00:00:08,100
+el mercado, qué son las tres sesiones,
+
+4
+00:00:06,400 --> 00:00:10,000
+qué sesión vamos a operar, qué horarios
+
+5
+00:00:08,100 --> 00:00:11,800
+tienen, qué implica cada sesión, por qué
+
+6
+00:00:10,000 --> 00:00:13,200
+nosotros operamos una en concreto y poco
+
+7
+00:00:11,800 --> 00:00:15,700
+más. Simplemente para que tengáis esta
+
+8
+00:00:13,200 --> 00:00:16,800
+información. No es algo que
+
+9
+00:00:15,700 --> 00:00:18,600
+Bueno, a ver, si os lo podéis apuntar,
+
+10
+00:00:16,800 --> 00:00:20,300
+pero no es algo muy difícil, muy muy de
+
+11
+00:00:18,600 --> 00:00:21,600
+estudio, es simplemente
+
+12
+00:00:20,300 --> 00:00:23,200
+que os quede claro que operamos la
+
+13
+00:00:21,600 --> 00:00:24,700
+sesión de Nueva York, que entendáis la
+
+14
+00:00:23,200 --> 00:00:26,600
+razón, porque hay una razón detrás de
+
+15
+00:00:24,700 --> 00:00:28,400
+ello y ya está, ¿vale? Ya está. Para
+
+16
+00:00:26,600 --> 00:00:29,800
+backtesting os irá súper bien saber a
+
+17
+00:00:28,400 --> 00:00:31,200
+qué sesión tenéis que operar y
+
+18
+00:00:29,800 --> 00:00:33,400
+únicamente vais a estar metiendo trades
+
+19
+00:00:31,200 --> 00:00:35,900
+en una sesión, ¿vale? Voy a explicaros
+
+20
+00:00:33,400 --> 00:00:37,200
+ehm excepciones y demás, pero la mayoría
+
+21
+00:00:35,900 --> 00:00:38,300
+de veces vamos a estar operando solo en
+
+22
+00:00:37,200 --> 00:00:40,000
+Nueva York.
+
+23
+00:00:38,300 --> 00:00:41,500
+Entonces, antes de empezar, el vídeo de
+
+24
+00:00:40,000 --> 00:00:42,600
+mañana va a ser un banger. Mañana me voy
+
+25
+00:00:41,500 --> 00:00:44,700
+de viaje, estaré todo el día
+
+26
+00:00:42,600 --> 00:00:46,300
+conduciendo, pero
+
+27
+00:00:44,700 --> 00:00:49,100
+Xavi ayer por la noche ya ha grabado el
+
+28
+00:00:46,300 --> 00:00:50,600
+vídeo y el vídeo está muy guapo, ¿vale?
+
+29
+00:00:49,100 --> 00:00:52,400
+Es básicamente haciendo backtesting, os
+
+30
+00:00:50,600 --> 00:00:55,300
+explico qué es el backtesting, cómo
+
+31
+00:00:52,400 --> 00:00:56,900
+configurarlo y cómo hacerlo, sobre todo,
+
+32
+00:00:55,300 --> 00:00:58,000
+y ponemos todo lo que hemos hecho ahora
+
+33
+00:00:56,900 --> 00:00:59,500
+junto. Alguien me lo pidió en un
+
+34
+00:00:58,000 --> 00:01:01,500
+comentario, he decidido hacer un vídeo
+
+35
+00:00:59,500 --> 00:01:03,800
+entero solo para eso y la verdad que
+
+36
+00:01:01,500 --> 00:01:06,300
+está bastante guay, o sea, es un banger
+
+37
+00:01:03,800 --> 00:01:08,200
+de vídeo. Y ya cuando esté
+
+38
+00:01:06,300 --> 00:01:09,700
+en el sitio, que lo veréis mañana, el
+
+39
+00:01:08,200 --> 00:01:10,900
+martes grabaré desde ahí directamente,
+
+40
+00:01:09,700 --> 00:01:12,600
+así que
+
+41
+00:01:10,900 --> 00:01:13,900
+Cheers. Buah, estoy
+
+42
+00:01:12,600 --> 00:01:16,300
+lowkey bastante definido, ¿eh? ¿Cómo lo
+
+43
+00:01:13,900 --> 00:01:17,900
+veis los jimbros? Bueno, va.
+
+44
+00:01:16,300 --> 00:01:20,200
+Locking, locking. Voy a poner esto por
+
+45
+00:01:17,900 --> 00:01:20,200
+aquí.
+
+46
+00:01:22,600 --> 00:01:26,200
+Esta canción es la de
+
+47
+00:01:27,100 --> 00:01:30,000
+Bueno, no me la sé más.
+
+48
+00:01:33,500 --> 00:01:36,800
+Vale.
+
+49
+00:01:35,100 --> 00:01:39,100
+Radis. Estoy No quiero hacer este vídeo
+
+50
+00:01:36,800 --> 00:01:41,300
+en bolas. Mercado El mercado está Se me
+
+51
+00:01:39,100 --> 00:01:42,800
+ha Me he dejado el el El mercado está
+
+52
+00:01:41,300 --> 00:01:45,100
+dividido en tres sesiones, ¿vale? Lo
+
+53
+00:01:42,800 --> 00:01:47,100
+habéis escuchado 112 veces. La sesión de
+
+54
+00:01:45,100 --> 00:01:49,400
+Asia, la sesión de Londres y la sesión
+
+55
+00:01:47,100 --> 00:01:52,200
+de Nueva York. Entonces, para los más
+
+56
+00:01:49,400 --> 00:01:54,600
+noobs noobs noobs, el mercado se mueve
+
+57
+00:01:52,200 --> 00:01:57,300
+durante todo el día menos
+
+58
+00:01:54,600 --> 00:01:59,600
+durante Si no me equivoco es No sé si es
+
+59
+00:01:57,300 --> 00:02:01,692
+1 hora o 1 hora y media, ¿vale? Pero la
+
+60
+00:01:59,600 --> 00:02:03,192
+mayoría del día está abierto, ¿vale? O
+
+61
+00:02:01,692 --> 00:02:05,592
+sea, la mayoría del día vas a entrar en
+
+62
+00:02:03,192 --> 00:02:07,092
+el mercado y las velitas se van a mover.
+
+63
+00:02:05,592 --> 00:02:08,692
+¿Significa que si las velitas se van a
+
+64
+00:02:07,092 --> 00:02:10,792
+mover tú puedes entrar aplicando la
+
+65
+00:02:08,692 --> 00:02:12,092
+estrategia en cualquier momento? No,
+
+66
+00:02:10,792 --> 00:02:14,292
+¿vale? No.
+
+67
+00:02:12,092 --> 00:02:16,892
+Entonces, superimportante. La sesión
+
+68
+00:02:14,292 --> 00:02:18,792
+asiática es de 8 de la tarde a 3 de la
+
+69
+00:02:16,892 --> 00:02:20,592
+mañana, horario Estados Unidos. ¿Os
+
+70
+00:02:18,792 --> 00:02:22,692
+acordáis que os dije que aquí abajo os
+
+71
+00:02:20,592 --> 00:02:24,092
+configuraseis esto con el horario de
+
+72
+00:02:22,692 --> 00:02:25,892
+Nueva York, que se ve justo debajo de la
+
+73
+00:02:24,092 --> 00:02:27,592
+de mi webcam? Tenéis que tenerlo en
+
+74
+00:02:25,892 --> 00:02:29,592
+horario Nueva York porque siempre vamos
+
+75
+00:02:27,592 --> 00:02:31,892
+a estar hablando en horario Nueva York.
+
+76
+00:02:29,592 --> 00:02:33,392
+Como veis, en la sesión asiática a las 8
+
+77
+00:02:31,892 --> 00:02:35,392
+de la tarde en Nueva York, que vienen a
+
+78
+00:02:33,392 --> 00:02:38,292
+ser las 2 de la mañana en España, abre
+
+79
+00:02:35,392 --> 00:02:40,192
+la sesión de Asia y cierra a las 3 de la
+
+80
+00:02:38,292 --> 00:02:42,392
+mañana o al menos dura hasta las 3 de la
+
+81
+00:02:40,192 --> 00:02:45,092
+mañana, que son las 9 de la mañana de de
+
+82
+00:02:42,392 --> 00:02:46,592
+Nueva York. Esto no es exactamente así y
+
+83
+00:02:45,092 --> 00:02:48,792
+estas sesiones ni lo he buscado en
+
+84
+00:02:46,592 --> 00:02:51,392
+ChatGPT ni O sea, tú te vas a
+
+85
+00:02:48,792 --> 00:02:53,092
+indicadores de las sesiones y hay
+
+86
+00:02:51,392 --> 00:02:54,892
+20.000 cosas. Hay alguien que te dice
+
+87
+00:02:53,092 --> 00:02:56,892
+que las sesiones de 8 a tal y que luego
+
+88
+00:02:54,892 --> 00:02:58,392
+abre un premarket y es verdad, seguro.
+
+89
+00:02:56,892 --> 00:03:01,092
+¿A mí me hace falta saber tanta cosa?
+
+90
+00:02:58,392 --> 00:03:04,992
+No. ¿Sé muy poco? Sí y no me escondo,
+
+91
+00:03:01,092 --> 00:03:07,292
+¿vale? Entonces, de 2 a 9 es Asia. Hay
+
+92
+00:03:04,992 --> 00:03:09,492
+mucha gente que opera a las 7:30 de la
+
+93
+00:03:07,292 --> 00:03:11,692
+mañana de horario España
+
+94
+00:03:09,492 --> 00:03:13,292
+o a las en este caso a la 1 de la mañana
+
+95
+00:03:11,692 --> 00:03:15,492
+y ya no lo llaman Asia, le llaman
+
+96
+00:03:13,292 --> 00:03:17,292
+premarket de Londres. Está bien también,
+
+97
+00:03:15,492 --> 00:03:18,592
+¿vale? Pero básicamente que sepáis que
+
+98
+00:03:17,292 --> 00:03:20,092
+no es Londres, ¿vale? Todo lo que no es
+
+99
+00:03:18,592 --> 00:03:22,292
+Londres para mí es Asia y todo lo que no
+
+100
+00:03:20,092 --> 00:03:24,692
+es Londres es Nueva York. Entonces, eh
+
+101
+00:03:22,292 --> 00:03:26,792
+que me enrollo. La sesión asiática, de 8
+
+102
+00:03:24,692 --> 00:03:28,492
+a 3 de la mañana horario Nueva York y en
+
+103
+00:03:26,792 --> 00:03:30,792
+España de 2 de la mañana a 9 de la
+
+104
+00:03:28,492 --> 00:03:32,092
+mañana. ¿Qué implica la sesión asiática?
+
+105
+00:03:30,792 --> 00:03:34,092
+Lo primero, que para la gente de España
+
+106
+00:03:32,092 --> 00:03:36,392
+estamos durmiendo y no la operamos
+
+107
+00:03:34,092 --> 00:03:38,992
+nunca. Yo O sea, nunca opero, ¿vale?
+
+108
+00:03:36,392 --> 00:03:40,492
+Descartarla. Y además es, en mi opinión,
+
+109
+00:03:38,992 --> 00:03:42,292
+de las peores sesiones porque es donde
+
+110
+00:03:40,492 --> 00:03:44,292
+hay menos volatilidad. ¿Qué significa
+
+111
+00:03:42,292 --> 00:03:45,992
+menos volatilidad? Básicamente hay poco
+
+112
+00:03:44,292 --> 00:03:49,292
+volumen y el precio se mueve de una
+
+113
+00:03:45,992 --> 00:03:50,692
+manera superlenta y no tenemos ehm
+
+114
+00:03:49,292 --> 00:03:52,892
+¿Cómo decirlo?
+
+115
+00:03:50,692 --> 00:03:54,692
+Ehm un desplazamiento grande, ¿vale? El
+
+116
+00:03:52,892 --> 00:03:56,392
+El precio normalmente Hay excepciones,
+
+117
+00:03:54,692 --> 00:03:58,092
+pero normalmente no tiende a mover
+
+118
+00:03:56,392 --> 00:03:59,592
+muchísimos puntos, no tiende a moverse
+
+119
+00:03:58,092 --> 00:04:01,192
+en un rango supergrande. Por lo tanto,
+
+120
+00:03:59,592 --> 00:04:03,192
+es una sesión paradita que yo la
+
+121
+00:04:01,192 --> 00:04:04,694
+considero de baja probabilidad.
+
+122
+00:04:03,192 --> 00:04:06,894
+Lo segundo que tenemos es la sesión de
+
+123
+00:04:04,694 --> 00:04:09,194
+Londres que empieza a las 3 de la mañana
+
+124
+00:04:06,894 --> 00:04:11,594
+y para mí, ¿vale? Para mí, acaba a las
+
+125
+00:04:09,194 --> 00:04:13,794
+5:30 de la mañana. ¿Cómo Por qué decís
+
+126
+00:04:11,594 --> 00:04:14,694
+para mí si es algo objetivo? O sea, es
+
+127
+00:04:13,794 --> 00:04:16,294
+como
+
+128
+00:04:14,694 --> 00:04:18,594
+es de esta hora a esta hora y es así.
+
+129
+00:04:16,294 --> 00:04:20,294
+Seguro que sí, pero yo lo planteo de
+
+130
+00:04:18,594 --> 00:04:21,794
+esta forma para que entendáis a qué hora
+
+131
+00:04:20,294 --> 00:04:23,794
+deberíais de estar dejando de operar
+
+132
+00:04:21,794 --> 00:04:25,494
+Londres, ¿vale? Porque si yo os digo que
+
+133
+00:04:23,794 --> 00:04:27,294
+la sesión de Londres es de 3 de la
+
+134
+00:04:25,494 --> 00:04:29,394
+mañana a
+
+135
+00:04:27,294 --> 00:04:33,094
+me lo invento, a 9 de la mañana, es una
+
+136
+00:04:29,394 --> 00:04:34,494
+ventana de 6 horas en la que no sabéis
+
+137
+00:04:33,094 --> 00:04:36,694
+O sea, si os digo que la sesión de
+
+138
+00:04:34,494 --> 00:04:39,694
+Londres es de 3 a 6 de la mañana
+
+139
+00:04:36,694 --> 00:04:42,394
+hay de 3 a a 7 de la mañana, eso son 4
+
+140
+00:04:39,694 --> 00:04:43,994
+horas, ¿vale? Y en esas 4 horas para mí
+
+141
+00:04:42,394 --> 00:04:45,694
+hay 2 horas y media que son de baja
+
+142
+00:04:43,994 --> 00:04:47,694
+probabilidad. Son horas en las que el
+
+143
+00:04:45,694 --> 00:04:49,694
+mercado está muerto acumula la mayoría
+
+144
+00:04:47,694 --> 00:04:51,194
+de las veces. Por lo tanto, prefiero ya
+
+145
+00:04:49,694 --> 00:04:53,894
+enseñaros directamente que Londres es de
+
+146
+00:04:51,194 --> 00:04:55,894
+3 a 5:30 para que entendáis que a las
+
+147
+00:04:53,894 --> 00:04:57,694
+5:30 se acaba Londres y de esta manera
+
+148
+00:04:55,894 --> 00:05:00,594
+no estaréis operando
+
+149
+00:04:57,694 --> 00:05:01,794
+las horas malas, ¿vale? Y seguro, seguro
+
+150
+00:05:00,594 --> 00:05:03,094
+y totalmente entendible que alguien me
+
+151
+00:05:01,794 --> 00:05:05,294
+hatee con este vídeo en plan, tú, Xavi,
+
+152
+00:05:03,094 --> 00:05:06,594
+al menos enseña las sesiones bien y las
+
+153
+00:05:05,294 --> 00:05:08,194
+horas bien.
+
+154
+00:05:06,594 --> 00:05:10,194
+Lo siento, pero creo que es mejor
+
+155
+00:05:08,194 --> 00:05:12,194
+hacerlo así. A mí me va mejor así. Si no
+
+156
+00:05:10,194 --> 00:05:14,894
+lo entendéis así, ehm no pasa nada, os
+
+157
+00:05:12,194 --> 00:05:17,094
+veis pilláis una foto y ponéis horarios
+
+158
+00:05:14,894 --> 00:05:20,094
+de las sesiones de Nueva York y ya está,
+
+159
+00:05:17,094 --> 00:05:21,694
+¿vale? Pero ehm yo quiero explicaros de
+
+160
+00:05:20,094 --> 00:05:23,494
+qué hora a qué hora recomiendo operar
+
+161
+00:05:21,694 --> 00:05:25,094
+cada sesión, por qué recomiendo
+
+162
+00:05:23,494 --> 00:05:26,694
+operarla, cuándo no y cómo yo lo
+
+163
+00:05:25,094 --> 00:05:27,994
+entiendo. Quiero decir, a mí no Yo
+
+164
+00:05:26,694 --> 00:05:30,094
+cuando entro al mercado y veo la hora no
+
+165
+00:05:27,994 --> 00:05:32,294
+digo, ostra, estamos acabando la sesión
+
+166
+00:05:30,094 --> 00:05:33,694
+asiática. No, yo digo, vale, Londres
+
+167
+00:05:32,294 --> 00:05:35,894
+abre en 1 hora, pues me espero a que
+
+168
+00:05:33,694 --> 00:05:37,794
+abra Londres. Ha abierto Londres, voy a
+
+169
+00:05:35,894 --> 00:05:38,794
+operar 2 horitas y ya está, no más,
+
+170
+00:05:37,794 --> 00:05:40,894
+¿vale?
+
+171
+00:05:38,794 --> 00:05:42,894
+Y en España Londres es de 9:30 a 11:30
+
+172
+00:05:40,894 --> 00:05:44,094
+de la mañana. A partir de las 11:30 en
+
+173
+00:05:42,894 --> 00:05:45,994
+España
+
+174
+00:05:44,094 --> 00:05:47,794
+entre 11:30 y 3, que es cuando abre
+
+175
+00:05:45,994 --> 00:05:49,294
+Nueva York, está paradito. A mí no me
+
+176
+00:05:47,794 --> 00:05:50,794
+gusta, lo considero de baja probabilidad
+
+177
+00:05:49,294 --> 00:05:53,194
+por experiencia, por muchas horas que he
+
+178
+00:05:50,794 --> 00:05:54,394
+hecho de backtesting de Londres.
+
+179
+00:05:53,194 --> 00:05:55,794
+Y después tenemos la sesión de Nueva
+
+180
+00:05:54,394 --> 00:05:57,794
+York, la famosa sesión de Nueva York que
+
+181
+00:05:55,794 --> 00:06:01,194
+es de 9:30 a 11 horario Estados Unidos y
+
+182
+00:05:57,794 --> 00:06:03,294
+de 3:30 a 5:30 en ehm
+
+183
+00:06:01,194 --> 00:06:05,594
+o sea, de 3:30 a 5, perdonar,
+
+184
+00:06:03,294 --> 00:06:07,395
+en España, ¿vale? Entonces, ¿qué pasa
+
+185
+00:06:05,594 --> 00:06:09,095
+con la sesión de Londres? Tampoco vais a
+
+186
+00:06:07,395 --> 00:06:10,495
+estar operándola, ¿vale? Ha llegado un
+
+187
+00:06:09,095 --> 00:06:11,895
+momento en el que yo sí que opero
+
+188
+00:06:10,495 --> 00:06:14,095
+Londres muchas veces, a veces opero
+
+189
+00:06:11,895 --> 00:06:16,195
+Asia, pero porque estoy en un punto en
+
+190
+00:06:14,095 --> 00:06:18,095
+el que me puedo permitir operar Londres
+
+191
+00:06:16,195 --> 00:06:20,095
+y Asia. ¿Por qué te puedes permitir
+
+192
+00:06:18,095 --> 00:06:21,295
+operar Londres y Asia? Lo primero, llevo
+
+193
+00:06:20,095 --> 00:06:22,795
+un montón de tiempo haciendo, bueno, un
+
+194
+00:06:21,295 --> 00:06:24,995
+montón de tiempo, llevo ya casi dos años
+
+195
+00:06:22,795 --> 00:06:26,195
+haciendo trading. Lo segundo, he llegado
+
+196
+00:06:24,995 --> 00:06:27,595
+a un punto en el que mi manera de
+
+197
+00:06:26,195 --> 00:06:29,895
+gestionar las cuentas de fondeo, que ya
+
+198
+00:06:27,595 --> 00:06:31,595
+lo veréis más adelante, pues necesito o
+
+199
+00:06:29,895 --> 00:06:33,695
+al menos me va bien para mi operativa
+
+200
+00:06:31,595 --> 00:06:35,295
+asegurar ciertos días mínimos, que no
+
+201
+00:06:33,695 --> 00:06:36,695
+sabéis lo que son aún, pero además
+
+202
+00:06:35,295 --> 00:06:38,395
+ciertos requisitos que me hacen cumplir
+
+203
+00:06:36,695 --> 00:06:40,695
+las cuentas de fondeo. A mí me gusta
+
+204
+00:06:38,395 --> 00:06:42,295
+hacerlo en Londres y Asia, además de que
+
+205
+00:06:40,695 --> 00:06:44,195
+tengo el dinero para hacerlo. Como ya he
+
+206
+00:06:42,295 --> 00:06:46,095
+retirado muchísimo dinero, pues este
+
+207
+00:06:44,195 --> 00:06:47,695
+dinero me permite reinvertir en más
+
+208
+00:06:46,095 --> 00:06:48,995
+cuentas y tener unas cuentas para operar
+
+209
+00:06:47,695 --> 00:06:51,095
+pues en la sesión de Londres, otras
+
+210
+00:06:48,995 --> 00:06:53,495
+cuentas para para la sesión de Nueva
+
+211
+00:06:51,095 --> 00:06:55,095
+York, pero quiero aclarar que vosotros,
+
+212
+00:06:53,495 --> 00:06:56,695
+por mucho que a mí me veáis en Instagram
+
+213
+00:06:55,095 --> 00:06:58,395
+ un trade en Londres, vosotros no
+
+214
+00:06:56,695 --> 00:06:59,495
+vais a estar operando Londres. Y estoy
+
+215
+00:06:58,395 --> 00:07:00,595
+viendo mucha gente ahora que está
+
+216
+00:06:59,495 --> 00:07:02,395
+empezando a hacer trading, está
+
+217
+00:07:00,595 --> 00:07:04,695
+empezando a operar todas las sesiones y
+
+218
+00:07:02,395 --> 00:07:05,995
+para mí es un error, porque la gente
+
+219
+00:07:04,695 --> 00:07:07,595
+cuando entra a Instagram te ve a ti
+
+220
+00:07:05,995 --> 00:07:09,795
+operando esta sesión,
+
+221
+00:07:07,595 --> 00:07:11,795
+pero lo que no ve es que ya tienes más
+
+222
+00:07:09,795 --> 00:07:13,695
+de X dinero retirado, más de X
+
+223
+00:07:11,795 --> 00:07:15,095
+experiencia y directamente te copian
+
+224
+00:07:13,695 --> 00:07:17,395
+pensando que están en la misma situación
+
+225
+00:07:15,095 --> 00:07:18,395
+que tú. Así que cabe recalcar, no hagáis
+
+226
+00:07:17,395 --> 00:07:19,795
+esto
+
+227
+00:07:18,395 --> 00:07:21,295
+porque yo al principio no lo hacía. Yo
+
+228
+00:07:19,795 --> 00:07:23,095
+mis primeros diez retiros los saqué
+
+229
+00:07:21,295 --> 00:07:24,895
+operando solo Nueva York y siguiendo los
+
+230
+00:07:23,095 --> 00:07:26,695
+parámetros que veréis muchísimo más
+
+231
+00:07:24,895 --> 00:07:28,695
+adelante cuando os explique exactamente
+
+232
+00:07:26,695 --> 00:07:30,495
+qué gestión de riesgo usar y demás, pero
+
+233
+00:07:28,695 --> 00:07:32,695
+solo en una sesión. Todo lo otro es
+
+234
+00:07:30,495 --> 00:07:34,095
+ruido que tenéis que eliminar, ¿vale?
+
+235
+00:07:32,695 --> 00:07:36,295
+Así que quedaros con Nueva York,
+
+236
+00:07:34,095 --> 00:07:37,595
+superimportante. ¿Por qué operamos la
+
+237
+00:07:36,295 --> 00:07:38,795
+sesión de Nueva York? La sesión de
+
+238
+00:07:37,595 --> 00:07:40,495
+Londres no es que no tenga tanta
+
+239
+00:07:38,795 --> 00:07:42,095
+volatilidad como la tan poca volatilidad
+
+240
+00:07:40,495 --> 00:07:44,695
+como de Asia, se mueve un poquito mejor
+
+241
+00:07:42,095 --> 00:07:45,995
+a mi gusto. Si te soy sincero,
+
+242
+00:07:44,695 --> 00:07:47,495
+van un poquito de la mano, ¿vale? A
+
+243
+00:07:45,995 --> 00:07:49,995
+veces Asia se mueve muy bien, a veces
+
+244
+00:07:47,495 --> 00:07:51,695
+Londres no. Son sesiones más paraditas.
+
+245
+00:07:49,995 --> 00:07:53,395
+Londres a veces vais a ver que durante
+
+246
+00:07:51,695 --> 00:07:55,295
+una semana Londres da muchísimas
+
+247
+00:07:53,395 --> 00:07:57,895
+entradas y Nueva York no y viceversa.
+
+248
+00:07:55,295 --> 00:07:59,295
+Pues puede pasar, ¿vale? Esos días, si
+
+249
+00:07:57,895 --> 00:08:00,995
+tú ves que Londres mueve muy bien y
+
+250
+00:07:59,295 --> 00:08:02,995
+estás operando Nueva York, ¿vas a operar
+
+251
+00:08:00,995 --> 00:08:04,695
+Londres? No, vas a quedarte con Nueva
+
+252
+00:08:02,995 --> 00:08:06,695
+York. Si no te da entradas, si haces
+
+253
+00:08:04,695 --> 00:08:07,695
+stop losses, te jodes, te quedas con
+
+254
+00:08:06,695 --> 00:08:09,697
+Nueva York.
+
+255
+00:08:07,695 --> 00:08:11,297
+Y operamos Nueva York, ¿vale? O sea,
+
+256
+00:08:09,697 --> 00:08:13,297
+cabe recalcar, perdonar también, que yo
+
+257
+00:08:11,297 --> 00:08:14,897
+cuando opero la sesión de Londres suelo
+
+258
+00:08:13,297 --> 00:08:16,397
+operar cuentas a las que les doy menos
+
+259
+00:08:14,897 --> 00:08:18,597
+importancia. Suelo operar, para que lo
+
+260
+00:08:16,397 --> 00:08:20,097
+entendáis, las cuentas malas, ¿vale? Y
+
+261
+00:08:18,597 --> 00:08:22,097
+en la sesión de Nueva York sí que es
+
+262
+00:08:20,097 --> 00:08:24,397
+realmente donde toda la operativa que os
+
+263
+00:08:22,097 --> 00:08:26,197
+he enseñado se se transforma aquí y todo
+
+264
+00:08:24,397 --> 00:08:27,497
+lo que queda. Pero la sesión de Nueva
+
+265
+00:08:26,197 --> 00:08:29,397
+York es la más importante y es la que
+
+266
+00:08:27,497 --> 00:08:31,497
+nosotros operamos porque es justo cuando
+
+267
+00:08:29,397 --> 00:08:33,697
+abre abre la bolsa en Nueva York, es la
+
+268
+00:08:31,497 --> 00:08:35,397
+apertura de Nueva York y es la apertura
+
+269
+00:08:33,697 --> 00:08:38,197
+que tiene más volatilidad de todas, es
+
+270
+00:08:35,397 --> 00:08:39,797
+donde entran muchísimas órdenes y ¿eso
+
+271
+00:08:38,197 --> 00:08:41,697
+qué hace? Que el precio mueva rangos
+
+272
+00:08:39,797 --> 00:08:44,897
+supergrandes y a nosotros nos nos
+
+273
+00:08:41,697 --> 00:08:46,097
+interesa y también el precio
+
+274
+00:08:44,897 --> 00:08:47,697
+eh o sea, las velas dan un
+
+275
+00:08:46,097 --> 00:08:49,697
+desplazamiento y tienen una volatilidad
+
+276
+00:08:47,697 --> 00:08:51,697
+muy grande que para nuestro sistema, que
+
+277
+00:08:49,697 --> 00:08:53,497
+es entrar a partir de inverse fair value
+
+278
+00:08:51,697 --> 00:08:54,997
+gaps, nos interesa que el precio tenga
+
+279
+00:08:53,497 --> 00:08:57,097
+fuerza a la hora de entrar. Además de
+
+280
+00:08:54,997 --> 00:08:58,597
+que he backtesteado todo y lo que me da
+
+281
+00:08:57,097 --> 00:09:00,697
+mejor porcentaje de acierto y mejores
+
+282
+00:08:58,597 --> 00:09:03,697
+trades es la sesión de Nueva York. Así
+
+283
+00:09:00,697 --> 00:09:05,197
+que no dudéis en eh operar Nueva York.
+
+284
+00:09:03,697 --> 00:09:07,797
+Con esto y un bizcocho, ya lo tenéis
+
+285
+00:09:05,197 --> 00:09:10,097
+todo, ¿vale? Eh en la operativa veréis
+
+286
+00:09:07,797 --> 00:09:11,897
+exactamente a qué horas exactas opero yo
+
+287
+00:09:10,097 --> 00:09:13,097
+en Nueva York, qué tipo de entradas me
+
+288
+00:09:11,897 --> 00:09:15,997
+gustan más dependiendo de la hora,
+
+289
+00:09:13,097 --> 00:09:17,897
+porque dentro de esta hora y media hay
+
+290
+00:09:15,997 --> 00:09:19,897
+muchas cosas, ¿vale? Hay muchas muchas
+
+291
+00:09:17,897 --> 00:09:21,597
+cosas que vais a flipar y es superguay
+
+292
+00:09:19,897 --> 00:09:23,197
+porque tengo leída cada la hora y media
+
+293
+00:09:21,597 --> 00:09:25,697
+la tengo leída de cada día, es
+
+294
+00:09:23,197 --> 00:09:27,697
+increíble. Y por lo demás, pues quedaros
+
+295
+00:09:25,697 --> 00:09:28,897
+con eso. Más adelante en la bootcamp, si
+
+296
+00:09:27,697 --> 00:09:30,797
+veo que lo pedís en estos comentarios,
+
+297
+00:09:28,897 --> 00:09:32,097
+os voy a explicar cómo opero yo Londres,
+
+298
+00:09:30,797 --> 00:09:33,797
+eh que hay mucha gente que me lo pide,
+
+299
+00:09:32,097 --> 00:09:36,097
+pero por lo demás, quedaros con que vais
+
+300
+00:09:33,797 --> 00:09:38,097
+a operar Nueva York de 9:30 a 11 en
+
+301
+00:09:36,097 --> 00:09:40,997
+España, de 3:30 a 5. Y alguien me me va
+
+302
+00:09:38,097 --> 00:09:42,897
+a preguntar en los comentarios, Xavi,
+
+303
+00:09:40,997 --> 00:09:44,597
+es que yo tengo uni o trabajo o lo que
+
+304
+00:09:42,897 --> 00:09:46,297
+sea a la hora de Nueva York y solo tengo
+
+305
+00:09:44,597 --> 00:09:47,997
+las mañanas libres. ¿Se puede ganar
+
+306
+00:09:46,297 --> 00:09:49,797
+dinero con el trading operando Londres?
+
+307
+00:09:47,997 --> 00:09:51,797
+Obviamente. ¿Se aplica, Xavi, tu
+
+308
+00:09:49,797 --> 00:09:54,097
+estrategia igual en Londres? Sí,
+
+309
+00:09:51,797 --> 00:09:55,297
+funciona, no de la misma manera, eh
+
+310
+00:09:54,097 --> 00:09:56,897
+porque la sesión de Nueva York veréis
+
+311
+00:09:55,297 --> 00:09:58,697
+que para cada hora tengo algo, pero sí
+
+312
+00:09:56,897 --> 00:10:00,397
+que funciona porque el precio, además de
+
+313
+00:09:58,697 --> 00:10:01,897
+ser fractal, que significa que se mueve
+
+314
+00:10:00,397 --> 00:10:03,697
+de todas la de de la misma forma en
+
+315
+00:10:01,897 --> 00:10:05,097
+todas las temporalidades, también se
+
+316
+00:10:03,697 --> 00:10:06,997
+mueve de la misma hora eh de la misma
+
+317
+00:10:05,097 --> 00:10:08,397
+forma a todas las horas. Es decir, el
+
+318
+00:10:06,997 --> 00:10:09,497
+precio va a ir siempre a buscar fair
+
+319
+00:10:08,397 --> 00:10:11,897
+value gaps, para buscar buy side
+
+320
+00:10:09,497 --> 00:10:13,398
+liquidity, sell side liquidity, liquidez
+
+321
+00:10:11,897 --> 00:10:14,898
+y siempre va a buscar liquidez a través
+
+322
+00:10:13,398 --> 00:10:17,298
+de desequilibrios. Una cosa es que lo
+
+323
+00:10:14,898 --> 00:10:18,698
+haga de manera muy eh volátil y rápida
+
+324
+00:10:17,298 --> 00:10:20,798
+como Nueva York y otra cosa es que en
+
+325
+00:10:18,698 --> 00:10:22,898
+Londres sea más para retail y los trades
+
+326
+00:10:20,798 --> 00:10:25,298
+sean de baja probabilidad. Pero si sabes
+
+327
+00:10:22,898 --> 00:10:26,698
+filtrarlo, testeas Londres y realmente
+
+328
+00:10:25,298 --> 00:10:28,298
+pones tu empeño en aprender de la sesión
+
+329
+00:10:26,698 --> 00:10:29,998
+de Londres, puedes crear tu pequeña
+
+330
+00:10:28,298 --> 00:10:31,698
+ventana de trades que sería entre las 3
+
+331
+00:10:29,998 --> 00:10:33,798
+y las 5:30 horario de Nueva York y te
+
+332
+00:10:31,698 --> 00:10:35,698
+iría bastante bien. Pero bueno,
+
+333
+00:10:33,798 --> 00:10:37,498
+vamos a dejarlo por aquí. Eh, espero que
+
+334
+00:10:35,698 --> 00:10:40,598
+hayáis entendido mínimamente lo de las
+
+335
+00:10:37,498 --> 00:10:42,498
+sesiones, es super chill. Eh, y también
+
+336
+00:10:40,598 --> 00:10:43,898
+cabe recalcar, a las 12 de la noche,
+
+337
+00:10:42,498 --> 00:10:45,598
+vosotros vais a ver aquí en España,
+
+338
+00:10:43,898 --> 00:10:47,198
+vale, a las 12 de la noche o a las 6 de
+
+339
+00:10:45,598 --> 00:10:48,798
+la tarde horario de Nueva York, si
+
+340
+00:10:47,198 --> 00:10:49,898
+entráis, vais a ver que el mercado se
+
+341
+00:10:48,798 --> 00:10:51,498
+mueve.
+
+342
+00:10:49,898 --> 00:10:53,798
+¿El mercado está cerrado a esa hora? No,
+
+343
+00:10:51,498 --> 00:10:55,598
+eso es el premarket, ¿vale? Premarket es
+
+344
+00:10:53,798 --> 00:10:57,698
+básicamente Eh, ahora me he dejado una
+
+345
+00:10:55,598 --> 00:10:59,998
+cosa de explicar, tru tru tru. ¿Vale? El
+
+346
+00:10:57,698 --> 00:11:03,498
+premarket es básicamente
+
+347
+00:10:59,998 --> 00:11:06,398
+eh la preapertura, ¿vale? Entonces, de 6
+
+348
+00:11:03,498 --> 00:11:07,898
+a 8 de la tarde horario horario Londres,
+
+349
+00:11:06,398 --> 00:11:09,898
+que sería a las 12 de la noche horario
+
+350
+00:11:07,898 --> 00:11:11,598
+España, es lo peor que puedes hacer
+
+351
+00:11:09,898 --> 00:11:13,298
+porque es preapertura de Asia, es decir,
+
+352
+00:11:11,598 --> 00:11:17,098
+si Asia ya es la peor sesión, imagínate
+
+353
+00:11:13,298 --> 00:11:18,398
+la preapertura. Es horrible. Y después
+
+354
+00:11:17,098 --> 00:11:20,098
+vosotros diréis, vale, ¿pero qué pasa
+
+355
+00:11:18,398 --> 00:11:22,898
+después de las 5 de la tarde en España o
+
+356
+00:11:20,098 --> 00:11:25,698
+después de las 11? Ahí tenéis New York
+
+357
+00:11:22,898 --> 00:11:27,498
+Lunch y New York PM. New York
+
+358
+00:11:25,698 --> 00:11:29,198
+Lunch, perdonad, es básicamente la hora
+
+359
+00:11:27,498 --> 00:11:31,798
+de comer en Nueva York, a partir de las
+
+360
+00:11:29,198 --> 00:11:33,498
+12 o así empieza y es básicamente donde
+
+361
+00:11:31,798 --> 00:11:35,498
+la gente se va a comer, el volumen baja
+
+362
+00:11:33,498 --> 00:11:37,698
+un montón, la peor hora que puedes
+
+363
+00:11:35,498 --> 00:11:39,898
+operar. Y después tienes New York PM,
+
+364
+00:11:37,698 --> 00:11:41,698
+que no sé si empieza a las 5
+
+365
+00:11:39,898 --> 00:11:45,098
+o así horario España,
+
+366
+00:11:41,698 --> 00:11:46,498
+sobre las 2 3 y tienes New York PM,
+
+367
+00:11:45,098 --> 00:11:49,198
+vale, que es básicamente un after del
+
+368
+00:11:46,498 --> 00:11:50,998
+New York AM. Pero nosotros queremos ehm
+
+369
+00:11:49,198 --> 00:11:53,498
+operar New York
+
+370
+00:11:50,998 --> 00:11:55,198
+AM siempre, ¿vale? Siempre siempre
+
+371
+00:11:53,498 --> 00:11:56,998
+siempre. Y para alguien que quiera
+
+372
+00:11:55,198 --> 00:11:59,798
+buscar básicamente algún indicador, pues
+
+373
+00:11:56,998 --> 00:12:01,498
+podéis iros a indicadores y ponéis aquí
+
+374
+00:11:59,798 --> 00:12:02,698
+ehm
+
+375
+00:12:01,498 --> 00:12:05,398
+Mirar.
+
+376
+00:12:02,698 --> 00:12:08,198
+Eh, sessions. A ver, seguro que hay
+
+377
+00:12:05,398 --> 00:12:08,198
+algo. Eh,
+
+378
+00:12:12,898 --> 00:12:19,499
+Session Indicator, clicas ย
+
+379
+00:12:16,499 --> 00:12:21,999
+¿Veis? Este es un indicador básicamente.
+
+380
+00:12:19,499 --> 00:12:23,999
+Tienes sesión de Asia, sesión de
+
+381
+00:12:21,999 --> 00:12:26,299
+Londres, sesión de Nueva York. Voy a dar
+
+382
+00:12:23,999 --> 00:12:28,599
+lo que os he explicado. Sesión de Asia
+
+383
+00:12:26,299 --> 00:12:30,299
+lateral, sesión de Londres un poquito
+
+384
+00:12:28,599 --> 00:12:32,499
+menos lateral pero lateral, sesión de
+
+385
+00:12:30,299 --> 00:12:34,799
+Nueva York da un movimiento 10 veces más
+
+386
+00:12:32,499 --> 00:12:37,599
+grande. ¿Qué tenemos por aquí?
+
+387
+00:12:34,799 --> 00:12:39,599
+Sesión de Asia, sesión de Londres,
+
+388
+00:12:37,599 --> 00:12:41,499
+sesión de Nueva York brutal. Hay veces
+
+389
+00:12:39,599 --> 00:12:42,899
+que van a estar casi todas igual, pero
+
+390
+00:12:41,499 --> 00:12:44,299
+la mayoría de veces veis que Nueva York
+
+391
+00:12:42,899 --> 00:12:46,099
+es el más grande, el cuadrado más
+
+392
+00:12:44,299 --> 00:12:47,499
+grande. Mirar, flipar.
+
+393
+00:12:46,099 --> 00:12:48,699
+Siempre es donde hay más volatilidad,
+
+394
+00:12:47,499 --> 00:12:50,599
+por eso siempre vamos a estar operando
+
+395
+00:12:48,699 --> 00:12:52,499
+Nueva York, ¿vale? Y podéis poneros este
+
+396
+00:12:50,599 --> 00:12:55,599
+indicador yo qué sé. Y yo no lo uso
+
+397
+00:12:52,499 --> 00:12:58,899
+porque me fijo, pero y aquí vais a
+
+398
+00:12:55,599 --> 00:13:00,199
+estilo, show Frankfurt lo quitáis y no
+
+399
+00:12:58,899 --> 00:13:02,599
+sé, aquí lo podéis personalizar como
+
+400
+00:13:00,199 --> 00:13:04,399
+queráis, ¿vale? Pero puedes ver las
+
+401
+00:13:02,599 --> 00:13:06,599
+horas, por ejemplo.
+
+402
+00:13:04,399 --> 00:13:08,099
+Aquí dice el indicador, ¿vale? El
+
+403
+00:13:06,599 --> 00:13:10,499
+indicador te marca que Nueva York
+
+404
+00:13:08,099 --> 00:13:12,999
+empieza a las 8. Ese es el pre market de
+
+405
+00:13:10,499 --> 00:13:15,299
+Nueva York. Para mí Nueva York empieza a
+
+406
+00:13:12,999 --> 00:13:16,799
+las 9:30 que sería justo aquí. Eso lo
+
+407
+00:13:15,299 --> 00:13:18,899
+puedes configurar tú y ya os he dicho
+
+408
+00:13:16,799 --> 00:13:20,599
+que eh dependiendo de la hora y del
+
+409
+00:13:18,899 --> 00:13:21,999
+sitio, por ejemplo aquí Londres veis que
+
+410
+00:13:20,599 --> 00:13:23,699
+empieza justo a las 3, aquí abajo de
+
+411
+00:13:21,999 --> 00:13:25,199
+todo tenéis que mirarlo. Aquí Londres
+
+412
+00:13:23,699 --> 00:13:27,199
+empieza a las 3 y aquí marcan que
+
+413
+00:13:25,199 --> 00:13:29,699
+Londres es de 3 a 8. ¿Por qué es así?
+
+414
+00:13:27,199 --> 00:13:32,399
+Sí. ¿Qué es lo que pasa? Que para mí la
+
+415
+00:13:29,699 --> 00:13:34,599
+probabilidad alta es de 3 a 5:30, es
+
+416
+00:13:32,399 --> 00:13:36,699
+decir, hasta aquí. Para mí este Londres
+
+417
+00:13:34,599 --> 00:13:37,699
+es la probabilidad alta y todo esto no.
+
+418
+00:13:36,699 --> 00:13:40,299
+Pero es lo que os digo, que podéis
+
+419
+00:13:37,699 --> 00:13:41,399
+indagar, buscar a vuestro gusto y demás.
+
+420
+00:13:40,299 --> 00:13:42,899
+Yo voy a borrar este indicador que me
+
+421
+00:13:41,399 --> 00:13:45,099
+está dando
+
+422
+00:13:42,899 --> 00:13:48,899
+un problema me está casi mis ojos casi
+
+423
+00:13:45,099 --> 00:13:50,599
+se vuelven locos. Pero eso, chavales.
+
+424
+00:13:48,899 --> 00:13:53,999
+Un abrazo, que vaya bien. Disfrutar del
+
+425
+00:13:50,599 --> 00:13:53,999
+vídeo de mañana porque es un banger.
+

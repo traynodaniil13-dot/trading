@@ -1,0 +1,2176 @@
+1
+00:00:00,520 --> 00:00:05,640
+Bienvenidos a La liquidez parte uno.
+
+2
+00:00:03,959 --> 00:00:08,120
+Este es uno de los conceptos para mí más
+
+3
+00:00:05,640 --> 00:00:09,679
+difíciles de entender y sobre todo de
+
+4
+00:00:08,120 --> 00:00:11,519
+explicar porque es la primera vez,
+
+5
+00:00:09,679 --> 00:00:13,480
+bueno, la segunda vez que lo explico
+
+6
+00:00:11,519 --> 00:00:15,839
+para principiantes. Así que primero de
+
+7
+00:00:13,480 --> 00:00:17,560
+todo os voy a explicar exactamente la
+
+8
+00:00:15,839 --> 00:00:19,600
+liquidez de la forma en la que yo lo
+
+9
+00:00:17,560 --> 00:00:20,880
+entiendo, de la forma en la que a mí me
+
+10
+00:00:19,600 --> 00:00:24,080
+lo han explicado y de la forma en la que
+
+11
+00:00:20,880 --> 00:00:25,840
+me lo han enseñado y de una forma en la
+
+12
+00:00:24,080 --> 00:00:27,960
+que, repito, a mí me va bien para
+
+13
+00:00:25,840 --> 00:00:30,320
+entenderlo, ¿vale? Yo no necesito saber
+
+14
+00:00:27,960 --> 00:00:31,880
+qué hay detrás del mercado, no saber, no
+
+15
+00:00:30,320 --> 00:00:36,200
+sé, no necesito saber tantas cosas,
+
+16
+00:00:31,880 --> 00:00:37,239
+¿vale? Yo si me funciona lo aplico y
+
+17
+00:00:36,200 --> 00:00:38,680
+algo que me ha ayudado mucho en mi
+
+18
+00:00:37,239 --> 00:00:41,079
+trading, como sabéis, es no sobre
+
+19
+00:00:38,680 --> 00:00:43,280
+complicar las cosas. Así que si hay
+
+20
+00:00:41,079 --> 00:00:44,760
+alguien hater, algún hater de mi manera
+
+21
+00:00:43,280 --> 00:00:46,280
+de explicarlo o porque él entiende el
+
+22
+00:00:44,760 --> 00:00:49,079
+mercado de otra forma o porque
+
+23
+00:00:46,280 --> 00:00:50,719
+simplemente eh ICT lo explica de otra
+
+24
+00:00:49,079 --> 00:00:53,079
+forma que no es la mía, es totalmente
+
+25
+00:00:50,719 --> 00:00:55,120
+válido. Pero por eso quiero deciros que
+
+26
+00:00:53,079 --> 00:00:56,920
+yo lo voy a explicar a mi manera, ¿vale?
+
+27
+00:00:55,120 --> 00:00:58,399
+y a una manera en la que a mí me
+
+28
+00:00:56,920 --> 00:01:00,359
+funciona y en la que yo entiendo el
+
+29
+00:00:58,399 --> 00:01:02,079
+mercado. Hay mucha gente que os dice que
+
+30
+00:01:00,359 --> 00:01:04,119
+el mercado es un algoritmo, que el
+
+31
+00:01:02,079 --> 00:01:06,080
+mercado no sé qué. Puede ser, ¿vale?
+
+32
+00:01:04,119 --> 00:01:08,119
+Puede ser, pero es que no tengo ni idea.
+
+33
+00:01:06,080 --> 00:01:10,560
+Entonces, yo voy a explicaros lo que sé,
+
+34
+00:01:08,119 --> 00:01:12,640
+¿vale? Repito, lo primero de todo,
+
+35
+00:01:10,560 --> 00:01:14,720
+tenemos que entender que todo está lleno
+
+36
+00:01:12,640 --> 00:01:16,960
+de liquidez, ¿vale? ¿Qué es la liquidez?
+
+37
+00:01:14,720 --> 00:01:19,360
+La liquidez es dinero. Yo entiendo que
+
+38
+00:01:16,960 --> 00:01:21,960
+la liquidez es dinero, ¿vale? Y en cada
+
+39
+00:01:19,360 --> 00:01:23,960
+alto y bajo tenemos liquidez, pero no
+
+40
+00:01:21,960 --> 00:01:26,320
+toda esta liquidez tiene la misma
+
+41
+00:01:23,960 --> 00:01:28,640
+importancia. ¿Qué significa esto? Que en
+
+42
+00:01:26,320 --> 00:01:31,840
+temporalidades altas, como puede ser 15
+
+43
+00:01:28,640 --> 00:01:34,600
+minutos, 1 hora o 4 horas, la liquidez
+
+44
+00:01:31,840 --> 00:01:37,600
+es más importante. ¿Por qué? Porque si
+
+45
+00:01:34,600 --> 00:01:40,439
+sabemos que una vela de una hora tiene
+
+46
+00:01:37,600 --> 00:01:42,799
+eh
+
+47
+00:01:40,439 --> 00:01:44,840
+dos velas de 30 minutos y que dos velas
+
+48
+00:01:42,799 --> 00:01:47,600
+de 30 minutos tienen seis velas de 5
+
+49
+00:01:44,840 --> 00:01:49,600
+minutos, es obvio que dentro de una vela
+
+50
+00:01:47,600 --> 00:01:52,719
+de una hora habrá un montón de velas de
+
+51
+00:01:49,600 --> 00:01:54,880
+5 minutos, habrá 60 velas de 1 minuto.
+
+52
+00:01:52,719 --> 00:01:56,680
+Por lo tanto, ¿qué es mejor?
+
+53
+00:01:54,880 --> 00:01:58,600
+un alto de un minuto o un alto de una
+
+54
+00:01:56,680 --> 00:02:00,520
+hora. Un alto de una hora porque es como
+
+55
+00:01:58,600 --> 00:02:03,079
+si hubiesen 60 velas de un minuto,
+
+56
+00:02:00,520 --> 00:02:05,079
+¿vale? No sé si me explico. Por lo
+
+57
+00:02:03,079 --> 00:02:07,399
+tanto, en este caso, eh las
+
+58
+00:02:05,079 --> 00:02:09,599
+temporalidades altas tienen mayor peso
+
+59
+00:02:07,399 --> 00:02:11,080
+que las temporalidades bajas. Significa
+
+60
+00:02:09,599 --> 00:02:13,080
+que no vamos a estarla usando la
+
+61
+00:02:11,080 --> 00:02:14,280
+liquidez de la temporalidad baja, ¿no?
+
+62
+00:02:13,080 --> 00:02:16,400
+Esto lo veremos más adelante en los
+
+63
+00:02:14,280 --> 00:02:18,000
+tipos de liquidez, en la parte dos, pero
+
+64
+00:02:16,400 --> 00:02:20,560
+de momento tener en cuenta que las
+
+65
+00:02:18,000 --> 00:02:22,360
+temporalidades altas mandan. Una vez
+
+66
+00:02:20,560 --> 00:02:24,319
+entendemos esto, tenemos que entender
+
+67
+00:02:22,360 --> 00:02:26,760
+que es un swing high y que es un swing
+
+68
+00:02:24,319 --> 00:02:28,280
+low, ¿vale? Lo que vosotros vais a hacer
+
+69
+00:02:26,760 --> 00:02:30,160
+y luego vamos a ver ejemplo, si vosotros
+
+70
+00:02:28,280 --> 00:02:33,160
+vais a tener un poco de homework, de
+
+71
+00:02:30,160 --> 00:02:35,760
+deberes, es marcar los swing highs y
+
+72
+00:02:33,160 --> 00:02:38,080
+swing lows. ¿Qué es? Básicamente son
+
+73
+00:02:35,760 --> 00:02:39,959
+altos y bajos de un rango que son
+
+74
+00:02:38,080 --> 00:02:42,519
+prominentes. ¿Qué quiere decir? son
+
+75
+00:02:39,959 --> 00:02:44,599
+altos y bajos de un rango que son
+
+76
+00:02:42,519 --> 00:02:47,599
+importantes, que resaltan, que
+
+77
+00:02:44,599 --> 00:02:50,640
+despuntan, que están en básicamente los
+
+78
+00:02:47,599 --> 00:02:53,440
+dos extremos de eh el gráfico. En este
+
+79
+00:02:50,640 --> 00:02:54,840
+ejemplo, como veis, tenemos un eh la
+
+80
+00:02:53,440 --> 00:02:56,000
+liquidez, ¿vale?, que es equivalente al
+
+81
+00:02:54,840 --> 00:02:58,080
+dinero, como veis, el dibujito del
+
+82
+00:02:56,000 --> 00:03:00,800
+dinero, que es un alto y tenéis también
+
+83
+00:02:58,080 --> 00:03:02,879
+aquí liquidez, que es un bajo. Entonces,
+
+84
+00:03:00,800 --> 00:03:05,799
+¿qué es lo que hace el mercado y cómo yo
+
+85
+00:03:02,879 --> 00:03:07,480
+entiendo el mercado? Las instituciones,
+
+86
+00:03:05,799 --> 00:03:08,959
+¿vale? Suponemos que las instituciones,
+
+87
+00:03:07,480 --> 00:03:11,400
+que los bancos, que las grandes empresas
+
+88
+00:03:08,959 --> 00:03:12,840
+mueven el mercado, que repito, puede que
+
+89
+00:03:11,400 --> 00:03:14,680
+no sea así, pero yo lo entiendo así, me
+
+90
+00:03:12,840 --> 00:03:17,080
+lo explicaron así, supongamos que las
+
+91
+00:03:14,680 --> 00:03:19,120
+instituciones mueven el mercado y para
+
+92
+00:03:17,080 --> 00:03:21,239
+que estas instituciones puedan poner su
+
+93
+00:03:19,120 --> 00:03:23,280
+orden de, ya sea de venta o de compra,
+
+94
+00:03:21,239 --> 00:03:26,080
+necesitan que haya liquidez, necesitan
+
+95
+00:03:23,280 --> 00:03:27,680
+que haya el suficiente eh la suficiente
+
+96
+00:03:26,080 --> 00:03:30,239
+cantidad de órdenes disponibles para que
+
+97
+00:03:27,680 --> 00:03:32,959
+ellos puedan básicamente meter todo su
+
+98
+00:03:30,239 --> 00:03:34,959
+dinero. Entonces, tú sabes que cuando
+
+99
+00:03:32,959 --> 00:03:36,439
+alguien compra, o sea, para en el
+
+100
+00:03:34,959 --> 00:03:38,560
+mercado para que haya una compra tiene
+
+101
+00:03:36,439 --> 00:03:41,280
+que haber una venta y viceversa, ¿no?
+
+102
+00:03:38,560 --> 00:03:43,799
+Entonces, supongamos que hay gente que
+
+103
+00:03:41,280 --> 00:03:45,439
+ha visto como hemos tocado una zona
+
+104
+00:03:43,799 --> 00:03:46,799
+importante. Dejémoslo en zona importante
+
+105
+00:03:45,439 --> 00:03:48,720
+y entraremos en qué tipo de zonas
+
+106
+00:03:46,799 --> 00:03:50,760
+importantes. Supongamos que hay alguien
+
+107
+00:03:48,720 --> 00:03:52,360
+que tiene una zona marcada importante,
+
+108
+00:03:50,760 --> 00:03:53,760
+ve que tocamos esa zona y de repente
+
+109
+00:03:52,360 --> 00:03:56,040
+empezamos a bajar, ¿vale? Esto es una
+
+110
+00:03:53,760 --> 00:03:59,040
+vela bajista. Hay mucha gente que aquí
+
+111
+00:03:56,040 --> 00:04:02,760
+va a colocar su eh su venta, ¿vale? su
+
+112
+00:03:59,040 --> 00:04:04,400
+eh su dibujo de venta y va a apostar a
+
+113
+00:04:02,760 --> 00:04:06,159
+que el mercado va a bajar, es decir, él
+
+114
+00:04:04,400 --> 00:04:08,280
+va a buscar que el mercado baje hacia
+
+115
+00:04:06,159 --> 00:04:10,040
+abajo. ¿Qué es lo que pasa? Las
+
+116
+00:04:08,280 --> 00:04:12,879
+instituciones saben que la gente que
+
+117
+00:04:10,040 --> 00:04:14,840
+entra en ventas aquí ponen su stoploss
+
+118
+00:04:12,879 --> 00:04:16,160
+aquí, ¿vale? La mayoría ponen su
+
+119
+00:04:14,840 --> 00:04:19,160
+stoploss aquí. Y por cierto, quiero dar
+
+120
+00:04:16,160 --> 00:04:21,000
+créditos a e TV Trading. Yo he aprendido
+
+121
+00:04:19,160 --> 00:04:22,240
+de ellos, sobre todo, y el video de
+
+122
+00:04:21,000 --> 00:04:23,600
+liquidez que me vi es de ellos, por eso
+
+123
+00:04:22,240 --> 00:04:25,320
+es super parecido a la manera en la que
+
+124
+00:04:23,600 --> 00:04:27,120
+explico las cosas porque de verdad que
+
+125
+00:04:25,320 --> 00:04:29,120
+se entiende superb. Así que obviamente
+
+126
+00:04:27,120 --> 00:04:30,720
+si en algún momento este vídeo se hace
+
+127
+00:04:29,120 --> 00:04:32,600
+superviral, pues darle créditos a ellos,
+
+128
+00:04:30,720 --> 00:04:34,840
+porque yo he aprendido de ellos muchas
+
+129
+00:04:32,600 --> 00:04:37,039
+cosas y no quiero que parezca que lo he
+
+130
+00:04:34,840 --> 00:04:38,680
+creado yo. Entonces, una vez entendemos
+
+131
+00:04:37,039 --> 00:04:40,560
+esto y sabemos que la gente que va a
+
+132
+00:04:38,680 --> 00:04:43,199
+buscar cortos va a poner su stoploss en
+
+133
+00:04:40,560 --> 00:04:46,240
+el alto normalmente, el mercado que va a
+
+134
+00:04:43,199 --> 00:04:48,720
+decir, ostras, la gente ha puesto su
+
+135
+00:04:46,240 --> 00:04:50,479
+stoploss aquí, es decir, aquí hay
+
+136
+00:04:48,720 --> 00:04:53,360
+órdenes pendientes, porque cuando tú
+
+137
+00:04:50,479 --> 00:04:55,440
+pones un stop loss, tienes aquí una eh
+
+138
+00:04:53,360 --> 00:04:58,120
+un límite de compra, ¿vale? una compra
+
+139
+00:04:55,440 --> 00:04:59,680
+de stop. Por lo tanto, el mercado, ¿qué
+
+140
+00:04:58,120 --> 00:05:01,919
+es lo que va a hacer? Las instituciones,
+
+141
+00:04:59,680 --> 00:05:04,120
+¿qué van a hacer? van a ir a buscar los
+
+142
+00:05:01,919 --> 00:05:06,039
+stoploss de la gente que equivalen a
+
+143
+00:05:04,120 --> 00:05:09,440
+liquidez y a dinero, es decir, equivalen
+
+144
+00:05:06,039 --> 00:05:12,039
+a dinero y van a este dinero y lo
+
+145
+00:05:09,440 --> 00:05:13,759
+van a usar para poder ellos vender. Por
+
+146
+00:05:12,039 --> 00:05:16,160
+lo tanto, la gente que ha entrado en
+
+147
+00:05:13,759 --> 00:05:18,360
+cortos aquí ah, o sea, va entrar en
+
+148
+00:05:16,160 --> 00:05:20,240
+cortos significa querer que el mercado
+
+149
+00:05:18,360 --> 00:05:23,360
+baje, va a perder y el mercado
+
+150
+00:05:20,240 --> 00:05:26,759
+finalmente va a dar el movimiento bueno
+
+151
+00:05:23,360 --> 00:05:30,240
+dejando otro nivel de liquidez aquí
+
+152
+00:05:26,759 --> 00:05:32,720
+arriba, otro eh punto de dinero, ¿vale?
+
+153
+00:05:30,240 --> 00:05:35,520
+A esto se le llama swing high y pasa
+
+154
+00:05:32,720 --> 00:05:37,120
+exactamente lo mismo con el swing low.
+
+155
+00:05:35,520 --> 00:05:39,759
+El mercado baja, toca una zona
+
+156
+00:05:37,120 --> 00:05:41,759
+relevante, sube, la gente quiere buscar
+
+157
+00:05:39,759 --> 00:05:43,759
+unos largos, se protegen por aquí y el
+
+158
+00:05:41,759 --> 00:05:46,440
+mercado dice, "Ostras, nosotros queremos
+
+159
+00:05:43,759 --> 00:05:48,600
+subir, pero para subir y rellenar todas
+
+160
+00:05:46,440 --> 00:05:50,120
+nuestras órdenes, necesitamos dinero.
+
+161
+00:05:48,600 --> 00:05:52,000
+Vamos a buscar el dinero de esta gente,
+
+162
+00:05:50,120 --> 00:05:53,720
+que la mayoría de veces somos nosotros,
+
+163
+00:05:52,000 --> 00:05:55,680
+y luego vamos a mover el mercado hacia
+
+164
+00:05:53,720 --> 00:05:58,120
+el lado contrario."
+
+165
+00:05:55,680 --> 00:05:59,680
+¿Vale? ¿Entendido? Vamos a ver ahora
+
+166
+00:05:58,120 --> 00:06:02,000
+ejemplos directamente para que vosotros
+
+167
+00:05:59,680 --> 00:06:04,319
+tengáis una idea de lo que puede estar
+
+168
+00:06:02,000 --> 00:06:06,360
+pasando. ¿Vale? En este ejemplo tenemos
+
+169
+00:06:04,319 --> 00:06:08,240
+un buen rango y lo que tenemos que
+
+170
+00:06:06,360 --> 00:06:10,280
+marcarnos es el swing low más relevante
+
+171
+00:06:08,240 --> 00:06:12,240
+y el swing high más relevante. Yo me
+
+172
+00:06:10,280 --> 00:06:15,280
+marco aquí el swing low. ¿Por qué?
+
+173
+00:06:12,240 --> 00:06:18,000
+Porque como veis es el bajo que despunta
+
+174
+00:06:15,280 --> 00:06:21,120
+eh del rango. En este caso sería este
+
+175
+00:06:18,000 --> 00:06:24,199
+bajo de aquí. ¿Por qué no me marco este
+
+176
+00:06:21,120 --> 00:06:26,919
+de aquí?
+
+177
+00:06:24,199 --> 00:06:28,240
+O sea, perdonar, es este bajo de aquí.
+
+178
+00:06:26,919 --> 00:06:30,800
+Una cosa que me faltaba añadir, que me
+
+179
+00:06:28,240 --> 00:06:34,520
+acabo de dar cuenta, es que este alto y
+
+180
+00:06:30,800 --> 00:06:36,120
+este bajo, ¿vale?, no hace falta que sea
+
+181
+00:06:34,520 --> 00:06:38,160
+del del mismo color la vena, es decir,
+
+182
+00:06:36,120 --> 00:06:40,280
+no hace falta que sea verde verde roja,
+
+183
+00:06:38,160 --> 00:06:42,759
+en este caso gris gris negra o negra
+
+184
+00:06:40,280 --> 00:06:44,520
+negra gris. ¿Por qué? Porque nosotros os
+
+185
+00:06:42,759 --> 00:06:45,759
+hemos explicado que es un alto. O sea,
+
+186
+00:06:44,520 --> 00:06:47,199
+yo te he explicado que es un alto y que
+
+187
+00:06:45,759 --> 00:06:48,880
+es un bajo, que es alto, vel hacia
+
+188
+00:06:47,199 --> 00:06:50,800
+arriba y vela hacia abajo. Y bajo, vela
+
+189
+00:06:48,880 --> 00:06:52,960
+hacia abajo y v hacia arriba. ¿Qué pasa
+
+190
+00:06:50,800 --> 00:06:54,960
+para este tipo de liquidez? Muchas veces
+
+191
+00:06:52,960 --> 00:06:57,520
+puedes tener aquí vela negra, vela
+
+192
+00:06:54,960 --> 00:07:00,160
+negra, vela roja. O sea, vela gris, vela
+
+193
+00:06:57,520 --> 00:07:02,440
+gris, vela roja o vela negra, vela gris,
+
+194
+00:07:00,160 --> 00:07:03,759
+vela roja y sirve igualmente. ¿Por qué?
+
+195
+00:07:02,440 --> 00:07:06,759
+Porque si nos damos cuenta en este
+
+196
+00:07:03,759 --> 00:07:09,199
+ejemplo, en 15 minutos, ¿vale? en el la
+
+197
+00:07:06,759 --> 00:07:11,440
+temporalidad de 15 minutos. Esto no es
+
+198
+00:07:09,199 --> 00:07:13,919
+un bajo porque si te das cuenta es una
+
+199
+00:07:11,440 --> 00:07:15,319
+vela hacia arriba y otra hacia arriba y
+
+200
+00:07:13,919 --> 00:07:17,440
+luego una hacia arriba y otra hacia
+
+201
+00:07:15,319 --> 00:07:19,720
+abajo, por lo tanto no hay ningún alto,
+
+202
+00:07:17,440 --> 00:07:22,440
+pero si vamos a 5 minutos sí que hay un
+
+203
+00:07:19,720 --> 00:07:23,639
+bajo. Entonces como sabemos que eh
+
+204
+00:07:22,440 --> 00:07:25,479
+dependiendo de la temporalidad vamos a
+
+205
+00:07:23,639 --> 00:07:27,280
+tener un alto o un bajo, yo siempre voy
+
+206
+00:07:25,479 --> 00:07:29,440
+a buscar el bajo de la temporalidad más
+
+207
+00:07:27,280 --> 00:07:31,720
+baja. Y en este caso directamente en 15
+
+208
+00:07:29,440 --> 00:07:33,960
+minutos veo que el punto más bajo del
+
+209
+00:07:31,720 --> 00:07:36,000
+gráfico es esa mecha de ahí. Por lo
+
+210
+00:07:33,960 --> 00:07:38,720
+tanto, voy a estar marcando esa mecha. Y
+
+211
+00:07:36,000 --> 00:07:41,720
+en este caso vemos que creamos aquí pues
+
+212
+00:07:38,720 --> 00:07:43,680
+un alto y esta sería nuestro swing high
+
+213
+00:07:41,720 --> 00:07:45,159
+también podría ser este de aquí, ¿vale?
+
+214
+00:07:43,680 --> 00:07:47,879
+Este sería nuestro swing high y este
+
+215
+00:07:45,159 --> 00:07:49,800
+sería nuestra nuestro swing low. A este
+
+216
+00:07:47,879 --> 00:07:51,960
+swing low y swing high también le llamo
+
+217
+00:07:49,800 --> 00:07:55,280
+yo muchas veces y de hecho la mayoría de
+
+218
+00:07:51,960 --> 00:07:57,960
+veces lo llamo así, byide liquidity,
+
+219
+00:07:55,280 --> 00:07:59,280
+¿vale? Ya os explicaré qué tipos de
+
+220
+00:07:57,960 --> 00:08:00,599
+liquidez hay y qué significa
+
+221
+00:07:59,280 --> 00:08:02,440
+exactamente, pero tenemos by side
+
+222
+00:08:00,599 --> 00:08:05,039
+liquidity, que son normalmente los
+
+223
+00:08:02,440 --> 00:08:06,800
+altos, y sells liquidity, que son los
+
+224
+00:08:05,039 --> 00:08:09,199
+bajos. Así que apuntaroslo porque es
+
+225
+00:08:06,800 --> 00:08:12,240
+bastante importante. Entonces nosotros
+
+226
+00:08:09,199 --> 00:08:14,360
+entendemos que estos swing highs y estos
+
+227
+00:08:12,240 --> 00:08:16,919
+swing lows, esta Bide Liquidity y esta
+
+228
+00:08:14,360 --> 00:08:18,520
+Cells Liquidity, actúan como liquidez y
+
+229
+00:08:16,919 --> 00:08:21,360
+el precio es muy probable que lo vaya a
+
+230
+00:08:18,520 --> 00:08:23,199
+buscar. En este caso, cada vez que
+
+231
+00:08:21,360 --> 00:08:25,360
+creamos un alto o un bajo en una
+
+232
+00:08:23,199 --> 00:08:27,720
+temporalidad alta, creamos y añadimos
+
+233
+00:08:25,360 --> 00:08:29,759
+liquidez. Tenemos aquí un alto, Bed
+
+234
+00:08:27,720 --> 00:08:31,360
+Liquidity, otro alto aquí, Bide
+
+235
+00:08:29,759 --> 00:08:34,080
+Liquidity, otro alto aquí que hemos
+
+236
+00:08:31,360 --> 00:08:36,479
+creado, Bide Liquidity. Y aquí, de
+
+237
+00:08:34,080 --> 00:08:40,039
+hecho, voy a estar apuntándolo para que
+
+238
+00:08:36,479 --> 00:08:42,120
+os quede claro. B Liquidity,
+
+239
+00:08:40,039 --> 00:08:44,600
+Visquidity,
+
+240
+00:08:42,120 --> 00:08:47,640
+Visquidity. ¿Qué hemos creado aquí? Un
+
+241
+00:08:44,600 --> 00:08:50,240
+bajo. Esto es salsa liquidity.
+
+242
+00:08:47,640 --> 00:08:52,640
+Esto es salsa liquidity.
+
+243
+00:08:50,240 --> 00:08:55,320
+Y como veis el precio que hace, acaba de
+
+244
+00:08:52,640 --> 00:08:57,120
+quitar la selliz liquidity, el low más
+
+245
+00:08:55,320 --> 00:08:59,560
+prominente. Yo siempre marco normalmente
+
+246
+00:08:57,120 --> 00:09:01,399
+los lows más prominentes y después de
+
+247
+00:08:59,560 --> 00:09:04,440
+quitar ese bajo de ahí vamos a ver cómo
+
+248
+00:09:01,399 --> 00:09:06,160
+reacciona el precio. ¿Qué hace? Toca esa
+
+249
+00:09:04,440 --> 00:09:08,000
+salsi liquidity. ¿Cuál es la nueva
+
+250
+00:09:06,160 --> 00:09:09,519
+salside liquidity? Esta de aquí. Tenemos
+
+251
+00:09:08,000 --> 00:09:12,240
+una nueva. Por lo tanto, quitamos esto
+
+252
+00:09:09,519 --> 00:09:14,800
+de aquí. Quitamos esto de aquí y tenemos
+
+253
+00:09:12,240 --> 00:09:18,200
+esa sellity. ¿Qué pasa en este
+
+254
+00:09:14,800 --> 00:09:21,279
+escenario? que ahora tenemos tres puntos
+
+255
+00:09:18,200 --> 00:09:24,360
+de liquidez, tenemos tres BSL y tenemos
+
+256
+00:09:21,279 --> 00:09:27,279
+de momento, de momento solo una SSL y
+
+257
+00:09:24,360 --> 00:09:30,040
+sabemos que cuanto más dinero hay pensar
+
+258
+00:09:27,279 --> 00:09:32,760
+que cada línea de estas es dinero,
+
+259
+00:09:30,040 --> 00:09:34,560
+¿vale? Cada línea de estas, a ver si
+
+260
+00:09:32,760 --> 00:09:37,720
+encuentro el emoji del dinero, pero si
+
+261
+00:09:34,560 --> 00:09:41,440
+no lo encuentro, no pasa nada.
+
+262
+00:09:37,720 --> 00:09:43,920
+Vale, cada línea de estas es dinero, por
+
+263
+00:09:41,440 --> 00:09:46,240
+lo tanto, cuanto más dinero hay, más
+
+264
+00:09:43,920 --> 00:09:49,440
+probable es que el precio vaya a buscar
+
+265
+00:09:46,240 --> 00:09:51,480
+estas cosas, ¿no? Y tenemos tres dineros
+
+266
+00:09:49,440 --> 00:09:53,440
+y aquí abajo tenemos solo uno. De
+
+267
+00:09:51,480 --> 00:09:55,959
+momento, ¿qué hace el precio? Vamos a
+
+268
+00:09:53,440 --> 00:09:58,519
+verlo.
+
+269
+00:09:55,959 --> 00:10:03,600
+De momento nada. ¿Qué hace aquí? Deja
+
+270
+00:09:58,519 --> 00:10:03,600
+otra salsa de liquidity, deja otro bajo.
+
+271
+00:10:04,040 --> 00:10:09,399
+¿Y el mercado qué hace?
+
+272
+00:10:07,480 --> 00:10:12,480
+Quita otra vez estos bajos. Siempre que
+
+273
+00:10:09,399 --> 00:10:14,079
+veáis que llegamos a una zona, yo
+
+274
+00:10:12,480 --> 00:10:16,399
+siempre voy a decir, hemos quitado esta
+
+275
+00:10:14,079 --> 00:10:18,000
+liquidez. Como veis, esta mecha ha
+
+276
+00:10:16,399 --> 00:10:20,000
+atravesado estos dos bajos que teníamos
+
+277
+00:10:18,000 --> 00:10:23,000
+marcados. Por lo tanto, pum, pum, lo
+
+278
+00:10:20,000 --> 00:10:24,839
+quitamos. Creamos una nueva Cell Side
+
+279
+00:10:23,000 --> 00:10:27,880
+Liquidity.
+
+280
+00:10:24,839 --> 00:10:30,240
+Y ahora, ¿qué volvemos a tener? Tenemos
+
+281
+00:10:27,880 --> 00:10:33,320
+un nuevo autocreado que es una Pide
+
+282
+00:10:30,240 --> 00:10:36,040
+Liquidity y tenemos solo un billete
+
+283
+00:10:33,320 --> 00:10:38,440
+abajo versus cuatro. Por lo tanto, ¿qué
+
+284
+00:10:36,040 --> 00:10:40,279
+tiene sentido ahora? Que el precio suba
+
+285
+00:10:38,440 --> 00:10:41,720
+y que vaya por todo ese dinero, porque
+
+286
+00:10:40,279 --> 00:10:43,760
+ya no nos interesa solo un
+
+287
+00:10:41,720 --> 00:10:46,040
+billete, tenemos cuatro. Y el precio,
+
+288
+00:10:43,760 --> 00:10:49,120
+como veis,
+
+289
+00:10:46,040 --> 00:10:52,240
+acaba quitando todo. ¿Qué es gracioso
+
+290
+00:10:49,120 --> 00:10:54,160
+aquí? Que quitamos constantemente
+
+291
+00:10:52,240 --> 00:10:56,720
+liquidez hasta que finalmente vamos a
+
+292
+00:10:54,160 --> 00:10:58,880
+por esa liquidity. Obviamente hay
+
+293
+00:10:56,720 --> 00:11:01,120
+maneras de saber cuándo vamos a ir a por
+
+294
+00:10:58,880 --> 00:11:04,800
+esos niveles y cuándo no. Pero en este
+
+295
+00:11:01,120 --> 00:11:04,800
+caso, si os dais cuenta,
+
+296
+00:11:07,240 --> 00:11:11,279
+en este caso
+
+297
+00:11:09,880 --> 00:11:13,920
+he marcado aquí todos los saltos que
+
+298
+00:11:11,279 --> 00:11:16,320
+hemos ido creando y a pesar de que aquí
+
+299
+00:11:13,920 --> 00:11:18,560
+hemos creado seletidity, cada vez que
+
+300
+00:11:16,320 --> 00:11:21,480
+quitamos esta sals liquidity nos deja
+
+301
+00:11:18,560 --> 00:11:23,680
+solo un punto, es decir, aquí tenemos
+
+302
+00:11:21,480 --> 00:11:25,680
+solo una salsa size liquidity, ¿no?
+
+303
+00:11:23,680 --> 00:11:27,360
+Vale, perfecto.
+
+304
+00:11:25,680 --> 00:11:29,639
+El mercado toma esa salsa de liquidity
+
+305
+00:11:27,360 --> 00:11:31,480
+que deja una otra vez, solo una y de
+
+306
+00:11:29,639 --> 00:11:33,800
+mientras que va añadiendo B liquidity,
+
+307
+00:11:31,480 --> 00:11:35,639
+va liquidity va liquidity. ¿Qué vuelve
+
+308
+00:11:33,800 --> 00:11:37,680
+hacer el mercado? Pum, vuelve a quitar
+
+309
+00:11:35,639 --> 00:11:40,120
+esa salsa liquidity, vuelve a crear una
+
+310
+00:11:37,680 --> 00:11:42,279
+salsa liquidity de aquí abajo
+
+311
+00:11:40,120 --> 00:11:45,000
+hasta que finalmente toma la primera, la
+
+312
+00:11:42,279 --> 00:11:46,959
+segunda, la tercera, la cuarta y la
+
+313
+00:11:45,000 --> 00:11:49,160
+quinta. Y aquí ya obviamente puede
+
+314
+00:11:46,959 --> 00:11:51,399
+decidir si se da la vuelta o si no, pero
+
+315
+00:11:49,160 --> 00:11:53,600
+el mercado se mueve constantemente de
+
+316
+00:11:51,399 --> 00:11:54,720
+esta forma. Vale, tengo aquí otro
+
+317
+00:11:53,600 --> 00:11:55,760
+ejemplo. Espero que se esté entiendo
+
+318
+00:11:54,720 --> 00:11:57,200
+bien. Creo que se ha entendido bien lo
+
+319
+00:11:55,760 --> 00:12:00,920
+de los billetes. Si no sabéis
+
+320
+00:11:57,200 --> 00:12:04,279
+exactamente cuándo em, o sea, pensar que
+
+321
+00:12:00,920 --> 00:12:06,639
+hay mucha gente que dice
+
+322
+00:12:04,279 --> 00:12:09,600
+em Vale, hay mucha gente que dice,
+
+323
+00:12:06,639 --> 00:12:11,120
+"Vale, perfecto, hemos quitado toda esta
+
+324
+00:12:09,600 --> 00:12:13,440
+liquidez, ¿vale? Hemos quitado todos
+
+325
+00:12:11,120 --> 00:12:16,240
+estos estos objetivos y tenemos estos
+
+326
+00:12:13,440 --> 00:12:19,440
+altos. Ya estamos listos para subir
+
+327
+00:12:16,240 --> 00:12:22,120
+porque tenemos uno contra cuatro. ¿Vale?
+
+328
+00:12:19,440 --> 00:12:24,920
+¿Cómo sabes si el precio va a quitarlo
+
+329
+00:12:22,120 --> 00:12:26,720
+todo o si el precio primero va a quitar
+
+330
+00:12:24,920 --> 00:12:28,560
+esto varias veces para después quitarlo
+
+331
+00:12:26,720 --> 00:12:31,000
+todo? Eso lo veremos más adelante y os
+
+332
+00:12:28,560 --> 00:12:34,720
+lo enseñaré. ¿Vale? Vamos para el
+
+333
+00:12:31,000 --> 00:12:37,040
+siguiente ejemplo, que es este de aquí.
+
+334
+00:12:34,720 --> 00:12:39,399
+Y si os dais cuenta, aquí podemos marcar
+
+335
+00:12:37,040 --> 00:12:41,399
+lo más importante del rango, ¿vale? En
+
+336
+00:12:39,399 --> 00:12:43,160
+este caso, yo que lo vea, lo más
+
+337
+00:12:41,399 --> 00:12:45,639
+importante del rango, pues es este alto
+
+338
+00:12:43,160 --> 00:12:47,680
+de aquí que hemos generado y tenemos
+
+339
+00:12:45,639 --> 00:12:50,760
+igual por aquí un bajo en el rango.
+
+340
+00:12:47,680 --> 00:12:52,240
+Entonces, tenemos esa by liquidity y
+
+341
+00:12:50,760 --> 00:12:53,480
+tenemos una salsa liquidity. Aquí
+
+342
+00:12:52,240 --> 00:12:55,199
+simplemente quiero que veáis cómo
+
+343
+00:12:53,480 --> 00:12:58,680
+funciona el mercado y cómo se mueve.
+
+344
+00:12:55,199 --> 00:12:58,680
+¿Qué hace el precio?
+
+345
+00:12:58,720 --> 00:13:03,320
+De momento nada. Va creando más B
+
+346
+00:13:01,160 --> 00:13:05,079
+liquidity. Recuerdo que toda cada vez
+
+347
+00:13:03,320 --> 00:13:07,600
+que creamos esto es más byite. Aquí se
+
+348
+00:13:05,079 --> 00:13:09,040
+ha creado una sellsite en ese low de
+
+349
+00:13:07,600 --> 00:13:11,680
+ahí, en ese bajo de allí, pero no la
+
+350
+00:13:09,040 --> 00:13:16,360
+marco porque ya lo hemos quitado.
+
+351
+00:13:11,680 --> 00:13:16,360
+Y el mercado, mirad qué hace.
+
+352
+00:13:19,279 --> 00:13:26,399
+¿Qué ha hecho el mercado?
+
+353
+00:13:22,279 --> 00:13:29,360
+Teníamos esta viselity aquí.
+
+354
+00:13:26,399 --> 00:13:32,120
+La gente que ha metido una venta aquí o
+
+355
+00:13:29,360 --> 00:13:34,399
+en cualquier nivel de aquí.
+
+356
+00:13:32,120 --> 00:13:35,600
+Como veis, el mercado, ¿qué ha hecho? El
+
+357
+00:13:34,399 --> 00:13:37,600
+mercado ha dicho, las instituciones
+
+358
+00:13:35,600 --> 00:13:40,600
+dicho, ostras, vamos a nuestro
+
+359
+00:13:37,600 --> 00:13:44,519
+dinero, ¿vale? Vamos a llevarnos
+
+360
+00:13:40,600 --> 00:13:46,560
+todo el dinero y ahora vamos a bajar. Y
+
+361
+00:13:44,519 --> 00:13:49,240
+como veis, después de quitar a toda la
+
+362
+00:13:46,560 --> 00:13:50,880
+gente que ha entrado, dejamos una única
+
+363
+00:13:49,240 --> 00:13:55,160
+by side liquidity, que es la nueva que
+
+364
+00:13:50,880 --> 00:13:58,160
+se ha generado. Y ahora que hemos creado
+
+365
+00:13:55,160 --> 00:13:58,160
+sellidity,
+
+366
+00:13:58,279 --> 00:14:02,920
+bajos que están super cerca del objetivo
+
+367
+00:14:00,360 --> 00:14:04,920
+y como veis
+
+368
+00:14:02,920 --> 00:14:08,639
+el mercado va directamente a buscar esa
+
+369
+00:14:04,920 --> 00:14:13,639
+sellity. Una vez quitamos esa sellity,
+
+370
+00:14:08,639 --> 00:14:13,639
+el dinero está aquí. ¿Qué tenemos?
+
+371
+00:14:13,720 --> 00:14:17,320
+una nueva sellity
+
+372
+00:14:18,199 --> 00:14:23,399
+y en cambio tenemos un billete aquí
+
+373
+00:14:24,720 --> 00:14:33,959
+y dos billetes aquí arriba y el precio
+
+374
+00:14:28,360 --> 00:14:33,959
+después de limpiar esta selsa liquidity
+
+375
+00:14:36,440 --> 00:14:41,279
+arranca hasta esa liquidity.
+
+376
+00:14:39,720 --> 00:14:44,160
+Literalmente el mercado se mueve así
+
+377
+00:14:41,279 --> 00:14:46,000
+todo el rato. ¿Qué ha pasado? Vamos
+
+378
+00:14:44,160 --> 00:14:48,880
+quitando la salside liquidity hasta que
+
+379
+00:14:46,000 --> 00:14:51,320
+dejamos un punto estructural. Y en ese
+
+380
+00:14:48,880 --> 00:14:54,320
+momento, justo en este momento, ¿qué
+
+381
+00:14:51,320 --> 00:14:57,199
+tenemos? Tenemos dos bajos. Vale, puede
+
+382
+00:14:54,320 --> 00:15:00,639
+que tengamos dos bajos.
+
+383
+00:14:57,199 --> 00:15:03,399
+¿Y qué tenemos? Un alto por aquí,
+
+384
+00:15:00,639 --> 00:15:06,399
+dos altos por aquí,
+
+385
+00:15:03,399 --> 00:15:08,519
+tres altos por aquí, cuatro cinco. Y el
+
+386
+00:15:06,399 --> 00:15:11,680
+mercado no se lo piensa.
+
+387
+00:15:08,519 --> 00:15:13,839
+va directamente, ¿vale? Entonces, super
+
+388
+00:15:11,680 --> 00:15:15,959
+importante, ¿qué tenéis que entender?
+
+389
+00:15:13,839 --> 00:15:16,959
+Vale, tenéis que entender, que igual
+
+390
+00:15:15,959 --> 00:15:18,079
+esto sí que os lo tendría que haber
+
+391
+00:15:16,959 --> 00:15:19,600
+explicado al momento, pero creo que lo
+
+392
+00:15:18,079 --> 00:15:21,240
+vais a entender ahora, es que el
+
+393
+00:15:19,600 --> 00:15:24,199
+mercado, esto es super importante que os
+
+394
+00:15:21,240 --> 00:15:26,560
+apuntéis, el mercado se busca, o sea, se
+
+395
+00:15:24,199 --> 00:15:28,759
+mueve buscando liquidez a través de
+
+396
+00:15:26,560 --> 00:15:29,759
+imbalance, de imbalances. Los imbalances
+
+397
+00:15:28,759 --> 00:15:32,440
+los vamos a ver en el siguiente
+
+398
+00:15:29,759 --> 00:15:36,560
+episodio, pero ya os he explicado que la
+
+399
+00:15:32,440 --> 00:15:37,839
+tendencia al mercado es así,
+
+400
+00:15:36,560 --> 00:15:39,399
+¿vale?
+
+401
+00:15:37,839 --> 00:15:41,120
+Obviamente no es eterno, quiero decir,
+
+402
+00:15:39,399 --> 00:15:44,079
+el mercado no va a hacer así
+
+403
+00:15:41,120 --> 00:15:47,160
+eternamente, ¿vale? Es imposible. Van a
+
+404
+00:15:44,079 --> 00:15:49,399
+haber caídas, van a haber acumulaciones,
+
+405
+00:15:47,160 --> 00:15:52,880
+va a haber de todo un poco, ¿no?
+
+406
+00:15:49,399 --> 00:15:54,880
+Entonces, estos imbalances que yo digo
+
+407
+00:15:52,880 --> 00:15:56,800
+son
+
+408
+00:15:54,880 --> 00:15:58,600
+los retrocesos que hace el mercado,
+
+409
+00:15:56,800 --> 00:16:00,240
+¿vale? Son imbalances que ya vamos a
+
+410
+00:15:58,600 --> 00:16:01,920
+ver, son cuadraditos, pongamos, son
+
+411
+00:16:00,240 --> 00:16:04,440
+imbalances en el que el mercado se
+
+412
+00:16:01,920 --> 00:16:07,240
+mueve. Entonces, ¿qué es lo importante?
+
+413
+00:16:04,440 --> 00:16:09,680
+que muchas veces venimos de un punto
+
+414
+00:16:07,240 --> 00:16:11,519
+estructural como una selliz liquidity y
+
+415
+00:16:09,680 --> 00:16:14,319
+normalmente vamos a buscar una Bide
+
+416
+00:16:11,519 --> 00:16:16,800
+Liquidity. Por lo tanto, el mercado se
+
+417
+00:16:14,319 --> 00:16:19,839
+mueve desde la liquidez, porque aquí,
+
+418
+00:16:16,800 --> 00:16:21,759
+por ejemplo,
+
+419
+00:16:19,839 --> 00:16:23,759
+aquí por ejemplo quitamos esa salsa
+
+420
+00:16:21,759 --> 00:16:25,720
+liquidity, quitamos esa liquidez y a
+
+421
+00:16:23,759 --> 00:16:27,720
+través de imbalances, a través de estos
+
+422
+00:16:25,720 --> 00:16:30,279
+cuadraditos, llegamos hacia una BA
+
+423
+00:16:27,720 --> 00:16:33,279
+Liquidity y ahí el precio puede decidir
+
+424
+00:16:30,279 --> 00:16:36,000
+si quiere ir a por la nueva CELS
+
+425
+00:16:33,279 --> 00:16:38,880
+Liquidity que creamos o si quiere
+
+426
+00:16:36,000 --> 00:16:40,680
+continuar subiendo, porque no siempre va
+
+427
+00:16:38,880 --> 00:16:43,480
+a ser
+
+428
+00:16:40,680 --> 00:16:45,079
+así. By Liquidity, pum, salsa Liquidity.
+
+429
+00:16:43,480 --> 00:16:47,920
+Vale, hemos creado otra Sellside
+
+430
+00:16:45,079 --> 00:16:49,959
+Liquidity, ahora Bide Liquidity, ¿vale?
+
+431
+00:16:47,920 --> 00:16:51,720
+Hemos creado una Bide Liquidity, ahora
+
+432
+00:16:49,959 --> 00:16:53,519
+una sellsit, no va así el precio porque,
+
+433
+00:16:51,720 --> 00:16:55,959
+como veis, acabaríamos moviéndonos todo
+
+434
+00:16:53,519 --> 00:16:58,560
+el rato de la misma forma. Y repito,
+
+435
+00:16:55,959 --> 00:17:00,040
+vamos a ver cuándo sí, cuándo no y
+
+436
+00:16:58,560 --> 00:17:02,360
+demás, ¿vale? Simplemente quiero que
+
+437
+00:17:00,040 --> 00:17:04,120
+entendáis un poco la estructura. Vamos a
+
+438
+00:17:02,360 --> 00:17:05,640
+ir con el último ejemplo en el que
+
+439
+00:17:04,120 --> 00:17:08,240
+quiero que os marquéis aquí el punto más
+
+440
+00:17:05,640 --> 00:17:10,919
+relevante. Como veis, tenemos aquí una
+
+441
+00:17:08,240 --> 00:17:14,679
+Bide Liquidity supercara.
+
+442
+00:17:10,919 --> 00:17:16,439
+Tenemos aquí un bajo del rango.
+
+443
+00:17:14,679 --> 00:17:18,240
+¿Y qué tenemos aquí? Pues un montón de
+
+444
+00:17:16,439 --> 00:17:20,679
+bajos. Tenemos este bajo también super
+
+445
+00:17:18,240 --> 00:17:24,679
+importante.
+
+446
+00:17:20,679 --> 00:17:24,679
+Tenemos aquí también un bajo.
+
+447
+00:17:25,280 --> 00:17:32,880
+Tenemos aquí también un bajo.
+
+448
+00:17:28,640 --> 00:17:32,880
+Y de esta forma, ¿qué hace el precio?
+
+449
+00:17:33,840 --> 00:17:39,200
+Va a quitar toda esa liquidez, toda toda
+
+450
+00:17:37,520 --> 00:17:42,760
+la liquidez. Mirad cómo lo hemos quitado
+
+451
+00:17:39,200 --> 00:17:45,480
+absolutamente todo. Y ahora hemos dejado
+
+452
+00:17:42,760 --> 00:17:47,960
+aquí una B sideide liquidity y la nueva
+
+453
+00:17:45,480 --> 00:17:49,919
+side liquidity que hemos creado, ¿cuál
+
+454
+00:17:47,960 --> 00:17:53,679
+ha sido?
+
+455
+00:17:49,919 --> 00:17:58,520
+Esta de aquí. Y durante esta bajada,
+
+456
+00:17:53,679 --> 00:17:58,520
+¿qué hemos hecho? Hemos dejado
+
+457
+00:17:59,919 --> 00:18:03,400
+variabile liquidity, varios altos.
+
+458
+00:18:02,159 --> 00:18:05,280
+Obviamente la más importante es la de
+
+459
+00:18:03,400 --> 00:18:07,520
+aquí arriba, ¿vale? de arriba del todo,
+
+460
+00:18:05,280 --> 00:18:10,679
+pero hemos dejado diferentes objetivos y
+
+461
+00:18:07,520 --> 00:18:10,679
+el precio
+
+462
+00:18:13,159 --> 00:18:19,520
+acaba decidiendo que es hora de barrer
+
+463
+00:18:15,919 --> 00:18:21,159
+absolutamente toda la liquidez.
+
+464
+00:18:19,520 --> 00:18:23,799
+Y
+
+465
+00:18:21,159 --> 00:18:26,760
+ahí está, acaba con toda. Y después de
+
+466
+00:18:23,799 --> 00:18:29,760
+acabar con toda, crea aquí una nueva P
+
+467
+00:18:26,760 --> 00:18:29,760
+liquidity.
+
+468
+00:18:30,559 --> 00:18:33,559
+¿Y
+
+469
+00:18:35,600 --> 00:18:40,360
+dónde va el precio? Hacia la salsa
+
+470
+00:18:38,039 --> 00:18:42,280
+liquidity que hemos dejado antes con
+
+471
+00:18:40,360 --> 00:18:44,120
+toda esta de aquí abajo. Hemos dejado un
+
+472
+00:18:42,280 --> 00:18:46,640
+montón de salsa liquidity, un montón de
+
+473
+00:18:44,120 --> 00:18:48,880
+billetes
+
+474
+00:18:46,640 --> 00:18:50,440
+y obviamente ahora no vamos a ir a por
+
+475
+00:18:48,880 --> 00:18:52,400
+toda esta. O sea, a ver, obviamente
+
+476
+00:18:50,440 --> 00:18:54,360
+podríamos ir por toda esta liquidez.
+
+477
+00:18:52,400 --> 00:18:55,919
+Aquí tenemos muchos altos, pero es lo
+
+478
+00:18:54,360 --> 00:18:57,520
+que os digo, esto puede pasar o no puede
+
+479
+00:18:55,919 --> 00:18:59,320
+pasar. El mercado no se moverá todo el
+
+480
+00:18:57,520 --> 00:19:01,240
+rato
+
+481
+00:18:59,320 --> 00:19:03,840
+así. Vale, pero es importante saber las
+
+482
+00:19:01,240 --> 00:19:05,600
+zonas de de de a las de donde puede
+
+483
+00:19:03,840 --> 00:19:07,919
+reaccionar. Pero veis, en este caso
+
+484
+00:19:05,600 --> 00:19:10,000
+mercado baja, baja, baja y eventualmente
+
+485
+00:19:07,919 --> 00:19:12,200
+va a decidir si quiere subir o no.
+
+486
+00:19:10,000 --> 00:19:14,039
+Nuestra intención es estar en la hora
+
+487
+00:19:12,200 --> 00:19:16,480
+adecuada, en el momento adecuado y
+
+488
+00:19:14,039 --> 00:19:19,200
+entender de qué zonas y de qué cellite o
+
+489
+00:19:16,480 --> 00:19:20,919
+Bide Liquidity podemos reaccionar. Una
+
+490
+00:19:19,200 --> 00:19:23,320
+vez entendemos esto, vamos a hacer un
+
+491
+00:19:20,919 --> 00:19:25,520
+último recap de las cosas que quiero que
+
+492
+00:19:23,320 --> 00:19:27,960
+entendáis, porque la mayoría de veces lo
+
+493
+00:19:25,520 --> 00:19:31,640
+que vosotros vais a estar buscando es
+
+494
+00:19:27,960 --> 00:19:36,159
+paso uno, márcate tu Bside Liquidity y
+
+495
+00:19:31,640 --> 00:19:36,159
+tu sellity. Vale,
+
+496
+00:19:37,240 --> 00:19:42,640
+paso dos, espérate a que se quite esa B
+
+497
+00:19:40,080 --> 00:19:44,960
+liquidity,
+
+498
+00:19:42,640 --> 00:19:47,159
+¿vale? a que el mercado, a que esas
+
+499
+00:19:44,960 --> 00:19:49,640
+instituciones vayan a por esa liquidez,
+
+500
+00:19:47,159 --> 00:19:52,039
+vayan a por ese dinero, ¿vale? Vayan a
+
+501
+00:19:49,640 --> 00:19:53,799
+por ese cash y una vez si todo está
+
+502
+00:19:52,039 --> 00:19:56,240
+alineado con tus direcciones, que lo
+
+503
+00:19:53,799 --> 00:19:59,120
+estudiaremos más adelante, puedes buscar
+
+504
+00:19:56,240 --> 00:20:01,679
+ese ese trade hacia esa selline
+
+505
+00:19:59,120 --> 00:20:03,440
+liquidity, obviamente siempre y cuando
+
+506
+00:20:01,679 --> 00:20:06,200
+tengas diferentes cosas alineadas,
+
+507
+00:20:03,440 --> 00:20:07,840
+¿vale? Los ejercicios de hoy va a ser
+
+508
+00:20:06,200 --> 00:20:09,720
+básicamente que encontréis ejemplos,
+
+509
+00:20:07,840 --> 00:20:11,440
+¿vale? Que encontréis ejemplos donde os
+
+510
+00:20:09,720 --> 00:20:13,960
+marquéis un alto. Quiero que pilléis el
+
+511
+00:20:11,440 --> 00:20:15,600
+gráfico y disfrutéis. que empecéis a
+
+512
+00:20:13,960 --> 00:20:18,960
+mirar rangos, que empezáis a mirar,
+
+513
+00:20:15,600 --> 00:20:22,440
+ostra, mira, B liquidity, ostra, mira,
+
+514
+00:20:18,960 --> 00:20:25,000
+Salsi Liquidity, ¿qué hacemos? Subimos,
+
+515
+00:20:22,440 --> 00:20:26,600
+la gente entra aquí en compras, nope. No
+
+516
+00:20:25,000 --> 00:20:29,000
+vamos a entrar en compras y pum,
+
+517
+00:20:26,600 --> 00:20:30,640
+acabamos yendo por el objetivo. ¿Vale?
+
+518
+00:20:29,000 --> 00:20:32,280
+Entonces, quiero que hagáis esto, quiero
+
+519
+00:20:30,640 --> 00:20:34,159
+que practiquéis, que realmente sepáis
+
+520
+00:20:32,280 --> 00:20:35,640
+qué zonas os tenéis que marcar y que os
+
+521
+00:20:34,159 --> 00:20:38,360
+quedéis en que la liquidez de alta
+
+522
+00:20:35,640 --> 00:20:40,679
+temporalidad manda. Es más importante,
+
+523
+00:20:38,360 --> 00:20:42,720
+no necesariamente. Bueno, sí que es más
+
+524
+00:20:40,679 --> 00:20:44,520
+importante, pero no siempre, ¿vale? Pero
+
+525
+00:20:42,720 --> 00:20:45,720
+quedaros en qué banda. Así que nada,
+
+526
+00:20:44,520 --> 00:20:48,039
+tíos, espero que os haya molado el
+
+527
+00:20:45,720 --> 00:20:50,000
+vídeo. Formato, o sea, formato, creo que
+
+528
+00:20:48,039 --> 00:20:51,440
+se ha explicado bastante guay. Repito,
+
+529
+00:20:50,000 --> 00:20:53,200
+cualquier duda, cualquier cosa que no
+
+530
+00:20:51,440 --> 00:20:55,640
+estéis de acuerdo, cualquier cosa, todo
+
+531
+00:20:53,200 --> 00:20:58,440
+lo que queráis me lo podéis decir. E
+
+532
+00:20:55,640 --> 00:21:01,039
+pensar también que nunca he explicado
+
+533
+00:20:58,440 --> 00:21:02,840
+esto y desde una persona que está
+
+534
+00:21:01,039 --> 00:21:05,799
+empezando igual se lía, igual algo no
+
+535
+00:21:02,840 --> 00:21:07,200
+queda claro, igual alguien que eh ha
+
+536
+00:21:05,799 --> 00:21:08,520
+estudiado un montón ICT me dice que
+
+537
+00:21:07,200 --> 00:21:10,200
+Chavi, no es exactamente así
+
+538
+00:21:08,520 --> 00:21:11,840
+esto, te has equivocado aquí. sin
+
+539
+00:21:10,200 --> 00:21:13,559
+problema. Puedo regrabar el vídeo, hacer
+
+540
+00:21:11,840 --> 00:21:14,880
+una mini corrección, lo que haga falta,
+
+541
+00:21:13,559 --> 00:21:16,039
+pero yo creo que se entende muy bien y
+
+542
+00:21:14,880 --> 00:21:18,960
+realmente es la manera en la que a mí me
+
+543
+00:21:16,039 --> 00:21:22,279
+sirven estas cosas. Así que, tíos, nos
+
+544
+00:21:18,960 --> 00:21:22,279
+vemos en el siguiente vídeo.
+

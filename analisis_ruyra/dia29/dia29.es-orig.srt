@@ -1,0 +1,2948 @@
+1
+00:00:00,400 --> 00:00:05,100
+Muy buenas, chavales. Vídeo que viene
+
+2
+00:00:02,400 --> 00:00:07,300
+cargadísimo de información porque vamos
+
+3
+00:00:05,100 --> 00:00:08,600
+a ver dónde hacer backtesting y,
+
+4
+00:00:07,300 --> 00:00:11,100
+sobretodo,
+
+5
+00:00:08,600 --> 00:00:12,800
+cómo hacer backtesting y vamos a empezar
+
+6
+00:00:11,100 --> 00:00:14,900
+a aplicar todo lo que sabemos, un
+
+7
+00:00:12,800 --> 00:00:16,500
+poquito por encima sin entrar en
+
+8
+00:00:14,900 --> 00:00:18,300
+muchísimo detalle, pero entrar a juntar
+
+9
+00:00:16,500 --> 00:00:19,700
+todos los conceptos
+
+10
+00:00:18,300 --> 00:00:22,200
+para que tengáis ya una idea más clara
+
+11
+00:00:19,700 --> 00:00:25,700
+del mercado y después de este vídeo ya
+
+12
+00:00:22,200 --> 00:00:27,500
+oficialmente ya falta solo explicar las
+
+13
+00:00:25,700 --> 00:00:29,700
+sesiones y después de explicar las
+
+14
+00:00:27,500 --> 00:00:31,500
+sesiones ya Ah, no. Las sesiones ya las
+
+15
+00:00:29,700 --> 00:00:32,700
+explicamos ayer. Perdonad, que esto lo
+
+16
+00:00:31,500 --> 00:00:35,300
+estoy grabando antes de explicar las
+
+17
+00:00:32,700 --> 00:00:36,600
+sesiones. Ehm, y después de eso ya
+
+18
+00:00:35,300 --> 00:00:37,800
+empezamos con la estrategia. Pero hay
+
+19
+00:00:36,600 --> 00:00:40,000
+alguien que me ha pedido que quiere ver
+
+20
+00:00:37,800 --> 00:00:42,800
+todo junto de momento.
+
+21
+00:00:40,000 --> 00:00:45,100
+Guau. Y aunque yo me iba a esperar a
+
+22
+00:00:42,800 --> 00:00:46,400
+ a acabar la estrategia y todo,
+
+23
+00:00:45,100 --> 00:00:48,400
+creo que tiene sentido poner todo lo que
+
+24
+00:00:46,400 --> 00:00:49,800
+hemos visto eh junto, ¿no? Entonces, lo
+
+25
+00:00:48,400 --> 00:00:51,300
+primero de todo, ya sabemos para qué
+
+26
+00:00:49,800 --> 00:00:53,600
+sirve el backtesting. El backtesting va
+
+27
+00:00:51,300 --> 00:00:55,800
+a ser tu novio, va a ser tu novia cuando
+
+28
+00:00:53,600 --> 00:00:57,300
+estemos empezando a hacer trading porque
+
+29
+00:00:55,800 --> 00:00:58,400
+yo me he pasado 7 horas al día haciendo
+
+30
+00:00:57,300 --> 00:00:59,800
+backtesting al principio. ¿Lo
+
+31
+00:00:58,400 --> 00:01:00,900
+recomiendo?
+
+32
+00:00:59,800 --> 00:01:02,900
+La verdad que no. Yo estaba bastante
+
+33
+00:01:00,900 --> 00:01:04,000
+loco, pero recomiendo que hagáis muchas
+
+34
+00:01:02,900 --> 00:01:06,100
+horas de esto porque lo que va a hacer
+
+35
+00:01:04,000 --> 00:01:07,400
+es acostumbrar a tu ojo a practicar y,
+
+36
+00:01:06,100 --> 00:01:08,900
+básicamente, en backtesting Ahora lo
+
+37
+00:01:07,400 --> 00:01:11,200
+vais a ver, pero puedes tirar atrás en
+
+38
+00:01:08,900 --> 00:01:13,400
+el tiempo y hacer un montón de
+
+39
+00:01:11,200 --> 00:01:15,500
+repeticiones, un montón de repeticiones
+
+40
+00:01:13,400 --> 00:01:17,500
+de eh trades. Puedes ver muchísimas
+
+41
+00:01:15,500 --> 00:01:18,700
+sesiones en bucle y de esto sí que
+
+42
+00:01:17,500 --> 00:01:21,100
+tenéis que hacer journal, sí que tenéis
+
+43
+00:01:18,700 --> 00:01:22,900
+que revisar bien las cosas y realmente
+
+44
+00:01:21,100 --> 00:01:24,200
+sirve súper bien. Así que vamos a
+
+45
+00:01:22,900 --> 00:01:25,300
+empezar
+
+46
+00:01:24,200 --> 00:01:26,400
+y os voy a explicar la web en la que
+
+47
+00:01:25,300 --> 00:01:27,700
+estoy.
+
+48
+00:01:26,400 --> 00:01:29,400
+Primera vez usando esta web, eh,
+
+49
+00:01:27,700 --> 00:01:30,700
+chavales. Primera web, pero O sea,
+
+50
+00:01:29,400 --> 00:01:32,600
+primera vez que uso esta web. Yo hago
+
+51
+00:01:30,700 --> 00:01:34,500
+backtesting en una web que es de pago,
+
+52
+00:01:32,600 --> 00:01:36,400
+pero ha salido una que es gratis y me he
+
+53
+00:01:34,500 --> 00:01:38,500
+configurado todo, he aprendido a usarla
+
+54
+00:01:36,400 --> 00:01:40,200
+simplemente para que vosotros podáis ehm
+
+55
+00:01:38,500 --> 00:01:41,200
+no tengáis que gastar dinero, así que yo
+
+56
+00:01:40,200 --> 00:01:43,600
+os voy a explicar ahora mismo cómo
+
+57
+00:01:41,200 --> 00:01:45,900
+usarla, ¿vale? Vais a ir a Googles y
+
+58
+00:01:43,600 --> 00:01:48,100
+vais a buscar Altra App, esto de aquí.
+
+59
+00:01:45,900 --> 00:01:49,600
+Vais a buscar Altra,
+
+60
+00:01:48,100 --> 00:01:51,300
+vais a iniciar sesión básicamente,
+
+61
+00:01:49,600 --> 00:01:53,200
+iniciáis sesión, ponéis vuestros datos
+
+62
+00:01:51,300 --> 00:01:55,100
+y, de repente, eh vais a clicar un
+
+63
+00:01:53,200 --> 00:01:56,600
+apartado que pone Optimizer. Tendréis
+
+64
+00:01:55,100 --> 00:01:58,400
+como muchísimos cuadraditos, creo que
+
+65
+00:01:56,600 --> 00:02:00,692
+también se puede hacer journal y demás.
+
+66
+00:01:58,400 --> 00:02:02,692
+Y le vais a dar a backtesting y vais una
+
+67
+00:02:00,692 --> 00:02:03,992
+sesión. Le vais a dar a nueva sesión y
+
+68
+00:02:02,692 --> 00:02:06,192
+aquí podéis poner pues el nombre de la
+
+69
+00:02:03,992 --> 00:02:09,192
+sesión, en el instrumento vais a poner
+
+70
+00:02:06,192 --> 00:02:12,092
+NQ, en More Instruments vais a poner ES,
+
+71
+00:02:09,192 --> 00:02:13,892
+que es el SP 500 y vais a poner pues una
+
+72
+00:02:12,092 --> 00:02:15,192
+cuenta de $50.000 siempre que
+
+73
+00:02:13,892 --> 00:02:16,492
+practiquéis
+
+74
+00:02:15,192 --> 00:02:18,092
+porque las cuentas de fondeo que vamos a
+
+75
+00:02:16,492 --> 00:02:20,692
+estar comprando van a ser de entre
+
+76
+00:02:18,092 --> 00:02:22,392
+25.000 y $50.000, así que puedes poner
+
+77
+00:02:20,692 --> 00:02:23,792
+lo que tú quieras. Y luego aquí pondrás
+
+78
+00:02:22,392 --> 00:02:25,992
+las fechas, ¿vale? Yo he creado una
+
+79
+00:02:23,792 --> 00:02:27,792
+sesión, como ve is, del abril del 2 de
+
+80
+00:02:25,992 --> 00:02:30,092
+abril al 24 de abril, ha sido totalmente
+
+81
+00:02:27,792 --> 00:02:32,292
+aleatoria y vas vais a entrar al
+
+82
+00:02:30,092 --> 00:02:33,692
+gráfico, vais a tener los colores random
+
+83
+00:02:32,292 --> 00:02:35,492
+y lo que recomiendo es que vayáis y
+
+84
+00:02:33,692 --> 00:02:37,392
+pongáis vuestros colores de TradingView,
+
+85
+00:02:35,492 --> 00:02:39,092
+¿vale? Entonces, lo primero de todo,
+
+86
+00:02:37,392 --> 00:02:40,792
+¿cómo funciona esta web? Como veis,
+
+87
+00:02:39,092 --> 00:02:42,892
+tenemos el TradingView literalmente
+
+88
+00:02:40,792 --> 00:02:45,192
+integrado en la página web, es brutal,
+
+89
+00:02:42,892 --> 00:02:46,692
+las velas se ven iguales, tenemos aquí
+
+90
+00:02:45,192 --> 00:02:48,592
+esto de aquí que es como el menú de
+
+91
+00:02:46,692 --> 00:02:50,592
+herramientas y
+
+92
+00:02:48,592 --> 00:02:52,192
+tienes aquí una cosita aquí abajo que es
+
+93
+00:02:50,592 --> 00:02:53,292
+para pasar las velas. Como ves, si yo
+
+94
+00:02:52,192 --> 00:02:54,892
+pulso aquí
+
+95
+00:02:53,292 --> 00:02:56,792
+las velas se mueven tanto en este
+
+96
+00:02:54,892 --> 00:02:58,192
+gráfico como en este gráfico. A la
+
+97
+00:02:56,792 --> 00:02:59,792
+izquierda tenemos el Nasdaq, como ves
+
+98
+00:02:58,192 --> 00:03:01,692
+aquí arriba a la izquierda, y aquí
+
+99
+00:02:59,792 --> 00:03:03,692
+tenemos el SP 500, tenemos el gráfico
+
+100
+00:03:01,692 --> 00:03:05,692
+partido y para hacer backtesting siempre
+
+101
+00:03:03,692 --> 00:03:08,392
+vamos a tener los dos gráficos abiertos.
+
+102
+00:03:05,692 --> 00:03:10,392
+¿Por qué? Porque buscamos esos SMTs,
+
+103
+00:03:08,392 --> 00:03:11,692
+porque buscamos esos key levels. Por lo
+
+104
+00:03:10,392 --> 00:03:13,192
+tanto, nos interesa tener los dos
+
+105
+00:03:11,692 --> 00:03:15,592
+gráficos abiertos.
+
+106
+00:03:13,192 --> 00:03:17,492
+Si te vas a go to, te va Ves que hay
+
+107
+00:03:15,592 --> 00:03:19,192
+diferentes sesiones, ahí Londres, Asia,
+
+108
+00:03:17,492 --> 00:03:20,392
+Nueva York. Siempre te recomiendo que
+
+109
+00:03:19,192 --> 00:03:22,092
+vayas a Nueva York porque es lo que
+
+110
+00:03:20,392 --> 00:03:24,092
+vamos a estar backtesteando y, como
+
+111
+00:03:22,092 --> 00:03:26,292
+veis, automáticamente se te abre el
+
+112
+00:03:24,092 --> 00:03:28,092
+precio a las 9:29. ¿Veis justo aquí
+
+113
+00:03:26,292 --> 00:03:30,592
+abajo cuando yo selecciono la vela y son
+
+114
+00:03:28,092 --> 00:03:32,092
+las 9:29? Eso es perfecto porque es
+
+115
+00:03:30,592 --> 00:03:33,592
+justo antes de la entrada y aquí
+
+116
+00:03:32,092 --> 00:03:35,392
+realmente podemos practicar todo lo que
+
+117
+00:03:33,592 --> 00:03:36,792
+hemos estudiado. Lo primero que voy a
+
+118
+00:03:35,392 --> 00:03:38,392
+hacer va a ser ponerme todas las
+
+119
+00:03:36,792 --> 00:03:40,992
+temporalidades que yo uso aquí en
+
+120
+00:03:38,392 --> 00:03:40,992
+favoritos.
+
+121
+00:03:41,092 --> 00:03:44,692
+1 hora, 4 horas y diario. Perfecto. Y
+
+122
+00:03:43,292 --> 00:03:46,492
+vamos a empezar con el análisis, con
+
+123
+00:03:44,692 --> 00:03:48,492
+todo lo que hemos aprendido, ¿vale? Ya
+
+124
+00:03:46,492 --> 00:03:50,492
+estamos en un día totalmente random, ya
+
+125
+00:03:48,492 --> 00:03:52,092
+vais a ver cómo poner las ejecuciones,
+
+126
+00:03:50,492 --> 00:03:54,092
+es decir, cómo poner un trade aquí y
+
+127
+00:03:52,092 --> 00:03:55,692
+cómo ver las analíticas, pero lo primero
+
+128
+00:03:54,092 --> 00:03:58,292
+de todo ¿qué es? Lo primero de todo es
+
+129
+00:03:55,692 --> 00:04:00,192
+entrar al gráfico diario y mirar qué
+
+130
+00:03:58,292 --> 00:04:01,992
+está haciendo el gráfico, si estamos en
+
+131
+00:04:00,192 --> 00:04:04,092
+alguna
+
+132
+00:04:01,992 --> 00:04:05,894
+en alguna zona interesante.
+
+133
+00:04:04,092 --> 00:04:08,594
+Aquí que voy to a hacer es activar los
+
+134
+00:04:05,894 --> 00:04:10,094
+intervalos, ¿vale? Os vais ahí arriba,
+
+135
+00:04:08,594 --> 00:04:11,294
+ponéis los dos gráficos y activáis los
+
+136
+00:04:10,094 --> 00:04:13,394
+intervalos. ¿Para qué son los
+
+137
+00:04:11,294 --> 00:04:15,194
+intervalos? Para que tú cuando cambies
+
+138
+00:04:13,394 --> 00:04:16,994
+a, por ejemplo, a la temporalidad de 4
+
+139
+00:04:15,194 --> 00:04:18,694
+horas en el SP se Ay, en el Nasdaq si
+
+140
+00:04:16,994 --> 00:04:20,394
+cambie también en el SP 500. Para que
+
+141
+00:04:18,694 --> 00:04:21,394
+vayan de la mano, ¿vale?
+
+142
+00:04:20,394 --> 00:04:23,794
+¿Qué es lo que estoy viendo yo de
+
+143
+00:04:21,394 --> 00:04:25,794
+momento? Yo lo que estoy viendo es que
+
+144
+00:04:23,794 --> 00:04:27,494
+el SP 500
+
+145
+00:04:25,794 --> 00:04:30,294
+está en una tendencia bajista, ¿no?
+
+146
+00:04:27,494 --> 00:04:31,794
+Hemos abierto un gap bajista, como veis,
+
+147
+00:04:30,294 --> 00:04:34,094
+hemos bajado, hemos tocado un gap
+
+148
+00:04:31,794 --> 00:04:36,294
+bajista, hemos salido bajando, acabamos
+
+149
+00:04:34,094 --> 00:04:38,394
+de tocar otro gap bajista supergrande,
+
+150
+00:04:36,294 --> 00:04:40,394
+seguimos bajando, hemos abierto otro gap
+
+151
+00:04:38,394 --> 00:04:41,594
+bajista, por lo tanto, yo quiero ver al
+
+152
+00:04:40,394 --> 00:04:42,794
+precio seguir bajando y estamos
+
+153
+00:04:41,594 --> 00:04:44,094
+respetando esta acción del precio
+
+154
+00:04:42,794 --> 00:04:45,794
+bajista.
+
+155
+00:04:44,094 --> 00:04:47,294
+Si nos vamos a 1 hora,
+
+156
+00:04:45,794 --> 00:04:50,994
+vemos exactamente lo mismo, hemos tenido
+
+157
+00:04:47,294 --> 00:04:52,894
+un hacia arriba, hemos tocado este
+
+158
+00:04:50,994 --> 00:04:54,894
+de 1 hora, que es el mismo que de 4
+
+159
+00:04:52,894 --> 00:04:57,094
+horas, y hemos seguido bajando. Por lo
+
+160
+00:04:54,894 --> 00:04:59,394
+tanto, yo aquí ¿qué puedo hacer? Si
+
+161
+00:04:57,094 --> 00:05:01,594
+minimizo aún más en 1 hora, ve Veo
+
+162
+00:04:59,394 --> 00:05:03,694
+también que hemos creado otro de 1 hora
+
+163
+00:05:01,594 --> 00:05:05,294
+aquí y no sé si os acordáis en el vídeo
+
+164
+00:05:03,694 --> 00:05:07,494
+de las condiciones que yo muchas veces
+
+165
+00:05:05,294 --> 00:05:09,794
+os dije, igual el precio no quiere subir
+
+166
+00:05:07,494 --> 00:05:12,094
+otra vez hacia ese alto de 1 hora.
+
+167
+00:05:09,794 --> 00:05:13,894
+¿Puede que pase? Sí. ¿Puede que no pase?
+
+168
+00:05:12,094 --> 00:05:15,794
+También. ¿Cómo lo sabemos? A través de
+
+169
+00:05:13,894 --> 00:05:18,094
+condiciones. Por lo tanto, si vamos a 15
+
+170
+00:05:15,794 --> 00:05:21,094
+minutos, ¿qué vemos de de forma
+
+171
+00:05:18,094 --> 00:05:23,094
+superclara? De forma superclaro, vemos
+
+172
+00:05:21,094 --> 00:05:24,494
+que tenemos aquí
+
+173
+00:05:23,094 --> 00:05:26,694
+que son
+
+174
+00:05:24,494 --> 00:05:29,794
+ya estamos aquí poniendo la liquidez en
+
+175
+00:05:26,694 --> 00:05:31,694
+juego, tenemos un gap de 15 minutos que
+
+176
+00:05:29,794 --> 00:05:33,894
+va a ser nuestra condición, ya estamos
+
+177
+00:05:31,694 --> 00:05:36,094
+utilizando las condiciones, ya hemos
+
+178
+00:05:33,894 --> 00:05:38,894
+usado el vídeo de
+
+179
+00:05:36,094 --> 00:05:41,294
+para saber que esto es un de 1 hora,
+
+180
+00:05:38,894 --> 00:05:43,594
+venimos tocando un un de 1 hora y de 4
+
+181
+00:05:41,294 --> 00:05:45,194
+horas. Por lo tanto, si esta condición
+
+182
+00:05:43,594 --> 00:05:47,694
+se porta bien, que la tenemos tanto en
+
+183
+00:05:45,194 --> 00:05:49,894
+el SP 500 como en el Nasdaq,
+
+184
+00:05:47,694 --> 00:05:51,394
+eh si esta condición respeta,
+
+185
+00:05:49,894 --> 00:05:53,494
+buscaríamos algún tipo de inversión
+
+186
+00:05:51,394 --> 00:05:55,094
+hacia abajo, ¿no? Así que vamos a abrir
+
+187
+00:05:53,494 --> 00:05:56,394
+cómo abre el mercado.
+
+188
+00:05:55,094 --> 00:05:58,294
+Como veis, como cuando cambias de
+
+189
+00:05:56,394 --> 00:05:59,694
+temporalidad, ahora estoy en 1 minuto,
+
+190
+00:05:58,294 --> 00:06:01,394
+cada vela que pase Debéis clicar a este
+
+191
+00:05:59,694 --> 00:06:03,194
+botón, cada vela que pase va a ser de 1
+
+192
+00:06:01,394 --> 00:06:04,695
+minuto. En cambio, si me voy a 5
+
+193
+00:06:03,194 --> 00:06:06,995
+minutos, si ahora mismo pasas a una
+
+194
+00:06:04,695 --> 00:06:08,895
+vela, pasaría una vela de 5 minutos,
+
+195
+00:06:06,995 --> 00:06:10,595
+¿vale? Como vemos, acaba de abrir el
+
+196
+00:06:08,895 --> 00:06:13,395
+mercado con una vela superfuerte hacia
+
+197
+00:06:10,595 --> 00:06:15,895
+arriba, pero aún no hemos invertido este
+
+198
+00:06:13,395 --> 00:06:18,195
+FVG, ¿por qué? Porque recordar que si el
+
+199
+00:06:15,895 --> 00:06:19,995
+FVG es de 15 minutos, nos tenemos que
+
+200
+00:06:18,195 --> 00:06:21,595
+esperar a que cierre la vela de 15
+
+201
+00:06:19,995 --> 00:06:23,295
+minutos para saber si se ha invertido o
+
+202
+00:06:21,595 --> 00:06:24,995
+no. Viendo que el precio está aquí
+
+203
+00:06:23,295 --> 00:06:27,095
+arriba, es muy probable que quiera
+
+204
+00:06:24,995 --> 00:06:28,895
+quitar este alto de aquí, que es el alto
+
+205
+00:06:27,095 --> 00:06:30,495
+que está dentro del gap de 1 hora. Por
+
+206
+00:06:28,895 --> 00:06:32,595
+lo tanto, como estamos viendo que la
+
+207
+00:06:30,495 --> 00:06:34,495
+condición no se está respetando, lo más
+
+208
+00:06:32,595 --> 00:06:36,295
+probable es que tengamos una reacción
+
+209
+00:06:34,495 --> 00:06:38,095
+desde aquí arriba,
+
+210
+00:06:36,295 --> 00:06:39,895
+desde el key level inicial. Vamos a ver
+
+211
+00:06:38,095 --> 00:06:41,895
+qué nos da el precio.
+
+212
+00:06:39,895 --> 00:06:44,395
+Como veis, tocamos ese key level y
+
+213
+00:06:41,895 --> 00:06:47,195
+automáticamente tenemos, ¿qué tenemos?
+
+214
+00:06:44,395 --> 00:06:48,295
+Una inversión, un inverse fair value gap
+
+215
+00:06:47,195 --> 00:06:50,395
+hacia abajo
+
+216
+00:06:48,295 --> 00:06:52,995
+reaccionando del key level. Como veis,
+
+217
+00:06:50,395 --> 00:06:55,095
+hemos tenido una manipulation leg, es
+
+218
+00:06:52,995 --> 00:06:57,595
+esta de aquí, ¿vale? Y de esta
+
+219
+00:06:55,095 --> 00:06:59,295
+manipulation leg, la inversión de la
+
+220
+00:06:57,595 --> 00:07:01,295
+temporalidad más alta, como veis, en 2
+
+221
+00:06:59,295 --> 00:07:03,095
+minutos no hay nada, es el inverse fair
+
+222
+00:07:01,295 --> 00:07:05,795
+value gap de 1 minuto. Por lo tanto, es
+
+223
+00:07:03,095 --> 00:07:06,695
+una buena manera para buscar un trade.
+
+224
+00:07:05,795 --> 00:07:08,595
+Yo aquí lo que haría, si lo haría
+
+225
+00:07:06,695 --> 00:07:11,195
+directamente,
+
+226
+00:07:08,595 --> 00:07:12,895
+meter un corto, el stop loss en la wick,
+
+227
+00:07:11,195 --> 00:07:15,795
+en la mecha, donde hemos dicho, y en
+
+228
+00:07:12,895 --> 00:07:18,595
+este caso buscaría un 1 a 1, un RR de 1
+
+229
+00:07:15,795 --> 00:07:21,495
+a 1. ¿Por qué un RR de un de un 1 a 1?
+
+230
+00:07:18,595 --> 00:07:24,395
+Porque como vemos, tenemos aquí un FVG
+
+231
+00:07:21,495 --> 00:07:27,895
+de 5 minutos y tú realmente no sabes si
+
+232
+00:07:24,395 --> 00:07:31,695
+el precio va a invalidar este FVG o si
+
+233
+00:07:27,895 --> 00:07:33,395
+el precio va a decidir tocarlo y seguir
+
+234
+00:07:31,695 --> 00:07:36,595
+subiendo,
+
+235
+00:07:33,395 --> 00:07:38,295
+¿vale? O sea, no sabes si el precio
+
+236
+00:07:36,595 --> 00:07:40,895
+va a tocar el FVG y va a seguir subiendo
+
+237
+00:07:38,295 --> 00:07:42,795
+o si o si o si se lo va a invalidar
+
+238
+00:07:40,895 --> 00:07:44,795
+hacia abajo. Por lo tanto, se ha abierto
+
+239
+00:07:42,795 --> 00:07:46,395
+una nueva condición y esto es un trade
+
+240
+00:07:44,795 --> 00:07:47,995
+donde yo iría a breakeven de forma
+
+241
+00:07:46,395 --> 00:07:49,295
+superrápida.
+
+242
+00:07:47,995 --> 00:07:51,395
+Entonces, para meter un trade
+
+243
+00:07:49,295 --> 00:07:54,595
+directamente, clicáis en el dibujo que
+
+244
+00:07:51,395 --> 00:07:56,495
+habéis hecho y le dais a order y dentro
+
+245
+00:07:54,595 --> 00:07:58,395
+de order aquí puedes poner, por ejemplo,
+
+246
+00:07:56,495 --> 00:07:59,995
+venta. Yo te recomiendo Aquí no se está
+
+247
+00:07:58,395 --> 00:08:01,695
+viendo.
+
+248
+00:07:59,995 --> 00:08:03,495
+Puedes poner venta o compra. Yo le daría
+
+249
+00:08:01,695 --> 00:08:06,995
+a market.
+
+250
+00:08:03,495 --> 00:08:08,597
+En este caso, a ver si me deja.
+
+251
+00:08:06,995 --> 00:08:12,497
+Clico aquí.
+
+252
+00:08:08,597 --> 00:08:16,097
+Market, perfecto. Y eh le doy a order. A
+
+253
+00:08:12,497 --> 00:08:16,097
+ver si funciona. Pensar que es Ah, de
+
+254
+00:08:16,897 --> 00:08:21,297
+Ah, tengo que poner aquí una cantidad.
+
+255
+00:08:23,697 --> 00:08:26,097
+A ver.
+
+256
+00:08:26,697 --> 00:08:30,197
+A ver, como veis aquí abajo del todo, a
+
+257
+00:08:28,497 --> 00:08:32,497
+medida que cambio contratos va subiendo
+
+258
+00:08:30,197 --> 00:08:33,897
+o bajando el riesgo, así que si yo
+
+259
+00:08:32,497 --> 00:08:36,597
+quiero arriesgar
+
+260
+00:08:33,897 --> 00:08:38,597
+$1500 le doy a confirmar, se confirma.
+
+261
+00:08:36,597 --> 00:08:40,097
+Perfecto. Estoy arriesgando 1500 para
+
+262
+00:08:38,597 --> 00:08:42,897
+ganar 1500.
+
+263
+00:08:40,097 --> 00:08:46,197
+Como veis, he pasado una vela, hemos
+
+264
+00:08:42,897 --> 00:08:46,197
+tocado esa condición
+
+265
+00:08:49,997 --> 00:08:55,397
+y en este caso nos ha acabado dando un
+
+266
+00:08:52,897 --> 00:08:57,197
+En caso de que no hubiésemos sido
+
+267
+00:08:55,397 --> 00:08:59,097
+¿Cuál es el problemita aquí? Que si hay
+
+268
+00:08:57,197 --> 00:09:00,897
+alguien que es avispado se habrá dado
+
+269
+00:08:59,097 --> 00:09:03,797
+cuenta de que este trade ha sido desde
+
+270
+00:09:00,897 --> 00:09:05,297
+el segundo uno, ¿vale? Podemos tirar la
+
+271
+00:09:03,797 --> 00:09:07,397
+barra hacia atrás, ¿vale? Vamos a ir
+
+272
+00:09:05,297 --> 00:09:10,397
+hacia atrás en el tiempo y, como veis,
+
+273
+00:09:07,397 --> 00:09:12,497
+el precio directamente nos quita ese
+
+274
+00:09:10,397 --> 00:09:15,497
+bajo. Nosotros a la que se quita ese
+
+275
+00:09:12,497 --> 00:09:17,497
+bajo vamos ¿Por qué? Porque hemos tocado
+
+276
+00:09:15,497 --> 00:09:20,097
+nuestra condición. Así que a pesar de
+
+277
+00:09:17,497 --> 00:09:22,197
+que esto ha acabado en
+
+278
+00:09:20,097 --> 00:09:23,897
+Nosotros aquí nos hubiésemos ido
+
+279
+00:09:22,197 --> 00:09:25,897
+¿de acuerdo?
+
+280
+00:09:23,897 --> 00:09:28,397
+Pero, ¿sabéis qué es lo bueno?
+
+281
+00:09:25,897 --> 00:09:30,297
+Lo bueno es que el que nosotros habíamos
+
+282
+00:09:28,397 --> 00:09:33,397
+marcado era correcto y vamos a ver si
+
+283
+00:09:30,297 --> 00:09:35,597
+acaba teniendo una buena reacción.
+
+284
+00:09:33,397 --> 00:09:37,897
+¿Vale? Como veis, hemos tenido una buena
+
+285
+00:09:35,597 --> 00:09:39,897
+reacción a bajista. Ahora estamos en el
+
+286
+00:09:37,897 --> 00:09:40,997
+gráfico de 5 minutos y, ¿qué es lo que
+
+287
+00:09:39,897 --> 00:09:43,197
+estamos
+
+288
+00:09:40,997 --> 00:09:46,097
+viendo? Hemos abierto aquí un
+
+289
+00:09:43,197 --> 00:09:48,797
+de 5 minutos, lo hemos tocado, seguimos
+
+290
+00:09:46,097 --> 00:09:51,097
+bajando, nuestros objetivos están
+
+291
+00:09:48,797 --> 00:09:53,097
+intactos, por lo tanto, si después de
+
+292
+00:09:51,097 --> 00:09:56,597
+este de tocar este de 5 minutos tenemos
+
+293
+00:09:53,097 --> 00:09:58,797
+algún tipo de inversión bajista,
+
+294
+00:09:56,597 --> 00:10:01,197
+que en este caso la tenemos aquí en 1
+
+295
+00:09:58,797 --> 00:10:02,297
+minuto, como veis, invertimos este
+
+296
+00:10:01,197 --> 00:10:03,997
+1 minuto,
+
+297
+00:10:02,297 --> 00:10:06,197
+lo que haremos es probar otro corto
+
+298
+00:10:03,997 --> 00:10:07,897
+hacia nuestro objetivo. El
+
+299
+00:10:06,197 --> 00:10:10,898
+en la mecha,
+
+300
+00:10:07,897 --> 00:10:13,698
+va va justo en un 1 a 1,4 y aquí vamos a
+
+301
+00:10:10,898 --> 00:10:17,898
+probar otra. Le vamos a dar a order,
+
+302
+00:10:13,698 --> 00:10:17,898
+sell, mercado, confirmamos.
+
+303
+00:10:19,998 --> 00:10:23,398
+Ah, no va esto. Okay.
+
+304
+00:10:25,698 --> 00:10:30,298
+Vale, ahora funciona. Vamos a ver cómo
+
+305
+00:10:27,598 --> 00:10:30,298
+acaba esto.
+
+306
+00:10:31,398 --> 00:10:35,398
+Y, como veis, acabamos ganando este
+
+307
+00:10:33,098 --> 00:10:38,498
+trade. Ah, vale, tengo que acabar el
+
+308
+00:10:35,398 --> 00:10:39,698
+Este trade no hubiese sido vale, porque
+
+309
+00:10:38,498 --> 00:10:42,098
+nuestra
+
+310
+00:10:39,698 --> 00:10:43,598
+nuestra liquidez está ahí abajo. Si no
+
+311
+00:10:42,098 --> 00:10:45,098
+has entendido exactamente todo lo que ha
+
+312
+00:10:43,598 --> 00:10:47,098
+pasado, deja que te lo explique porque
+
+313
+00:10:45,098 --> 00:10:48,698
+no tengo intención de ir súper rápido.
+
+314
+00:10:47,098 --> 00:10:51,098
+Como veis, os lo prometo que esto es
+
+315
+00:10:48,698 --> 00:10:53,598
+cero hm cero preparado, o sea, ha sido
+
+316
+00:10:51,098 --> 00:10:55,098
+tal cual así. Me he marcado ese
+
+317
+00:10:53,598 --> 00:10:57,398
+en el premarket antes de abrir el
+
+318
+00:10:55,098 --> 00:10:59,498
+mercado. He dicho, tenemos una condición
+
+319
+00:10:57,398 --> 00:11:01,998
+de 15 minutos. Si la condición de 15
+
+320
+00:10:59,498 --> 00:11:04,298
+minutos se toca y seguimos bajando, nos
+
+321
+00:11:01,998 --> 00:11:06,198
+vamos a ir a buscar esta zona de aquí.
+
+322
+00:11:04,298 --> 00:11:08,798
+Si la condición de 15 minutos, que es
+
+323
+00:11:06,198 --> 00:11:10,698
+esta de aquí, ¿vale? Este gap de aquí se
+
+324
+00:11:08,798 --> 00:11:12,298
+invalida, vamos a reaccionar de la
+
+325
+00:11:10,698 --> 00:11:13,798
+siguiente zona. No pasa nada. Vamos a ir
+
+326
+00:11:12,298 --> 00:11:14,598
+a buscar ese
+
+327
+00:11:13,798 --> 00:11:15,698
+hora.
+
+328
+00:11:14,598 --> 00:11:16,798
+Tocamos el
+
+329
+00:11:15,698 --> 00:11:18,498
+de 1 hora
+
+330
+00:11:16,798 --> 00:11:20,798
+y justo después de tocar ese
+
+331
+00:11:18,498 --> 00:11:23,498
+de 1 hora, pillamos un
+
+332
+00:11:20,798 --> 00:11:25,998
+hacia abajo, ¿vale? Que será, pero nos
+
+333
+00:11:23,498 --> 00:11:29,198
+toca porque durante la subida hemos
+
+334
+00:11:25,998 --> 00:11:31,098
+creado un alcista y nosotros no queremos
+
+335
+00:11:29,198 --> 00:11:33,098
+predecir el mercado, nosotros queremos
+
+336
+00:11:31,098 --> 00:11:35,098
+reaccionar. Por lo tanto, como no
+
+337
+00:11:33,098 --> 00:11:35,798
+sabemos si el mercado va a reaccionar de
+
+338
+00:11:35,098 --> 00:11:38,298
+ese
+
+339
+00:11:35,798 --> 00:11:40,098
+o si lo va a invertir, en ese alcista de
+
+340
+00:11:38,298 --> 00:11:41,998
+5 minutos nosotros nos vamos
+
+341
+00:11:40,098 --> 00:11:43,998
+nos protegemos, ¿vale? Ya veréis un
+
+342
+00:11:41,998 --> 00:11:47,798
+vídeo más adelante de cuándo ir
+
+343
+00:11:43,998 --> 00:11:50,698
+pero el caso es que acabamos eh saliendo
+
+344
+00:11:47,798 --> 00:11:53,098
+aquí. El precio sigue bajando y durante
+
+345
+00:11:50,698 --> 00:11:55,998
+esta bajada, si os dais cuenta, hemos
+
+346
+00:11:53,098 --> 00:11:58,398
+bajado, hemos retesteado, hemos bajado,
+
+347
+00:11:55,998 --> 00:11:59,298
+hemos retesteado, pero esta vez a un
+
+348
+00:11:58,398 --> 00:12:02,498
+mirad el
+
+349
+00:11:59,298 --> 00:12:05,398
+de 5 minutos y después de tocar este
+
+350
+00:12:02,498 --> 00:12:08,198
+de 5 minutos hemos tenido esta
+
+351
+00:12:05,398 --> 00:12:10,298
+de aquí, ¿vale? Y en esta
+
+352
+00:12:08,198 --> 00:12:13,399
+la inversión de temporalidad más alta ha
+
+353
+00:12:10,298 --> 00:12:14,699
+sido este IFVG, que perdonad que lo
+
+354
+00:12:13,399 --> 00:12:17,799
+había marcado mal,
+
+355
+00:12:14,699 --> 00:12:19,699
+ha sido este IFVG de 3 minutos.
+
+356
+00:12:17,799 --> 00:12:21,799
+Y cuando cerramos por debajo,
+
+357
+00:12:19,699 --> 00:12:23,899
+invalidándolo, buscamos nuestro trade
+
+358
+00:12:21,799 --> 00:12:26,399
+hasta nuestro objetivo. Brutal,
+
+359
+00:12:23,899 --> 00:12:30,399
+superfácil, ¿vale?
+
+360
+00:12:26,399 --> 00:12:31,799
+Primer día completado. Vamos a remover a
+
+361
+00:12:30,399 --> 00:12:33,599
+y le damos a
+
+362
+00:12:31,799 --> 00:12:35,699
+New York. Ya estamos en el siguiente
+
+363
+00:12:33,599 --> 00:12:38,599
+día. ¿Qué es lo que vamos a hacer aquí?
+
+364
+00:12:35,699 --> 00:12:40,299
+De nuevo, nos vamos a 4 horas,
+
+365
+00:12:38,599 --> 00:12:42,299
+quitamos el zoom y vemos que estamos
+
+366
+00:12:40,299 --> 00:12:43,999
+superbajistas. A ver el S&P 500 cómo
+
+367
+00:12:42,299 --> 00:12:45,999
+está.
+
+368
+00:12:43,999 --> 00:12:47,099
+También superbajista. Vamos a ver 1
+
+369
+00:12:45,999 --> 00:12:49,299
+hora.
+
+370
+00:12:47,099 --> 00:12:50,999
+Mira, qué guay, 1 hora. ¿Qué estamos
+
+371
+00:12:49,299 --> 00:12:54,099
+haciendo? Estamos dentro de un gap de 1
+
+372
+00:12:50,999 --> 00:12:55,899
+hora enorme, ¿no? Supergrande. Perfecto.
+
+373
+00:12:54,099 --> 00:12:58,099
+Y el S&P 500 también.
+
+374
+00:12:55,899 --> 00:12:59,899
+Repito, ¿cómo sabemos si vamos a ir a
+
+375
+00:12:58,099 --> 00:13:01,399
+por este high o no? Poniendo una
+
+376
+00:12:59,899 --> 00:13:03,899
+condición. Vamos a ir a los time frames
+
+377
+00:13:01,399 --> 00:13:05,499
+intermedios. ¿Tenemos algún FVG de 15
+
+378
+00:13:03,899 --> 00:13:08,199
+minutos? No.
+
+379
+00:13:05,499 --> 00:13:10,099
+¿Tenemos algún FVG de 5? Sí, perfecto.
+
+380
+00:13:08,199 --> 00:13:13,499
+Tenemos una condición.
+
+381
+00:13:10,099 --> 00:13:15,699
+Si tocamos este FVG y bajamos con un
+
+382
+00:13:13,499 --> 00:13:17,199
+invers fair value gap, es un buena una
+
+383
+00:13:15,699 --> 00:13:18,899
+buena manera para entrar porque el
+
+384
+00:13:17,199 --> 00:13:20,299
+precio nos está diciendo que no quiere
+
+385
+00:13:18,899 --> 00:13:21,999
+ir ahí arriba otra vez.
+
+386
+00:13:20,299 --> 00:13:24,199
+¿Que lo invertimos? Pues vamos a por
+
+387
+00:13:21,999 --> 00:13:25,899
+eso. No pasa absolutamente nada, ¿vale?
+
+388
+00:13:24,199 --> 00:13:27,499
+Vamos a ver qué nos da el mercado.
+
+389
+00:13:25,899 --> 00:13:28,999
+Además de todo
+
+390
+00:13:27,499 --> 00:13:30,699
+Bueno, vamos a ir paso por paso. Vamos a
+
+391
+00:13:28,999 --> 00:13:33,499
+ver cómo abre.
+
+392
+00:13:30,699 --> 00:13:36,599
+De momento, toca el gap de de 5 minutos
+
+393
+00:13:33,499 --> 00:13:39,099
+y después de tocar ese FVG de 5 minutos,
+
+394
+00:13:36,599 --> 00:13:42,399
+perdonad, después de tocar ese FVG de 5
+
+395
+00:13:39,099 --> 00:13:44,499
+minutos, no dan Da un movimiento. Como
+
+396
+00:13:42,399 --> 00:13:46,599
+veis, tenemos aquí una manipule O sea,
+
+397
+00:13:44,499 --> 00:13:49,099
+tenemos como este movimiento de aquí,
+
+398
+00:13:46,599 --> 00:13:52,299
+pero no tenemos ningún IFVG, no tenemos
+
+399
+00:13:49,099 --> 00:13:54,199
+ningún FVG, por lo tanto, días así
+
+400
+00:13:52,299 --> 00:13:56,499
+es obligatorio el IFVG, por lo tanto, no
+
+401
+00:13:54,199 --> 00:13:58,999
+entramos. Si no tenemos ese IFVG, no
+
+402
+00:13:56,499 --> 00:13:58,999
+entramos.
+
+403
+00:13:59,199 --> 00:14:03,599
+En este caso, acertado completamente lo
+
+404
+00:14:01,499 --> 00:14:05,399
+que buscábamos. O sea, mirar cómo hemos
+
+405
+00:14:03,599 --> 00:14:07,399
+respetado esa zona que he marcado antes
+
+406
+00:14:05,399 --> 00:14:08,499
+de que pase y ya hemos bajado. ¿Lo hemos
+
+407
+00:14:07,399 --> 00:14:10,999
+acertado?
+
+408
+00:14:08,499 --> 00:14:12,199
+Sí. ¿Ha dado entrada? No. ¿Pasa algo?
+
+409
+00:14:10,999 --> 00:14:14,999
+No, no pasa absolutamente nada. No
+
+410
+00:14:12,199 --> 00:14:17,101
+tenemos ninguna prisa, ¿vale?
+
+411
+00:14:14,999 --> 00:14:19,001
+Ehm, el objetivo claramente este de
+
+412
+00:14:17,101 --> 00:14:22,501
+aquí, es esa
+
+413
+00:14:19,001 --> 00:14:22,501
+y vamos a ver si ha dado el precio.
+
+414
+00:14:23,601 --> 00:14:26,701
+De momento no damos nada. Paso velas
+
+415
+00:14:25,301 --> 00:14:28,701
+rápido, ¿por qué? Porque no estamos
+
+416
+00:14:26,701 --> 00:14:30,401
+abriendo ningún FVG y yo si quiero
+
+417
+00:14:28,701 --> 00:14:32,001
+buscar unas ventas necesito tocar un
+
+418
+00:14:30,401 --> 00:14:35,601
+imbalance para seguir bajando. Si no
+
+419
+00:14:32,001 --> 00:14:35,601
+tenemos imbalances no voy a entrar.
+
+420
+00:14:37,001 --> 00:14:40,601
+Ahí, como veis, abrimos un imbalance de
+
+421
+00:14:38,901 --> 00:14:42,301
+5 minutos
+
+422
+00:14:40,601 --> 00:14:44,101
+y si tocamos este imbalance y tenemos un
+
+423
+00:14:42,301 --> 00:14:46,301
+retroceso voy a entrar, ¿no? Así que
+
+424
+00:14:44,101 --> 00:14:48,401
+vamos a ver si podemos tocarlo. Eso es,
+
+425
+00:14:46,301 --> 00:14:49,801
+tocamos aquí el imbalance y vamos a ver
+
+426
+00:14:48,401 --> 00:14:51,501
+en esta
+
+427
+00:14:49,801 --> 00:14:53,301
+de aquí
+
+428
+00:14:51,501 --> 00:14:55,701
+si tenemos algún
+
+429
+00:14:53,301 --> 00:14:58,001
+a la baja.
+
+430
+00:14:55,701 --> 00:14:59,701
+Vale, en 30 en 1 minuto no, pero en 30
+
+431
+00:14:58,001 --> 00:15:02,901
+segundos qué tenemos.
+
+432
+00:14:59,701 --> 00:15:05,001
+Tenemos aquí un FVG de 30 segundos. Por
+
+433
+00:15:02,901 --> 00:15:06,901
+lo tanto, nosotros entraríamos aquí en
+
+434
+00:15:05,001 --> 00:15:08,301
+cortos. Esta es nuestra
+
+435
+00:15:06,901 --> 00:15:10,201
+confirmación.
+
+436
+00:15:08,301 --> 00:15:13,101
+Vamos a poner nuestro 1 a 1 o en este
+
+437
+00:15:10,201 --> 00:15:16,701
+caso podríamos alargar igual a un 1 a 2
+
+438
+00:15:13,101 --> 00:15:18,301
+y aquí es donde le damos a order,
+
+439
+00:15:16,701 --> 00:15:20,701
+le damos a confirmar
+
+440
+00:15:18,301 --> 00:15:23,701
+y a ver cómo hubiese acabado este trade.
+
+441
+00:15:20,701 --> 00:15:23,701
+Vamos a playarlo.
+
+442
+00:15:27,501 --> 00:15:35,301
+En este caso está yendo superguay. Yo
+
+443
+00:15:30,401 --> 00:15:35,301
+voy a proteger aquí mi eh trade.
+
+444
+00:15:39,501 --> 00:15:42,901
+Seguimos protegiendo. Qué barbaridad de
+
+445
+00:15:41,101 --> 00:15:45,401
+trade. Acabamos de asegurar 2200
+
+446
+00:15:42,901 --> 00:15:49,501
+dólares. Tenemos un take profit de 3500
+
+447
+00:15:45,401 --> 00:15:51,501
+y acaba sacándonos aquí en 2500 dólares.
+
+448
+00:15:49,501 --> 00:15:54,901
+Superguay. Hemos hecho un RR de 1 a
+
+449
+00:15:51,501 --> 00:15:57,701
+1,34, pero como veis esto acaba bajando
+
+450
+00:15:54,901 --> 00:15:59,201
+por completo. O sea, mirar qué
+
+451
+00:15:57,701 --> 00:16:01,101
+masterclass. Os prometo, chavales, que
+
+452
+00:15:59,201 --> 00:16:03,501
+es una sesión random. Os lo juro por lo
+
+453
+00:16:01,101 --> 00:16:05,101
+por todo lo que queráis, pero mirar qué
+
+454
+00:16:03,501 --> 00:16:07,001
+preciosidad de trade.
+
+455
+00:16:05,101 --> 00:16:09,601
+Y mirar cómo se ha Cómo hemos adivinado
+
+456
+00:16:07,001 --> 00:16:13,101
+todo. Todo. De primeras qué vemos, 1
+
+457
+00:16:09,601 --> 00:16:15,101
+hora y 4 horas estamos superbajistas.
+
+458
+00:16:13,101 --> 00:16:18,101
+¿Cuál es el próximo objetivo? Tenemos
+
+459
+00:16:15,101 --> 00:16:19,902
+aquí, sell side liquidity. La
+
+460
+00:16:18,101 --> 00:16:23,502
+no la vamos a ir a buscar porque aparte
+
+461
+00:16:19,902 --> 00:16:23,502
+de que la temporalidad alta está
+
+462
+00:16:23,902 --> 00:16:28,602
+¿Cómo se dice esto? La temporalidad alta
+
+463
+00:16:26,102 --> 00:16:30,502
+está bajista, también lo que vemos es
+
+464
+00:16:28,602 --> 00:16:32,102
+que aguantamos esa condición de 5
+
+465
+00:16:30,502 --> 00:16:34,302
+minutos y además, que no lo he
+
+466
+00:16:32,102 --> 00:16:36,302
+comentado, ¿qué tenemos aquí? Tenemos
+
+467
+00:16:34,302 --> 00:16:38,002
+liquidez de baja resistencia, tenemos un
+
+468
+00:16:36,302 --> 00:16:40,202
+un low, dos lows, tres lows, cuatro
+
+469
+00:16:38,002 --> 00:16:42,602
+lows, cinco lows en contra de uno aquí
+
+470
+00:16:40,202 --> 00:16:44,602
+arriba. Y simplemente buscamos esa
+
+471
+00:16:42,602 --> 00:16:47,202
+continuación hacia abajo, tanto en el SP
+
+472
+00:16:44,602 --> 00:16:48,702
+500 como en el Nasdaq, ¿vale?
+
+473
+00:16:47,202 --> 00:16:51,002
+Y muchas veces diréis, Xavi, pero aquí
+
+474
+00:16:48,702 --> 00:16:52,302
+no has usado
+
+475
+00:16:51,002 --> 00:16:55,002
+Aquí no había
+
+476
+00:16:52,302 --> 00:16:57,102
+Como veis, el SP 500 ha tocado el gap y
+
+477
+00:16:55,002 --> 00:16:58,902
+el Nasdaq ha tocado el gap. Y me podíais
+
+478
+00:16:57,102 --> 00:17:02,202
+decir, Xavi, ¿y el equilibrium? Pues si
+
+479
+00:16:58,902 --> 00:17:03,802
+coges el equilibrium de este low
+
+480
+00:17:02,202 --> 00:17:05,102
+a este low,
+
+481
+00:17:03,802 --> 00:17:06,302
+mirar cómo se alinea, porque es que
+
+482
+00:17:05,102 --> 00:17:08,802
+antes no lo he comentado porque no me he
+
+483
+00:17:06,302 --> 00:17:10,202
+dado cuenta, pero mirar qué preciosidad
+
+484
+00:17:08,802 --> 00:17:12,702
+ahora que lo decís. O sea, ahora que lo
+
+485
+00:17:10,202 --> 00:17:13,902
+digo. Cogemos equilibrium, cogemos el
+
+486
+00:17:12,702 --> 00:17:15,302
+alto,
+
+487
+00:17:13,902 --> 00:17:17,202
+cogemos
+
+488
+00:17:15,302 --> 00:17:18,902
+el bajo
+
+489
+00:17:17,202 --> 00:17:21,302
+y un momento que creo que el equilibrium
+
+490
+00:17:18,902 --> 00:17:21,302
+aquí
+
+491
+00:17:25,002 --> 00:17:29,002
+Ahí está. Lo tenía mal configurado. En
+
+492
+00:17:26,902 --> 00:17:31,202
+este caso es una pena porque no tocamos
+
+493
+00:17:29,002 --> 00:17:33,102
+ese equilibrium. Como veis, nos quedamos
+
+494
+00:17:31,202 --> 00:17:34,602
+a nada de tocar ese equilibrium y eso
+
+495
+00:17:33,102 --> 00:17:36,702
+significa que sea un mal trade. No
+
+496
+00:17:34,602 --> 00:17:37,802
+necesariamente. Que muchos os vais a
+
+497
+00:17:36,702 --> 00:17:40,502
+rallar porque yo en el vídeo de
+
+498
+00:17:37,802 --> 00:17:41,902
+equilibrium digo, hay veces que no toca
+
+499
+00:17:40,502 --> 00:17:43,602
+equilibrium y simplemente nos tenemos
+
+500
+00:17:41,902 --> 00:17:44,802
+que y no tenemos que entrar al
+
+501
+00:17:43,602 --> 00:17:47,502
+trade.
+
+502
+00:17:44,802 --> 00:17:48,702
+Sí y no, ¿vale? Depende muchísimo.
+
+503
+00:17:47,502 --> 00:17:50,102
+Con el tiempo es que no quiero que
+
+504
+00:17:48,702 --> 00:17:51,602
+parezca una excusa, pero si hay alguien
+
+505
+00:17:50,102 --> 00:17:53,602
+que entiende, me entenderá. Con el
+
+506
+00:17:51,602 --> 00:17:55,002
+tiempo vas a ver que no vas a encontrar
+
+507
+00:17:53,602 --> 00:17:56,302
+trades perfectos y quiero aprovechar
+
+508
+00:17:55,002 --> 00:17:58,202
+esta oportunidad también para decir
+
+509
+00:17:56,302 --> 00:18:03,602
+esto. No vas a encontrar nunca trades
+
+510
+00:17:58,202 --> 00:18:03,602
+que tengan todo, es equilibrium, ehm
+
+511
+00:18:03,702 --> 00:18:07,902
+O sea, inversión es obligatorio, ¿vale?
+
+512
+00:18:05,002 --> 00:18:10,802
+Pero nunca vas a encontrar
+
+513
+00:18:07,902 --> 00:18:12,602
+eh todo brutal,
+
+514
+00:18:10,802 --> 00:18:14,502
+No, es imposible. Y cuando buscas esta
+
+515
+00:18:12,602 --> 00:18:16,202
+perfección, muchas veces acabas sin
+
+516
+00:18:14,502 --> 00:18:18,002
+operar. Yo en este caso he visto una
+
+517
+00:18:16,202 --> 00:18:20,302
+reacción clara, teníamos un objetivo
+
+518
+00:18:18,002 --> 00:18:22,003
+claro y en este caso pues tenemos todas
+
+519
+00:18:20,302 --> 00:18:24,303
+las zonas claras menos equilibrio. ¿Pasa
+
+520
+00:18:22,003 --> 00:18:26,303
+algo? Para nada. Xavi, pero ¿cuándo sé
+
+521
+00:18:24,303 --> 00:18:27,903
+cuándo esperarme y cuándo no?
+
+522
+00:18:26,303 --> 00:18:29,203
+Con horas de backtesting, literalmente.
+
+523
+00:18:27,903 --> 00:18:31,103
+Con horas de backtesting y horas de
+
+524
+00:18:29,203 --> 00:18:33,303
+journal y eso es así.
+
+525
+00:18:31,103 --> 00:18:34,903
+Vamos al siguiente día. Hm repito, no
+
+526
+00:18:33,303 --> 00:18:36,003
+quiero hacerlo muy largo porque no
+
+527
+00:18:34,903 --> 00:18:38,003
+quiero que esto se convierta en una
+
+528
+00:18:36,003 --> 00:18:39,403
+sesión de backtesting tal cual porque
+
+529
+00:18:38,003 --> 00:18:41,203
+aún os quiero explicar los sistemas de
+
+530
+00:18:39,403 --> 00:18:43,303
+entrada que tengo, aunque ya se está eh
+
+531
+00:18:41,203 --> 00:18:45,003
+ya se está viendo cositas,
+
+532
+00:18:43,303 --> 00:18:46,703
+eh es probable que mucha gente no
+
+533
+00:18:45,003 --> 00:18:47,903
+entienda cosas aquí. No sé si estáis
+
+534
+00:18:46,703 --> 00:18:49,803
+atando todo, creo que se se está
+
+535
+00:18:47,903 --> 00:18:52,003
+explicando bastante bien,
+
+536
+00:18:49,803 --> 00:18:53,903
+pero de todas formas eh voy a intentar
+
+537
+00:18:52,003 --> 00:18:55,803
+ir un poquito lento. A todo esto aún no
+
+538
+00:18:53,903 --> 00:18:57,303
+hemos perdido, vamos, como veis aquí,
+
+539
+00:18:55,803 --> 00:18:59,603
+5000 profit.
+
+540
+00:18:57,303 --> 00:19:02,303
+Eh pero bueno, poco a poco.
+
+541
+00:18:59,603 --> 00:19:04,003
+Vale, nuevo día. ¿Qué hacemos? Venga,
+
+542
+00:19:02,303 --> 00:19:07,103
+temporalidad diaria.
+
+543
+00:19:04,003 --> 00:19:10,303
+Eupa, seguimos superbajistas, guay.
+
+544
+00:19:07,103 --> 00:19:12,103
+4 horas. Eupa, ¿dónde estamos? Hemos
+
+545
+00:19:10,303 --> 00:19:13,603
+abierto un new wick opening gap, mirad
+
+546
+00:19:12,103 --> 00:19:15,903
+este agujerito en blanco, new wick
+
+547
+00:19:13,603 --> 00:19:18,203
+opening gap que ya hemos tocado. Actúa
+
+548
+00:19:15,903 --> 00:19:19,603
+como qué? Como un FVG, por lo tanto,
+
+549
+00:19:18,203 --> 00:19:22,503
+¿qué esperamos? Que esto siga bajando en
+
+550
+00:19:19,603 --> 00:19:24,603
+principio, ¿vale? ¿Cómo sabremos si esto
+
+551
+00:19:22,503 --> 00:19:26,203
+va a seguir bajando o no? Si vamos al
+
+552
+00:19:24,603 --> 00:19:27,603
+gráfico de 1 hora,
+
+553
+00:19:26,203 --> 00:19:29,603
+aquí sí que podemos empezar a hacer uso
+
+554
+00:19:27,603 --> 00:19:32,103
+de todo lo que hemos visto. Como veis,
+
+555
+00:19:29,603 --> 00:19:34,503
+tanto el SP como en el Nasdaq estamos
+
+556
+00:19:32,103 --> 00:19:37,303
+ahora mismo, justo justo ahora, dentro
+
+557
+00:19:34,503 --> 00:19:40,403
+de este FVG de 1 hora, pero aparte de
+
+558
+00:19:37,303 --> 00:19:42,203
+esto tenemos otro FVG de 1 hora aquí.
+
+559
+00:19:40,403 --> 00:19:43,703
+Y ¿qué podemos hacer? Pues tirar un
+
+560
+00:19:42,203 --> 00:19:45,003
+equilibrio para ver exactamente dónde
+
+561
+00:19:43,703 --> 00:19:46,503
+puede haber una muy buena zona de
+
+562
+00:19:45,003 --> 00:19:47,503
+reacción.
+
+563
+00:19:46,503 --> 00:19:49,203
+Yo lo que he hecho es poner una
+
+564
+00:19:47,503 --> 00:19:51,803
+condición del high timeframe y lo que
+
+565
+00:19:49,203 --> 00:19:53,503
+voy a hacer ahora es ver si estas zonas
+
+566
+00:19:51,803 --> 00:19:54,803
+se me alinean con una condición
+
+567
+00:19:53,503 --> 00:19:57,103
+intermedia.
+
+568
+00:19:54,803 --> 00:20:00,103
+Me explico. Tenemos un FVG de 1 hora
+
+569
+00:19:57,103 --> 00:20:02,503
+aquí y uno de 1 de aquí y tenemos un
+
+570
+00:20:00,103 --> 00:20:03,903
+equilibrio de de 1 hora aquí.
+
+571
+00:20:02,503 --> 00:20:06,303
+¿Con qué se alinea el equilibrio? Pues
+
+572
+00:20:03,903 --> 00:20:09,403
+mira, borro esto, borro esto y ¿con qué
+
+573
+00:20:06,303 --> 00:20:10,803
+se alinea? Con un FVG de 15 minutos que
+
+574
+00:20:09,403 --> 00:20:12,703
+es una condición.
+
+575
+00:20:10,803 --> 00:20:15,003
+Por lo tanto, si tenemos una reacción
+
+576
+00:20:12,703 --> 00:20:16,803
+desde aquí, me va a gustar muchísimo los
+
+577
+00:20:15,003 --> 00:20:19,003
+largos a pesar de haber rellenado eso de
+
+578
+00:20:16,803 --> 00:20:21,103
+ahí, pero si esto lo empezamos a
+
+579
+00:20:19,003 --> 00:20:24,105
+invalidar para abajo, voy a interpretar
+
+580
+00:20:21,103 --> 00:20:26,605
+que el precio quiere ir a por bajos.
+
+581
+00:20:24,105 --> 00:20:27,805
+Entonces, ¿tengo un bias para hoy? No,
+
+582
+00:20:26,605 --> 00:20:29,405
+no sé lo que va a pasar. Si os soy
+
+583
+00:20:27,805 --> 00:20:30,905
+sincero, no lo sé. Solo que tengo tan
+
+584
+00:20:29,405 --> 00:20:32,605
+buen análisis en premarket que tengo
+
+585
+00:20:30,905 --> 00:20:34,405
+puntos de reacción. Vamos a ver qué es
+
+586
+00:20:32,605 --> 00:20:36,405
+lo que hace el precio y tener en cuenta
+
+587
+00:20:34,405 --> 00:20:38,405
+que el S&P 500 está exactamente en la
+
+588
+00:20:36,405 --> 00:20:41,505
+misma zona, ¿vale? Así que vamos a ver
+
+589
+00:20:38,405 --> 00:20:43,405
+qué hace el precio. Abre el mercado,
+
+590
+00:20:41,505 --> 00:20:46,005
+tocamos equilibrium, ¿vale? Tocamos
+
+591
+00:20:43,405 --> 00:20:46,005
+equilibrium.
+
+592
+00:20:48,305 --> 00:20:52,105
+De momento no no reaccionamos de esta
+
+593
+00:20:49,705 --> 00:20:52,105
+zona.
+
+594
+00:20:55,305 --> 00:20:59,005
+Empezamos a tener un poquito de rechazo
+
+595
+00:20:57,305 --> 00:21:00,705
+de esta zona,
+
+596
+00:20:59,005 --> 00:21:04,005
+¿vale? Empezamos a
+
+597
+00:21:00,705 --> 00:21:05,705
+rechazar un poquito la zona y, ostras,
+
+598
+00:21:04,005 --> 00:21:08,505
+mirad qué estoy viendo.
+
+599
+00:21:05,705 --> 00:21:10,905
+Como vemos, el S&P 500 ha quitado este
+
+600
+00:21:08,505 --> 00:21:12,305
+bajo
+
+601
+00:21:10,905 --> 00:21:14,505
+y el Nasdaq no.
+
+602
+00:21:12,305 --> 00:21:17,205
+El Nasdaq se ha quedado a nada, ¿veis?
+
+603
+00:21:14,505 --> 00:21:19,405
+Por lo tanto, ¿esto qué es? Una SMT
+
+604
+00:21:17,205 --> 00:21:20,905
+alineada con equilibrium, alineada con
+
+605
+00:21:19,405 --> 00:21:22,805
+una condición.
+
+606
+00:21:20,905 --> 00:21:24,805
+Muy bien. Vamos a ver en esta
+
+607
+00:21:22,805 --> 00:21:28,205
+manipulation leg
+
+608
+00:21:24,805 --> 00:21:28,205
+si hay algo que nos acabe de gustar.
+
+609
+00:21:28,505 --> 00:21:31,905
+Pues la verdad que sí.
+
+610
+00:21:30,105 --> 00:21:33,305
+Si os dais cuenta, en 1 minuto no hay
+
+611
+00:21:31,905 --> 00:21:35,505
+ningún gap,
+
+612
+00:21:33,305 --> 00:21:37,205
+en 2 minutos no hay ningún gap,
+
+613
+00:21:35,505 --> 00:21:39,005
+en 3 minutos no tenemos ni manipulation
+
+614
+00:21:37,205 --> 00:21:41,005
+leg porque no hay ningún alto, pero en
+
+615
+00:21:39,005 --> 00:21:43,305
+30 segundos acabamos de dar este
+
+616
+00:21:41,005 --> 00:21:45,005
+inversión hacia arriba.
+
+617
+00:21:43,305 --> 00:21:46,705
+Por lo tanto, alineando todo lo que
+
+618
+00:21:45,005 --> 00:21:48,705
+sabemos, a mí me gustaría aquí buscar
+
+619
+00:21:46,705 --> 00:21:51,605
+unos largos, ¿verdad?
+
+620
+00:21:48,705 --> 00:21:55,305
+Vamos a ver qué tal. Vamos a order,
+
+621
+00:21:51,605 --> 00:21:58,805
+vamos a darle a comprar y a ver cómo
+
+622
+00:21:55,305 --> 00:21:58,805
+cómo cómo nos trata esto, ¿no?
+
+623
+00:21:59,305 --> 00:22:04,905
+En este caso, perdemos al segundo. ¿Veis
+
+624
+00:22:01,705 --> 00:22:06,405
+que tenía todo y hemos perdido? ¿Pasa
+
+625
+00:22:04,905 --> 00:22:08,105
+algo? ¿La estrategia no es que funciona?
+
+626
+00:22:06,405 --> 00:22:10,005
+No, no pasa absolutamente nada. Hemos
+
+627
+00:22:08,105 --> 00:22:11,905
+tomado el trade, hemos perdido y ya
+
+628
+00:22:10,005 --> 00:22:13,705
+está, ¿vale? Puede ser que en ese
+
+629
+00:22:11,905 --> 00:22:15,105
+momento la condición no haya aguantado
+
+630
+00:22:13,705 --> 00:22:17,705
+del todo. Vamos a ver si acabamos de
+
+631
+00:22:15,105 --> 00:22:17,705
+reaccionar o no.
+
+632
+00:22:17,905 --> 00:22:21,605
+Y mirad,
+
+633
+00:22:19,605 --> 00:22:23,205
+estáis viendo que esto pasa también en
+
+634
+00:22:21,605 --> 00:22:24,805
+el trading, que puedes tener todo
+
+635
+00:22:23,205 --> 00:22:26,706
+correcto. Mirad cómo hemos reaccionado.
+
+636
+00:22:24,805 --> 00:22:29,506
+Soy muy bueno, ¿eh, Eso tengo que decir.
+
+637
+00:22:26,706 --> 00:22:31,606
+Tocamos equilibrium, tocamos el bajo,
+
+638
+00:22:29,506 --> 00:22:33,506
+eh tocamos el segundo FVG de una hora.
+
+639
+00:22:31,606 --> 00:22:36,306
+Mirad cómo hemos reaccionado de los dos
+
+640
+00:22:33,506 --> 00:22:37,706
+FVGs y hemos ido a buscar la buy side
+
+641
+00:22:36,306 --> 00:22:39,906
+liquidity.
+
+642
+00:22:37,706 --> 00:22:41,606
+Eh, esta entrada ha sido anticipada y
+
+643
+00:22:39,906 --> 00:22:43,206
+No, no, a mí me gustaba esta entrada,
+
+644
+00:22:41,606 --> 00:22:45,106
+¿vale? Me gustaba. Puede pasar que te
+
+645
+00:22:43,206 --> 00:22:48,006
+pase esto, es decir, que te
+
+646
+00:22:45,106 --> 00:22:49,706
+ah que haga fuera la gente y luego suba.
+
+647
+00:22:48,006 --> 00:22:51,806
+Sí, puede que haya sido de esa gente.
+
+648
+00:22:49,706 --> 00:22:54,106
+¿Os acordáis que muchas veces os decía,
+
+649
+00:22:51,806 --> 00:22:56,506
+aquí va a entrar mucha gente,
+
+650
+00:22:54,106 --> 00:22:58,306
+el mercado va a quitar a toda esta
+
+651
+00:22:56,506 --> 00:23:00,206
+gente, ¿vale? A toda esta gente que ha
+
+652
+00:22:58,306 --> 00:23:02,106
+entrado aquí los va a quitar,
+
+653
+00:23:00,206 --> 00:23:03,006
+los quita y después queda una entrada
+
+654
+00:23:02,106 --> 00:23:06,406
+mejor.
+
+655
+00:23:03,006 --> 00:23:06,406
+Y para la gente que ha entrado aquí,
+
+656
+00:23:09,406 --> 00:23:14,206
+pues es eso de oro, ¿sabéis?
+
+657
+00:23:12,206 --> 00:23:15,806
+Y eso es una locura. Y obviamente ahora
+
+658
+00:23:14,206 --> 00:23:17,006
+estoy analizando superrápido, lo estoy
+
+659
+00:23:15,806 --> 00:23:18,506
+explicando, no estoy entrando en
+
+660
+00:23:17,006 --> 00:23:21,006
+estrategia y, de hecho, lo voy a dejar
+
+661
+00:23:18,506 --> 00:23:22,706
+por aquí, pero quiero que entendáis lo
+
+662
+00:23:21,006 --> 00:23:24,306
+sencillo que puede llegar a ser este
+
+663
+00:23:22,706 --> 00:23:27,806
+análisis. A mí me veis hacerlo
+
+664
+00:23:24,306 --> 00:23:30,006
+superrápido, casi sin pensar, pero
+
+665
+00:23:27,806 --> 00:23:31,106
+es porque llevo muchas horas y espero
+
+666
+00:23:30,006 --> 00:23:32,606
+que se haya entendido aquí cómo hemos
+
+667
+00:23:31,106 --> 00:23:33,606
+empezado a juntar cosas, sobre todo lo
+
+668
+00:23:32,606 --> 00:23:35,306
+de
+
+669
+00:23:33,606 --> 00:23:37,506
+no saber si se va a tocar una zona o no,
+
+670
+00:23:35,306 --> 00:23:39,006
+utilizar las condiciones que os expliqué
+
+671
+00:23:37,506 --> 00:23:41,006
+y a partir de ahí
+
+672
+00:23:39,006 --> 00:23:43,306
+cuando se toque vuestra zona, mirar la
+
+673
+00:23:41,006 --> 00:23:46,006
+manipulation leg, mirar cuál es el el
+
+674
+00:23:43,306 --> 00:23:47,406
+FVG de temporalidad más alta y estáis.
+
+675
+00:23:46,006 --> 00:23:49,206
+Y vosotros diréis, Xavi, pero entonces
+
+676
+00:23:47,406 --> 00:23:50,806
+esto ya es la estrategia. Obviamente
+
+677
+00:23:49,206 --> 00:23:52,006
+esto ya es la estrategia. Os faltan
+
+678
+00:23:50,806 --> 00:23:54,106
+conceptos que lo que harán es que
+
+679
+00:23:52,006 --> 00:23:57,306
+vuestro porcentaje de acierto aumente y
+
+680
+00:23:54,106 --> 00:23:58,706
+os faltan, sobre todo, ehm los sistemas
+
+681
+00:23:57,306 --> 00:24:00,406
+de entrada, ¿vale? Porque la estrategia
+
+682
+00:23:58,706 --> 00:24:02,306
+la estáis viendo, pero esto tiene un
+
+683
+00:24:00,406 --> 00:24:05,006
+nombre, cada sistema de entrada tiene un
+
+684
+00:24:02,306 --> 00:24:06,506
+nombre y ehm lo tendréis más claro
+
+685
+00:24:05,006 --> 00:24:08,306
+cuando os lo explique en un vídeo, pero
+
+686
+00:24:06,506 --> 00:24:10,906
+con todo lo que sabéis ya podéis empezar
+
+687
+00:24:08,306 --> 00:24:12,406
+a hacer cositas y hm la verdad que es
+
+688
+00:24:10,906 --> 00:24:14,206
+superguay, ¿vale? Super super super
+
+689
+00:24:12,406 --> 00:24:15,906
+superguay. Creo que este vídeo va a ser
+
+690
+00:24:14,206 --> 00:24:17,806
+un abrir de ojos para mucha gente, creo
+
+691
+00:24:15,906 --> 00:24:19,606
+que para otra gente igual va a ser como
+
+692
+00:24:17,806 --> 00:24:21,906
+fuck, no he entendido nada.
+
+693
+00:24:19,606 --> 00:24:23,806
+Eh, si sois de los que están como fuck,
+
+694
+00:24:21,906 --> 00:24:25,306
+no he entendido nada, ponedme eh ponedme
+
+695
+00:24:23,806 --> 00:24:27,106
+en los comentarios que yo lo leeré y
+
+696
+00:24:25,306 --> 00:24:28,507
+diré, vale, Xavi, calma. Cuando explique
+
+697
+00:24:27,106 --> 00:24:29,307
+la estrategia lo explicaré más lento y
+
+698
+00:24:28,507 --> 00:24:32,107
+ya está.
+
+699
+00:24:29,307 --> 00:24:34,107
+Pero bueno, creo que ha sido un buen
+
+700
+00:24:32,107 --> 00:24:35,607
+una buena introducción. Eh, estoy
+
+701
+00:24:34,107 --> 00:24:37,307
+intentando mirar aquí cómo ver las
+
+702
+00:24:35,607 --> 00:24:39,607
+estadísticas. Voy a mirar antes de
+
+703
+00:24:37,307 --> 00:24:42,107
+cortar. Voy a parecer tonto porque
+
+704
+00:24:39,607 --> 00:24:43,908
+es la primera vez que uso esto.
+
+705
+00:24:42,107 --> 00:24:45,107
+Pero si yo aquí quiero ver lo bien que
+
+706
+00:24:43,908 --> 00:24:46,408
+lo he hecho,
+
+707
+00:24:45,107 --> 00:24:47,408
+a ver,
+
+708
+00:24:46,408 --> 00:24:49,807
+¿vale? Le he dado al logo de arriba a la
+
+709
+00:24:47,408 --> 00:24:49,807
+izquierda,
+
+710
+00:24:49,908 --> 00:24:55,107
+le digo que me quiero ir
+
+711
+00:24:52,207 --> 00:24:57,507
+y aquí me sale mi profit de la sesión.
+
+712
+00:24:55,107 --> 00:25:00,607
+Y si me voy aquí,
+
+713
+00:24:57,507 --> 00:25:00,607
+Estoy explorando, ¿eh?
+
+714
+00:25:00,908 --> 00:25:05,607
+Me voy aquí como analytics, aquí.
+
+715
+00:25:03,607 --> 00:25:07,007
+Epa, mirad qué guapo esto. Mirad qué
+
+716
+00:25:05,607 --> 00:25:09,607
+guapo, tú.
+
+717
+00:25:07,007 --> 00:25:11,207
+3000 dólares de
+
+718
+00:25:09,607 --> 00:25:13,607
+un calendario de trades donde te sale
+
+719
+00:25:11,207 --> 00:25:14,807
+exactamente todo. Qué guay. Y tienes
+
+720
+00:25:13,607 --> 00:25:16,707
+aquí un montón de estadísticas que las
+
+721
+00:25:14,807 --> 00:25:17,908
+puedes usar para tu journal, ¿sabéis?
+
+722
+00:25:16,707 --> 00:25:19,607
+Cuánto tiempo has dedicado a hacer
+
+723
+00:25:17,908 --> 00:25:23,207
+backtesting, esto mola. Cuál es tu
+
+724
+00:25:19,607 --> 00:25:23,207
+profit factor, cuál es tu
+
+725
+00:25:24,007 --> 00:25:27,408
+cuál es tu porcentaje de acierto,
+
+726
+00:25:25,507 --> 00:25:29,707
+cuántos trades has pillado.
+
+727
+00:25:27,408 --> 00:25:31,507
+Más adelante os diré eh qué tipo de win
+
+728
+00:25:29,707 --> 00:25:32,908
+rate tenéis que buscar, qué tipo de RR
+
+729
+00:25:31,507 --> 00:25:34,507
+tenéis que tener de media más o menos
+
+730
+00:25:32,908 --> 00:25:36,507
+para estar preparados para ir a a
+
+731
+00:25:34,507 --> 00:25:37,908
+cuentas de fondeo, pero aquí puedes ver
+
+732
+00:25:36,507 --> 00:25:39,307
+un montón de cosas, qué día de la semana
+
+733
+00:25:37,908 --> 00:25:40,908
+ganas más, qué día de la semana ganas
+
+734
+00:25:39,307 --> 00:25:42,807
+menos y la verdad que está superbién
+
+735
+00:25:40,908 --> 00:25:45,807
+esta web. Además, que es gratis.
+
+736
+00:25:42,807 --> 00:25:48,307
+Así que nada, os dejo, chavales.
+
+737
+00:25:45,807 --> 00:25:48,307
+Un abrazo.
+

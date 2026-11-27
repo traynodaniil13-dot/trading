@@ -1,0 +1,4028 @@
+1
+00:00:00,500 --> 00:00:04,600
+Muy buenas, chavales.
+
+2
+00:00:02,100 --> 00:00:06,600
+Bienvenidos a un vídeo superimportante
+
+3
+00:00:04,600 --> 00:00:09,100
+que va a quedar perdido por la bootcamp,
+
+4
+00:00:06,600 --> 00:00:12,400
+el típico vídeo que no se ve nadie.
+
+5
+00:00:09,100 --> 00:00:14,600
+Y un vídeo importante. Como veis,
+
+6
+00:00:12,400 --> 00:00:19,000
+me he hecho cortecito, estamos clean
+
+7
+00:00:14,600 --> 00:00:20,600
+porque lunes nos vamos de viaje. ¿Dónde?
+
+8
+00:00:19,000 --> 00:00:22,400
+Ya lo veréis. No es un sitio superépico,
+
+9
+00:00:20,600 --> 00:00:24,000
+es un sitio de España, pero nos vamos de
+
+10
+00:00:22,400 --> 00:00:26,700
+viaje para hacer vídeos y para estar
+
+11
+00:00:24,000 --> 00:00:27,800
+pues no sé, chill. Así que tendré que
+
+12
+00:00:26,700 --> 00:00:29,100
+organizarme ahí los vídeos de la
+
+13
+00:00:27,800 --> 00:00:30,900
+bootcamp a ver cómo puedo hacerlos. Es
+
+14
+00:00:29,100 --> 00:00:32,900
+una pena que justo me voy y tocan los
+
+15
+00:00:30,900 --> 00:00:33,900
+vídeos importantes de la estrategia,
+
+16
+00:00:32,900 --> 00:00:35,100
+pero bueno, yo creo que desde ahí los
+
+17
+00:00:33,900 --> 00:00:37,100
+podré hacer.
+
+18
+00:00:35,100 --> 00:00:38,500
+Entonces, vídeo de hoy Ostra, qué tengo
+
+19
+00:00:37,100 --> 00:00:40,800
+en la nariz, tú. La tengo como
+
+20
+00:00:38,500 --> 00:00:42,100
+deformada, tío.
+
+21
+00:00:40,800 --> 00:00:43,100
+O es el ángulo.
+
+22
+00:00:42,100 --> 00:00:44,100
+Aquí.
+
+23
+00:00:43,100 --> 00:00:45,200
+[ __ ]
+
+24
+00:00:44,100 --> 00:00:46,400
+Estoy gucket.
+
+25
+00:00:45,200 --> 00:00:48,900
+Bueno, no paro de verlo, no paro de
+
+26
+00:00:46,400 --> 00:00:51,300
+verlo. Bueno, el caso.
+
+27
+00:00:48,900 --> 00:00:53,900
+Vídeo de hoy, journal / diario de
+
+28
+00:00:51,300 --> 00:00:55,400
+trading. Os voy a explicar
+
+29
+00:00:53,900 --> 00:00:56,700
+obviamente qué es un diario de trading y
+
+30
+00:00:55,400 --> 00:00:58,800
+qué es un journal,
+
+31
+00:00:56,700 --> 00:01:01,800
+la importancia de hacerlo, pero sobre
+
+32
+00:00:58,800 --> 00:01:03,700
+todo las dos cosas más importantes,
+
+33
+00:01:01,800 --> 00:01:06,300
+cómo hacer uno, es decir,
+
+34
+00:01:03,700 --> 00:01:07,800
+vamos a hacer uno juntos, y sobre todo,
+
+35
+00:01:06,300 --> 00:01:09,200
+que esto es lo más lo más más más más
+
+36
+00:01:07,800 --> 00:01:11,900
+más importante que nadie enseña o nadie
+
+37
+00:01:09,200 --> 00:01:15,000
+sabe cómo usarlo, es
+
+38
+00:01:11,900 --> 00:01:16,600
+qué uso darle, es decir, cómo hacer que
+
+39
+00:01:15,000 --> 00:01:18,200
+el journal sea algo que valga la pena
+
+40
+00:01:16,600 --> 00:01:20,700
+porque yo estuve un año haciendo un
+
+41
+00:01:18,200 --> 00:01:23,200
+journal para nada, ¿vale? Entonces,
+
+42
+00:01:20,700 --> 00:01:23,200
+vamos a empezar.
+
+43
+00:01:26,200 --> 00:01:31,200
+Vale, lo primero de todo,
+
+44
+00:01:28,200 --> 00:01:32,800
+reglas / pasos / cosas del journal,
+
+45
+00:01:31,200 --> 00:01:34,200
+¿vale? Antes de todo, ¿qué es el
+
+46
+00:01:32,800 --> 00:01:35,800
+journal? Vale, ¿qué es un journal? ¿Qué
+
+47
+00:01:34,200 --> 00:01:37,800
+es un diario de trading?
+
+48
+00:01:35,800 --> 00:01:39,600
+Un diario de trading es básicamente,
+
+49
+00:01:37,800 --> 00:01:41,300
+como dice el nombre, un diario donde tú
+
+50
+00:01:39,600 --> 00:01:42,800
+vas a estar apuntando todas tus
+
+51
+00:01:41,300 --> 00:01:44,800
+operaciones.
+
+52
+00:01:42,800 --> 00:01:46,300
+Y no son todas todas tus operaciones
+
+53
+00:01:44,800 --> 00:01:48,100
+solo de demo,
+
+54
+00:01:46,300 --> 00:01:51,500
+no son tus operaciones solo de cuentas
+
+55
+00:01:48,100 --> 00:01:53,700
+de fondeo, son todas tus operaciones y
+
+56
+00:01:51,500 --> 00:01:55,700
+al principio incluyendo las de
+
+57
+00:01:53,700 --> 00:01:58,400
+backtesting, ¿vale? Hay que ponerse
+
+58
+00:01:55,700 --> 00:02:01,192
+estricto con esto porque es un palo.
+
+59
+00:01:58,400 --> 00:02:03,892
+Odio hacer el journal y lo odiaba y una
+
+60
+00:02:01,192 --> 00:02:05,092
+[ __ ] y os va a dar palo, pero
+
+61
+00:02:03,892 --> 00:02:07,192
+quien algo quiere, algo le cuesta,
+
+62
+00:02:05,092 --> 00:02:09,692
+¿vale? Hay que meter aquí el trabajo de
+
+63
+00:02:07,192 --> 00:02:11,792
+hacer el diario de trading. Entonces,
+
+64
+00:02:09,692 --> 00:02:13,692
+es un registro de tus de tus eh
+
+65
+00:02:11,792 --> 00:02:15,492
+operaciones, pero también es un registro
+
+66
+00:02:13,692 --> 00:02:17,092
+de tus emociones y, sobre todo, un
+
+67
+00:02:15,492 --> 00:02:18,692
+registro de cómo va avanzando tu
+
+68
+00:02:17,092 --> 00:02:20,992
+trading. Por eso es tan importante que
+
+69
+00:02:18,692 --> 00:02:22,792
+tú lo hagas cada día.
+
+70
+00:02:20,992 --> 00:02:24,592
+No tiene más, ¿vale? Es básicamente un
+
+71
+00:02:22,792 --> 00:02:26,692
+diario donde tú apuntas el trade que has
+
+72
+00:02:24,592 --> 00:02:28,092
+hecho ese día y apuntas diferentes
+
+73
+00:02:26,692 --> 00:02:29,392
+cosas, cómo te sentías, a qué horas has
+
+74
+00:02:28,092 --> 00:02:32,892
+tomado el trade. Eso lo veremos más
+
+75
+00:02:29,392 --> 00:02:34,392
+adelante a cómo hacer un journal, pero
+
+76
+00:02:32,892 --> 00:02:36,792
+es un registro, ¿vale? Básicamente de
+
+77
+00:02:34,392 --> 00:02:38,492
+tus emociones y de tus trades. Entonces,
+
+78
+00:02:36,792 --> 00:02:40,392
+normas, hacer el journal desde un
+
+79
+00:02:38,492 --> 00:02:42,492
+principio. Tienes que empezar haciendo
+
+80
+00:02:40,392 --> 00:02:44,092
+un journal desde el principio, con tus
+
+81
+00:02:42,492 --> 00:02:46,292
+primeros trades de backtesting y con tus
+
+82
+00:02:44,092 --> 00:02:47,992
+primeros trades de demo. Es muy
+
+83
+00:02:46,292 --> 00:02:49,392
+importante.
+
+84
+00:02:47,992 --> 00:02:51,292
+Darle más importancia de la que crees
+
+85
+00:02:49,392 --> 00:02:52,492
+que tiene. Está infravaloradísimo el
+
+86
+00:02:51,292 --> 00:02:53,892
+journal y luego os voy a explicar una
+
+87
+00:02:52,492 --> 00:02:55,492
+historia
+
+88
+00:02:53,892 --> 00:02:57,892
+y veréis como el journal literalmente
+
+89
+00:02:55,492 --> 00:02:59,472
+hizo que mejorase mi trading al máximo.
+
+90
+00:02:57,892 --> 00:03:01,892
+Y ahora ya es algo que no uso tanto,
+
+91
+00:02:59,472 --> 00:03:03,692
+[resoplido] pero en su momento sí.
+
+92
+00:03:01,892 --> 00:03:05,292
+En mayúsculas, como veis, en mayúsculas
+
+93
+00:03:03,692 --> 00:03:07,192
+y, bueno, es que lo pondría en rojo.
+
+94
+00:03:05,292 --> 00:03:09,392
+Hacerlo cada día
+
+95
+00:03:07,192 --> 00:03:10,992
+sin falta y sin pereza.
+
+96
+00:03:09,392 --> 00:03:12,292
+Si tienes pereza, lo haces con pereza,
+
+97
+00:03:10,992 --> 00:03:16,292
+me da igual, pero tienes que hacerlo
+
+98
+00:03:12,292 --> 00:03:18,192
+cada día, sobre todo sin falta.
+
+99
+00:03:16,292 --> 00:03:19,592
+Salud, gracias.
+
+100
+00:03:18,192 --> 00:03:22,092
+Eh, hacerlo cada día sin falta y sin
+
+101
+00:03:19,592 --> 00:03:24,592
+pereza, ¿vale? No puedes fallar a esto.
+
+102
+00:03:22,092 --> 00:03:27,792
+Tienes que hacerlo cada día y
+
+103
+00:03:24,592 --> 00:03:29,392
+no me vale lo que mucha gente hace, que
+
+104
+00:03:27,792 --> 00:03:31,592
+es Que yo también lo hacía, ¿eh? O sea,
+
+105
+00:03:29,392 --> 00:03:33,492
+os entiendo, pero lo típico de Pues me
+
+106
+00:03:31,592 --> 00:03:36,092
+lo invento, ¿no? Entras a un trade,
+
+107
+00:03:33,492 --> 00:03:38,492
+pierdes el trade, te calientas, entras
+
+108
+00:03:36,092 --> 00:03:39,792
+de nuevo en un te haces una gambleada,
+
+109
+00:03:38,492 --> 00:03:42,292
+estás tope de enfadado porque has
+
+110
+00:03:39,792 --> 00:03:43,592
+quemado tu cuenta y dices,
+
+111
+00:03:42,292 --> 00:03:44,792
+no voy a hacer el diario, no voy a hacer
+
+112
+00:03:43,592 --> 00:03:46,292
+el journal porque ya sé en lo que me he
+
+113
+00:03:44,792 --> 00:03:47,992
+equivocado, tipo he gambleado, ¿qué
+
+114
+00:03:46,292 --> 00:03:49,492
+queréis que apunte? He gambleado, ya sé
+
+115
+00:03:47,992 --> 00:03:50,992
+que no tengo que gamblear. Eso se
+
+116
+00:03:49,492 --> 00:03:52,192
+apunta.
+
+117
+00:03:50,992 --> 00:03:54,092
+En ese momento quiero que abras el
+
+118
+00:03:52,192 --> 00:03:56,092
+ordenador y empiezas a escribir que has
+
+119
+00:03:54,092 --> 00:03:57,292
+gambleado y que eres un normal.
+
+120
+00:03:56,092 --> 00:03:58,592
+Porque
+
+121
+00:03:57,292 --> 00:04:00,292
+si no lo haces, vas a pillar un muy mal
+
+122
+00:03:58,592 --> 00:04:01,792
+hábito. Luego entender cómo darle un
+
+123
+00:04:00,292 --> 00:04:02,494
+buen uso, que eso de eso se encarga el
+
+124
+00:04:01,792 --> 00:04:03,994
+Sr.
+
+125
+00:04:02,494 --> 00:04:05,394
+y las revisiones semanales y el
+
+126
+00:04:03,994 --> 00:04:06,994
+aprendizaje también se encarga el Sr.
+
+127
+00:04:05,394 --> 00:04:09,094
+Rubira de enseñaros.
+
+128
+00:04:06,994 --> 00:04:10,694
+Entonces, ¿cómo hacer el journal? ¿Vale?
+
+129
+00:04:09,094 --> 00:04:12,694
+Aquí hay varias cosas.
+
+130
+00:04:10,694 --> 00:04:14,094
+Vamos a hacer un pequeño inciso.
+
+131
+00:04:12,694 --> 00:04:16,594
+Vale, [resoplido] tengo muchos mocos.
+
+132
+00:04:14,094 --> 00:04:18,694
+Vale, vamos a hacer un pequeño inciso.
+
+133
+00:04:16,594 --> 00:04:20,694
+Soy un tío muy cutre, ¿vale? Soy un tío
+
+134
+00:04:18,694 --> 00:04:22,694
+muy tradicional
+
+135
+00:04:20,694 --> 00:04:24,294
+y no me he hecho una app con Claude para
+
+136
+00:04:22,694 --> 00:04:26,194
+tener mi journal. He visto 1000
+
+137
+00:04:24,294 --> 00:04:29,494
+seguidores que lo han hecho.
+
+138
+00:04:26,194 --> 00:04:31,694
+Hm, mis dieces, está de [ __ ] madre, pero
+
+139
+00:04:29,494 --> 00:04:34,094
+a mí me da palo, ¿vale? Hacerme una app
+
+140
+00:04:31,694 --> 00:04:36,794
+de Claude y o que alguien tenga una app
+
+141
+00:04:34,094 --> 00:04:39,494
+de Claude y me la tenga que pasar.
+
+142
+00:04:36,794 --> 00:04:41,294
+No. Os voy a enseñar cómo yo he hecho y
+
+143
+00:04:39,494 --> 00:04:44,194
+hago el journal. Empecé haciendo el
+
+144
+00:04:41,294 --> 00:04:44,194
+journal, de hecho, mirad.
+
+145
+00:04:47,994 --> 00:04:50,494
+Empecé haciendo el journal en mi
+
+146
+00:04:49,094 --> 00:04:51,694
+libreta. No sé si os he enseñado esta
+
+147
+00:04:50,494 --> 00:04:53,794
+libreta, ¿vale? Esta libreta fue la que
+
+148
+00:04:51,694 --> 00:04:55,494
+yo utilicé al principio para apuntar
+
+149
+00:04:53,794 --> 00:04:58,694
+literalmente todo lo que aprendía,
+
+150
+00:04:55,494 --> 00:05:01,894
+¿vale? O sea, tenéis psicología, ah esto
+
+151
+00:04:58,694 --> 00:05:04,094
+es la webcam de TJR, ¿no? El riesgo,
+
+152
+00:05:01,894 --> 00:05:05,794
+eh las velas, los dibujos, pero mirad el
+
+153
+00:05:04,094 --> 00:05:07,594
+log time que estaba, ¿eh? O sea, todo,
+
+154
+00:05:05,794 --> 00:05:08,794
+todo. Apuntaba todo, dibujitos. Esto es
+
+155
+00:05:07,594 --> 00:05:10,094
+lo que yo os he recomendado que hagáis
+
+156
+00:05:08,794 --> 00:05:12,794
+para la webcam.
+
+157
+00:05:10,094 --> 00:05:15,894
+¿Vale? Explicaba básicamente todo.
+
+158
+00:05:12,794 --> 00:05:18,594
+Y si os vais a la página de atrás,
+
+159
+00:05:15,894 --> 00:05:20,794
+a mí se me iba la olla
+
+160
+00:05:18,594 --> 00:05:20,794
+y
+
+161
+00:05:24,394 --> 00:05:30,394
+pum, trading journal. Un día, dos días,
+
+162
+00:05:27,294 --> 00:05:31,994
+tres días, cuatro, cinco, seis, siete,
+
+163
+00:05:30,394 --> 00:05:33,894
+ocho. Yo apuntaba aquí todo, ¿vale? Todo
+
+164
+00:05:31,994 --> 00:05:36,794
+el el diario de trading aquí. Mira, os
+
+165
+00:05:33,894 --> 00:05:36,794
+voy a leer algo random.
+
+166
+00:05:38,494 --> 00:05:41,794
+He dicho, mira, mirar aquí, ¿eh? Mirar
+
+167
+00:05:39,994 --> 00:05:45,294
+esta línea de aquí abajo. Eh esto de
+
+168
+00:05:41,794 --> 00:05:46,494
+aquí, este párrafo. Digo,
+
+169
+00:05:45,294 --> 00:05:48,294
+porque era en inglés todo. Yo lo hacía
+
+170
+00:05:46,494 --> 00:05:49,894
+en inglés, era un friki. Pongo, no me
+
+171
+00:05:48,294 --> 00:05:52,594
+estoy sintiendo bien porque he hecho
+
+172
+00:05:49,894 --> 00:05:54,494
+revens trading dos veces y aunque haya
+
+173
+00:05:52,594 --> 00:05:55,794
+ganado, no es un buen día. Es decir, es
+
+174
+00:05:54,494 --> 00:05:58,194
+un día donde yo hice revens trading, me
+
+175
+00:05:55,794 --> 00:06:00,994
+salió bien y gané dinero. Y gané dinero.
+
+176
+00:05:58,194 --> 00:06:03,394
+Y puse lecciones aprendidas. Nunca
+
+177
+00:06:00,994 --> 00:06:05,695
+cerrar un trade, no importa lo que pase.
+
+178
+00:06:03,394 --> 00:06:07,595
+Nunca reabrir un trade, no pase que
+
+179
+00:06:05,695 --> 00:06:09,895
+pase. Un trade al día.
+
+180
+00:06:07,595 --> 00:06:12,195
+Y después puse mayúsculas, sigue el [ __ ]
+
+181
+00:06:09,895 --> 00:06:14,195
+plan y no hagas el tonto. En plan, y no
+
+182
+00:06:12,195 --> 00:06:16,195
+cometas errores, ¿vale? No cometer
+
+183
+00:06:14,195 --> 00:06:17,195
+errores es imposible, pero
+
+184
+00:06:16,195 --> 00:06:18,695
+me hace ilusión también tener esto. O
+
+185
+00:06:17,195 --> 00:06:19,795
+sea, es es que tengo todo documentado en
+
+186
+00:06:18,695 --> 00:06:21,695
+mi YouTube, eh. Váis a mi YouTube,
+
+187
+00:06:19,795 --> 00:06:22,995
+tiráis para abajo y veis trade recaps
+
+188
+00:06:21,695 --> 00:06:24,595
+míos de [ __ ] con la estrategia de
+
+189
+00:06:22,995 --> 00:06:27,595
+[ __ ] que tenía antes y está todo
+
+190
+00:06:24,595 --> 00:06:29,695
+documentado y por eso
+
+191
+00:06:27,595 --> 00:06:32,895
+hm notáis que he pasado por todo porque
+
+192
+00:06:29,695 --> 00:06:35,095
+es real y lo tengo grabado. Entonces,
+
+193
+00:06:32,895 --> 00:06:36,295
+a lo que iba.
+
+194
+00:06:35,095 --> 00:06:37,995
+El diario yo le hago de una forma muy
+
+195
+00:06:36,295 --> 00:06:39,395
+cutre. Antes lo hacía con libreta, pero
+
+196
+00:06:37,995 --> 00:06:41,095
+me di cuenta de que era un [ __ ] y de
+
+197
+00:06:39,395 --> 00:06:42,695
+que no podía poner fotos y de que no
+
+198
+00:06:41,095 --> 00:06:45,295
+podía escribir tanto como quería porque
+
+199
+00:06:42,695 --> 00:06:47,395
+hm me dolía la muñeca y me daba más palo
+
+200
+00:06:45,295 --> 00:06:50,295
+y dije, vale, voy a hacerlo con Notion.
+
+201
+00:06:47,395 --> 00:06:52,095
+Y así es como yo lo he hecho. Así que
+
+202
+00:06:50,295 --> 00:06:54,095
+eh lo importante no es la plataforma,
+
+203
+00:06:52,095 --> 00:06:55,295
+sino el
+
+204
+00:06:54,095 --> 00:06:57,195
+lo que hay dentro, ¿no? De la
+
+205
+00:06:55,295 --> 00:06:59,195
+información y cómo lo analizas, ¿vale?
+
+206
+00:06:57,195 --> 00:07:01,169
+Lo que vais a hacer
+
+207
+00:06:59,195 --> 00:07:02,695
+va a ser iros a Google y vais a
+
+208
+00:07:01,169 --> 00:07:04,095
+[resoplido] buscar Notion. Literalmente,
+
+209
+00:07:02,695 --> 00:07:05,795
+Notion, ¿vale? Os vais a hacer una
+
+210
+00:07:04,095 --> 00:07:07,795
+cuenta, es completamente gratis y le
+
+211
+00:07:05,795 --> 00:07:09,395
+vais a dar a nueva página, ¿vale? Cuando
+
+212
+00:07:07,795 --> 00:07:11,695
+le deis a nueva página, se os va a abrir
+
+213
+00:07:09,395 --> 00:07:13,895
+una nueva página en blanco y aquí lo que
+
+214
+00:07:11,695 --> 00:07:16,295
+vais a hacer es clicar aquí abajo del
+
+215
+00:07:13,895 --> 00:07:18,695
+todo. Es de una forma supercutre. ¿Por
+
+216
+00:07:16,295 --> 00:07:21,095
+qué? Porque literalmente el diario nos
+
+217
+00:07:18,695 --> 00:07:22,595
+lo va a hacer la IA de Notion. Nos lo va
+
+218
+00:07:21,095 --> 00:07:24,595
+a hacer ella,
+
+219
+00:07:22,595 --> 00:07:28,095
+el Notion, pero tenemos que saber qué
+
+220
+00:07:24,595 --> 00:07:29,895
+decirle. Entonces, antes de saber ehm o
+
+221
+00:07:28,095 --> 00:07:31,695
+sea, antes de decirle lo que queremos,
+
+222
+00:07:29,895 --> 00:07:33,295
+lo que vamos a hacer es tener claro qué
+
+223
+00:07:31,695 --> 00:07:34,895
+es lo que quiere tener nuestro journal.
+
+224
+00:07:33,295 --> 00:07:36,395
+Y para eso vamos a volver a TradingView
+
+225
+00:07:34,895 --> 00:07:37,795
+y os voy a explicar exactamente qué es
+
+226
+00:07:36,395 --> 00:07:39,495
+lo que yo necesito que tenga un diario
+
+227
+00:07:37,795 --> 00:07:41,195
+de trading, os voy a explicar el porqué
+
+228
+00:07:39,495 --> 00:07:43,095
+detrás de eso, después le vamos a decir
+
+229
+00:07:41,195 --> 00:07:45,710
+al Notion y él nos lo va a construir.
+
+230
+00:07:43,095 --> 00:07:46,895
+Así que vámonos a TradingView.
+
+231
+00:07:45,710 --> 00:07:48,695
+[resoplido]
+
+232
+00:07:46,895 --> 00:07:51,195
+Ostras, qué [ __ ] esto todo el rato.
+
+233
+00:07:48,695 --> 00:07:51,195
+Perdonad.
+
+234
+00:07:53,095 --> 00:07:56,495
+Que paro los findes, tío.
+
+235
+00:07:54,995 --> 00:07:58,995
+Qué palos. Vale.
+
+236
+00:07:56,495 --> 00:07:59,995
+Qué palo. Lo primero de todo,
+
+237
+00:07:58,995 --> 00:08:01,295
+¿qué es lo que vamos a apuntar en el
+
+238
+00:07:59,995 --> 00:08:03,495
+diario? ¿Vale?
+
+239
+00:08:01,295 --> 00:08:05,797
+Supersencillo. Día.
+
+240
+00:08:03,495 --> 00:08:08,297
+Día de la semana y el y el día de
+
+241
+00:08:05,797 --> 00:08:08,297
+número, ¿vale?
+
+242
+00:08:09,497 --> 00:08:12,497
+Obviamente, tienes en cuenta el mes,
+
+243
+00:08:11,097 --> 00:08:14,797
+¿vale? Pero el día.
+
+244
+00:08:12,497 --> 00:08:16,797
+Lo segundo de todo,
+
+245
+00:08:14,797 --> 00:08:19,297
+¿qué vamos a qué vamos a poner? El
+
+246
+00:08:16,797 --> 00:08:19,297
+resultado.
+
+247
+00:08:23,697 --> 00:08:28,397
+Tercero de todo,
+
+248
+00:08:25,797 --> 00:08:30,297
+qué riesgo hemos utilizado.
+
+249
+00:08:28,397 --> 00:08:32,197
+Cuarto,
+
+250
+00:08:30,297 --> 00:08:34,297
+qué RR hemos utilizado. Hemos ido al 1 a
+
+251
+00:08:32,197 --> 00:08:36,197
+1, hemos ido al 1 a 1,5, hemos ido al 1
+
+252
+00:08:34,297 --> 00:08:38,197
+a 2. Todo esto es importante, ¿vale?
+
+253
+00:08:36,197 --> 00:08:40,397
+Cuatro cosas súper sencillas en escribir
+
+254
+00:08:38,197 --> 00:08:42,497
+esto vas a tardar literalmente 12
+
+255
+00:08:40,397 --> 00:08:45,297
+segundos menos, 5 segundos. Ya de la
+
+256
+00:08:42,497 --> 00:08:47,997
+semana, martes 27, pum, victoria, riesgo
+
+257
+00:08:45,297 --> 00:08:50,397
+500 dólares, RR 1 a 1, ya estás, ¿vale?
+
+258
+00:08:47,997 --> 00:08:53,097
+Siguiente paso, súper importante, ¿vale?
+
+259
+00:08:50,397 --> 00:08:56,797
+Opa, ¿qué ha pasado aquí? Ha pasado.
+
+260
+00:08:53,097 --> 00:08:56,797
+Vale. Eh, punto cinco.
+
+261
+00:08:59,297 --> 00:09:02,897
+¿Qué significa
+
+262
+00:09:01,297 --> 00:09:04,297
+Quiero que en una línea Luego vamos a
+
+263
+00:09:02,897 --> 00:09:06,497
+hacer un ejemplo juntos, pero quiero que
+
+264
+00:09:04,297 --> 00:09:08,197
+en una línea expliquéis cuál era vuestro
+
+265
+00:09:06,497 --> 00:09:10,797
+daily bias, básicamente. Qué es lo que
+
+266
+00:09:08,197 --> 00:09:12,197
+vosotros habéis visto antes de entrar al
+
+267
+00:09:10,797 --> 00:09:13,497
+trade, ¿vale? Qué es lo que habéis
+
+268
+00:09:12,197 --> 00:09:15,397
+visto. O sea, antes de entrar al
+
+269
+00:09:13,497 --> 00:09:17,697
+mercado, 15 minutos antes del mercado.
+
+270
+00:09:15,397 --> 00:09:18,997
+Esto podría ser algo como
+
+271
+00:09:17,697 --> 00:09:19,997
+ehm
+
+272
+00:09:18,997 --> 00:09:22,097
+no lo sé.
+
+273
+00:09:19,997 --> 00:09:24,697
+Eh,
+
+274
+00:09:22,097 --> 00:09:27,497
+teníamos como goal
+
+275
+00:09:24,697 --> 00:09:28,697
+un gap diario
+
+276
+00:09:27,497 --> 00:09:31,697
+y
+
+277
+00:09:28,697 --> 00:09:31,697
+la estructura
+
+278
+00:09:31,997 --> 00:09:39,297
+de H1 y H4, que es la temporalidad alta,
+
+279
+00:09:35,297 --> 00:09:41,897
+era alcista respetando
+
+280
+00:09:39,297 --> 00:09:45,297
+gaps alcistas, lo que sea. Suficiente,
+
+281
+00:09:41,897 --> 00:09:45,297
+¿vale? Suficiente, tienes un contexto.
+
+282
+00:09:45,497 --> 00:09:48,297
+Punto número seis.
+
+283
+00:09:53,297 --> 00:09:58,097
+Súper corto también. ¿Qué quiero ¿Qué
+
+284
+00:09:54,997 --> 00:10:00,097
+quiero que pongáis? Pues no sé, tocamos
+
+285
+00:09:58,097 --> 00:10:04,397
+una condición
+
+286
+00:10:00,097 --> 00:10:07,297
+que era un IFG de 15 minutos
+
+287
+00:10:04,397 --> 00:10:11,297
+y busqué
+
+288
+00:10:07,297 --> 00:10:12,898
+el IFG de la temporalidad
+
+289
+00:10:11,297 --> 00:10:15,098
+más alta de la
+
+290
+00:10:12,898 --> 00:10:15,098
+leg.
+
+291
+00:10:15,298 --> 00:10:20,098
+Buscando la LRL, ¿vale? Buscando esa
+
+292
+00:10:18,498 --> 00:10:22,598
+liquidez. Por ejemplo, ya está. Una
+
+293
+00:10:20,098 --> 00:10:23,898
+línea, dos líneas, corto. ¿Vale? También
+
+294
+00:10:22,598 --> 00:10:25,698
+muchos estáis preguntando, Xavi, ¿cuándo
+
+295
+00:10:23,898 --> 00:10:28,098
+se hace el journal? Yo normalmente lo
+
+296
+00:10:25,698 --> 00:10:29,398
+hago después de la sesión, pero, bueno,
+
+297
+00:10:28,098 --> 00:10:31,298
+normalmente lo hacía después de la
+
+298
+00:10:29,398 --> 00:10:32,798
+sesión, justo acababa la sesión y decía,
+
+299
+00:10:31,298 --> 00:10:34,598
+voy a hacer el journal. ¿Qué es lo que
+
+300
+00:10:32,798 --> 00:10:36,898
+pasa? Que hay muchas veces aún estás
+
+301
+00:10:34,598 --> 00:10:38,898
+emotional, si has perdido como que no
+
+302
+00:10:36,898 --> 00:10:40,898
+vas a analizar las cosas con calma,
+
+303
+00:10:38,898 --> 00:10:41,798
+muchas veces te va a dar palo.
+
+304
+00:10:40,898 --> 00:10:43,898
+Entonces lo que yo te recomiendo es que
+
+305
+00:10:41,798 --> 00:10:45,498
+lo hagas antes de ir a dormir o después
+
+306
+00:10:43,898 --> 00:10:48,098
+de entrenar por la por la tarde o
+
+307
+00:10:45,498 --> 00:10:49,698
+después de no sé, por la tarde de noche
+
+308
+00:10:48,098 --> 00:10:51,698
+a mí me va mejor. Es decir, opero, me
+
+309
+00:10:49,698 --> 00:10:53,598
+olvido y luego a las 7 de la tarde 8
+
+310
+00:10:51,698 --> 00:10:55,698
+cuando ya estoy más despejado vuelvo a
+
+311
+00:10:53,598 --> 00:10:57,798
+entrar en el mercado, vuelvo a analizar
+
+312
+00:10:55,698 --> 00:10:59,698
+mi trade, vuelvo a analizar el
+
+313
+00:10:57,798 --> 00:11:00,998
+que tenía y ahí escribo todo estando
+
+314
+00:10:59,698 --> 00:11:02,498
+súper tranquilo, así que eso es lo que
+
+315
+00:11:00,998 --> 00:11:04,198
+os recomiendo. Hacerlo intentarlo hacer
+
+316
+00:11:02,498 --> 00:11:05,498
+siempre el mismo día. Eso la verdad que
+
+317
+00:11:04,198 --> 00:11:06,998
+es un poco a vuestra a vuestro gusto.
+
+318
+00:11:05,498 --> 00:11:08,698
+Hay gente que como lo tiene fresco
+
+319
+00:11:06,998 --> 00:11:10,298
+quiere hacerle justo quiere hacerlo
+
+320
+00:11:08,698 --> 00:11:12,098
+justo después, hay gente que quiere
+
+321
+00:11:10,298 --> 00:11:14,098
+hacerlo que quiere hacerlo a la mañana
+
+322
+00:11:12,098 --> 00:11:16,098
+siguiente, entonces va un poco a vuestro
+
+323
+00:11:14,098 --> 00:11:18,598
+aire esto. Vale.
+
+324
+00:11:16,098 --> 00:11:22,098
+Punto número siete, súper importante.
+
+325
+00:11:18,598 --> 00:11:24,298
+Hora del trade. Esto es, bueno,
+
+326
+00:11:22,098 --> 00:11:25,898
+importantísimo. Mucha gente no no no
+
+327
+00:11:24,298 --> 00:11:27,298
+apunta esto. No sé por qué no apuntan la
+
+328
+00:11:25,898 --> 00:11:28,898
+hora a la que se ha hecho el trade.
+
+329
+00:11:27,298 --> 00:11:30,298
+¿Para qué te interesa saber la hora a la
+
+330
+00:11:28,898 --> 00:11:32,398
+que se ha hecho el trade? Nosotros
+
+331
+00:11:30,298 --> 00:11:33,898
+normalmente operamos de 9:30 a 11, este
+
+332
+00:11:32,398 --> 00:11:35,598
+horario es el que os voy a explicar en
+
+333
+00:11:33,898 --> 00:11:36,898
+el siguiente vídeo probablemente, donde
+
+334
+00:11:35,598 --> 00:11:39,098
+hablé un poquito de las sesiones, es
+
+335
+00:11:36,898 --> 00:11:41,098
+algo de lo que no he hablado. Ehm, será
+
+336
+00:11:39,098 --> 00:11:42,298
+un vídeo muy muy muy muy breve, pero
+
+337
+00:11:41,098 --> 00:11:44,198
+quiero hablaros de las sesiones, qué
+
+338
+00:11:42,298 --> 00:11:45,698
+implica cada sesión y sobre todo
+
+339
+00:11:44,198 --> 00:11:47,198
+qué sesión operamos y de qué hora a qué
+
+340
+00:11:45,698 --> 00:11:48,698
+hora. Ya lo he mencionado en algún día,
+
+341
+00:11:47,198 --> 00:11:49,998
+pero quiero que lo tengáis claro para
+
+342
+00:11:48,698 --> 00:11:51,298
+luego en los ejemplos de backtesting que
+
+343
+00:11:49,998 --> 00:11:53,198
+estáis al loro.
+
+344
+00:11:51,298 --> 00:11:54,598
+Y es súper importante entender a la hora
+
+345
+00:11:53,198 --> 00:11:57,098
+a la que entramos al trade, ¿por qué?
+
+346
+00:11:54,598 --> 00:11:59,798
+Porque si tú ves que de cada que de 100
+
+347
+00:11:57,098 --> 00:12:02,298
+trades has perdido 80 trades después de
+
+348
+00:11:59,798 --> 00:12:03,998
+las 10:30 y ves que antes de las 10:30
+
+349
+00:12:02,298 --> 00:12:05,498
+ganas la mayoría, ¿qué vas a hacer?
+
+350
+00:12:03,998 --> 00:12:06,998
+Eliminar los trades de después de las
+
+351
+00:12:05,498 --> 00:12:08,698
+10:30 porque pierdes la mayoría de
+
+352
+00:12:06,998 --> 00:12:10,598
+ellos. Y esto no te das cuenta hasta que
+
+353
+00:12:08,698 --> 00:12:12,698
+no tienes una hora y un análisis en el
+
+354
+00:12:10,598 --> 00:12:14,399
+journal, ¿vale?
+
+355
+00:12:12,698 --> 00:12:15,399
+Punto número ocho, después de apuntar la
+
+356
+00:12:14,399 --> 00:12:17,799
+hora,
+
+357
+00:12:15,399 --> 00:12:21,699
+qué vas a apuntar. Superimportante. Esto
+
+358
+00:12:17,799 --> 00:12:21,699
+es una checklist y va superbién.
+
+359
+00:12:21,999 --> 00:12:26,499
+Checklist. ¿Qué vas a apuntar en esta
+
+360
+00:12:23,399 --> 00:12:29,599
+checklist? Yo te lo digo. Vas a apuntar
+
+361
+00:12:26,499 --> 00:12:31,499
+cosas Esta Esta checklist es super eh
+
+362
+00:12:29,599 --> 00:12:33,899
+¿cómo decirlo?
+
+363
+00:12:31,499 --> 00:12:35,499
+Superpersonalizable a ti, ¿vale? Mucha
+
+364
+00:12:33,899 --> 00:12:37,899
+gente me dice, Xavi, ¿qué reglas tienes
+
+365
+00:12:35,499 --> 00:12:39,899
+o qué es lo que a ti te va bien ehm
+
+366
+00:12:37,899 --> 00:12:41,699
+saber para entrar a un trade? Esta
+
+367
+00:12:39,899 --> 00:12:43,199
+checklist es una checklist que te
+
+368
+00:12:41,699 --> 00:12:44,499
+recomiendo
+
+369
+00:12:43,199 --> 00:12:46,799
+que
+
+370
+00:12:44,499 --> 00:12:48,599
+la puedes tener al lado de de tu en un
+
+371
+00:12:46,799 --> 00:12:49,799
+papel apuntado al lado O sea, en el en
+
+372
+00:12:48,599 --> 00:12:51,099
+el escritorio, lo puedes tener
+
+373
+00:12:49,799 --> 00:12:53,099
+enganchado en la pared, lo puedes tener
+
+374
+00:12:51,099 --> 00:12:54,399
+abierto al lado de la gráfica o
+
+375
+00:12:53,099 --> 00:12:56,299
+simplemente la puedes tener para luego
+
+376
+00:12:54,399 --> 00:12:57,799
+el análisis del trade. Pero yo en esta
+
+377
+00:12:56,299 --> 00:12:59,499
+checklist me hago preguntas y son
+
+378
+00:12:57,799 --> 00:13:01,299
+casillas que tengo que marcar para que
+
+379
+00:12:59,499 --> 00:13:02,799
+yo determine si el trade era bueno o no.
+
+380
+00:13:01,299 --> 00:13:07,099
+Por ejemplo,
+
+381
+00:13:02,799 --> 00:13:07,099
+¿has entrado antes de tiempo, Xavi?
+
+382
+00:13:07,499 --> 00:13:11,799
+Si he dicho Si llego Si yo contesto sí,
+
+383
+00:13:10,099 --> 00:13:13,499
+eso significa que he forzado algo y que
+
+384
+00:13:11,799 --> 00:13:16,099
+he tenido FOMO, por lo tanto, sufro de
+
+385
+00:13:13,499 --> 00:13:17,399
+FOMO. En ese caso he tenido FOMO, ¿vale?
+
+386
+00:13:16,099 --> 00:13:19,799
+Ehm,
+
+387
+00:13:17,399 --> 00:13:22,799
+¿has arriesgado
+
+388
+00:13:19,799 --> 00:13:22,799
+más de lo que
+
+389
+00:13:23,499 --> 00:13:26,099
+dice tu plan?
+
+390
+00:13:24,999 --> 00:13:27,499
+Que ya hablaremos de la gestión de
+
+391
+00:13:26,099 --> 00:13:28,599
+riesgo para cuentas y os lo diré, ¿vale?
+
+392
+00:13:27,499 --> 00:13:30,299
+Pero, ¿has arriesgado más de lo que dice
+
+393
+00:13:28,599 --> 00:13:32,899
+tu plan? ¿O
+
+394
+00:13:30,299 --> 00:13:36,199
+tomarías este trade
+
+395
+00:13:32,899 --> 00:13:38,899
+100 veces más o 1200 veces más sin
+
+396
+00:13:36,199 --> 00:13:38,899
+importar
+
+397
+00:13:39,699 --> 00:13:43,399
+el resultado?
+
+398
+00:13:40,999 --> 00:13:44,499
+Eh, ¿tenías un
+
+399
+00:13:43,399 --> 00:13:48,299
+claro
+
+400
+00:13:44,499 --> 00:13:49,799
+y un doll limpio?
+
+401
+00:13:48,299 --> 00:13:50,799
+Preguntas así. Podría estar así todo el
+
+402
+00:13:49,799 --> 00:13:52,699
+rato, ¿eh? Podría estar así todo el día.
+
+403
+00:13:50,799 --> 00:13:54,099
+Podría poner 10 preguntas. Lo que os
+
+404
+00:13:52,699 --> 00:13:56,499
+vengo a decir aquí es que os hagáis
+
+405
+00:13:54,099 --> 00:13:58,199
+autopreguntas para que vosotros podéis
+
+406
+00:13:56,499 --> 00:14:00,199
+contestar y realmente analizar si el
+
+407
+00:13:58,199 --> 00:14:03,299
+trade es bueno o malo. Otra pregunta que
+
+408
+00:14:00,199 --> 00:14:05,999
+podría ser, ¿has estado nervioso
+
+409
+00:14:03,299 --> 00:14:05,999
+durante el trade?
+
+410
+00:14:07,599 --> 00:14:12,599
+Ehm,
+
+411
+00:14:09,699 --> 00:14:14,899
+¿has ehm
+
+412
+00:14:12,599 --> 00:14:16,399
+cerrado antes de tiempo?
+
+413
+00:14:14,899 --> 00:14:18,499
+Porque nada más entrar puedes cerrar.
+
+414
+00:14:16,399 --> 00:14:18,499
+Sussing.
+
+415
+00:14:18,601 --> 00:14:23,701
+¿Tomarías este trade en backtesting?
+
+416
+00:14:24,201 --> 00:14:31,301
+¿Te sientes bien
+
+417
+00:14:27,101 --> 00:14:32,901
+con el trade y luego con el resultado?
+
+418
+00:14:31,301 --> 00:14:35,901
+¿Vale? Ejemplos de preguntas. Podías
+
+419
+00:14:32,901 --> 00:14:37,701
+tener solo estas, ¿vale?
+
+420
+00:14:35,901 --> 00:14:40,401
+Y punto número nueve.
+
+421
+00:14:37,701 --> 00:14:42,301
+Aquí faltan dos cosas. Lo más importante
+
+422
+00:14:40,401 --> 00:14:44,001
+de todo,
+
+423
+00:14:42,301 --> 00:14:45,801
+imágenes. Mis imágenes me han salvado el
+
+424
+00:14:44,001 --> 00:14:47,201
+culo para el journal. Y cuando digo
+
+425
+00:14:45,801 --> 00:14:49,801
+imágenes, me vais a decir, ¿imágenes de
+
+426
+00:14:47,201 --> 00:14:51,801
+qué? Imágenes del trade y imágenes de
+
+427
+00:14:49,801 --> 00:14:53,501
+todas las temporalidades. Es un palo, ya
+
+428
+00:14:51,801 --> 00:14:55,501
+lo sé que es un palo, ¿vale? Hacer el
+
+429
+00:14:53,501 --> 00:14:57,201
+journal es un palo, parte del trabajo.
+
+430
+00:14:55,501 --> 00:14:59,701
+Pero, ¿qué vas a poner? Imágenes del,
+
+431
+00:14:57,201 --> 00:15:02,301
+por ejemplo,
+
+432
+00:14:59,701 --> 00:15:03,501
+del ¿no? Esto viene a ser pues 1 hora y
+
+433
+00:15:02,301 --> 00:15:05,501
+4 horas.
+
+434
+00:15:03,501 --> 00:15:09,301
+Luego,
+
+435
+00:15:05,501 --> 00:15:09,301
+vas a poner o o yo que sé, o
+
+436
+00:15:10,601 --> 00:15:15,401
+vas a poner las condiciones, ¿no? Que
+
+437
+00:15:12,201 --> 00:15:15,401
+eran 5 y 15 minutos.
+
+438
+00:15:16,501 --> 00:15:22,301
+Luego vas a poner las ejecuciones,
+
+439
+00:15:20,501 --> 00:15:24,601
+que es entre 1 y 5000 y ahí pones el
+
+440
+00:15:22,301 --> 00:15:28,401
+dibujito de si es peor o un
+
+441
+00:15:24,601 --> 00:15:28,401
+Luego puedes poner si es necesario
+
+442
+00:15:32,501 --> 00:15:36,101
+¿vale?
+
+443
+00:15:33,601 --> 00:15:37,501
+Foto de esas ejecuciones
+
+444
+00:15:36,101 --> 00:15:39,601
+o si hay
+
+445
+00:15:37,501 --> 00:15:42,401
+o ya ocurre relevante, hay una
+
+446
+00:15:39,601 --> 00:15:44,101
+lo que haga falta. Pero necesito que
+
+447
+00:15:42,401 --> 00:15:47,001
+para cada trade tengas las imágenes
+
+448
+00:15:44,101 --> 00:15:49,701
+suficientes para cuando pase un mes que
+
+449
+00:15:47,001 --> 00:15:51,001
+tú entres a este diario, a este journal
+
+450
+00:15:49,701 --> 00:15:52,501
+y tengas todo
+
+451
+00:15:51,001 --> 00:15:54,101
+para hacer un análisis y para realmente
+
+452
+00:15:52,501 --> 00:15:55,301
+valorar si el trade era bueno o malo.
+
+453
+00:15:54,101 --> 00:15:57,701
+Porque a mí lo que me pasaba es que
+
+454
+00:15:55,301 --> 00:15:59,001
+ponía dos fotos del 5 minutos y el de 1
+
+455
+00:15:57,701 --> 00:16:01,801
+minuto,
+
+456
+00:15:59,001 --> 00:16:03,701
+pasaba 1 mes, entraba y decía, vale,
+
+457
+00:16:01,801 --> 00:16:05,401
+no me acuerdo de cómo estaba el 1 hora.
+
+458
+00:16:03,701 --> 00:16:07,201
+¿Cómo sé si voy alineado con el con las
+
+459
+00:16:05,401 --> 00:16:09,001
+temporalidades altas? Pues que no sé
+
+460
+00:16:07,201 --> 00:16:10,501
+cuál es mi no se ve.
+
+461
+00:16:09,001 --> 00:16:11,901
+Entonces,
+
+462
+00:16:10,501 --> 00:16:13,501
+para ahorrarte trabajo, porque aparte de
+
+463
+00:16:11,901 --> 00:16:14,901
+que si ves que no lo tienes, ya no vas a
+
+464
+00:16:13,501 --> 00:16:16,901
+entrar al gráfico a tirar para atrás,
+
+465
+00:16:14,901 --> 00:16:18,402
+revisarlo, vas a decir, bueno, paso de
+
+466
+00:16:16,901 --> 00:16:20,102
+día de día. Y como tendrás en ningún
+
+467
+00:16:18,402 --> 00:16:21,402
+día, no analizarás bien el journal,
+
+468
+00:16:20,102 --> 00:16:23,302
+¿vale?
+
+469
+00:16:21,402 --> 00:16:24,902
+Y, lo último, esto es superopcional,
+
+470
+00:16:23,302 --> 00:16:28,302
+depende del tipo de persona que seas. A
+
+471
+00:16:24,902 --> 00:16:31,702
+mí me gustaba tener ehm
+
+472
+00:16:28,302 --> 00:16:34,602
+dos puntos de que me decían,
+
+473
+00:16:31,702 --> 00:16:34,602
+¿qué has hecho por la mañana?
+
+474
+00:16:39,202 --> 00:16:43,002
+Y esto puede ser si has entrenado, si
+
+475
+00:16:41,302 --> 00:16:45,602
+has comido bien y qué sea para comer. Yo
+
+476
+00:16:43,002 --> 00:16:46,602
+en ese momento iba muchísimo a la uni o
+
+477
+00:16:45,602 --> 00:16:47,702
+y era como, pues por la mañana me he
+
+478
+00:16:46,602 --> 00:16:49,502
+levantado temprano, he ido a la
+
+479
+00:16:47,702 --> 00:16:50,402
+universidad, he vuelto, he comido bien y
+
+480
+00:16:49,502 --> 00:16:52,402
+estoy haciendo trading. Era una
+
+481
+00:16:50,402 --> 00:16:54,002
+tontería, ¿por qué? Porque mi rutina era
+
+482
+00:16:52,402 --> 00:16:55,002
+estar todo el día en la universidad.
+
+483
+00:16:54,002 --> 00:16:55,902
+Pero, por ejemplo, ahora ¿qué he hecho
+
+484
+00:16:55,002 --> 00:16:57,902
+por la mañana? Pues es como que he
+
+485
+00:16:55,902 --> 00:17:00,302
+salido a caminar, he tomado el sol, eh
+
+486
+00:16:57,902 --> 00:17:02,002
+yo qué sé, y he comido bien. Entonces,
+
+487
+00:17:00,302 --> 00:17:03,402
+esto a mí me va bien porque yo soy
+
+488
+00:17:02,002 --> 00:17:05,802
+bastante friki con los hábitos. No
+
+489
+00:17:03,402 --> 00:17:07,202
+mucho, no soy muy friki, pero sí que va
+
+490
+00:17:05,802 --> 00:17:09,202
+bien tener este tipo de apuntes porque
+
+491
+00:17:07,202 --> 00:17:10,702
+imagínate que tú ves que yo qué sé, los
+
+492
+00:17:09,202 --> 00:17:13,302
+días que has entrenado y te has
+
+493
+00:17:10,702 --> 00:17:15,202
+levantado temprano eh tu análisis es
+
+494
+00:17:13,302 --> 00:17:16,802
+mejor y igual tienes más takes profits
+
+495
+00:17:15,202 --> 00:17:18,102
+que un día en el que igual pues tu
+
+496
+00:17:16,802 --> 00:17:19,902
+rutina igual no es la mejor. Pues ahí sí
+
+497
+00:17:18,102 --> 00:17:21,702
+que puedes decir, [ __ ] los días que
+
+498
+00:17:19,902 --> 00:17:22,902
+tengo una mala rutina opero peor. No
+
+499
+00:17:21,702 --> 00:17:24,702
+quiere decir que acabes en con esto,
+
+500
+00:17:22,902 --> 00:17:26,602
+pero igual tienes más emociones, no sé.
+
+501
+00:17:24,702 --> 00:17:28,702
+Son pequeños detalles que, como veis,
+
+502
+00:17:26,602 --> 00:17:31,102
+esto puede ser muy moldeable a vosotros
+
+503
+00:17:28,702 --> 00:17:32,602
+y ehm lo podéis hacer a vuestro gusto.
+
+504
+00:17:31,102 --> 00:17:33,702
+Lo que no podéis hacer a vuestro gusto
+
+505
+00:17:32,602 --> 00:17:35,802
+es hasta aquí.
+
+506
+00:17:33,702 --> 00:17:38,502
+Esto para mí es obligatorio y esto
+
+507
+00:17:35,802 --> 00:17:40,002
+también es obligatorio. Tema checklist y
+
+508
+00:17:38,502 --> 00:17:42,402
+a las 10 algunas preguntas más de
+
+509
+00:17:40,002 --> 00:17:44,602
+rutina, más del día a día, más de ¿estás
+
+510
+00:17:42,402 --> 00:17:46,002
+estresado por exámenes? O, ¿sabes? Más
+
+511
+00:17:44,602 --> 00:17:47,602
+algo personal, podéis ponerlo aquí
+
+512
+00:17:46,002 --> 00:17:49,102
+vosotros. Y la checklist también,
+
+513
+00:17:47,602 --> 00:17:50,102
+obviamente, a vuestro gusto. A medida
+
+514
+00:17:49,102 --> 00:17:52,102
+que hagáis backtesting y tengáis
+
+515
+00:17:50,102 --> 00:17:53,702
+experiencia, vais añadiendo cosas a la
+
+516
+00:17:52,102 --> 00:17:56,002
+checklist, quitando cosas y
+
+517
+00:17:53,702 --> 00:17:57,202
+simplificándolo a vuestra manera, ¿vale?
+
+518
+00:17:56,002 --> 00:17:58,702
+Ya sé que como tal esto no es una
+
+519
+00:17:57,202 --> 00:18:00,802
+checklist porque no vas No me acabo de
+
+520
+00:17:58,702 --> 00:18:02,802
+dar cuenta, no vas poniendo estos ticks,
+
+521
+00:18:00,802 --> 00:18:04,002
+tipo no vas cruzando casillas, pero
+
+522
+00:18:02,802 --> 00:18:05,402
+puedes hacerlo en un formato en el que
+
+523
+00:18:04,002 --> 00:18:06,502
+sean casillas, ¿vale? Puedes poner, yo
+
+524
+00:18:05,402 --> 00:18:08,502
+qué sé,
+
+525
+00:18:06,502 --> 00:18:10,202
+he seguido mi plan, una casilla. He
+
+526
+00:18:08,502 --> 00:18:11,402
+seguido mi dron liquidity, casilla. Me
+
+527
+00:18:10,202 --> 00:18:14,402
+he alineado con el high time frame,
+
+528
+00:18:11,402 --> 00:18:16,302
+casilla. He arriesgado más y cosas así,
+
+529
+00:18:14,402 --> 00:18:19,402
+¿vale? Entonces, una vez tenemos todo
+
+530
+00:18:16,302 --> 00:18:20,903
+esto, ¿qué hacemos? Pues directamente
+
+531
+00:18:19,402 --> 00:18:23,403
+Voy a quitar esto por si no entiende el
+
+532
+00:18:20,903 --> 00:18:24,503
+el el el
+
+533
+00:18:23,403 --> 00:18:26,103
+Vamos a hacer
+
+534
+00:18:24,503 --> 00:18:29,803
+un control C,
+
+535
+00:18:26,103 --> 00:18:29,803
+nos vemos al Notion.
+
+536
+00:18:37,803 --> 00:18:41,803
+Le vamos a decir, a ver si le puedo
+
+537
+00:18:39,303 --> 00:18:42,903
+hacer un audio.
+
+538
+00:18:41,803 --> 00:18:47,203
+No puedo, ¿no? Bueno, pues le voy a
+
+539
+00:18:42,903 --> 00:18:47,203
+decir, eh buenas, Notion.
+
+540
+00:18:48,003 --> 00:18:52,403
+Quiero que me hagas
+
+541
+00:18:49,703 --> 00:18:55,403
+un diario de trading
+
+542
+00:18:52,403 --> 00:18:55,403
+donde yo pueda
+
+543
+00:19:00,803 --> 00:19:04,103
+¿vale?
+
+544
+00:19:02,003 --> 00:19:07,803
+Le digo que quiero esto, le doy todas
+
+545
+00:19:04,103 --> 00:19:08,903
+mis pautas y le digo
+
+546
+00:19:07,803 --> 00:19:10,203
+voy a quitar esto para que entienda que
+
+547
+00:19:08,903 --> 00:19:11,703
+son imágenes
+
+548
+00:19:10,203 --> 00:19:14,203
+y a ver. Y le das.
+
+549
+00:19:11,703 --> 00:19:14,203
+Ya veréis.
+
+550
+00:19:15,103 --> 00:19:20,103
+Él piensa, piensa, piensa y esto es
+
+551
+00:19:17,703 --> 00:19:21,503
+gratis, la IA. Y es cutre, ya veréis que
+
+552
+00:19:20,103 --> 00:19:23,403
+es cutre, pero es que yo quiero tener
+
+553
+00:19:21,503 --> 00:19:25,103
+mis O sea, yo quiero tener algo guardado
+
+554
+00:19:23,403 --> 00:19:27,203
+que sea fácil de acceder. En Notion le
+
+555
+00:19:25,103 --> 00:19:28,403
+puedes dar a favoritos, se te guarda a
+
+556
+00:19:27,203 --> 00:19:31,303
+aquí arriba en el panel donde yo tengo
+
+557
+00:19:28,403 --> 00:19:32,603
+estas cosas, se te guarda y fuera.
+
+558
+00:19:31,303 --> 00:19:34,303
+Supercómodo.
+
+559
+00:19:32,603 --> 00:19:35,703
+Y seguro que hay alguien que me comenta,
+
+560
+00:19:34,303 --> 00:19:36,903
+yo tengo una app de journal, si alguien
+
+561
+00:19:35,703 --> 00:19:38,703
+la quiere, si queréis hablar con él y os
+
+562
+00:19:36,903 --> 00:19:40,403
+la quiere pasar, de [ __ ] madre. Si os
+
+563
+00:19:38,703 --> 00:19:43,103
+queréis hacer una con Claude, de [ __ ]
+
+564
+00:19:40,403 --> 00:19:44,903
+madre. Eh, ¿creo que es necesario? No,
+
+565
+00:19:43,103 --> 00:19:46,103
+pero a ver, teniendo el Claude de tal es
+
+566
+00:19:44,903 --> 00:19:47,303
+una buena idea, no es no es difícil
+
+567
+00:19:46,103 --> 00:19:48,803
+hacerlo.
+
+568
+00:19:47,303 --> 00:19:50,903
+Pero yo ya os he dicho que a mí me
+
+569
+00:19:48,803 --> 00:19:54,103
+amparo estas cosas.
+
+570
+00:19:50,903 --> 00:19:57,403
+Y vamos a ver si
+
+571
+00:19:54,103 --> 00:19:57,403
+si le mete el Notion.
+
+572
+00:19:59,403 --> 00:20:02,703
+Una vez tengáis esto, ahora está creando
+
+573
+00:20:01,103 --> 00:20:04,803
+la base de datos, como veis ya empieza a
+
+574
+00:20:02,703 --> 00:20:06,703
+hacer las tablas, las crea él todas.
+
+575
+00:20:04,803 --> 00:20:08,403
+Y una vez tienes esto, lo que vas a
+
+576
+00:20:06,703 --> 00:20:10,403
+hacer es rellenarlo. Al principio es
+
+577
+00:20:08,403 --> 00:20:11,503
+algo superpobre, como veis no tiene gran
+
+578
+00:20:10,403 --> 00:20:12,803
+cosa.
+
+579
+00:20:11,503 --> 00:20:14,003
+Y dice, ya está creado el journal,
+
+580
+00:20:12,803 --> 00:20:15,403
+diario de trading con fecha y día de la
+
+581
+00:20:14,003 --> 00:20:17,103
+semana, tu tu tu, tu tu tu. Vale,
+
+582
+00:20:15,403 --> 00:20:19,503
+entonces tú aquí qué vas a hacer. Pues
+
+583
+00:20:17,103 --> 00:20:21,003
+dejas la IA y valoras lo que estás
+
+584
+00:20:19,503 --> 00:20:22,503
+viendo, ¿vale? Yo aquí, por ejemplo, veo
+
+585
+00:20:21,003 --> 00:20:24,305
+demasiadas, demasiadas, demasiadas
+
+586
+00:20:22,503 --> 00:20:26,505
+cosas, no me gusta lo veo.
+
+587
+00:20:24,305 --> 00:20:28,105
+Y lo primero que es, fecha.
+
+588
+00:20:26,505 --> 00:20:30,505
+¿Veis? Ya está en formato fecha. Esto es
+
+589
+00:20:28,105 --> 00:20:32,705
+súper cómodo, súper cómodo. ¿Vale? Día
+
+590
+00:20:30,505 --> 00:20:35,405
+de la semana, perfecto.
+
+591
+00:20:32,705 --> 00:20:35,405
+Resultado.
+
+592
+00:20:35,705 --> 00:20:39,505
+Riesgo. Aquí, por ejemplo, me gustaría
+
+593
+00:20:37,805 --> 00:20:44,305
+que estuviese directamente en dólares.
+
+594
+00:20:39,505 --> 00:20:46,805
+Pues tú puedes editarlo y decir ehm
+
+595
+00:20:44,305 --> 00:20:46,805
+eh
+
+596
+00:20:47,005 --> 00:20:53,105
+Cambiar tipo y puedes poner
+
+597
+00:20:50,605 --> 00:20:54,705
+ehm fórmula. Esto ya veréis que iré
+
+598
+00:20:53,105 --> 00:20:57,505
+viéndolo vosotros, pero creo que puedes
+
+599
+00:20:54,705 --> 00:20:57,505
+poner algo por allí.
+
+600
+00:20:57,805 --> 00:21:02,005
+Bueno, ¿qué [ __ ] Esto le puedo decir
+
+601
+00:20:59,005 --> 00:21:04,405
+a la IA que lo haga. ¿Vale? Eh, no, RR.
+
+602
+00:21:02,005 --> 00:21:05,405
+Lo mismo. Puedes cambiar y poner RRs.
+
+603
+00:21:04,405 --> 00:21:08,505
+Hora.
+
+604
+00:21:05,405 --> 00:21:10,205
+También. Análisis
+
+605
+00:21:08,505 --> 00:21:11,905
+imágenes.
+
+606
+00:21:10,205 --> 00:21:14,105
+Aquí arriesgue más de lo que tal. ¿Veis
+
+607
+00:21:11,905 --> 00:21:15,205
+que está en checklist?
+
+608
+00:21:14,105 --> 00:21:16,605
+Y ya está. Vale. Pues yo voy a
+
+609
+00:21:15,205 --> 00:21:17,605
+corregirle algo a las Aquí ya es a
+
+610
+00:21:16,605 --> 00:21:19,205
+vuestro gusto, ¿vale? Pero yo, por
+
+611
+00:21:17,605 --> 00:21:21,905
+ejemplo, como no me gusta tenerlo todo
+
+612
+00:21:19,205 --> 00:21:21,905
+así, diré
+
+613
+00:21:25,005 --> 00:21:28,205
+coma, pero ahora vamos a avisar que es
+
+614
+00:21:27,005 --> 00:21:29,105
+lo que queríamos.
+
+615
+00:21:28,205 --> 00:21:30,405
+Coma.
+
+616
+00:21:29,105 --> 00:21:33,305
+Con
+
+617
+00:21:30,405 --> 00:21:37,005
+el riesgo directamente
+
+618
+00:21:33,305 --> 00:21:39,105
+en dólares coma con las RRs. Este
+
+619
+00:21:37,005 --> 00:21:41,305
+formato
+
+620
+00:21:39,105 --> 00:21:43,305
+1 a 1 1
+
+621
+00:21:41,305 --> 00:21:46,705
+a 1 punto
+
+622
+00:21:43,305 --> 00:21:46,705
+5 etc.
+
+623
+00:21:46,905 --> 00:21:50,505
+Ehm.
+
+624
+00:21:48,705 --> 00:21:51,805
+Ahora está bien.
+
+625
+00:21:50,505 --> 00:21:54,305
+Análisis
+
+626
+00:21:51,805 --> 00:21:57,105
+está bien, imágenes está bien.
+
+627
+00:21:54,305 --> 00:21:57,105
+Y finalmente
+
+628
+00:22:08,005 --> 00:22:10,105
+¿Vale? Pero aquí le he dicho las
+
+629
+00:22:08,805 --> 00:22:12,005
+correcciones que yo quiero, ¿vale? Aquí
+
+630
+00:22:10,105 --> 00:22:14,405
+a vuestro gusto, ya os lo digo, ¿vale?
+
+631
+00:22:12,005 --> 00:22:15,805
+Como veis eh les he dicho Le he dicho
+
+632
+00:22:14,405 --> 00:22:19,205
+básicamente que no quiero tener todo el
+
+633
+00:22:15,805 --> 00:22:20,705
+rato que ir así, quiero algo más como
+
+634
+00:22:19,205 --> 00:22:22,105
+que vaya bajando. Y ahora le he dicho
+
+635
+00:22:20,705 --> 00:22:24,905
+que me dé, por ejemplo, pues el formato
+
+636
+00:22:22,105 --> 00:22:27,006
+del RR en 1 a 1, el riesgo en dólares.
+
+637
+00:22:24,905 --> 00:22:28,406
+Luego le he dicho que eh toda esta
+
+638
+00:22:27,006 --> 00:22:30,206
+checklist que en vez de hacérmela eh
+
+639
+00:22:28,406 --> 00:22:32,506
+horizontal, que sea un desplegable que
+
+640
+00:22:30,206 --> 00:22:35,506
+aquí salga todo, ¿no? Y yo pueda ir como
+
+641
+00:22:32,506 --> 00:22:38,306
+desplegándolo y plegándolo. Y y esto es
+
+642
+00:22:35,506 --> 00:22:40,006
+lo vas amoldando tú a tu gusto, ¿vale?
+
+643
+00:22:38,306 --> 00:22:41,506
+Entonces, vamos a esperar a que piense.
+
+644
+00:22:40,006 --> 00:22:43,906
+Una vez lo piense, vamos a rellenar
+
+645
+00:22:41,506 --> 00:22:46,606
+nada, un par o tres de días eh con mucha
+
+646
+00:22:43,906 --> 00:22:47,606
+calma. Ehm, o sea, súper rápido para que
+
+647
+00:22:46,606 --> 00:22:49,006
+veáis y luego os voy a explicar
+
+648
+00:22:47,606 --> 00:22:52,006
+exactamente qué es lo que tenéis que
+
+649
+00:22:49,006 --> 00:22:53,306
+analizar a la hora de ehm de hacer el
+
+650
+00:22:52,006 --> 00:22:54,206
+journal, ¿no? Aquí qué es el análisis
+
+651
+00:22:53,306 --> 00:22:57,506
+que iba a hacer y os voy a explicar
+
+652
+00:22:54,206 --> 00:22:57,506
+exactamente cómo a mí me ayudó.
+
+653
+00:23:00,306 --> 00:23:03,406
+Vais a ver que de repente cuando acabe
+
+654
+00:23:01,506 --> 00:23:05,006
+de pensar va a hacer como
+
+655
+00:23:03,406 --> 00:23:06,806
+y se va a corregir todo, o sea, en su
+
+656
+00:23:05,006 --> 00:23:07,906
+momento.
+
+657
+00:23:06,806 --> 00:23:10,306
+Y creo que soy la persona que está
+
+658
+00:23:07,906 --> 00:23:12,506
+enseñando cómo hacer un un Notion de la
+
+659
+00:23:10,306 --> 00:23:14,906
+manera más cutre del mundo, pero a mí me
+
+660
+00:23:12,506 --> 00:23:18,106
+ha funcionado, así que
+
+661
+00:23:14,906 --> 00:23:18,106
+no me da vergüenza enseñarlo así.
+
+662
+00:23:20,306 --> 00:23:23,206
+A ver si esto Ah, mirad, mientras este
+
+663
+00:23:21,706 --> 00:23:25,806
+piensa, os voy a enseñar una cosa que os
+
+664
+00:23:23,206 --> 00:23:25,806
+quería enseñar.
+
+665
+00:23:26,206 --> 00:23:30,206
+Para poner las fotos en TradingView,
+
+666
+00:23:28,906 --> 00:23:31,506
+esto lo voy a hacerlo ni grande del
+
+667
+00:23:30,206 --> 00:23:33,006
+todo, para poner las fotos en
+
+668
+00:23:31,506 --> 00:23:34,806
+TradingView, ¿vale? Imagínate que tú
+
+669
+00:23:33,006 --> 00:23:36,506
+tienes, pues yo qué sé,
+
+670
+00:23:34,806 --> 00:23:37,306
+un trade aquí dibujado, ¿vale? Cualquier
+
+671
+00:23:36,506 --> 00:23:39,106
+[ __ ]
+
+672
+00:23:37,306 --> 00:23:40,006
+Imagínate que tienes aquí, pues un trade
+
+673
+00:23:39,106 --> 00:23:41,006
+así.
+
+674
+00:23:40,006 --> 00:23:42,206
+Ya sé que hay zoom y que lo veis bien,
+
+675
+00:23:41,006 --> 00:23:44,406
+¿eh? Pero para hacer una foto, le dais
+
+676
+00:23:42,206 --> 00:23:46,306
+aquí, captura una imagen y le puedes dar
+
+677
+00:23:44,406 --> 00:23:47,406
+descargar, copiar o copiar enlace,
+
+678
+00:23:46,306 --> 00:23:49,406
+¿vale? Podéis hacer lo que queráis. Yo
+
+679
+00:23:47,406 --> 00:23:51,206
+normalmente le doy a copiar imagen o
+
+680
+00:23:49,406 --> 00:23:52,506
+descargar y en el Notion la pongo, pero
+
+681
+00:23:51,206 --> 00:23:55,606
+es para que lo tengáis en cuenta, que se
+
+682
+00:23:52,506 --> 00:23:55,606
+puede hacer de esta forma, ¿sabéis?
+
+683
+00:23:56,206 --> 00:23:59,506
+Y así no tenéis que ir con capturas
+
+684
+00:23:57,506 --> 00:24:00,506
+súper cutres. Y que es lo que hacía
+
+685
+00:23:59,506 --> 00:24:03,106
+también al principio. En vez de
+
+686
+00:24:00,506 --> 00:24:05,106
+capturas, le metes ahí una screenshot y
+
+687
+00:24:03,106 --> 00:24:07,306
+se te pone todo directo.
+
+688
+00:24:05,106 --> 00:24:08,806
+Una screenshot que digo una
+
+689
+00:24:07,306 --> 00:24:11,706
+una captura.
+
+690
+00:24:08,806 --> 00:24:13,306
+Hablando en inglés aquí como
+
+691
+00:24:11,706 --> 00:24:14,406
+un tonto.
+
+692
+00:24:13,306 --> 00:24:15,806
+Vale.
+
+693
+00:24:14,406 --> 00:24:17,506
+A ver si piensa. Este tío le está
+
+694
+00:24:15,806 --> 00:24:18,906
+costando más hacer los corregir las
+
+695
+00:24:17,506 --> 00:24:20,606
+cosas que Lo bueno es que una vez lo
+
+696
+00:24:18,906 --> 00:24:21,906
+haces ya está hecho, ¿vale? Y ya sé que
+
+697
+00:24:20,606 --> 00:24:23,306
+no se hace no se hace falta igual que
+
+698
+00:24:21,906 --> 00:24:25,006
+haga un ejemplo tan concreto, pero mira,
+
+699
+00:24:23,306 --> 00:24:26,506
+me ha dado ilusión y he dicho
+
+700
+00:24:25,006 --> 00:24:28,406
+voy a hacer un vídeo completo. Si
+
+701
+00:24:26,506 --> 00:24:30,107
+queréis skipear hasta que Mirad.
+
+702
+00:24:28,406 --> 00:24:32,807
+Perfecto. Se ha actualizado la base de
+
+703
+00:24:30,107 --> 00:24:33,766
+datos, veis? Entonces, quito esto y
+
+704
+00:24:32,807 --> 00:24:35,307
+ahora ya no me tengo que ir tan lejos,
+
+705
+00:24:33,766 --> 00:24:37,707
+[carraspeo] es mucho más clean.
+
+706
+00:24:35,307 --> 00:24:40,707
+Entonces, como empieza fecha, aquí vamos
+
+707
+00:24:37,707 --> 00:24:43,007
+a poner mira, yo que sé, 22. Día semana,
+
+708
+00:24:40,707 --> 00:24:45,507
+lunes. Resultado, hemos ganado. ¿Qué
+
+709
+00:24:43,007 --> 00:24:48,607
+riesgo hemos tenido? 500 dólares y ya se
+
+710
+00:24:45,507 --> 00:24:50,807
+pone automáticamente en dólares. RR
+
+711
+00:24:48,607 --> 00:24:54,307
+1 a 1, perfecto. ¿A qué hora ha sido el
+
+712
+00:24:50,807 --> 00:24:57,408
+trade? A las 9 y 35. Vale, superguay.
+
+713
+00:24:54,307 --> 00:24:57,408
+Después vamos a ir aquí al lado.
+
+714
+00:24:57,507 --> 00:25:01,908
+Guau, lo que he dejado, ¿eh? ¿Qué está
+
+715
+00:24:59,307 --> 00:25:01,908
+pasando?
+
+716
+00:25:06,107 --> 00:25:09,408
+¿Se ha comido todo o qué?
+
+717
+00:25:10,908 --> 00:25:15,707
+Ehm, ah, está aquí. ¿Por qué está
+
+718
+00:25:13,408 --> 00:25:16,807
+ocultado? Aquí, mostrar. Vale, perfecto.
+
+719
+00:25:15,707 --> 00:25:18,908
+Análisis de
+
+720
+00:25:16,807 --> 00:25:22,908
+¿Qué podríamos poner? Pues
+
+721
+00:25:18,908 --> 00:25:24,107
+H1 y H4 estaban alcistas
+
+722
+00:25:22,908 --> 00:25:25,707
+y de Dolar
+
+723
+00:25:24,107 --> 00:25:27,807
+teníamos
+
+724
+00:25:25,707 --> 00:25:29,807
+un data high
+
+725
+00:25:27,807 --> 00:25:32,107
+de CPI, por ejemplo. Ya está,
+
+726
+00:25:29,807 --> 00:25:35,408
+suficiente. Análisis
+
+727
+00:25:32,107 --> 00:25:38,007
+He esperado a que se torne
+
+728
+00:25:35,408 --> 00:25:40,607
+una condición, un FVG
+
+729
+00:25:38,007 --> 00:25:43,807
+de 15 minutos, que es la condición y
+
+730
+00:25:40,607 --> 00:25:43,807
+después de un imbalce entrar.
+
+731
+00:25:44,807 --> 00:25:48,507
+Algo supersencillo para que tengas un
+
+732
+00:25:46,207 --> 00:25:50,207
+contexto. Imágenes, puedes subir el
+
+733
+00:25:48,507 --> 00:25:51,507
+archivo, ¿vale? O sea, te lo descargas
+
+734
+00:25:50,207 --> 00:25:53,607
+como os he enseñado, subes el archivo de
+
+735
+00:25:51,507 --> 00:25:55,307
+todas las imágenes, todas, todas, todas.
+
+736
+00:25:53,607 --> 00:25:57,107
+Incluso le puedes decir al Notion, Oye,
+
+737
+00:25:55,307 --> 00:25:58,507
+sepórame las imágenes por temporalidades
+
+738
+00:25:57,107 --> 00:26:00,707
+dentro del bloque de imágenes. Igual
+
+739
+00:25:58,507 --> 00:26:03,007
+aquí te puedes separar por 5 minutos,
+
+740
+00:26:00,707 --> 00:26:04,408
+15, 10 hora, ahí ya a tu gusto.
+
+741
+00:26:03,007 --> 00:26:05,807
+Y luego más, por ejemplo, aquí no lo he
+
+742
+00:26:04,408 --> 00:26:07,307
+acabado de entender, no me ha dado un
+
+743
+00:26:05,807 --> 00:26:09,408
+desplegable vertical, ¿vale? Me lo ha
+
+744
+00:26:07,307 --> 00:26:10,908
+dado otra vez horizontal, pero bueno, si
+
+745
+00:26:09,408 --> 00:26:12,607
+te peleas con él un rato y tal le puedes
+
+746
+00:26:10,908 --> 00:26:13,908
+poner. Pero por ejemplo, ¿arriesgué más
+
+747
+00:26:12,607 --> 00:26:15,607
+de lo que debería?
+
+748
+00:26:13,908 --> 00:26:18,007
+No, lo hice bien. Perfecto. ¿Cerré antes
+
+749
+00:26:15,607 --> 00:26:20,007
+de tiempo? Ostra, pues la verdad que sí.
+
+750
+00:26:18,007 --> 00:26:22,107
+Y entré antes de tiempo también, ¿vale?
+
+751
+00:26:20,007 --> 00:26:23,607
+Entonces, marcas aquí cualquier cosa y
+
+752
+00:26:22,107 --> 00:26:25,307
+dices, venga, va.
+
+753
+00:26:23,607 --> 00:26:28,207
+Nueva página,
+
+754
+00:26:25,307 --> 00:26:30,107
+día 23, ¿vale? ¿Qué día era el día 23?
+
+755
+00:26:28,207 --> 00:26:32,509
+Pues era martes, ¿vale? Después puedes
+
+756
+00:26:30,107 --> 00:26:34,009
+hacer, yo que sé, que en vez de cada eh
+
+757
+00:26:32,509 --> 00:26:36,109
+día que pones nuevo, como veis las más
+
+758
+00:26:34,009 --> 00:26:38,109
+páginas que ponemos, si selecciono una
+
+759
+00:26:36,109 --> 00:26:40,209
+una fecha, se me ordena desde arriba
+
+760
+00:26:38,109 --> 00:26:42,809
+abajo. A mí me gustaría tener 22, 23,
+
+761
+00:26:40,209 --> 00:26:44,409
+24, 25, 26. Esto también lo puedes
+
+762
+00:26:42,809 --> 00:26:46,409
+cambiar tú aquí
+
+763
+00:26:44,409 --> 00:26:47,709
+en
+
+764
+00:26:46,409 --> 00:26:49,709
+eh eh eh
+
+765
+00:26:47,709 --> 00:26:51,209
+lo tienes que tener formato des formato
+
+766
+00:26:49,709 --> 00:26:53,509
+de fecha
+
+767
+00:26:51,209 --> 00:26:57,409
+o o ordenar de de antiguo a nuevo,
+
+768
+00:26:53,509 --> 00:26:57,409
+¿veis? 22, 23 Ah, no.
+
+769
+00:27:02,209 --> 00:27:06,309
+Ehm, mhm mhm mhm.
+
+770
+00:27:05,309 --> 00:27:07,609
+Bueno, chavales, que lo podéis ordenar,
+
+771
+00:27:06,309 --> 00:27:09,409
+¿vale? Es que no sé ahora mismo cómo se
+
+772
+00:27:07,609 --> 00:27:10,709
+hace. Yo el mío lo hice hace tiempo,
+
+773
+00:27:09,409 --> 00:27:12,009
+pero bueno, podéis ordenarlos, podéis
+
+774
+00:27:10,709 --> 00:27:13,609
+pelear con la IA y ya habéis visto que
+
+775
+00:27:12,009 --> 00:27:15,209
+es superpersonalizable. Es supercutre y
+
+776
+00:27:13,609 --> 00:27:17,009
+lo más importante no es cómo
+
+777
+00:27:15,209 --> 00:27:18,109
+construirlo, sino el tener la fecha, el
+
+778
+00:27:17,009 --> 00:27:20,209
+día de la semana, el resultado, el
+
+779
+00:27:18,109 --> 00:27:21,809
+riesgo del RR, la hora, etcétera.
+
+780
+00:27:20,209 --> 00:27:23,409
+Entonces, ¿por qué es tan importante
+
+781
+00:27:21,809 --> 00:27:25,509
+hacer un journal y cómo lo vais a
+
+782
+00:27:23,409 --> 00:27:29,109
+arreglar? O sea, cómo lo vais a revisar.
+
+783
+00:27:25,509 --> 00:27:31,209
+Yo lo que hago es revisar el diario cada
+
+784
+00:27:29,109 --> 00:27:33,209
+fin de semana. Cada fin de semana miro
+
+785
+00:27:31,209 --> 00:27:35,109
+los errores y miro los trades de la
+
+786
+00:27:33,209 --> 00:27:36,409
+semana pasada. Y esto normalmente lo
+
+787
+00:27:35,109 --> 00:27:38,109
+hago el fin de semana que estoy aburrido
+
+788
+00:27:36,409 --> 00:27:39,409
+y el mercado no está abierto.
+
+789
+00:27:38,109 --> 00:27:41,109
+Entonces, ¿qué es lo que yo te
+
+790
+00:27:39,409 --> 00:27:42,609
+recomiendo? Cada día haces el diario y
+
+791
+00:27:41,109 --> 00:27:44,809
+cuando llega el fin de revisas la
+
+792
+00:27:42,609 --> 00:27:46,609
+semana. Y después, cuando acaba el mes,
+
+793
+00:27:44,809 --> 00:27:48,309
+revisas todo el mes. Entonces, ¿qué es
+
+794
+00:27:46,609 --> 00:27:50,009
+lo que revisas? Aquí está la gracia,
+
+795
+00:27:48,309 --> 00:27:51,509
+¿no? Lo que yo hago Lo que lo que yo
+
+796
+00:27:50,009 --> 00:27:52,909
+hacía hace mucho
+
+797
+00:27:51,509 --> 00:27:55,009
+es intentar solucionar todos los
+
+798
+00:27:52,909 --> 00:27:56,909
+problemas de una. Es decir,
+
+799
+00:27:55,009 --> 00:27:58,709
+en una semana había gambleado, había
+
+800
+00:27:56,909 --> 00:28:00,909
+tenido FOMO, había cerrado antes de
+
+801
+00:27:58,709 --> 00:28:02,209
+tiempo y a la vez había comprado más
+
+802
+00:28:00,909 --> 00:28:03,809
+cuentas de las que debía. Que eso son
+
+803
+00:28:02,209 --> 00:28:06,209
+cuatro errores en una semana. Era hacer
+
+804
+00:28:03,809 --> 00:28:08,609
+todo mal. Y yo llegaba al fin de, miraba
+
+805
+00:28:06,209 --> 00:28:09,609
+todo el journal y decía, buah,
+
+806
+00:28:08,609 --> 00:28:10,909
+soy uno nuevo. Me veía un vídeo de
+
+807
+00:28:09,609 --> 00:28:12,409
+motivación, pero te lo juro, un edit de
+
+808
+00:28:10,909 --> 00:28:13,709
+alguien que ganaba dinero con el trading
+
+809
+00:28:12,409 --> 00:28:15,809
+o un vídeo de alguien que ganaba dinero
+
+810
+00:28:13,709 --> 00:28:17,409
+con el trading y era como, buah,
+
+811
+00:28:15,809 --> 00:28:19,709
+el lunes no voy a romper ni una regla,
+
+812
+00:28:17,409 --> 00:28:22,209
+soy una roca, voy a ser rentable, quiero
+
+813
+00:28:19,709 --> 00:28:23,609
+hacer trading. No va así, ¿vale?
+
+814
+00:28:22,209 --> 00:28:25,409
+No va así. Es muy difícil solucionar
+
+815
+00:28:23,609 --> 00:28:26,609
+todos los errores a la vez. Entonces,
+
+816
+00:28:25,409 --> 00:28:28,509
+ahí lo que tienes que hacer es decir,
+
+817
+00:28:26,609 --> 00:28:30,309
+[ __ ] estos cuatro errores errores No
+
+818
+00:28:28,509 --> 00:28:31,909
+sé hablar. Esta semana me voy a
+
+819
+00:28:30,309 --> 00:28:33,610
+concentrar en solucionar, pues mira, lo
+
+820
+00:28:31,909 --> 00:28:34,810
+de tener FOMO. Por lo tanto, esta semana
+
+821
+00:28:33,610 --> 00:28:36,710
+voy a concentrarme en mejorar este
+
+822
+00:28:34,810 --> 00:28:37,810
+error. Voy a intentar no intentar eh no
+
+823
+00:28:36,710 --> 00:28:39,310
+entrar antes de tiempo y tener un
+
+824
+00:28:37,810 --> 00:28:41,910
+poquito más de paciencia.
+
+825
+00:28:39,310 --> 00:28:43,910
+Y poco a poco vas cogiendo estos errores
+
+826
+00:28:41,910 --> 00:28:45,410
+individuales y a final de mes, si has
+
+827
+00:28:43,910 --> 00:28:47,010
+tenido siete errores, has sido capaz de
+
+828
+00:28:45,410 --> 00:28:48,810
+mejorar cuatro o cinco. Y eso está
+
+829
+00:28:47,010 --> 00:28:51,310
+superbién. Y lo importante es que no
+
+830
+00:28:48,810 --> 00:28:53,110
+recaigas en estos errores. Por tanto,
+
+831
+00:28:51,310 --> 00:28:55,210
+a medida que los vas solucionando quedan
+
+832
+00:28:53,110 --> 00:28:56,910
+menos para solucionar. Y, obviamente,
+
+833
+00:28:55,210 --> 00:28:58,210
+alguno se va a repetir, obviamente
+
+834
+00:28:56,910 --> 00:28:59,910
+siempre vas a tener algún desliz
+
+835
+00:28:58,210 --> 00:29:01,910
+psicológico, es normal, a mí también me
+
+836
+00:28:59,910 --> 00:29:03,810
+pasa, pero la gracia del journal es
+
+837
+00:29:01,910 --> 00:29:05,710
+intentar reducir los errores lo menos
+
+838
+00:29:03,810 --> 00:29:07,510
+posible y, sobre todo, como ellos decían
+
+839
+00:29:05,710 --> 00:29:10,110
+en los vídeos de psicología, aprender de
+
+840
+00:29:07,510 --> 00:29:11,610
+ellos. ¿Y por qué tiene mucho sentido
+
+841
+00:29:10,110 --> 00:29:12,710
+hacer un análisis exhaustivo del
+
+842
+00:29:11,610 --> 00:29:15,110
+journal?
+
+843
+00:29:12,710 --> 00:29:16,510
+Porque aparte de errores psicológicos
+
+844
+00:29:15,110 --> 00:29:18,310
+también tienes que ver qué te dice tu
+
+845
+00:29:16,510 --> 00:29:21,410
+data. Y por eso lo haces tanto en
+
+846
+00:29:18,310 --> 00:29:22,910
+backtesting como en demo como en todo.
+
+847
+00:29:21,410 --> 00:29:24,710
+Porque si tú haces backtesting o haces
+
+848
+00:29:22,910 --> 00:29:26,210
+fondeo y ves que todos los viernes
+
+849
+00:29:24,710 --> 00:29:27,810
+pierdes, todos,
+
+850
+00:29:26,210 --> 00:29:29,610
+¿qué qué significa?
+
+851
+00:29:27,810 --> 00:29:32,110
+Que los viernes no vas a operar. ¿Es
+
+852
+00:29:29,610 --> 00:29:33,810
+malo? No. ¿No ves que en el trading a
+
+853
+00:29:32,110 --> 00:29:35,410
+veces no se trata de hacer más, sino se
+
+854
+00:29:33,810 --> 00:29:37,010
+trata de hacer menos?
+
+855
+00:29:35,410 --> 00:29:38,410
+Si tú ves que todos los viernes pierdes,
+
+856
+00:29:37,010 --> 00:29:40,210
+dejas de operar el viernes, dejas de
+
+857
+00:29:38,410 --> 00:29:42,610
+perder y, por lo tanto, tu porcentaje de
+
+858
+00:29:40,210 --> 00:29:44,110
+acierto, tu win rate sube. No metiendo
+
+859
+00:29:42,610 --> 00:29:46,210
+más trades, tu win rate acaba de subir
+
+860
+00:29:44,110 --> 00:29:48,110
+haciendo menos, ¿vale?
+
+861
+00:29:46,210 --> 00:29:50,010
+Por ejemplo, riesgo. Si ves que la
+
+862
+00:29:48,110 --> 00:29:52,210
+mayoría de veces que arriesgas 2000
+
+863
+00:29:50,010 --> 00:29:53,810
+dólares pierdes es porque estás cagado y
+
+864
+00:29:52,210 --> 00:29:56,510
+ya verás que va a ir vinculado un alto
+
+865
+00:29:53,810 --> 00:29:58,710
+riesgo con en en las emociones. Vas a
+
+866
+00:29:56,510 --> 00:30:00,510
+ver que ehm
+
+867
+00:29:58,710 --> 00:30:02,110
+que ehm eso, que has tenido FOMO, que
+
+868
+00:30:00,510 --> 00:30:03,210
+has estado nervioso. Y esto me acaba de
+
+869
+00:30:02,110 --> 00:30:04,610
+recordar que hay un apartado
+
+870
+00:30:03,210 --> 00:30:06,210
+superimportante del journal que no hemos
+
+871
+00:30:04,610 --> 00:30:08,810
+mencionado, que es
+
+872
+00:30:06,210 --> 00:30:10,210
+un blog de notas donde ponga emociones.
+
+873
+00:30:08,810 --> 00:30:12,010
+Cómo te has sentido durante el trade,
+
+874
+00:30:10,210 --> 00:30:13,710
+¿vale? Lo añadís en cualquier lado y
+
+875
+00:30:12,010 --> 00:30:15,710
+emociones donde quiero bullet points,
+
+876
+00:30:13,710 --> 00:30:17,210
+quiero puntos donde digáis he tenido
+
+877
+00:30:15,710 --> 00:30:19,010
+FOMO, he estado muy nervioso antes de
+
+878
+00:30:17,210 --> 00:30:20,510
+entrar. Mini puntos de cómo te has
+
+879
+00:30:19,010 --> 00:30:22,810
+sentido, las cosas más heavys que has
+
+880
+00:30:20,510 --> 00:30:24,310
+sentido, ¿vale? Y ya verás que, por
+
+881
+00:30:22,810 --> 00:30:27,110
+ejemplo, también lo que os he dicho
+
+882
+00:30:24,310 --> 00:30:29,010
+antes. Si tú ves que tienes un RR de uno
+
+883
+00:30:27,110 --> 00:30:30,210
+a cinco un día, que no es común, o de
+
+884
+00:30:29,010 --> 00:30:32,510
+uno a dos,
+
+885
+00:30:30,210 --> 00:30:34,110
+es un RR donde has tenido que estar más
+
+886
+00:30:32,510 --> 00:30:35,710
+tiempo en el trade. Seguramente en el
+
+887
+00:30:34,110 --> 00:30:37,512
+blog de tus emociones vas a ver que,
+
+888
+00:30:35,710 --> 00:30:39,212
+ostras, me ha costado mucho aguantar el
+
+889
+00:30:37,512 --> 00:30:40,512
+trade, he estado nervioso, por lo tanto
+
+890
+00:30:39,212 --> 00:30:42,512
+he cerrado antes y el resultado no ha
+
+891
+00:30:40,512 --> 00:30:44,512
+sido bueno. Igual eso te dice, ostras,
+
+892
+00:30:42,512 --> 00:30:45,812
+es que igual yo como trader no tengo que
+
+893
+00:30:44,512 --> 00:30:48,012
+ir al uno a dos, igual tengo que ir al
+
+894
+00:30:45,812 --> 00:30:49,612
+uno a uno. Por eso digo que yo os puedo
+
+895
+00:30:48,012 --> 00:30:51,112
+explicar mil cosas, pero al final la
+
+896
+00:30:49,612 --> 00:30:52,912
+experiencia y el análisis hará que
+
+897
+00:30:51,112 --> 00:30:54,612
+vosotros mismos amoldéis el journal a
+
+898
+00:30:52,912 --> 00:30:57,212
+vosotros, el trading a vosotros y la
+
+899
+00:30:54,612 --> 00:30:58,412
+estrategia a vosotros. Y por eso mucha
+
+900
+00:30:57,212 --> 00:30:59,812
+gente
+
+901
+00:30:58,412 --> 00:31:02,112
+y muchos traders tienen la misma
+
+902
+00:30:59,812 --> 00:31:03,812
+estrategia, pero tenemos diferentes
+
+903
+00:31:02,112 --> 00:31:05,112
+entradas, diferentes maneras de decir si
+
+904
+00:31:03,812 --> 00:31:06,912
+un trade es bueno o malo, y eso es
+
+905
+00:31:05,112 --> 00:31:08,712
+porque cada uno construye su propio
+
+906
+00:31:06,912 --> 00:31:10,912
+gusto, su propia manera de ver el
+
+907
+00:31:08,712 --> 00:31:12,112
+mercado, ¿no? Lo mismo con el análisis
+
+908
+00:31:10,912 --> 00:31:13,912
+del high time frame y del low time
+
+909
+00:31:12,112 --> 00:31:15,212
+frame. Si algún día ves que tu análisis
+
+910
+00:31:13,912 --> 00:31:17,212
+high time frame no es claro, que tú
+
+911
+00:31:15,212 --> 00:31:19,312
+dices, no sabía exactamente hacia dónde
+
+912
+00:31:17,212 --> 00:31:20,612
+iba el mercado y ese día justo pierdes y
+
+913
+00:31:19,312 --> 00:31:22,012
+ves que la mayoría de veces que no
+
+914
+00:31:20,612 --> 00:31:23,812
+tienes un análisis en el high time frame
+
+915
+00:31:22,012 --> 00:31:26,712
+claro pierdes o que te pones más
+
+916
+00:31:23,812 --> 00:31:28,412
+nervioso o que no sabes identificar el
+
+917
+00:31:26,712 --> 00:31:30,112
+¿Qué significa? Que los días que el high
+
+918
+00:31:28,412 --> 00:31:31,812
+time frame esté borroso, que no sepas
+
+919
+00:31:30,112 --> 00:31:33,912
+para dónde va el precio, no operas, te
+
+920
+00:31:31,812 --> 00:31:36,012
+vas, no pasa nada. Y todos estos
+
+921
+00:31:33,912 --> 00:31:37,712
+detalles, todos estos detalles van a
+
+922
+00:31:36,012 --> 00:31:39,912
+hacer que mejores.
+
+923
+00:31:37,712 --> 00:31:41,912
+Todos estos. Y por eso tienes que
+
+924
+00:31:39,912 --> 00:31:44,112
+revisarlo durante la semana. Y cuando
+
+925
+00:31:41,912 --> 00:31:45,112
+acabe el mes vas a [ __ ] y vas a decir,
+
+926
+00:31:44,112 --> 00:31:46,912
+ostras,
+
+927
+00:31:45,112 --> 00:31:50,512
+¿cuántos días he ganado
+
+928
+00:31:46,912 --> 00:31:54,112
+de 9:30 a 10? Pum, 10. ¿Cuántos días he
+
+929
+00:31:50,512 --> 00:31:55,512
+ganado de 10:30 a 11? Ostras, dos.
+
+930
+00:31:54,112 --> 00:31:57,012
+¿Cuántos días he perdido? Y vas a decir,
+
+931
+00:31:55,512 --> 00:31:58,912
+vale, me renta más operar de esta hora a
+
+932
+00:31:57,012 --> 00:32:01,312
+esta hora. ¿Por qué? Porque lo dice la
+
+933
+00:31:58,912 --> 00:32:03,212
+data, ya está, ¿vale?
+
+934
+00:32:01,312 --> 00:32:04,412
+Voy a dejarlo por aquí. Antes de todos
+
+935
+00:32:03,212 --> 00:32:06,712
+quiero explicar cómo a mí me ha ayudado
+
+936
+00:32:04,412 --> 00:32:08,612
+muchísimo el journal a mejorar.
+
+937
+00:32:06,712 --> 00:32:09,612
+Y es básicamente, [ __ ] 32 minutos de
+
+938
+00:32:08,612 --> 00:32:10,712
+vídeo.
+
+939
+00:32:09,612 --> 00:32:12,412
+Y
+
+940
+00:32:10,712 --> 00:32:14,312
+para los que no lo sepáis, yo hubo una
+
+941
+00:32:12,412 --> 00:32:15,412
+época donde
+
+942
+00:32:14,312 --> 00:32:16,912
+que está todo grabado, o sea, es seguro
+
+943
+00:32:15,412 --> 00:32:18,312
+que lo encontráis,
+
+944
+00:32:16,912 --> 00:32:20,612
+estaba estancado en break even, ¿vale?
+
+945
+00:32:18,312 --> 00:32:21,512
+Tenía una cuenta de fondeo, no subía. Es
+
+946
+00:32:20,612 --> 00:32:23,712
+decir,
+
+947
+00:32:21,512 --> 00:32:25,512
+más 500, menos 500, más 500, más 500,
+
+948
+00:32:23,712 --> 00:32:27,212
+menos 500, menos 500, más 500, menos
+
+949
+00:32:25,512 --> 00:32:29,512
+500. Pasó un mes, tenía la cuenta como
+
+950
+00:32:27,212 --> 00:32:30,812
+más 200, estaba igual, a un mes y medio,
+
+951
+00:32:29,512 --> 00:32:32,212
+y no avanzaba.
+
+952
+00:32:30,812 --> 00:32:34,412
+Y yo decía, yo estaba siguiendo todas
+
+953
+00:32:32,212 --> 00:32:35,812
+mis reglas, haciendo todo bien. Y por
+
+954
+00:32:34,412 --> 00:32:37,412
+eso a veces frustra el trading, porque
+
+955
+00:32:35,812 --> 00:32:39,512
+estás empezando,
+
+956
+00:32:37,412 --> 00:32:41,613
+estás haciendo todo bien
+
+957
+00:32:39,512 --> 00:32:42,813
+y no sabes qué es lo que corregir y te
+
+958
+00:32:41,613 --> 00:32:45,813
+empiezas a plantear que el trading no
+
+959
+00:32:42,813 --> 00:32:48,113
+funciona y que el mercado es aleatorio y
+
+960
+00:32:45,813 --> 00:32:49,713
+te comes la cabeza tú solo.
+
+961
+00:32:48,113 --> 00:32:51,013
+¿Y qué es lo que hice? Revisé el diario
+
+962
+00:32:49,713 --> 00:32:52,913
+porque no lo estaba revisando. Yo lo
+
+963
+00:32:51,013 --> 00:32:54,213
+hacía, pero no lo miraba
+
+964
+00:32:52,913 --> 00:32:56,113
+y menos lo analizaba como os lo estaba
+
+965
+00:32:54,213 --> 00:32:58,013
+explicando. ¿Y qué vi?
+
+966
+00:32:56,113 --> 00:32:59,713
+En las imágenes, literalmente solo con
+
+967
+00:32:58,013 --> 00:33:02,013
+imágenes, a mí me funcionó un montón,
+
+968
+00:32:59,713 --> 00:33:04,113
+solo con imágenes vi que en un mes perdí
+
+969
+00:33:02,013 --> 00:33:06,213
+seis trades, ¿vale? Seis trades, que eso
+
+970
+00:33:04,113 --> 00:33:08,213
+son 500 por seis son 3000 dólares y yo
+
+971
+00:33:06,213 --> 00:33:09,913
+estaba arriesgando 500 dólares.
+
+972
+00:33:08,213 --> 00:33:12,613
+Seis trades los perdí,
+
+973
+00:33:09,913 --> 00:33:14,313
+eran y de la misma estructura. Era
+
+974
+00:33:12,613 --> 00:33:17,013
+caída fuerte, ¿vale? Era una caída
+
+975
+00:33:14,313 --> 00:33:18,213
+fuerte y la primera inversión, el primer
+
+976
+00:33:17,013 --> 00:33:20,013
+inversión
+
+977
+00:33:18,213 --> 00:33:22,913
+hacia arriba, yo lo pillaba y siempre
+
+978
+00:33:20,013 --> 00:33:25,213
+fallaba. Siempre, siempre, siempre,
+
+979
+00:33:22,913 --> 00:33:26,413
+siempre fallaba. Tenía seis stop losses
+
+980
+00:33:25,213 --> 00:33:28,113
+así.
+
+981
+00:33:26,413 --> 00:33:30,213
+¿Qué hice el siguiente mes? Cuando yo
+
+982
+00:33:28,113 --> 00:33:31,313
+veía una caída superfuerte y una
+
+983
+00:33:30,213 --> 00:33:33,313
+inversión
+
+984
+00:33:31,313 --> 00:33:34,513
+no no entraba. ¿Y qué pasaba? Que iba
+
+985
+00:33:33,313 --> 00:33:37,613
+directamente el stop loss, pero yo no
+
+986
+00:33:34,513 --> 00:33:39,613
+estaba dentro. Y eso hizo que operase
+
+987
+00:33:37,613 --> 00:33:41,313
+mucho menos, pero que mi porcentaje de
+
+988
+00:33:39,613 --> 00:33:44,013
+acierto subiese un montón porque me
+
+989
+00:33:41,313 --> 00:33:46,113
+ahorré 3000 dólares de pérdidas ese mes.
+
+990
+00:33:44,013 --> 00:33:48,213
+Y acabé pasando mi primera evaluación. Y
+
+991
+00:33:46,113 --> 00:33:50,013
+después volví a aplicarme un fondeado y
+
+992
+00:33:48,213 --> 00:33:51,413
+saqué mi primer retiro haciendo eso y
+
+993
+00:33:50,013 --> 00:33:53,413
+siguiendo mis reglas. Y por eso es tan
+
+994
+00:33:51,413 --> 00:33:54,913
+importante en detalles así. Al igual que
+
+995
+00:33:53,413 --> 00:33:56,713
+si ves que a ciertas horas no ganas,
+
+996
+00:33:54,913 --> 00:33:57,713
+dejas de operar, ¿vale?
+
+997
+00:33:56,713 --> 00:33:59,113
+Pero bueno, no me quiero alargar no
+
+998
+00:33:57,713 --> 00:34:01,213
+quiero alargar más. Me estoy un
+
+999
+00:33:59,113 --> 00:34:03,513
+bizcocho, nos vamos, 34 minutos de
+
+1000
+00:34:01,213 --> 00:34:03,513
+vídeo.
+
+1001
+00:34:04,013 --> 00:34:08,313
+Mañana vamos a ver sesiones
+
+1002
+00:34:06,713 --> 00:34:10,113
+y después de ver las sesiones igual
+
+1003
+00:34:08,313 --> 00:34:11,513
+hacemos un vídeo poniendo todo junto en
+
+1004
+00:34:10,113 --> 00:34:12,913
+backtesting
+
+1005
+00:34:11,513 --> 00:34:14,413
+y después de poner todo junto lo que
+
+1006
+00:34:12,913 --> 00:34:16,913
+hemos visto como los conceptos empezamos
+
+1007
+00:34:14,413 --> 00:34:16,913
+con el strat.
+

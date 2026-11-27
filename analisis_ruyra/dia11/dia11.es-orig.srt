@@ -1,0 +1,2128 @@
+1
+00:00:00,440 --> 00:00:04,280
+Muy buenas, chavales. Bienvenidos. Fecha
+
+2
+00:00:02,760 --> 00:00:06,640
+de hoy en la cámara ahí, la tengo aquí.
+
+3
+00:00:04,280 --> 00:00:08,840
+Bienvenidos al nuevo episodio de
+
+4
+00:00:06,640 --> 00:00:10,640
+liquidez, liquidez parte dos. Sé que hoy
+
+5
+00:00:08,840 --> 00:00:13,040
+teóricamente
+
+6
+00:00:10,640 --> 00:00:15,240
+tocaba psicología, pero como el vídeo de
+
+7
+00:00:13,040 --> 00:00:16,560
+noticias ha sido supercorto y no quiero
+
+8
+00:00:15,240 --> 00:00:18,920
+que
+
+9
+00:00:16,560 --> 00:00:20,880
+se os olvide o perdáis el el taste de lo
+
+10
+00:00:18,920 --> 00:00:24,040
+que es la liquidez, vamos a hacerlo
+
+11
+00:00:20,880 --> 00:00:25,080
+ahora y mañana ya vamos con psicología,
+
+12
+00:00:24,040 --> 00:00:27,440
+¿vale? Oído.
+
+13
+00:00:25,080 --> 00:00:29,400
+Am, así que nada, vamos a empezar. No me
+
+14
+00:00:27,440 --> 00:00:30,960
+gusta hacer las intros largas porque no
+
+15
+00:00:29,400 --> 00:00:32,759
+tienen mucho sentido.
+
+16
+00:00:30,960 --> 00:00:34,920
+Así que vamos a empezar a ver los tipos
+
+17
+00:00:32,759 --> 00:00:36,840
+de liquidez. Hoy va a ser literalmente
+
+18
+00:00:34,920 --> 00:00:37,920
+ver los tipos de liquidez y ejemplos,
+
+19
+00:00:36,840 --> 00:00:39,800
+¿vale? Y es superimportante que
+
+20
+00:00:37,920 --> 00:00:41,560
+entendáis todos estos tipos de liquidez
+
+21
+00:00:39,800 --> 00:00:44,160
+porque los estoy usando yo en el día a
+
+22
+00:00:41,560 --> 00:00:45,160
+día y la verdad que son superútiles,
+
+23
+00:00:44,160 --> 00:00:46,480
+¿vale?
+
+24
+00:00:45,160 --> 00:00:48,880
+Entonces, antes de que os agobiéis,
+
+25
+00:00:46,480 --> 00:00:53,040
+tranquilos. Lo Lo bueno que es que solo
+
+26
+00:00:48,880 --> 00:00:54,480
+tenemos 1 2 3 4 5 6. No uso ninguno. Y
+
+27
+00:00:53,040 --> 00:00:56,440
+de hecho el primero es incluso
+
+28
+00:00:54,480 --> 00:00:58,360
+skippeable, ¿vale? Lo voy a explicar
+
+29
+00:00:56,440 --> 00:01:00,720
+porque obviamente sirve, pero de normal
+
+30
+00:00:58,360 --> 00:01:02,320
+solo uso estos cinco de aquí. Y
+
+31
+00:01:00,720 --> 00:01:04,920
+aprenderse cinco ejemplos de tipos de
+
+32
+00:01:02,320 --> 00:01:06,280
+liquidez es super sencillo y supercómodo
+
+33
+00:01:04,920 --> 00:01:08,560
+y por eso digo que me gusta tanto que el
+
+34
+00:01:06,280 --> 00:01:10,600
+trading sea sencillo. Entonces, tipos de
+
+35
+00:01:08,560 --> 00:01:13,600
+liquidez, ¿cuáles tenemos? El primero de
+
+36
+00:01:10,600 --> 00:01:17,320
+todo, como podéis ver aquí, tenemos PDH
+
+37
+00:01:13,600 --> 00:01:19,680
+y PDL. ¿Qué significa PDH y PDL? En
+
+38
+00:01:17,320 --> 00:01:21,680
+inglés significa previous day high y
+
+39
+00:01:19,680 --> 00:01:23,520
+previous day low. Que significa
+
+40
+00:01:21,680 --> 00:01:24,800
+básicamente el alto del día anterior y
+
+41
+00:01:23,520 --> 00:01:26,360
+el bajo del día anterior. Por algún
+
+42
+00:01:24,800 --> 00:01:28,080
+motivo
+
+43
+00:01:26,360 --> 00:01:30,520
+el precio tiende a visitar el alto del
+
+44
+00:01:28,080 --> 00:01:31,840
+día anterior dando una reacción
+
+45
+00:01:30,520 --> 00:01:33,560
+o el bajo del día anterior dando una
+
+46
+00:01:31,840 --> 00:01:35,320
+reacción, como si fuese una buy side
+
+47
+00:01:33,560 --> 00:01:37,520
+liquidity o una sell side liquidity que
+
+48
+00:01:35,320 --> 00:01:39,440
+vimos en el primer eh ejemplo, pues lo
+
+49
+00:01:37,520 --> 00:01:41,200
+mismo. Muchas veces el precio va a
+
+50
+00:01:39,440 --> 00:01:43,920
+buscar este previous day high y cuando
+
+51
+00:01:41,200 --> 00:01:45,560
+lo toca da una reversión y muchas veces
+
+52
+00:01:43,920 --> 00:01:47,760
+va a tocar el previous day low y cuando
+
+53
+00:01:45,560 --> 00:01:49,640
+toca da una reversión. Entonces, como
+
+54
+00:01:47,760 --> 00:01:51,400
+veis aquí abajo hay una D. Esto es
+
+55
+00:01:49,640 --> 00:01:53,680
+porque siempre lo vamos a estar mirando
+
+56
+00:01:51,400 --> 00:01:55,560
+en el gráfico diario. Siempre vamos a
+
+57
+00:01:53,680 --> 00:01:57,400
+marcarlo en el gráfico diario. Un
+
+58
+00:01:55,560 --> 00:01:58,960
+ejemplo muy claro es este que estamos
+
+59
+00:01:57,400 --> 00:02:00,492
+viendo en pantalla. Como veis aquí
+
+60
+00:01:58,960 --> 00:02:02,212
+arriba, justo donde yo estoy marcando
+
+61
+00:02:00,492 --> 00:02:04,252
+con el ratón, pone un día, estoy en la
+
+62
+00:02:02,212 --> 00:02:06,492
+D, en el gráfico diario, por lo tanto,
+
+63
+00:02:04,252 --> 00:02:07,572
+cada vela que estamos viendo son 24
+
+64
+00:02:06,492 --> 00:02:10,092
+horas.
+
+65
+00:02:07,572 --> 00:02:11,892
+¿Cómo vamos a marcar nosotros este eh
+
+66
+00:02:10,092 --> 00:02:14,252
+previous day high y previous day low?
+
+67
+00:02:11,892 --> 00:02:15,332
+Básicamente, si estamos eh ahora estoy
+
+68
+00:02:14,252 --> 00:02:17,292
+en el modo reproducción, pero
+
+69
+00:02:15,332 --> 00:02:19,092
+básicamente, la última vela diaria ¿cuál
+
+70
+00:02:17,292 --> 00:02:20,932
+ha sido? Esta de aquí, la desmarcamos el
+
+71
+00:02:19,092 --> 00:02:23,452
+punto más mínimo en el que ha estado,
+
+72
+00:02:20,932 --> 00:02:25,692
+que sería este bajo de aquí, que se dirá
+
+73
+00:02:23,452 --> 00:02:26,892
+previous day low, y marcamos el punto
+
+74
+00:02:25,692 --> 00:02:28,972
+más alto en el que ha estado, el punto
+
+75
+00:02:26,892 --> 00:02:29,932
+más alto de la mecha es el previous day
+
+76
+00:02:28,972 --> 00:02:32,172
+high.
+
+77
+00:02:29,932 --> 00:02:34,012
+Y si pasamos velas un poquito rápido en
+
+78
+00:02:32,172 --> 00:02:35,252
+una temporalidad más alta, ¿qué hace el
+
+79
+00:02:34,012 --> 00:02:37,172
+precio?
+
+80
+00:02:35,252 --> 00:02:38,812
+Toca previous day high y tal como toca
+
+81
+00:02:37,172 --> 00:02:41,732
+previous day high hay una reacción
+
+82
+00:02:38,812 --> 00:02:45,012
+histórica hacia previous day low. Primer
+
+83
+00:02:41,732 --> 00:02:46,852
+ejemplo donde se ve cómo casualmente
+
+84
+00:02:45,012 --> 00:02:48,052
+este previous day high está alineado
+
+85
+00:02:46,852 --> 00:02:50,956
+¿con qué?
+
+86
+00:02:48,052 --> 00:02:51,132
+Con un FVG bajista. Mmm.
+
+87
+00:02:50,956 --> 00:02:52,492
+[carraspeo]
+
+88
+00:02:51,132 --> 00:02:53,852
+¿Y qué hacemos?
+
+89
+00:02:52,492 --> 00:02:57,332
+Bajamos,
+
+90
+00:02:53,852 --> 00:02:59,932
+retrocedemos, bajamos, retrocedemos
+
+91
+00:02:57,332 --> 00:03:01,532
+alineándolo con un previous day high
+
+92
+00:02:59,932 --> 00:03:02,932
+y vamos a por ese previous day low.
+
+93
+00:03:01,532 --> 00:03:04,892
+¿Veis que ya empezamos a ver cositas
+
+94
+00:03:02,932 --> 00:03:07,412
+juntas? No voy a mojarme más, ¿vale?
+
+95
+00:03:04,892 --> 00:03:09,612
+Pero ya tenéis el primer taste, tenéis
+
+96
+00:03:07,412 --> 00:03:11,492
+primer ejemplo ready, ¿vale? Primer
+
+97
+00:03:09,612 --> 00:03:12,412
+ejemplo hecho.
+
+98
+00:03:11,492 --> 00:03:14,052
+Vale.
+
+99
+00:03:12,412 --> 00:03:15,532
+Segundo y tercer ejemplo, estos los voy
+
+100
+00:03:14,052 --> 00:03:17,092
+a hacer a la vez porque son super
+
+101
+00:03:15,532 --> 00:03:19,532
+sencillos. Repito, este vídeo va a ser
+
+102
+00:03:17,092 --> 00:03:20,892
+super corto, super fácil de entender y
+
+103
+00:03:19,532 --> 00:03:23,012
+donde realmente os van a quedar más
+
+104
+00:03:20,892 --> 00:03:25,332
+cosas las claras, eh o sea, más claras
+
+105
+00:03:23,012 --> 00:03:27,252
+las cosas es cuando empecéis vosotros a
+
+106
+00:03:25,332 --> 00:03:28,612
+practicarlo y hoy sí que habrá deberes
+
+107
+00:03:27,252 --> 00:03:30,692
+un poquito más tochos porque quiero que
+
+108
+00:03:28,612 --> 00:03:35,892
+lo miréis muy bien. Entonces, ¿qué
+
+109
+00:03:30,692 --> 00:03:38,732
+tenemos aquí? EH, EL, REH y REL. ¿Qué
+
+110
+00:03:35,892 --> 00:03:42,612
+significa todo esto? EH significa equal
+
+111
+00:03:38,732 --> 00:03:42,612
+highs, altos iguales, ¿vale?
+
+112
+00:03:43,092 --> 00:03:47,852
+Equal highs y eh EL significa equal
+
+113
+00:03:46,772 --> 00:03:51,692
+lows.
+
+114
+00:03:47,852 --> 00:03:53,932
+Y REH significa relative equal highs y
+
+115
+00:03:51,692 --> 00:03:56,172
+relative equal lows, ¿vale? Altos
+
+116
+00:03:53,932 --> 00:03:58,532
+iguales es tal cual, tal cual, tal cual,
+
+117
+00:03:56,172 --> 00:04:00,692
+tal cual lo que dice el nombre.
+
+118
+00:03:58,532 --> 00:04:02,174
+Dos mechas que estén a la misma altura,
+
+119
+00:04:00,692 --> 00:04:05,134
+tienen que estar exactamente a la misma
+
+120
+00:04:02,174 --> 00:04:06,854
+altura. Y relative equal highs, como
+
+121
+00:04:05,134 --> 00:04:09,294
+dice el nombre, son
+
+122
+00:04:06,854 --> 00:04:11,174
+altos relativamente iguales, ¿qué
+
+123
+00:04:09,294 --> 00:04:13,774
+significa? Casi iguales. Si hacemos
+
+124
+00:04:11,174 --> 00:04:16,094
+zoom, vemos cómo estos dos altos están
+
+125
+00:04:13,774 --> 00:04:17,774
+casi casi casi iguales, pero
+
+126
+00:04:16,094 --> 00:04:19,294
+no, no están iguales. Y lo mismo con los
+
+127
+00:04:17,774 --> 00:04:21,534
+bajos, ¿vale? Están casi casi casi
+
+128
+00:04:19,294 --> 00:04:24,414
+iguales. Superimportante, si nosotros
+
+129
+00:04:21,534 --> 00:04:24,414
+tuviésemos esto,
+
+130
+00:04:25,054 --> 00:04:30,094
+no cuenta, ¿vale? No podemos decir, "Ah,
+
+131
+00:04:26,894 --> 00:04:31,734
+mira, un bajo aquí y aquí un más bajo."
+
+132
+00:04:30,094 --> 00:04:33,214
+No cuenta, ¿por qué? Porque en este caso
+
+133
+00:04:31,734 --> 00:04:35,374
+ya hemos hecho y hemos cogido la
+
+134
+00:04:33,214 --> 00:04:36,734
+liquidez, ya hemos cogido ese cash, ese
+
+135
+00:04:35,374 --> 00:04:38,454
+dinero del que hablábamos en el primer
+
+136
+00:04:36,734 --> 00:04:40,494
+episodio. Por lo tanto, ¿qué nos
+
+137
+00:04:38,454 --> 00:04:42,414
+interesa? Que el cash no esté cogido
+
+138
+00:04:40,494 --> 00:04:44,534
+para que haya doble cash y de esta forma
+
+139
+00:04:42,414 --> 00:04:46,254
+haya más liquidez, ¿vale? Entonces,
+
+140
+00:04:44,534 --> 00:04:48,094
+vamos a ver un poquito de ejemplos. Y
+
+141
+00:04:46,254 --> 00:04:49,334
+como veis, tanto en el en los equal
+
+142
+00:04:48,094 --> 00:04:51,814
+highs y equal lows y relative equal
+
+143
+00:04:49,334 --> 00:04:53,934
+highs y equal lows, em, esto lo vamos a
+
+144
+00:04:51,814 --> 00:04:57,214
+mirar desde la temporalidad de 5 minutos
+
+145
+00:04:53,934 --> 00:04:59,334
+a 15 minutos. Ay, al diario. Y de hecho,
+
+146
+00:04:57,214 --> 00:05:02,094
+es incluso mejor, bueno, vamos a dejarlo
+
+147
+00:04:59,334 --> 00:05:04,174
+5, ¿vale? De 5 al diario. Entonces, si
+
+148
+00:05:02,094 --> 00:05:06,254
+nos vamos aquí al primer ejemplo, es
+
+149
+00:05:04,174 --> 00:05:09,254
+superimportante, ¿vale?
+
+150
+00:05:06,254 --> 00:05:11,334
+Es superimportante que eh os marcáis
+
+151
+00:05:09,254 --> 00:05:12,654
+este indicador, que de hecho, pocas
+
+152
+00:05:11,334 --> 00:05:15,094
+veces lo he explicado y os lo lleváis
+
+153
+00:05:12,654 --> 00:05:16,454
+aquí en la bootcamp de gratis. Eh, eso
+
+154
+00:05:15,094 --> 00:05:18,654
+es tontería, ¿eh? Os vais aquí arriba a
+
+155
+00:05:16,454 --> 00:05:22,414
+indicadores y vais a buscar equal highs
+
+156
+00:05:18,654 --> 00:05:24,814
+and lows por JZS Tour, ¿vale? Vais a
+
+157
+00:05:22,414 --> 00:05:26,414
+darle al, bueno, le vais a dar y os va a
+
+158
+00:05:24,814 --> 00:05:27,374
+aparecer aquí arriba, justo abajo del
+
+159
+00:05:26,414 --> 00:05:29,494
+botón de comprar y vender, os va a
+
+160
+00:05:27,374 --> 00:05:31,294
+aparecer. Y os recomiendo que le deis al
+
+161
+00:05:29,494 --> 00:05:32,614
+ojito porque eso se va a activar. Y veis
+
+162
+00:05:31,294 --> 00:05:34,494
+que cuando se activa aparece una línea
+
+163
+00:05:32,614 --> 00:05:36,014
+roja en el gráfico, ¿veis? Vale, pues
+
+164
+00:05:34,494 --> 00:05:38,214
+esta línea roja lo que nos dice es que
+
+165
+00:05:36,014 --> 00:05:39,614
+hay equal highs. La configuración es
+
+166
+00:05:38,214 --> 00:05:41,094
+esta de aquí,
+
+167
+00:05:39,614 --> 00:05:43,614
+por si la queréis ver. Esto está
+
+168
+00:05:41,094 --> 00:05:46,054
+desactivado y esto está en 14 minutos,
+
+169
+00:05:43,614 --> 00:05:47,694
+¿vale? Así que poner esta configuración,
+
+170
+00:05:46,054 --> 00:05:49,014
+que es una configuración buena. Y esto
+
+171
+00:05:47,694 --> 00:05:51,774
+básicamente lo que va a hacer es solo
+
+172
+00:05:49,014 --> 00:05:53,894
+enseñaros equal highs y lows que estén
+
+173
+00:05:51,774 --> 00:05:55,734
+del de la temporalidad de 15 minutos
+
+174
+00:05:53,894 --> 00:05:56,694
+para arriba, ¿vale?
+
+175
+00:05:55,734 --> 00:05:57,734
+De hecho, vamos a hacer un pequeño
+
+176
+00:05:56,694 --> 00:05:59,854
+ajuste
+
+177
+00:05:57,734 --> 00:06:02,014
+y vamos a poner que
+
+178
+00:05:59,854 --> 00:06:04,774
+eh los equal highs y lows tienen que ser
+
+179
+00:06:02,014 --> 00:06:06,295
+del 15 al diario.
+
+180
+00:06:04,774 --> 00:06:07,775
+Bueno, es que de 5 también está bien,
+
+181
+00:06:06,295 --> 00:06:09,695
+solo que no no los marco nunca, no sé
+
+182
+00:06:07,775 --> 00:06:12,295
+por qué, pero no los marco nunca.
+
+183
+00:06:09,695 --> 00:06:14,215
+Vale, del del cinco al diario, perdonar,
+
+184
+00:06:12,295 --> 00:06:16,335
+olvidaros de eso. Y el indicador el
+
+185
+00:06:14,215 --> 00:06:18,175
+indicador básicamente nos va a decir que
+
+186
+00:06:16,335 --> 00:06:19,095
+tenemos muchas veces equal highs and
+
+187
+00:06:18,175 --> 00:06:22,255
+lows.
+
+188
+00:06:19,095 --> 00:06:24,335
+Repetir otra vez que mayor temporalidad
+
+189
+00:06:22,255 --> 00:06:27,295
+mayor importancia, ¿vale? Hay equal
+
+190
+00:06:24,335 --> 00:06:29,415
+highs de cinco minutos, superguay. Hay
+
+191
+00:06:27,295 --> 00:06:31,015
+equal highs de una hora, aún más guay,
+
+192
+00:06:29,415 --> 00:06:33,415
+¿vale? Cuanta más temporalidad más
+
+193
+00:06:31,015 --> 00:06:36,655
+fuerza y más importancia le damos.
+
+194
+00:06:33,415 --> 00:06:39,775
+Una regla sagrada es
+
+195
+00:06:36,655 --> 00:06:39,775
+nunca operar
+
+196
+00:06:45,975 --> 00:06:49,255
+nunca operar en contra de equal highs
+
+197
+00:06:47,575 --> 00:06:51,495
+and lows, ¿vale? Yo, por ejemplo, si
+
+198
+00:06:49,255 --> 00:06:52,735
+tengo estos altos iguales, pensar que
+
+199
+00:06:51,495 --> 00:06:54,895
+cuando hay altos iguales hay un montón
+
+200
+00:06:52,735 --> 00:06:57,135
+de dinero ahí, un montón de liquidez, un
+
+201
+00:06:54,895 --> 00:06:59,055
+montón de dinero, un montón de órdenes
+
+202
+00:06:57,135 --> 00:07:00,295
+pendientes para que los market makers
+
+203
+00:06:59,055 --> 00:07:02,215
+vayan, lo cojan y se lo lleven el
+
+204
+00:07:00,295 --> 00:07:04,415
+mercado hacia el lado contrario. Así que
+
+205
+00:07:02,215 --> 00:07:06,535
+nunca voy a querer entrar, por ejemplo,
+
+206
+00:07:04,415 --> 00:07:08,815
+en un corto, ¿vale? En unos cortos
+
+207
+00:07:06,535 --> 00:07:11,935
+teniendo teniendo unos equal highs
+
+208
+00:07:08,815 --> 00:07:13,335
+porque mi stop loss no está protegido.
+
+209
+00:07:11,935 --> 00:07:15,175
+Mi stop loss no es un sitio seguro, al
+
+210
+00:07:13,335 --> 00:07:16,735
+revés, mi stop loss es un caramelito
+
+211
+00:07:15,175 --> 00:07:18,815
+para que el mercado vaya a todo
+
+212
+00:07:16,735 --> 00:07:20,615
+ese dinero que está ahí y luego girarse
+
+213
+00:07:18,815 --> 00:07:22,415
+en caso de que quiera. Pero como veis,
+
+214
+00:07:20,615 --> 00:07:25,495
+tenemos esos equal highs y el mercado va
+
+215
+00:07:22,415 --> 00:07:28,455
+instantáneamente a por ellos.
+
+216
+00:07:25,495 --> 00:07:29,895
+¿Vale? Va a por ellos y reacciona.
+
+217
+00:07:28,455 --> 00:07:32,575
+¿Cómo se alinean estos equal highs?
+
+218
+00:07:29,895 --> 00:07:34,615
+Casualmente con un gap de bajista de una
+
+219
+00:07:32,575 --> 00:07:39,455
+hora. Como antes. ¿Y qué tenemos por
+
+220
+00:07:34,615 --> 00:07:42,695
+aquí? Subimos, bajamos, subimos, o sea,
+
+221
+00:07:39,455 --> 00:07:44,095
+bajamos, subimos, bajamos, retrocedemos
+
+222
+00:07:42,695 --> 00:07:46,295
+quitando unos equal highs y tocando un
+
+223
+00:07:44,095 --> 00:07:48,015
+gap bajista y volvemos a bajar.
+
+224
+00:07:46,295 --> 00:07:50,295
+¿Veis cómo ya relacionamos cositas? Pues
+
+225
+00:07:48,015 --> 00:07:52,855
+es literalmente así como funciona,
+
+226
+00:07:50,295 --> 00:07:55,655
+¿vale? Me están llamando, mal momento.
+
+227
+00:07:52,855 --> 00:07:58,695
+Eh y es así como reacciona, ¿vale?
+
+228
+00:07:55,655 --> 00:08:00,575
+Entonces, eh equal highs y equal lows,
+
+229
+00:07:58,695 --> 00:08:02,655
+muy bien, ¿vale? Apuntaros que no podéis
+
+230
+00:08:00,575 --> 00:08:04,575
+ir en contra de eso. Y ahora vamos a ver
+
+231
+00:08:02,655 --> 00:08:06,935
+los relative equal highs and lows,
+
+232
+00:08:04,575 --> 00:08:09,177
+¿vale? Como veis, aquí tenemos unos
+
+233
+00:08:06,935 --> 00:08:11,537
+relative equal highs, ahí equal lows de
+
+234
+00:08:09,177 --> 00:08:12,857
+5 minutos. Hemos dejado unas sell side
+
+235
+00:08:11,537 --> 00:08:15,337
+liquidity aquí, hemos dejado un bajo
+
+236
+00:08:12,857 --> 00:08:17,137
+aquí y otro bajo aquí sin poder llegar a
+
+237
+00:08:15,337 --> 00:08:18,657
+quitarlo. Por lo tanto, ¿qué es lo que
+
+238
+00:08:17,137 --> 00:08:21,057
+hace el precio?
+
+239
+00:08:18,657 --> 00:08:22,857
+Antes de subir,
+
+240
+00:08:21,057 --> 00:08:24,417
+marea, marea, marea. Aquí hay muchísima
+
+241
+00:08:22,857 --> 00:08:26,697
+gente que puede que esté entrando en
+
+242
+00:08:24,417 --> 00:08:28,057
+largos. Ahí, ah, ah,
+
+243
+00:08:26,697 --> 00:08:29,697
+aquí hay mucha gente que puede decir,
+
+244
+00:08:28,057 --> 00:08:31,897
+"Guay, yo quiero que suba.
+
+245
+00:08:29,697 --> 00:08:33,497
+Estoy superprotegido, quiero que suba."
+
+246
+00:08:31,897 --> 00:08:36,457
+¿Vale? Y el precio ¿qué es lo que hace?
+
+247
+00:08:33,497 --> 00:08:36,457
+Antes de subir,
+
+248
+00:08:41,017 --> 00:08:43,457
+ tendría que haber pasado con
+
+249
+00:08:42,217 --> 00:08:45,577
+temporalidades más altas. Antes de
+
+250
+00:08:43,457 --> 00:08:47,937
+subir, ¿qué hace? Da stop loss a todo el
+
+251
+00:08:45,577 --> 00:08:50,217
+mundo, ¿vale? Se lleva toda esa liquidez
+
+252
+00:08:47,937 --> 00:08:52,577
+y una vez pasa eso,
+
+253
+00:08:50,217 --> 00:08:54,737
+aquí entran los ganadores
+
+254
+00:08:52,577 --> 00:08:56,457
+y el mercado acaba subiendo, ¿vale?
+
+255
+00:08:54,737 --> 00:08:58,657
+Acaba subiendo hasta la próxima buy side
+
+256
+00:08:56,457 --> 00:09:00,257
+liquidity, seguramente, que es ese punto
+
+257
+00:08:58,657 --> 00:09:01,337
+de liquidez que tenemos ahí arriba,
+
+258
+00:09:00,257 --> 00:09:03,257
+¿vale? Como veis, se lo lleva, se lo
+
+259
+00:09:01,337 --> 00:09:05,657
+lleva todo. Entonces, es superimportante
+
+260
+00:09:03,257 --> 00:09:06,937
+también, mmm, la mayoría de las veces,
+
+261
+00:09:05,657 --> 00:09:08,617
+esto lo vais a ver con la práctica, con
+
+262
+00:09:06,937 --> 00:09:09,897
+el tiempo y en los vídeos de estrategia,
+
+263
+00:09:08,617 --> 00:09:11,297
+la mayoría de las veces nos interesa
+
+264
+00:09:09,897 --> 00:09:15,257
+esperarnos a que esos relative equal
+
+265
+00:09:11,297 --> 00:09:16,817
+lows se, em, quiten o buscar un trade
+
+266
+00:09:15,257 --> 00:09:19,697
+hacia ellos, es decir, muchas veces como
+
+267
+00:09:16,817 --> 00:09:22,217
+objetivo también sirven, ¿vale?
+
+268
+00:09:19,697 --> 00:09:24,537
+Perfecto. Vamos a ir con el tercer,
+
+269
+00:09:22,217 --> 00:09:26,857
+cuarto ejemplo, ¿vale? Tenemos data
+
+270
+00:09:24,537 --> 00:09:29,377
+highs y data lows. Esto es
+
+271
+00:09:26,857 --> 00:09:31,537
+superimportante, ¿vale? Son los altos y
+
+272
+00:09:29,377 --> 00:09:33,737
+bajos de una noticia. ¿Qué pasa con los
+
+273
+00:09:31,537 --> 00:09:36,297
+altos y bajos de una noticia? Que muchas
+
+274
+00:09:33,737 --> 00:09:37,977
+veces sirven como una, eh, como un nivel
+
+275
+00:09:36,297 --> 00:09:40,337
+de liquidez, es decir, imaginaros que
+
+276
+00:09:37,977 --> 00:09:43,257
+tenemos esta noticia a las 8:30, ¿vale?
+
+277
+00:09:40,337 --> 00:09:45,577
+Horario Nueva York. Nosotros a las 9:30,
+
+278
+00:09:43,257 --> 00:09:48,457
+¿vale? A las 9:30, lo que vamos a hacer
+
+279
+00:09:45,577 --> 00:09:50,537
+es, imaginaros, ¿vale? 8:30 pasa esto,
+
+280
+00:09:48,457 --> 00:09:52,857
+hacemos el tonto, lo que sea por aquí
+
+281
+00:09:50,537 --> 00:09:54,817
+hasta las 9:30 y a las 9:30 que abre el
+
+282
+00:09:52,857 --> 00:09:57,137
+mercado de Nueva York, el precio muchas
+
+283
+00:09:54,817 --> 00:09:58,817
+veces va a buscar esos data highs y da
+
+284
+00:09:57,137 --> 00:10:00,977
+una reacción para ir a buscar los data
+
+285
+00:09:58,817 --> 00:10:02,337
+lows, ¿vale? O viceversa, va a buscar
+
+286
+00:10:00,977 --> 00:10:04,297
+los data lows para ir a buscar los data
+
+287
+00:10:02,337 --> 00:10:06,417
+highs, parecido a un previous day high o
+
+288
+00:10:04,297 --> 00:10:09,177
+previous day low, pero con noticia.
+
+289
+00:10:06,417 --> 00:10:10,657
+¿Solo noticias de las 8:30? No. Yo
+
+290
+00:10:09,177 --> 00:10:12,498
+mayoritariamente, mayoría, eh, la
+
+291
+00:10:10,657 --> 00:10:14,458
+mayoría de las veces, perdonar,
+
+292
+00:10:12,498 --> 00:10:16,578
+son eh, las noticias que uso, las de las
+
+293
+00:10:14,458 --> 00:10:20,018
+8:30, pero incluso a veces, si tenemos
+
+294
+00:10:16,578 --> 00:10:22,178
+una noticia a las 10:00, durante la
+
+295
+00:10:20,018 --> 00:10:24,058
+operativa, como sabemos que no podemos
+
+296
+00:10:22,178 --> 00:10:25,778
+operar antes de la noticia, ¿qué hace,
+
+297
+00:10:24,058 --> 00:10:28,378
+hacemos? Esperemos a que la noticia
+
+298
+00:10:25,778 --> 00:10:31,578
+salga y cuando sale la noticia, ¿qué
+
+299
+00:10:28,378 --> 00:10:33,498
+crea normalmente? Pues, un alto
+
+300
+00:10:31,578 --> 00:10:34,858
+y un bajo. Y en esa noticia, ahí ya nos
+
+301
+00:10:33,498 --> 00:10:37,098
+podemos esperar a que quitemos el alto
+
+302
+00:10:34,858 --> 00:10:38,258
+para ir a buscar el bajo o al revés,
+
+303
+00:10:37,098 --> 00:10:41,658
+¿vale? Espero que se entien de más o
+
+304
+00:10:38,258 --> 00:10:43,298
+menos, pero eh eso es así y para mirarlo
+
+305
+00:10:41,658 --> 00:10:44,378
+en Forex Factory, que es el capítulo de
+
+306
+00:10:43,298 --> 00:10:46,458
+ayer.
+
+307
+00:10:44,378 --> 00:10:47,538
+Entonces, vamos a poner un ejemplo. La
+
+308
+00:10:46,458 --> 00:10:49,218
+verdad que el ejemplo que he escogido es
+
+309
+00:10:47,538 --> 00:10:51,218
+horrible, mirar el gráfico, qué mal es,
+
+310
+00:10:49,218 --> 00:10:53,738
+qué mal se ve, pero básicamente, como
+
+311
+00:10:51,218 --> 00:10:56,538
+veis aquí abajo, 8:25, tuvimos la
+
+312
+00:10:53,738 --> 00:10:58,778
+noticia 8:30. Entonces, marcamos el alto
+
+313
+00:10:56,538 --> 00:11:00,418
+de la noticia, ¿vale? La mecha,
+
+314
+00:10:58,778 --> 00:11:01,978
+siempre la mecha, y en este caso no
+
+315
+00:11:00,418 --> 00:11:03,818
+tenemos mecha, pues marcamos el cuerpo.
+
+316
+00:11:01,978 --> 00:11:06,698
+Tenemos el bajo de la noticia. Y como
+
+317
+00:11:03,818 --> 00:11:10,458
+vemos, el precio, ¿qué es lo que hace?
+
+318
+00:11:06,698 --> 00:11:10,458
+Quita ese alto de la noticia.
+
+319
+00:11:13,418 --> 00:11:16,418
+Vale, lo he marcado todo mal, chavales,
+
+320
+00:11:15,138 --> 00:11:19,698
+soy tonto.
+
+321
+00:11:16,418 --> 00:11:21,298
+He marcado la la vela de las de las 8:25
+
+322
+00:11:19,698 --> 00:11:23,218
+y no la de media. Ahí está. Vale, la
+
+323
+00:11:21,298 --> 00:11:25,498
+noticia es esta. Sale la noticia y ¿qué
+
+324
+00:11:23,218 --> 00:11:28,538
+marcamos? El alto de la noticia, ¿vale?
+
+325
+00:11:25,498 --> 00:11:31,738
+Esto es nuestro data high.
+
+326
+00:11:28,538 --> 00:11:31,738
+Luego marcamos el data low.
+
+327
+00:11:32,658 --> 00:11:35,178
+Entonces, ya veréis que estos días para
+
+328
+00:11:33,738 --> 00:11:38,498
+mí son muy fáciles, porque ¿qué hacemos?
+
+329
+00:11:35,178 --> 00:11:38,498
+Mirar qué hace el mercado. Abre,
+
+330
+00:11:42,298 --> 00:11:45,978
+¡pum!
+
+331
+00:11:43,858 --> 00:11:48,218
+Quitamos data highs y aquí, la reacción,
+
+332
+00:11:45,978 --> 00:11:49,258
+mirar,
+
+333
+00:11:48,218 --> 00:11:50,898
+¡pum!
+
+334
+00:11:49,258 --> 00:11:52,338
+Y ya pues, aquí, incluso aquí, ¿vale?
+
+335
+00:11:50,898 --> 00:11:53,898
+Muchas veces vamos a cerrar el day trade
+
+336
+00:11:52,338 --> 00:11:54,818
+antes, pero incluso aquí, no hace falta
+
+337
+00:11:53,898 --> 00:11:56,418
+ni que aguantes hasta el data low,
+
+338
+00:11:54,818 --> 00:11:58,498
+muchas veces no lo visita. En este caso,
+
+339
+00:11:56,418 --> 00:12:00,618
+creo que no se la acabó llevando, pero
+
+340
+00:11:58,498 --> 00:12:02,018
+la reacción que da y los movimientos que
+
+341
+00:12:00,618 --> 00:12:04,058
+se presentan son una oportunidad muy
+
+342
+00:12:02,018 --> 00:12:05,778
+grande. Así que siempre tener en cuenta
+
+343
+00:12:04,058 --> 00:12:06,978
+estos data highs, data lows.
+
+344
+00:12:05,778 --> 00:12:09,618
+Y también lo que puedes hacer muchas
+
+345
+00:12:06,978 --> 00:12:11,058
+veces es simplemente buscar una compra
+
+346
+00:12:09,618 --> 00:12:13,219
+para llegar a ese data high, ¿vale? Lo
+
+347
+00:12:11,058 --> 00:12:14,699
+puedes usar como objetivo. Esta liquidez
+
+348
+00:12:13,219 --> 00:12:17,419
+se puede usar tanto como objetivo como
+
+349
+00:12:14,699 --> 00:12:19,859
+punto de reacción.
+
+350
+00:12:17,419 --> 00:12:21,939
+Vámonos a eh un tipo de liquidez
+
+351
+00:12:19,859 --> 00:12:23,579
+superimportante. Estos para mí, estos
+
+352
+00:12:21,939 --> 00:12:24,579
+dos para mí son los que funcionan mejor,
+
+353
+00:12:23,579 --> 00:12:26,019
+¿vale?
+
+354
+00:12:24,579 --> 00:12:27,299
+Junto con los equal highs. O sea, si
+
+355
+00:12:26,019 --> 00:12:28,819
+tengo que rankear, bueno, y de alta high
+
+356
+00:12:27,299 --> 00:12:30,379
+está No, [risas] es que me gustan todos
+
+357
+00:12:28,819 --> 00:12:32,699
+porque son los únicos que uso, pero
+
+358
+00:12:30,379 --> 00:12:35,459
+estos dos molan mucho. El primero es new
+
+359
+00:12:32,699 --> 00:12:36,819
+day opening gap y new week opening gap.
+
+360
+00:12:35,459 --> 00:12:38,179
+¿Qué significa? ¿Veis aquí que pone, si
+
+361
+00:12:36,819 --> 00:12:41,179
+hago zoom?
+
+362
+00:12:38,179 --> 00:12:43,779
+Pone N DOG {barra} N WOG. Voy a hacerlo
+
+363
+00:12:41,179 --> 00:12:46,299
+un poquito más grande.
+
+364
+00:12:43,779 --> 00:12:48,619
+Pero pone N DOG y N WOG. Esto significa
+
+365
+00:12:46,299 --> 00:12:50,699
+new day opening gap, new week opening
+
+366
+00:12:48,619 --> 00:12:52,899
+gap, que significa son gaps que se
+
+367
+00:12:50,699 --> 00:12:54,619
+forman simplemente en la aperturas en
+
+368
+00:12:52,899 --> 00:12:57,179
+las aperturas de cada semana o de cada
+
+369
+00:12:54,619 --> 00:12:58,899
+día, ¿vale? Entonces, en el cambio de
+
+370
+00:12:57,179 --> 00:13:00,539
+día muchas veces se deja un agujero
+
+371
+00:12:58,899 --> 00:13:02,939
+blanco que vais a ver ahora un ejemplo
+
+372
+00:13:00,539 --> 00:13:04,379
+clarísimo, que es este de aquí, ¿vale?
+
+373
+00:13:02,939 --> 00:13:06,499
+Como veis,
+
+374
+00:13:04,379 --> 00:13:08,699
+justo aquí, ¿qué hacemos? El mercado
+
+375
+00:13:06,499 --> 00:13:10,499
+abre y nos deja un cuadrado blanco aquí
+
+376
+00:13:08,699 --> 00:13:12,699
+en medio y tú dices, ¿qué es esto?
+
+377
+00:13:10,499 --> 00:13:15,019
+Entonces, ¿cómo sabéis si es un no va un
+
+378
+00:13:12,699 --> 00:13:15,859
+new week opening gap o new day opening
+
+379
+00:13:15,019 --> 00:13:16,979
+gap?
+
+380
+00:13:15,859 --> 00:13:18,619
+Básicamente por el día de la semana,
+
+381
+00:13:16,979 --> 00:13:20,219
+¿vale? Ahora es viernes.
+
+382
+00:13:18,619 --> 00:13:21,859
+Justo empezamos el lunes, ¿vale? Justo
+
+383
+00:13:20,219 --> 00:13:23,699
+cambiamos al lunes. Entonces, si es
+
+384
+00:13:21,859 --> 00:13:26,259
+lunes va a ser un new week opening gap,
+
+385
+00:13:23,699 --> 00:13:27,739
+va a ser una no un gap semanal. Si de si
+
+386
+00:13:26,259 --> 00:13:29,579
+esto pasa de martes a miércoles va a ser
+
+387
+00:13:27,739 --> 00:13:31,699
+un new day opening gap, pero tiene la
+
+388
+00:13:29,579 --> 00:13:33,979
+misma importancia, ¿vale? Entonces,
+
+389
+00:13:31,699 --> 00:13:36,219
+creamos este cuadradito enorme y sabemos
+
+390
+00:13:33,979 --> 00:13:37,699
+que esto va a actuar como un FVG, esto
+
+391
+00:13:36,219 --> 00:13:39,579
+va a actuar como un fair value gap. Por
+
+392
+00:13:37,699 --> 00:13:41,499
+lo tanto, sabemos que actúa como un imán
+
+393
+00:13:39,579 --> 00:13:42,779
+y que ayuda al precio a continuar su
+
+394
+00:13:41,499 --> 00:13:44,539
+tendencia. Entonces, tenemos dos
+
+395
+00:13:42,779 --> 00:13:45,819
+opciones
+
+396
+00:13:44,539 --> 00:13:46,979
+dependiendo de cómo esté el mercado,
+
+397
+00:13:45,819 --> 00:13:49,339
+perdón,
+
+398
+00:13:46,979 --> 00:13:51,739
+puedes o buscar una compra hacia el
+
+399
+00:13:49,339 --> 00:13:53,379
+objetivo o puedes esperarte a que el
+
+400
+00:13:51,739 --> 00:13:55,379
+mercado toque el objetivo para que luego
+
+401
+00:13:53,379 --> 00:13:57,619
+siga bajando, ¿vale? Y como vemos en 15
+
+402
+00:13:55,379 --> 00:13:58,979
+minutos, ¿el mercado qué hace?
+
+403
+00:13:57,619 --> 00:14:00,539
+Es brutal, o sea, es brutal. Antes de
+
+404
+00:13:58,979 --> 00:14:02,019
+decidir si bajar, voy a ponerlo en una
+
+405
+00:14:00,539 --> 00:14:03,819
+temporalidad un poco más rápida. Antes
+
+406
+00:14:02,019 --> 00:14:04,819
+de decidir si bajar, el mercado en una
+
+407
+00:14:03,819 --> 00:14:06,899
+hora,
+
+408
+00:14:04,819 --> 00:14:09,019
+¿qué hace? Pum, toca el new week el new
+
+409
+00:14:06,899 --> 00:14:11,059
+week opening gap, el el el fair value
+
+410
+00:14:09,019 --> 00:14:12,739
+gap y
+
+411
+00:14:11,059 --> 00:14:15,099
+da una reacción continuando la
+
+412
+00:14:12,739 --> 00:14:17,621
+tendencia, ¿vale? Otro ejemplo clarísimo
+
+413
+00:14:15,099 --> 00:14:19,581
+que tuvimos el otro día. Tenemos un new
+
+414
+00:14:17,621 --> 00:14:20,941
+day opening gap, en este caso, ah no, un
+
+415
+00:14:19,581 --> 00:14:23,181
+new week, perdonar, volvemos a cambiar
+
+416
+00:14:20,941 --> 00:14:25,221
+de viernes a lunes, y esto es hace dos
+
+417
+00:14:23,181 --> 00:14:26,581
+días, literalmente. ¿Qué hace el precio?
+
+418
+00:14:25,221 --> 00:14:28,621
+Mucha gente ve esta subida y dice,
+
+419
+00:14:26,581 --> 00:14:31,021
+"Ostras, vamos a continuar la subida,
+
+420
+00:14:28,621 --> 00:14:33,181
+¿no?" No, hay un new week opening gap,
+
+421
+00:14:31,021 --> 00:14:35,741
+¿qué hace el precio?
+
+422
+00:14:33,181 --> 00:14:37,541
+Directito.
+
+423
+00:14:35,741 --> 00:14:38,821
+Directito hacia él, ¿vale? Objetivo
+
+424
+00:14:37,541 --> 00:14:40,021
+superclaro.
+
+425
+00:14:38,821 --> 00:14:41,381
+Entonces,
+
+426
+00:14:40,021 --> 00:14:42,981
+funcionan muy bien. Yo solo os diré que
+
+427
+00:14:41,381 --> 00:14:44,901
+siempre que haya un new day opening gap
+
+428
+00:14:42,981 --> 00:14:46,941
+o new week opening gap, nunca voy a
+
+429
+00:14:44,901 --> 00:14:48,621
+operar en contra, ¿vale? Nunca, nunca,
+
+430
+00:14:46,941 --> 00:14:50,581
+nunca operéis en contra de uno de estos
+
+431
+00:14:48,621 --> 00:14:53,301
+gaps, nunca.
+
+432
+00:14:50,581 --> 00:14:55,741
+Y finalmente, el último ejemplo, la joya
+
+433
+00:14:53,301 --> 00:14:58,181
+de la corona para mí es el que uso más,
+
+434
+00:14:55,741 --> 00:15:00,181
+¿vale? Es para mí el mejor. Se llama low
+
+435
+00:14:58,181 --> 00:15:01,861
+resistance liquidity. Lo habréis
+
+436
+00:15:00,181 --> 00:15:03,941
+escuchado 100,000 veces, ¿vale? Este
+
+437
+00:15:01,861 --> 00:15:06,181
+concepto, y low resistance liquidity,
+
+438
+00:15:03,941 --> 00:15:08,341
+¿qué significa? Son básicamente muchos
+
+439
+00:15:06,181 --> 00:15:10,781
+altos o bajos alineados que no se acaban
+
+440
+00:15:08,341 --> 00:15:12,741
+de quitar nunca, ¿vale? ¿Cómo puede ser
+
+441
+00:15:10,781 --> 00:15:15,101
+esto? Ejemplo, como veis ahí tenemos una
+
+442
+00:15:12,741 --> 00:15:16,661
+subida, y la subida se hace muy poco a
+
+443
+00:15:15,101 --> 00:15:18,261
+poco, es decir, tenemos una subida que
+
+444
+00:15:16,661 --> 00:15:21,021
+va super, super, super poco a poco, no
+
+445
+00:15:18,261 --> 00:15:22,541
+es la típica subida así,
+
+446
+00:15:21,021 --> 00:15:24,541
+¿vale? Sino que es una subida más
+
+447
+00:15:22,541 --> 00:15:26,861
+chinuchano. Entonces, ¿qué hacemos?
+
+448
+00:15:24,541 --> 00:15:29,061
+Dejamos un bajo,
+
+449
+00:15:26,861 --> 00:15:31,501
+dejamos otro bajo,
+
+450
+00:15:29,061 --> 00:15:34,141
+dejamos otro bajo,
+
+451
+00:15:31,501 --> 00:15:35,261
+dejamos otro bajo,
+
+452
+00:15:34,141 --> 00:15:36,941
+dejamos
+
+453
+00:15:35,261 --> 00:15:37,781
+otro bajo. Bueno, y todo el rato, tu,
+
+454
+00:15:36,941 --> 00:15:39,381
+tu, tu, tu, tu.
+
+455
+00:15:37,781 --> 00:15:40,941
+¿Esto qué hace? Estamos dejando, ¿os
+
+456
+00:15:39,381 --> 00:15:42,821
+acordáis el el primer vídeo donde
+
+457
+00:15:40,941 --> 00:15:44,301
+hicimos que había billetes? Vale, pues
+
+458
+00:15:42,821 --> 00:15:46,941
+imaginaros todos estos billetes, ¿vale?
+
+459
+00:15:44,301 --> 00:15:48,261
+Hay 1, 2, 3, 4, hay muchísimos.
+
+460
+00:15:46,941 --> 00:15:51,181
+¿Cuál es la única gracia de la low
+
+461
+00:15:48,261 --> 00:15:54,461
+resistance liquidity? Esto apuntarlo.
+
+462
+00:15:51,181 --> 00:15:56,701
+Es normalmente en bajas temporalidades,
+
+463
+00:15:54,461 --> 00:15:59,181
+de 1 a 5 minutos. ¿Puedes encontrarte
+
+464
+00:15:56,701 --> 00:16:00,781
+low resistance liquidity en 1 hora? Sí.
+
+465
+00:15:59,181 --> 00:16:02,701
+¿Tiene más importancia que de 1 a 5
+
+466
+00:16:00,781 --> 00:16:04,461
+minutos? Sí.
+
+467
+00:16:02,701 --> 00:16:06,381
+¿Por qué? Porque es que si te encuentras
+
+468
+00:16:04,461 --> 00:16:08,421
+tantos bajos estaqueados de 1 hora,
+
+469
+00:16:06,381 --> 00:16:10,261
+tantos bajos juntos, bueno, es que eso
+
+470
+00:16:08,421 --> 00:16:13,261
+dice, eso quiere decir que en 5 minutos
+
+471
+00:16:10,261 --> 00:16:14,621
+hay 500,000, ¿sabéis? Pero normalmente
+
+472
+00:16:13,261 --> 00:16:15,381
+no se presenta en 1 hora, porque es que
+
+473
+00:16:14,621 --> 00:16:18,262
+esto
+
+474
+00:16:15,381 --> 00:16:20,262
+implicaría un día entero de subida super
+
+475
+00:16:18,262 --> 00:16:22,542
+poquito a poquito, pero esto normalmente
+
+476
+00:16:20,262 --> 00:16:24,902
+ocurre con velas de entre 1 y 5 minutos
+
+477
+00:16:22,542 --> 00:16:26,702
+y es una locura, porque al generar tanta
+
+478
+00:16:24,902 --> 00:16:29,462
+liquidez, el precio a la que toca, por
+
+479
+00:16:26,702 --> 00:16:31,222
+ejemplo, un fair value gap o la que toca
+
+480
+00:16:29,462 --> 00:16:33,622
+una buy side liquidity, podría ser esto
+
+481
+00:16:31,222 --> 00:16:35,611
+un previous day high, que hace, pum,
+
+482
+00:16:33,622 --> 00:16:35,622
+baja con muchísima fuerza.
+
+483
+00:16:35,611 --> 00:16:37,862
+[resoplido]
+
+484
+00:16:35,622 --> 00:16:40,342
+Y un ejemplo superclaro es este de aquí.
+
+485
+00:16:37,862 --> 00:16:42,102
+El precio toca un fair value gap.
+
+486
+00:16:40,342 --> 00:16:44,382
+Estamos en una tendencia bajista, como
+
+487
+00:16:42,102 --> 00:16:48,222
+veis, pum pum pum pum pum y ¿qué
+
+488
+00:16:44,382 --> 00:16:50,542
+hacemos? Subimos super super super poco
+
+489
+00:16:48,222 --> 00:16:52,942
+a poco. Como veis,
+
+490
+00:16:50,542 --> 00:16:55,222
+tenemos aquí un bajo,
+
+491
+00:16:52,942 --> 00:16:58,862
+tenemos aquí otro bajo,
+
+492
+00:16:55,222 --> 00:16:58,862
+tenemos aquí otro bajo.
+
+493
+00:16:59,142 --> 00:17:01,502
+Aquí.
+
+494
+00:17:01,702 --> 00:17:05,622
+Tenemos aquí otro bajo.
+
+495
+00:17:03,862 --> 00:17:07,822
+Y todo esto lo marcamos siempre con una
+
+496
+00:17:05,622 --> 00:17:10,142
+línea así, pum, tal cual así, y yo le
+
+497
+00:17:07,822 --> 00:17:13,422
+pongo siempre LRL. ¿Qué hace el precio?
+
+498
+00:17:10,142 --> 00:17:15,382
+Mirad cómo se lo come, vais a flipar.
+
+499
+00:17:13,422 --> 00:17:16,982
+Pum, fuera.
+
+500
+00:17:15,382 --> 00:17:19,062
+Ya está, ha continuado la tendencia,
+
+501
+00:17:16,982 --> 00:17:21,062
+pero mirad con qué fuerza se lleva todo.
+
+502
+00:17:19,062 --> 00:17:22,782
+Y siempre que veáis esto, siempre que
+
+503
+00:17:21,062 --> 00:17:24,142
+veáis ejemplos así alineados, ¿vale?, de
+
+504
+00:17:22,782 --> 00:17:26,462
+tanta liquidez
+
+505
+00:17:24,142 --> 00:17:28,982
+eh junta, también es un muy buen motivo
+
+506
+00:17:26,462 --> 00:17:30,782
+como para tenerlo a favor de tu trade.
+
+507
+00:17:28,982 --> 00:17:33,022
+¿Qué es lo que quieres evitar? Quieres
+
+508
+00:17:30,782 --> 00:17:36,102
+evitar tener todo esto en tu stop loss,
+
+509
+00:17:33,022 --> 00:17:38,342
+¿vale? Nunca nunca nunca quieras buscar
+
+510
+00:17:36,102 --> 00:17:39,902
+igual unos largos teniendo todo esto en
+
+511
+00:17:38,342 --> 00:17:42,582
+tu stop loss, ¿vale? Nunca, porque el
+
+512
+00:17:39,902 --> 00:17:44,342
+trade no va no va a dar resultado.
+
+513
+00:17:42,582 --> 00:17:45,862
+Y eso es todo, chavales, la verdad, nada
+
+514
+00:17:44,342 --> 00:17:47,182
+más que tengáis que saber.
+
+515
+00:17:45,862 --> 00:17:48,622
+Super sencillo, aquí acabamos la
+
+516
+00:17:47,182 --> 00:17:50,302
+liquidez. Ya sabéis qué es aquí la
+
+517
+00:17:48,622 --> 00:17:52,542
+liquidez, ya sabéis los tipos de
+
+518
+00:17:50,302 --> 00:17:54,422
+liquidez que hay y
+
+519
+00:17:52,542 --> 00:17:56,662
+nada más, ahora en el próximo episodio
+
+520
+00:17:54,422 --> 00:17:59,142
+lo que veremos es de trading, creo que
+
+521
+00:17:56,662 --> 00:18:01,262
+veremos ya inverse fair value gaps y
+
+522
+00:17:59,142 --> 00:18:03,382
+CISD y faltan un montón de cosas, cómo
+
+523
+00:18:01,262 --> 00:18:05,502
+identificar la dirección del día, otras
+
+524
+00:18:03,382 --> 00:18:07,382
+cosas que uso para confirmar entradas,
+
+525
+00:18:05,502 --> 00:18:10,382
+luego entraremos en más psicología,
+
+526
+00:18:07,382 --> 00:18:11,702
+entraremos en eh mi estrategia entera,
+
+527
+00:18:10,382 --> 00:18:14,662
+entraremos en cuentas de fondeo,
+
+528
+00:18:11,702 --> 00:18:15,982
+entraremos en todo, en todo, pero paso a
+
+529
+00:18:14,662 --> 00:18:17,742
+paso, tíos. Espero que os haya gustado
+
+530
+00:18:15,982 --> 00:18:20,702
+este día. Mañana más y mejor, no
+
+531
+00:18:17,742 --> 00:18:23,342
+paramos, no descansamos y
+
+532
+00:18:20,702 --> 00:18:23,342
+subscribe.
+

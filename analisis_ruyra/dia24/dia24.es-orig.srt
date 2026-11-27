@@ -1,0 +1,1276 @@
+1
+00:00:01,200 --> 00:00:05,300
+Muy buenas, chavales. Bienvenidos. No sé
+
+2
+00:00:03,600 --> 00:00:07,500
+ni qué día es.
+
+3
+00:00:05,300 --> 00:00:08,600
+Final de la bootcamp, pero hoy toca
+
+4
+00:00:07,500 --> 00:00:10,400
+psicología.
+
+5
+00:00:08,600 --> 00:00:11,600
+Hay vídeo de psicología. Tengo dos
+
+6
+00:00:10,400 --> 00:00:12,400
+pendientes, pero bueno, no sé cuántos
+
+7
+00:00:11,600 --> 00:00:14,200
+tengo pendientes para hacer en
+
+8
+00:00:12,400 --> 00:00:15,800
+psicología, pero siempre va bien hablar
+
+9
+00:00:14,200 --> 00:00:17,800
+sobre psicología y alguien en los
+
+10
+00:00:15,800 --> 00:00:18,800
+comentarios me dijo que hablase de esto
+
+11
+00:00:17,800 --> 00:00:20,600
+y dije
+
+12
+00:00:18,800 --> 00:00:22,200
+facto, ¿vale?
+
+13
+00:00:20,600 --> 00:00:24,000
+Hoy vamos a hablar de que
+
+14
+00:00:22,200 --> 00:00:25,800
+no siempre vas a ganar, ¿vale? De que no
+
+15
+00:00:24,000 --> 00:00:28,200
+siempre se gana en el trading y,
+
+16
+00:00:25,800 --> 00:00:30,200
+irónicamente, hoy he perdido delante de
+
+17
+00:00:28,200 --> 00:00:32,700
+1000 personas operando, así que me viene
+
+18
+00:00:30,200 --> 00:00:34,800
+de lujo hacer este vídeo, ¿vale? Hay
+
+19
+00:00:32,700 --> 00:00:37,100
+mucha gente que de primeras entra en el
+
+20
+00:00:34,800 --> 00:00:38,300
+trading y se cree que
+
+21
+00:00:37,100 --> 00:00:39,800
+siempre va a ganar. A mí hay mucha gente
+
+22
+00:00:38,300 --> 00:00:42,000
+que no conozco que sabe que hace
+
+23
+00:00:39,800 --> 00:00:44,500
+trading, o sea, que hay mucha gente que
+
+24
+00:00:42,000 --> 00:00:45,700
+conozco que no sabe hacer trading, me
+
+25
+00:00:44,500 --> 00:00:46,800
+dicen
+
+26
+00:00:45,700 --> 00:00:49,500
+pero en el trading no hay veces que
+
+27
+00:00:46,800 --> 00:00:51,700
+pierdes dinero? Y digo sí. Me dice
+
+28
+00:00:49,500 --> 00:00:54,600
+uf, pero entonces es como gambling, ¿no?
+
+29
+00:00:51,700 --> 00:00:56,800
+O buah, pero entonces qué pasa si
+
+30
+00:00:54,600 --> 00:00:59,400
+si pierdes mucho y
+
+31
+00:00:56,800 --> 00:01:03,000
+y en un mes lo haces mal y pierdes
+
+32
+00:00:59,400 --> 00:01:04,199
+y pierdes dinero ese mes. Tipo
+
+33
+00:01:03,000 --> 00:01:07,100
+puedes perder dinero haciendo trading,
+
+34
+00:01:04,199 --> 00:01:08,400
+¿vale? Y no siempre se gana. Y
+
+35
+00:01:07,100 --> 00:01:10,200
+creo que eso es obvio, que hay mucha
+
+36
+00:01:08,400 --> 00:01:12,600
+gente que ya sabe que no siempre se
+
+37
+00:01:10,200 --> 00:01:14,400
+gana, que se puede perder, pero una cosa
+
+38
+00:01:12,600 --> 00:01:16,600
+es
+
+39
+00:01:14,400 --> 00:01:18,000
+saberlo y otra cosa es
+
+40
+00:01:16,600 --> 00:01:20,100
+o sea, una cosa es entenderlo y otra
+
+41
+00:01:18,000 --> 00:01:21,500
+cosa es saber cómo reaccionar a ello,
+
+42
+00:01:20,100 --> 00:01:24,200
+porque
+
+43
+00:01:21,500 --> 00:01:25,500
+muchas veces vas a ganar, ganar, ganar,
+
+44
+00:01:24,200 --> 00:01:27,200
+ganar
+
+45
+00:01:25,500 --> 00:01:28,600
+y cuando pierdas
+
+46
+00:01:27,200 --> 00:01:29,700
+te va a costar perder
+
+47
+00:01:28,600 --> 00:01:32,200
+y de alguna manera no lo vas a
+
+48
+00:01:29,700 --> 00:01:33,500
+interiorizar bien. Entonces ahí
+
+49
+00:01:32,200 --> 00:01:34,500
+tú puedes hacer varias cosas, ¿no?
+
+50
+00:01:33,500 --> 00:01:35,800
+Puedes
+
+51
+00:01:34,500 --> 00:01:36,800
+hacer revenge trading, ya hemos hablado
+
+52
+00:01:35,800 --> 00:01:38,400
+de eso.
+
+53
+00:01:36,800 --> 00:01:40,200
+Puedes tener FOMO al día siguiente, ya
+
+54
+00:01:38,400 --> 00:01:42,300
+hemos hablado de eso. Puedes subir el
+
+55
+00:01:40,200 --> 00:01:44,600
+riesgo, ya hemos hablado de eso. Puedes
+
+56
+00:01:42,300 --> 00:01:46,300
+tener prisa, ya hemos hablado de eso.
+
+57
+00:01:44,600 --> 00:01:48,000
+Puedes compararte con gente de internet,
+
+58
+00:01:46,300 --> 00:01:50,300
+ya hemos hablado de eso.
+
+59
+00:01:48,000 --> 00:01:51,600
+Y lo que puedes hacer también es
+
+60
+00:01:50,300 --> 00:01:53,700
+cerrar el ordenador, que es lo que he
+
+61
+00:01:51,600 --> 00:01:55,200
+hecho hoy. Tal como he perdido,
+
+62
+00:01:53,700 --> 00:01:56,800
+me he rallado, obviamente porque me
+
+63
+00:01:55,200 --> 00:01:58,592
+enfada perder,
+
+64
+00:01:56,800 --> 00:01:59,792
+he cerrado sesión de mis cuentas y he
+
+65
+00:01:58,592 --> 00:02:01,092
+chavales,
+
+66
+00:01:59,792 --> 00:02:02,692
+hemos perdido.
+
+67
+00:02:01,092 --> 00:02:05,292
+Independientemente el trade podía ser
+
+68
+00:02:02,692 --> 00:02:07,092
+mejor, el trade podía ser peor, eh
+
+69
+00:02:05,292 --> 00:02:08,892
+podíamos haber tenido buena suerte, mala
+
+70
+00:02:07,092 --> 00:02:11,692
+suerte, podrían haber pasado 1000 cosas,
+
+71
+00:02:08,892 --> 00:02:13,392
+pero por algún motivo
+
+72
+00:02:11,692 --> 00:02:14,992
+hm
+
+73
+00:02:13,392 --> 00:02:16,792
+no hago nada.
+
+74
+00:02:14,992 --> 00:02:18,192
+Me voy. ¿Por qué?
+
+75
+00:02:16,792 --> 00:02:19,592
+Porque entiendo que en el trading no
+
+76
+00:02:18,192 --> 00:02:23,092
+siempre vas a ganar.
+
+77
+00:02:19,592 --> 00:02:25,092
+Y tú puedes pillar una entry perfecta,
+
+78
+00:02:23,092 --> 00:02:28,292
+puedes pillar un trade perfecto, puedes
+
+79
+00:02:25,092 --> 00:02:28,292
+pillar un trade que tenga
+
+80
+00:02:29,292 --> 00:02:31,592
+un
+
+81
+00:02:34,392 --> 00:02:37,192
+equilibrio, todo lo que quieras, ¿vale?
+
+82
+00:02:35,992 --> 00:02:38,992
+Todo lo que quieras. El trade puede
+
+83
+00:02:37,192 --> 00:02:40,792
+tener todo lo que quieras. Y ese trade
+
+84
+00:02:38,992 --> 00:02:42,792
+puede fallar.
+
+85
+00:02:40,792 --> 00:02:44,992
+Puede fallar. Y
+
+86
+00:02:42,792 --> 00:02:46,792
+mucha gente cuando falla el trade
+
+87
+00:02:44,992 --> 00:02:48,192
+lo primero que piensa es que el trade no
+
+88
+00:02:46,792 --> 00:02:49,592
+era tan bueno, que hay algo que ha
+
+89
+00:02:48,192 --> 00:02:50,492
+fallado. Mucha gente me pregunta, Xavi,
+
+90
+00:02:49,592 --> 00:02:52,192
+¿por qué te crees que el trade ha
+
+91
+00:02:50,492 --> 00:02:54,692
+fallado?
+
+92
+00:02:52,192 --> 00:02:56,392
+Ha fallado porque es literalmente forma
+
+93
+00:02:54,692 --> 00:02:58,892
+parte de una estadística.
+
+94
+00:02:56,392 --> 00:03:01,592
+Y si tú sabes que en una muestra de
+
+95
+00:02:58,892 --> 00:03:04,692
+10.000 trades, me lo invento, ¿vale?
+
+96
+00:03:01,592 --> 00:03:06,292
+Tienes un 71% de acierto,
+
+97
+00:03:04,692 --> 00:03:08,192
+estos 10.000 trades
+
+98
+00:03:06,292 --> 00:03:10,392
+son 10.000 trades que cumplen con la con
+
+99
+00:03:08,192 --> 00:03:11,992
+el con la estrategia, son 10.000 trades
+
+100
+00:03:10,392 --> 00:03:14,292
+que cumplen con
+
+101
+00:03:11,992 --> 00:03:15,492
+todos los parámetros. Y estos 10.000
+
+102
+00:03:14,292 --> 00:03:17,692
+trades, que esos 10.000 trades son
+
+103
+00:03:15,492 --> 00:03:20,092
+10.000 trades buenos,
+
+104
+00:03:17,692 --> 00:03:21,992
+un 30% de los trades fallan y no tienen
+
+105
+00:03:20,092 --> 00:03:23,692
+nada de malo. De hecho, son trades
+
+106
+00:03:21,992 --> 00:03:24,892
+buenos, ¿vale?
+
+107
+00:03:23,692 --> 00:03:26,792
+Y eso es algo que tienes que
+
+108
+00:03:24,892 --> 00:03:28,192
+interiorizar, porque siempre, y esta
+
+109
+00:03:26,792 --> 00:03:30,392
+frase quiero que te la tatúes en la
+
+110
+00:03:28,192 --> 00:03:32,892
+cabeza, siempre vas a tener algo en tu
+
+111
+00:03:30,392 --> 00:03:34,492
+stop loss, siempre, ¿vale? Siempre. Si
+
+112
+00:03:32,892 --> 00:03:36,192
+tú buscas un motivo para el cual el
+
+113
+00:03:34,492 --> 00:03:37,492
+trade ha fallado, siempre lo vas a
+
+114
+00:03:36,192 --> 00:03:41,792
+encontrar.
+
+115
+00:03:37,492 --> 00:03:43,092
+Y por eso hay muchísima gente estancada
+
+116
+00:03:41,792 --> 00:03:45,592
+en
+
+117
+00:03:43,092 --> 00:03:49,192
+el trading justo al principio porque de
+
+118
+00:03:45,592 --> 00:03:50,892
+alguna forma intentamos siempre buscar
+
+119
+00:03:49,192 --> 00:03:52,092
+algo para mejorar y está superbién
+
+120
+00:03:50,892 --> 00:03:53,292
+porque
+
+121
+00:03:52,092 --> 00:03:54,792
+la gente que empieza a hacer trading y
+
+122
+00:03:53,292 --> 00:03:55,992
+realmente está obsesionada, que es gente
+
+123
+00:03:54,792 --> 00:03:58,692
+que, por ejemplo, puede estar viendo
+
+124
+00:03:55,992 --> 00:04:00,092
+este vídeo, puede ser tú,
+
+125
+00:03:58,692 --> 00:04:01,092
+eres una persona que quiere mejorar todo
+
+126
+00:04:00,092 --> 00:04:02,292
+el rato, que está probablemente
+
+127
+00:04:01,092 --> 00:04:03,894
+obsesionada con el trading, que quiere
+
+128
+00:04:02,292 --> 00:04:05,094
+ganar dinero, que quiere, tiene ganas de
+
+129
+00:04:03,894 --> 00:04:08,194
+mejorar, de hacer apuntes, de ver
+
+130
+00:04:05,094 --> 00:04:10,594
+vídeos. Y está súper bien. Pero eso a
+
+131
+00:04:08,194 --> 00:04:13,094
+veces nos juega en nuestra contra y
+
+132
+00:04:10,594 --> 00:04:15,594
+queremos siempre hacer más, meter más
+
+133
+00:04:13,094 --> 00:04:16,994
+horas, eh ser mejores. Y de alguna forma
+
+134
+00:04:15,594 --> 00:04:18,094
+eso nos juega a veces a nuestra contra
+
+135
+00:04:16,994 --> 00:04:20,094
+porque
+
+136
+00:04:18,094 --> 00:04:21,994
+si tú te pones a sobreanalizar todo, el
+
+137
+00:04:20,094 --> 00:04:24,594
+SP 500, el Nasdaq, la hora de la
+
+138
+00:04:21,994 --> 00:04:26,094
+entrada, las condiciones, siempre en tu
+
+139
+00:04:24,594 --> 00:04:27,294
+libreta vas a estar apuntando mejoras,
+
+140
+00:04:26,094 --> 00:04:28,794
+siempre.
+
+141
+00:04:27,294 --> 00:04:31,294
+Y de alguna forma vas a estar
+
+142
+00:04:28,794 --> 00:04:32,694
+consistentemente haciendo ajustes que se
+
+143
+00:04:31,294 --> 00:04:33,894
+van a contradecir entre ellos en tu
+
+144
+00:04:32,694 --> 00:04:37,794
+estrategia.
+
+145
+00:04:33,894 --> 00:04:40,694
+Y la solución es no sobreanalizar.
+
+146
+00:04:37,794 --> 00:04:42,694
+Es poner en una balanza qué es lo que
+
+147
+00:04:40,694 --> 00:04:44,794
+tenías a favor de tu trade, qué es lo
+
+148
+00:04:42,694 --> 00:04:47,194
+que tenías en contra. ¿Que tenías ocho
+
+149
+00:04:44,794 --> 00:04:49,094
+cosas a favor y dos en contra?
+
+150
+00:04:47,194 --> 00:04:51,794
+Era un buen trade. Olvídate. No te
+
+151
+00:04:49,094 --> 00:04:53,494
+ralles, ¿vale? No te ralles. Porque eso
+
+152
+00:04:51,794 --> 00:04:54,594
+que os digo, siempre vas a tener algo en
+
+153
+00:04:53,494 --> 00:04:56,194
+contra.
+
+154
+00:04:54,594 --> 00:04:57,794
+Y hay veces que tienes que dejar ir, hay
+
+155
+00:04:56,194 --> 00:04:59,394
+veces que tienes que ir tranquilo y hay
+
+156
+00:04:57,794 --> 00:05:00,394
+veces que, sobre todo, tienes que decir,
+
+157
+00:04:59,394 --> 00:05:01,894
+vale,
+
+158
+00:05:00,394 --> 00:05:03,294
+calma, tengo que repetir esto durante
+
+159
+00:05:01,894 --> 00:05:05,094
+mucho tiempo, en backtesting no
+
+160
+00:05:03,294 --> 00:05:07,394
+sobreanalizo, cuando pierdo en
+
+161
+00:05:05,094 --> 00:05:09,194
+backtesting no miro un detalle pequeñito
+
+162
+00:05:07,394 --> 00:05:10,494
+de por qué ha fallado mi trade, cuando
+
+163
+00:05:09,194 --> 00:05:12,394
+estoy haciendo backtesting voy
+
+164
+00:05:10,494 --> 00:05:14,794
+tranquilo, miro si el trade cumple los
+
+165
+00:05:12,394 --> 00:05:17,994
+parámetros y le doy. ¿Que pierde? Next
+
+166
+00:05:14,794 --> 00:05:18,994
+day. ¿Que gana? Paso. Y tienes que
+
+167
+00:05:17,994 --> 00:05:21,594
+seguir
+
+168
+00:05:18,994 --> 00:05:24,794
+eso porque es que si no
+
+169
+00:05:21,594 --> 00:05:26,494
+mal, ¿vale? Mal. Entonces,
+
+170
+00:05:24,794 --> 00:05:27,594
+tener en cuenta que no siempre vais a
+
+171
+00:05:26,494 --> 00:05:29,894
+ganar
+
+172
+00:05:27,594 --> 00:05:31,594
+y tener en cuenta que
+
+173
+00:05:29,894 --> 00:05:33,594
+en backtesting nunca vais a hacer cosas
+
+174
+00:05:31,594 --> 00:05:35,494
+que en fondeo hacéis, ¿vale?
+
+175
+00:05:33,594 --> 00:05:37,594
+En fondeo nunca vais a alargar un take
+
+176
+00:05:35,494 --> 00:05:39,594
+profit Ay, en back O sea, en back
+
+177
+00:05:37,594 --> 00:05:41,194
+testing en fondeo, perdonad, nunca vais
+
+178
+00:05:39,594 --> 00:05:44,894
+a hacer algo
+
+179
+00:05:41,194 --> 00:05:47,694
+O sea, [ __ ] no vais a ganar ahora.
+
+180
+00:05:44,894 --> 00:05:49,194
+Sí, en back testing hacemos O sea, en en
+
+181
+00:05:47,694 --> 00:05:50,894
+fondeo, en cuentas de evaluación y con
+
+182
+00:05:49,194 --> 00:05:52,594
+vuestro dinero hacemos cosas que en back
+
+183
+00:05:50,894 --> 00:05:54,794
+testing no hacemos, como por ejemplo,
+
+184
+00:05:52,594 --> 00:05:57,794
+alargar el take profit, sobreanalizar
+
+185
+00:05:54,794 --> 00:06:01,094
+más, hacer un journal mucho más extenso,
+
+186
+00:05:57,794 --> 00:06:02,794
+revisar todo cuatro veces más, ehm
+
+187
+00:06:01,094 --> 00:06:04,894
+quedarnos mirando el mercado después de
+
+188
+00:06:02,794 --> 00:06:06,495
+haber perdido y
+
+189
+00:06:04,894 --> 00:06:07,895
+es normal que nos pase porque al final
+
+190
+00:06:06,495 --> 00:06:09,895
+hay dinero entremedio, pero lo que
+
+191
+00:06:07,895 --> 00:06:12,095
+tienes que pensar en ese momento es, qué
+
+192
+00:06:09,895 --> 00:06:14,195
+estaría haciendo mi yo de backtest.
+
+193
+00:06:12,095 --> 00:06:15,495
+Y si estás viendo esto y aún no sabes ni
+
+194
+00:06:14,195 --> 00:06:17,595
+qué es backtesting, que lo he mencionado
+
+195
+00:06:15,495 --> 00:06:19,095
+por por encima, es una cosa que vamos a
+
+196
+00:06:17,595 --> 00:06:20,395
+ver más adelante, pero
+
+197
+00:06:19,095 --> 00:06:22,195
+es básicamente tú practicando tu
+
+198
+00:06:20,395 --> 00:06:23,595
+estrategia, ¿vale? Tú practicando tu
+
+199
+00:06:22,195 --> 00:06:25,495
+estrategia desde tu casa a cualquier
+
+200
+00:06:23,595 --> 00:06:28,695
+hora y cualquier año, ¿vale? Tú puedes
+
+201
+00:06:25,495 --> 00:06:30,295
+meter 600 trades de tu estrategia y no
+
+202
+00:06:28,695 --> 00:06:31,295
+ganas ni pierdes dinero real, es todo
+
+203
+00:06:30,295 --> 00:06:32,695
+ficticio.
+
+204
+00:06:31,295 --> 00:06:33,695
+Cuando tú estás haciendo esta práctica
+
+205
+00:06:32,695 --> 00:06:35,595
+de backtesting, como no tienes
+
+206
+00:06:33,695 --> 00:06:37,395
+emociones, no tienes nada, lo único que
+
+207
+00:06:35,595 --> 00:06:38,995
+haces es meter trades, hacer asegurarte
+
+208
+00:06:37,395 --> 00:06:41,595
+de que sigues tu estrategia y meter
+
+209
+00:06:38,995 --> 00:06:43,595
+trades. Y cuando pierdes, dices, bah,
+
+210
+00:06:41,595 --> 00:06:45,395
+he perdido. Voy al siguiente día. Pasas
+
+211
+00:06:43,595 --> 00:06:46,995
+de día. Bah, he perdido. Voy al
+
+212
+00:06:45,395 --> 00:06:48,495
+siguiente día. Voy al siguiente día. Voy
+
+213
+00:06:46,995 --> 00:06:50,795
+al siguiente día. No te enteras y llevas
+
+214
+00:06:48,495 --> 00:06:52,995
+tres semanas de de de price action, ¿no?
+
+215
+00:06:50,795 --> 00:06:54,495
+De de trades. Y en estas tres semanas
+
+216
+00:06:52,995 --> 00:06:56,595
+ves que igual has perdido cinco veces y
+
+217
+00:06:54,495 --> 00:06:58,395
+has ganado ocho, me lo invento.
+
+218
+00:06:56,595 --> 00:06:59,595
+Y dices, [ __ ] este mes he ganado
+
+219
+00:06:58,395 --> 00:07:00,895
+3.000 euros.
+
+220
+00:06:59,595 --> 00:07:02,695
+Pero luego a la hora de estar en el
+
+221
+00:07:00,895 --> 00:07:05,195
+mercado, pierdes
+
+222
+00:07:02,695 --> 00:07:06,295
+y tú no dices, buah, mañana más. Tú
+
+223
+00:07:05,195 --> 00:07:07,995
+dices,
+
+224
+00:07:06,295 --> 00:07:09,895
+ostra, por qué he perdido.
+
+225
+00:07:07,995 --> 00:07:11,095
+El S&P 500 mira, tenía esto en contra,
+
+226
+00:07:09,895 --> 00:07:14,495
+el trade no era bueno, voy a hacer una
+
+227
+00:07:11,095 --> 00:07:16,695
+página de de de diario autocastigándome
+
+228
+00:07:14,495 --> 00:07:18,495
+porque lo he hecho mal y además, buah,
+
+229
+00:07:16,695 --> 00:07:19,795
+qué buah, y se está buah, y se está
+
+230
+00:07:18,495 --> 00:07:21,695
+dando otra entry. Pues bueno, otra
+
+231
+00:07:19,795 --> 00:07:22,995
+entry. Pum, entras, revenge trading,
+
+232
+00:07:21,695 --> 00:07:25,995
+pierdes
+
+233
+00:07:22,995 --> 00:07:27,795
+y dejas de aplicar todo lo estudiado,
+
+234
+00:07:25,995 --> 00:07:29,395
+dejas de tener realmente una ventaja en
+
+235
+00:07:27,795 --> 00:07:31,295
+el mercado, dejas de seguir tu
+
+236
+00:07:29,395 --> 00:07:33,895
+estadística y empiezas a gamblear.
+
+237
+00:07:31,295 --> 00:07:34,995
+Porque aunque sigas tu sistema, si sales
+
+238
+00:07:33,895 --> 00:07:36,295
+de tu gestión de riesgo, estás
+
+239
+00:07:34,995 --> 00:07:37,695
+gambleando.
+
+240
+00:07:36,295 --> 00:07:38,895
+Si sales de tu horario de trading, estás
+
+241
+00:07:37,695 --> 00:07:40,595
+gambleando.
+
+242
+00:07:38,895 --> 00:07:42,195
+Si metes más de un trade al día, estás
+
+243
+00:07:40,595 --> 00:07:44,295
+gambleando. Si entras en trades de
+
+244
+00:07:42,195 --> 00:07:46,195
+tiempo, estás gambleando. Por lo tanto,
+
+245
+00:07:44,295 --> 00:07:47,895
+tienes que ser superestricto con eso y
+
+246
+00:07:46,195 --> 00:07:49,695
+asegurarte de que cumples con las pautas
+
+247
+00:07:47,895 --> 00:07:52,595
+y, sobre todo, darte cuenta de que si
+
+248
+00:07:49,695 --> 00:07:54,995
+pierdes, no pasa nada. Puedes perder
+
+249
+00:07:52,595 --> 00:07:57,195
+haciendo trading y pueden haber meses
+
+250
+00:07:54,995 --> 00:07:58,895
+malos, pueden haber meses buenos, puedes
+
+251
+00:07:57,195 --> 00:08:02,295
+estar tú en una mala racha psicológica y
+
+252
+00:07:58,895 --> 00:08:04,095
+meter trades horribles y
+
+253
+00:08:02,295 --> 00:08:05,995
+es así el trading, ¿vale? Es así, es lo
+
+254
+00:08:04,095 --> 00:08:07,997
+que tiene el emprendimiento, es es tiene
+
+255
+00:08:05,995 --> 00:08:09,997
+hacer algo así, que igual un mes
+
+256
+00:08:07,997 --> 00:08:10,897
+pierdes, pierdes dinero.
+
+257
+00:08:09,997 --> 00:08:13,797
+Y
+
+258
+00:08:10,897 --> 00:08:15,397
+te va a pasar, seguro.
+
+259
+00:08:13,797 --> 00:08:17,697
+¿Y vas a entender el por qué? No,
+
+260
+00:08:15,397 --> 00:08:20,697
+seguramente no lo entiendas, pero de
+
+261
+00:08:17,697 --> 00:08:21,997
+alguna forma es lo bonito del deporte. Y
+
+262
+00:08:20,697 --> 00:08:24,897
+con esto quiero despedir el vídeo porque
+
+263
+00:08:21,997 --> 00:08:26,297
+no quiero hacer una bola de de este tema
+
+264
+00:08:24,897 --> 00:08:27,697
+porque realmente es es simplemente
+
+265
+00:08:26,297 --> 00:08:28,797
+dejaros claro eso,
+
+266
+00:08:27,697 --> 00:08:30,797
+pero
+
+267
+00:08:28,797 --> 00:08:32,397
+pero bueno, yo la verdad estoy estoy
+
+268
+00:08:30,797 --> 00:08:34,097
+bastante bastante hasta los huevos de
+
+269
+00:08:32,397 --> 00:08:36,297
+mucha gente
+
+270
+00:08:34,097 --> 00:08:37,397
+porque operar en directo es
+
+271
+00:08:36,297 --> 00:08:38,797
+es duro, chavales. O sea, hoy he hecho
+
+272
+00:08:37,397 --> 00:08:40,697
+el primer directo
+
+273
+00:08:38,797 --> 00:08:41,997
+y o sea, he hecho el primer stop loss
+
+274
+00:08:40,697 --> 00:08:44,297
+delante de gente, operando delante de
+
+275
+00:08:41,997 --> 00:08:45,697
+gente y la presión se nota mucho, mucho
+
+276
+00:08:44,297 --> 00:08:47,397
+mucho mucho mucho. O sea, si algún día
+
+277
+00:08:45,697 --> 00:08:48,597
+llegáis a operar delante de gente o si
+
+278
+00:08:47,397 --> 00:08:50,397
+alguien está viendo esto que opera
+
+279
+00:08:48,597 --> 00:08:51,997
+delante de gente, yo he flipado con la
+
+280
+00:08:50,397 --> 00:08:53,797
+presión. Muchas veces había operado
+
+281
+00:08:51,997 --> 00:08:55,397
+delante de gente, pero cuando haces un
+
+282
+00:08:53,797 --> 00:08:56,897
+break even, cuando no operas, cuando
+
+283
+00:08:55,397 --> 00:08:58,297
+haces un take profit rápido, te sientes
+
+284
+00:08:56,897 --> 00:08:59,697
+muy bien, dices [ __ ]
+
+285
+00:08:58,297 --> 00:09:01,497
+Pero cuando pierdes, aparte de que
+
+286
+00:08:59,697 --> 00:09:03,697
+sientes que la gente te copia, que
+
+287
+00:09:01,497 --> 00:09:06,097
+aunque tú no quieras que lo hagan
+
+288
+00:09:03,697 --> 00:09:07,797
+y aunque tú no pues repitas 1000 veces
+
+289
+00:09:06,097 --> 00:09:09,197
+que no eres un hacker,
+
+290
+00:09:07,797 --> 00:09:11,397
+la gente te copia igualmente. Entonces
+
+291
+00:09:09,197 --> 00:09:13,997
+te sientes culpable. Ya de cara a mañana
+
+292
+00:09:11,397 --> 00:09:15,397
+tengo esta presión añadida de
+
+293
+00:09:13,997 --> 00:09:16,997
+no poder hacer otro stop, bueno, no
+
+294
+00:09:15,397 --> 00:09:19,097
+poder, no quiero hacer otro stop loss
+
+295
+00:09:16,997 --> 00:09:21,297
+seguido, dos stop loss seguidos en live
+
+296
+00:09:19,097 --> 00:09:23,097
+me molestaría. Voy con esta presión y ya
+
+297
+00:09:21,297 --> 00:09:24,597
+si de por sí el trading es difícil, yo
+
+298
+00:09:23,097 --> 00:09:26,797
+me estoy poniendo esta presión añadida
+
+299
+00:09:24,597 --> 00:09:29,397
+que es horrible. Eh, pero bueno, esta
+
+300
+00:09:26,797 --> 00:09:30,897
+tarde voy a reflexionar y sobre todo ir
+
+301
+00:09:29,397 --> 00:09:33,397
+tranquilo. Así que nada, tíos, un
+
+302
+00:09:30,897 --> 00:09:35,097
+abrazo, ¿vale? Cuidarse. Espero que os
+
+303
+00:09:33,397 --> 00:09:36,497
+haya molestado este vídeo. Mañana creo
+
+304
+00:09:35,097 --> 00:09:39,597
+que vamos a ir con condiciones y
+
+305
+00:09:36,497 --> 00:09:40,997
+sponsorships, después vamos a ir
+
+306
+00:09:39,597 --> 00:09:42,797
+Bueno, tengo que mirar el orden, pero ya
+
+307
+00:09:40,997 --> 00:09:44,997
+entramos en condiciones, sponsorships,
+
+308
+00:09:42,797 --> 00:09:46,697
+stop hunts, PO3s, AMDs, luego
+
+309
+00:09:44,997 --> 00:09:48,697
+estrategia, luego back testing y luego
+
+310
+00:09:46,697 --> 00:09:50,397
+ya entramos a paso a paso de cómo hacer
+
+311
+00:09:48,697 --> 00:09:51,897
+el demo, paso a paso de cómo utilizar
+
+312
+00:09:50,397 --> 00:09:53,297
+back testing, paso a paso de cómo
+
+313
+00:09:51,897 --> 00:09:54,997
+escalar el trading, qué cuentas de
+
+314
+00:09:53,297 --> 00:09:55,897
+fondeo son las mejores, etcétera. Así
+
+315
+00:09:54,997 --> 00:09:57,997
+que
+
+316
+00:09:55,897 --> 00:09:59,397
+calma, cada día que pasa
+
+317
+00:09:57,997 --> 00:10:02,097
+estamos más cerca de acabar la bootcamp,
+
+318
+00:09:59,397 --> 00:10:05,197
+estamos más cerca de empezar a operar y
+
+319
+00:10:02,097 --> 00:10:05,197
+eso es todo. Let's go.
+

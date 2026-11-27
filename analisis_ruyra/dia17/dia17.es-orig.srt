@@ -1,0 +1,2208 @@
+1
+00:00:00,359 --> 00:00:05,960
+Muy buenas, chavales. Bienvenidos al
+
+2
+00:00:03,080 --> 00:00:07,960
+vídeo de SMTs y os solo voy a decir que
+
+3
+00:00:05,960 --> 00:00:09,440
+llevo preparando este vídeo. Es el que
+
+4
+00:00:07,960 --> 00:00:11,920
+tardado más en preparar con diferencia
+
+5
+00:00:09,440 --> 00:00:14,040
+de toda la Woodcam. Estoy reventado, así
+
+6
+00:00:11,920 --> 00:00:15,759
+que disfrutarlo porque es un videazo.
+
+7
+00:00:14,040 --> 00:00:18,400
+Vamos a hablar de SMTs y vamos a hablar
+
+8
+00:00:15,759 --> 00:00:21,160
+de la True Manipulation, que es algo
+
+9
+00:00:18,400 --> 00:00:22,080
+super importante, ¿vale? Y estoy muerto,
+
+10
+00:00:21,160 --> 00:00:23,880
+pero tengo ganas de hacer el vídeo
+
+11
+00:00:22,080 --> 00:00:26,519
+porque ya está todo preparado. Así que
+
+12
+00:00:23,880 --> 00:00:29,240
+vamos a empezar.
+
+13
+00:00:26,519 --> 00:00:31,519
+Lo primero de todo, ¿por qué muchas
+
+14
+00:00:29,240 --> 00:00:33,399
+veces veis que yo tengo abierto el
+
+15
+00:00:31,519 --> 00:00:34,640
+Nasdaq en un panel y en el otro panel,
+
+16
+00:00:33,399 --> 00:00:36,840
+en el otro apartado de Trading View,
+
+17
+00:00:34,640 --> 00:00:38,800
+tengo abierto el SP500? Esto me lo
+
+18
+00:00:36,840 --> 00:00:40,200
+habéis preguntado un montón de cosas y
+
+19
+00:00:38,800 --> 00:00:41,920
+sobre todo lo habéis visto en muchos
+
+20
+00:00:40,200 --> 00:00:43,760
+vídeos y en el vídeo de cómo configurar
+
+21
+00:00:41,920 --> 00:00:45,640
+Trading View visteis que os hablaba un
+
+22
+00:00:43,760 --> 00:00:48,039
+poco de cómo poner las dos pestañas
+
+23
+00:00:45,640 --> 00:00:50,120
+juntas, que era dándole aquí arriba, a
+
+24
+00:00:48,039 --> 00:00:51,760
+ver qué nos sale ahora. Era dándole aquí
+
+25
+00:00:50,120 --> 00:00:54,079
+arriba y clicando este botoncito de
+
+26
+00:00:51,760 --> 00:00:56,280
+aquí. Y
+
+27
+00:00:54,079 --> 00:00:58,079
+ahora veréis el por qué. Vale, entonces
+
+28
+00:00:56,280 --> 00:01:00,680
+lo primero,
+
+29
+00:00:58,079 --> 00:01:03,160
+tú puedes tener SMTs alcistas y SMT
+
+30
+00:01:00,680 --> 00:01:05,119
+bajista, ¿vale? Esto es una divergencia
+
+31
+00:01:03,160 --> 00:01:06,479
+entre índices, ¿vale? SMT Diversions.
+
+32
+00:01:05,119 --> 00:01:08,560
+Básicamente es que hay una divergencia
+
+33
+00:01:06,479 --> 00:01:10,000
+entre estos dos índices. Lo primero que
+
+34
+00:01:08,560 --> 00:01:12,000
+tenemos que entender es que el Nasdaq y
+
+35
+00:01:10,000 --> 00:01:13,880
+el SP500 son índices que están
+
+36
+00:01:12,000 --> 00:01:15,360
+correlacionados, por lo tanto son
+
+37
+00:01:13,880 --> 00:01:18,240
+índices que se mueven de forma muy
+
+38
+00:01:15,360 --> 00:01:20,479
+parecida y muchas veces usamos uno o el
+
+39
+00:01:18,240 --> 00:01:22,119
+otro para ver cómo se comportan, sobre
+
+40
+00:01:20,479 --> 00:01:24,320
+todo después de tocar zonas de
+
+41
+00:01:22,119 --> 00:01:26,960
+conflicto, key levels, que ya los vimos
+
+42
+00:01:24,320 --> 00:01:28,360
+el otro día. Por lo tanto, las SMTs,
+
+43
+00:01:26,960 --> 00:01:30,680
+¿dónde las vamos a estar viendo?
+
+44
+00:01:28,360 --> 00:01:32,520
+Normalmente en key levels, ¿vale? Ya
+
+45
+00:01:30,680 --> 00:01:34,320
+sabéis todos cuáles son. Entonces,
+
+46
+00:01:32,520 --> 00:01:36,640
+podemos tener una seme alcista y una
+
+47
+00:01:34,320 --> 00:01:39,439
+seme bajista. Hay muchísima gente que se
+
+48
+00:01:36,640 --> 00:01:43,280
+eh que se equivoca y se confunde en este
+
+49
+00:01:39,439 --> 00:01:46,159
+concepto y es s sencillo. ¿Qué estamos
+
+50
+00:01:43,280 --> 00:01:47,920
+viendo en un ejemplo de un SMT alcista?
+
+51
+00:01:46,159 --> 00:01:50,360
+El SP500 y el Nasdaq tienen estructura
+
+52
+00:01:47,920 --> 00:01:52,399
+similar. ¿Qué pasa? Sube, retrocede,
+
+53
+00:01:50,360 --> 00:01:54,960
+sigue subiendo. El SP500, ¿qué hace?
+
+54
+00:01:52,399 --> 00:01:57,159
+Sube, retrocede, sigue subiendo. Sin
+
+55
+00:01:54,960 --> 00:01:59,520
+embargo, hay una pequeña diferencia.
+
+56
+00:01:57,159 --> 00:02:02,039
+Como vemos en esta subida, el Nasdaq
+
+57
+00:01:59,520 --> 00:02:04,880
+crea una sellide liquidity.
+
+58
+00:02:02,039 --> 00:02:06,479
+perdonar una salsa liquidity y el SP500
+
+59
+00:02:04,880 --> 00:02:08,399
+durante la subida crea otra salsa
+
+60
+00:02:06,479 --> 00:02:09,879
+liquidity a la misma hora, ¿vale? Super
+
+61
+00:02:08,399 --> 00:02:11,879
+importante que siempre sea a la misma
+
+62
+00:02:09,879 --> 00:02:13,959
+hora. Esto normalmente va a ser un bajo
+
+63
+00:02:11,879 --> 00:02:15,360
+que os vais a marcar. ¿Y cuál es la
+
+64
+00:02:13,959 --> 00:02:18,200
+diferencia aquí? Que aquí en el
+
+65
+00:02:15,360 --> 00:02:21,959
+retroceso el Nasdaq no consigue alcanzar
+
+66
+00:02:18,200 --> 00:02:26,879
+esa Cellside Liquidity, pero el SP500
+
+67
+00:02:21,959 --> 00:02:29,440
+sí. ¿Qué significa esto? Significa que
+
+68
+00:02:26,879 --> 00:02:31,599
+solo necesito que un índice toque mi
+
+69
+00:02:29,440 --> 00:02:33,920
+zona de conflicto. Solo necesito que un
+
+70
+00:02:31,599 --> 00:02:35,879
+índice toque toque un key level. ¿Por
+
+71
+00:02:33,920 --> 00:02:37,760
+qué? Porque al ser índices
+
+72
+00:02:35,879 --> 00:02:40,480
+correlacionados y al moverse de forma
+
+73
+00:02:37,760 --> 00:02:43,599
+muy parecida, cuando el SP500 quita una
+
+74
+00:02:40,480 --> 00:02:45,640
+zona, si nos da una reacción, yo voy a
+
+75
+00:02:43,599 --> 00:02:48,959
+asumir que el Nasdaq ha tocado la misma
+
+76
+00:02:45,640 --> 00:02:50,480
+zona. Es decir, si el SP500 toca un alto
+
+77
+00:02:48,959 --> 00:02:52,159
+y reacciona, yo voy a asumir que el
+
+78
+00:02:50,480 --> 00:02:54,239
+Nasdaq ha tocado ese alto. Es como si lo
+
+79
+00:02:52,159 --> 00:02:56,400
+hubiese tocado, aunque no lo haya hecho.
+
+80
+00:02:54,239 --> 00:02:57,640
+Y eso es con una excepción supergre que
+
+81
+00:02:56,400 --> 00:02:59,000
+se llama True Manipulation, que lo
+
+82
+00:02:57,640 --> 00:03:01,239
+veremos al final del vídeo. Pero de
+
+83
+00:02:59,000 --> 00:03:02,920
+momento quedaros con esta idea. Esto
+
+84
+00:03:01,239 --> 00:03:05,599
+podría ser perfectamente así, ¿vale? No
+
+85
+00:03:02,920 --> 00:03:07,519
+tiene que ser solo en SP500.
+
+86
+00:03:05,599 --> 00:03:08,840
+Cosas a recalcar. Chavi, ¿es más
+
+87
+00:03:07,519 --> 00:03:11,799
+importante un SMT al ciste con la
+
+88
+00:03:08,840 --> 00:03:13,840
+bajista? No, Chavi, ¿es más importante o
+
+89
+00:03:11,799 --> 00:03:15,120
+tiene más importancia si el SP500 ha
+
+90
+00:03:13,840 --> 00:03:17,920
+quitado el bajo y el Nasdaq? No,
+
+91
+00:03:15,120 --> 00:03:19,920
+viceversa. No, da totalmente igual. La
+
+92
+00:03:17,920 --> 00:03:23,000
+pregunta del millón, Chavi, ¿son
+
+93
+00:03:19,920 --> 00:03:25,440
+obligatorias las SMTs? No, que no haya
+
+94
+00:03:23,000 --> 00:03:28,239
+SMT significa que mi trade sea peor.
+
+95
+00:03:25,440 --> 00:03:30,080
+Tampoco que no hay SMT, entro. ¿Qué
+
+96
+00:03:28,239 --> 00:03:32,560
+quiere decir que no hay SMT? Un ejemplo
+
+97
+00:03:30,080 --> 00:03:34,360
+donde no hay SMT sería que los dos
+
+98
+00:03:32,560 --> 00:03:35,879
+índices hagan exactamente lo mismo. Que
+
+99
+00:03:34,360 --> 00:03:37,879
+hacen los dos lo mismo, me tocan los
+
+100
+00:03:35,879 --> 00:03:39,760
+dos, mi zona y conflicto y suben.
+
+101
+00:03:37,879 --> 00:03:41,959
+Perfecto. Análisis. Perfecto. Que lo
+
+102
+00:03:39,760 --> 00:03:43,959
+hace solo el Nasdaq y el SP500 justo
+
+103
+00:03:41,959 --> 00:03:46,159
+reacciona. Perfecto. Significa que la
+
+104
+00:03:43,959 --> 00:03:47,840
+zona estaba bien y que al Nasdaq al
+
+105
+00:03:46,159 --> 00:03:51,840
+tocarlo primero ha reaccionado y el
+
+106
+00:03:47,840 --> 00:03:51,840
+SP500 al ser un índice
+
+107
+00:04:08,680 --> 00:04:12,000
+hola, hola.
+
+108
+00:04:15,000 --> 00:04:20,440
+Hola, hola. Ahora, ahora, ahora. Vale,
+
+109
+00:04:17,000 --> 00:04:22,160
+parezco tontoto. Vale, perdonar. Y lo
+
+110
+00:04:20,440 --> 00:04:25,240
+que digo que básicamente al aguantar
+
+111
+00:04:22,160 --> 00:04:27,240
+este SMT, pues el Nasdaq ha dicho, yo
+
+112
+00:04:25,240 --> 00:04:28,800
+quito el low, subo y ese pequeñito se ha
+
+113
+00:04:27,240 --> 00:04:30,720
+dicho, ostras, el Nasdaq ha quitado el
+
+114
+00:04:28,800 --> 00:04:32,759
+low. Como nos movemos, muy parecido. Si
+
+115
+00:04:30,720 --> 00:04:36,199
+él despega, yo por inercia despego. Ya
+
+116
+00:04:32,759 --> 00:04:38,360
+está. Vale, que es una SMT bajista.
+
+117
+00:04:36,199 --> 00:04:42,160
+Básicamente lo mismo, pero del revés.
+
+118
+00:04:38,360 --> 00:04:44,120
+Como veis, dejamos un alto y el Nasdaq
+
+119
+00:04:42,160 --> 00:04:46,320
+en este caso, pues no alcanza a quitar
+
+120
+00:04:44,120 --> 00:04:48,720
+ese alto y el SP500 sí que lo quita y
+
+121
+00:04:46,320 --> 00:04:51,520
+luego el precio se gira. Vale, sencillo.
+
+122
+00:04:48,720 --> 00:04:53,520
+Vamos a ver ejemplos y ejemplos
+
+123
+00:04:51,520 --> 00:04:55,199
+clarísimos. Por ejemplo, este ejemplo es
+
+124
+00:04:53,520 --> 00:04:57,320
+ayer. ¿Qué estamos viendo? ¿Qué ha hecho
+
+125
+00:04:55,199 --> 00:04:58,759
+el Nasdaq? Ha quitado este alto de ahí,
+
+126
+00:04:57,320 --> 00:05:00,840
+bueno, y este de aquí. Ha quitado todos
+
+127
+00:04:58,759 --> 00:05:02,560
+estos altos y ha tocado justo un gap de
+
+128
+00:05:00,840 --> 00:05:04,639
+15 minutos. ¿Veis este Ferat de 15
+
+129
+00:05:02,560 --> 00:05:06,639
+segundos? Y en cambio el SP500, ¿qué ha
+
+130
+00:05:04,639 --> 00:05:09,000
+hecho? no ha conseguido quitar ese alto
+
+131
+00:05:06,639 --> 00:05:10,440
+que es justo el mismo que este de aquí.
+
+132
+00:05:09,000 --> 00:05:12,440
+Tenéis que ver que las horas siempre
+
+133
+00:05:10,440 --> 00:05:15,120
+sean las mismas, sobre todo mirar mi
+
+134
+00:05:12,440 --> 00:05:16,639
+mouse, ¿vale? ¿Veis mi mouse? Que justo
+
+135
+00:05:15,120 --> 00:05:18,080
+abajo de mouse, justo abajo del todo de
+
+136
+00:05:16,639 --> 00:05:20,440
+la pantalla, sale martes 10 de
+
+137
+00:05:18,080 --> 00:05:23,600
+noviembre, eh, de noviembre de 2026 a
+
+138
+00:05:20,440 --> 00:05:24,919
+las 8:30, ¿vale? Justo aquí abajo,
+
+139
+00:05:23,600 --> 00:05:26,880
+¿vale? Aquí abajo tenéis que ver la
+
+140
+00:05:24,919 --> 00:05:28,199
+hora. Entonces, yo me pongo encima de la
+
+141
+00:05:26,880 --> 00:05:30,440
+mecha, encima de la vela y digo, "Ostra,
+
+142
+00:05:28,199 --> 00:05:32,800
+esta vela sea a las 8:30." Vale, me
+
+143
+00:05:30,440 --> 00:05:35,800
+marco el alto de las 8:30.
+
+144
+00:05:32,800 --> 00:05:38,120
+8:30, 8:30, 8:30. Aquí, perfecto, me
+
+145
+00:05:35,800 --> 00:05:39,960
+marco el alto de las 8:30. ¡Ostras! ¿Qué
+
+146
+00:05:38,120 --> 00:05:42,000
+ha pasado? Que el Nasdaq ha quitado ese
+
+147
+00:05:39,960 --> 00:05:43,360
+alto, ha cerrado por encima o ni
+
+148
+00:05:42,000 --> 00:05:44,520
+siquiera, o sea, no hace falta ni que
+
+149
+00:05:43,360 --> 00:05:46,120
+cierre por encima, ¿eh? Ha quitado ese
+
+150
+00:05:44,520 --> 00:05:48,880
+alto. Es decir, hemos llegado aquí y el
+
+151
+00:05:46,120 --> 00:05:50,880
+S500, [ __ ] está lejísimo. Se está,
+
+152
+00:05:48,880 --> 00:05:52,720
+[ __ ] un montón todo ese toda esa
+
+153
+00:05:50,880 --> 00:05:54,520
+distancia. Por lo tanto, ¿qué tenemos
+
+154
+00:05:52,720 --> 00:05:57,520
+aquí? Un SMT. Y mirar la reacción
+
+155
+00:05:54,520 --> 00:05:57,520
+automática.
+
+156
+00:05:58,080 --> 00:06:02,880
+Wow. Vale, o sea, es literalmente una
+
+157
+00:06:00,880 --> 00:06:05,280
+idea de oye,
+
+158
+00:06:02,880 --> 00:06:08,520
+función y wow, qué casualidad que justo
+
+159
+00:06:05,280 --> 00:06:11,520
+esta SMT tenemos una inversión de un gap
+
+160
+00:06:08,520 --> 00:06:13,240
+y ya ponemos otra vez cosas eh eh juntas
+
+161
+00:06:11,520 --> 00:06:16,000
+y bajamos. ¿Vale? Esto no es un buen
+
+162
+00:06:13,240 --> 00:06:17,199
+trade porque e el inverso es de 15
+
+163
+00:06:16,000 --> 00:06:19,280
+minutos y nosotros no cogemos
+
+164
+00:06:17,199 --> 00:06:21,319
+inversiones de 15 minutos, cogemos solo
+
+165
+00:06:19,280 --> 00:06:23,000
+inversiones de 1 a 5 minutos, ¿vale?
+
+166
+00:06:21,319 --> 00:06:25,759
+Pero es para que veáis obviamente cómo
+
+167
+00:06:23,000 --> 00:06:28,240
+reaccionamos de estas SMS, ¿vale?
+
+168
+00:06:25,759 --> 00:06:30,360
+Siguiente ejemplo, ejemplo clarísimo.
+
+169
+00:06:28,240 --> 00:06:32,440
+Vale, ¿qué tenemos por aquí? De hecho,
+
+170
+00:06:30,360 --> 00:06:33,960
+igual en 15 minutos hasta se ve mejor,
+
+171
+00:06:32,440 --> 00:06:36,919
+¿vale?
+
+172
+00:06:33,960 --> 00:06:40,479
+¿Qué tenemos por aquí? E un bajo, ¿vale?
+
+173
+00:06:36,919 --> 00:06:42,360
+Bajo de las 2:30 del de la noche en
+
+174
+00:06:40,479 --> 00:06:44,280
+SP500. Bajo de las 2:30 de la noche.
+
+175
+00:06:42,360 --> 00:06:46,479
+Perfecto. Es el mismo. Otro bajo aquí a
+
+176
+00:06:44,280 --> 00:06:48,599
+las 6 de la tarde. Otro bajo aquí a las
+
+177
+00:06:46,479 --> 00:06:51,560
+6 de la tarde en SP. Perfecto. Entonces,
+
+178
+00:06:48,599 --> 00:06:54,520
+¿qué es lo que estamos viendo?
+
+179
+00:06:51,560 --> 00:06:57,120
+Uno, dos bajos. ¿Qué hace el Nasdaq?
+
+180
+00:06:54,520 --> 00:06:59,039
+baja, quita esta liquidez y además esta
+
+181
+00:06:57,120 --> 00:07:00,720
+liquidez que es son bajos que están
+
+182
+00:06:59,039 --> 00:07:03,360
+dentro de fair value apps. Dijimos que
+
+183
+00:07:00,720 --> 00:07:05,280
+esto era un key level super bueno. De
+
+184
+00:07:03,360 --> 00:07:07,160
+hecho el Fer Valap es un equipment
+
+185
+00:07:05,280 --> 00:07:08,560
+pequeñito que lo tenemos justo ahí.
+
+186
+00:07:07,160 --> 00:07:10,840
+Vale, dijimos que esto era un key level
+
+187
+00:07:08,560 --> 00:07:13,720
+super bueno, está perfecto. En cambio,
+
+188
+00:07:10,840 --> 00:07:15,720
+¿qué hace SP500? Este bajo no lo quita,
+
+189
+00:07:13,720 --> 00:07:18,280
+este bajo no lo quita. Y como veis, la
+
+190
+00:07:15,720 --> 00:07:21,120
+vela de las 245, que es exactamente esta
+
+191
+00:07:18,280 --> 00:07:24,319
+de aquí, 245, no barre ninguno de estos
+
+192
+00:07:21,120 --> 00:07:26,280
+altos. Por lo tanto, tenemos un SMT.
+
+193
+00:07:24,319 --> 00:07:27,960
+con los dos, ¿vale? Con los dos bajos.
+
+194
+00:07:26,280 --> 00:07:30,120
+Puedes marcarlo así o puedes marcarlo
+
+195
+00:07:27,960 --> 00:07:32,400
+así, da igual. ¿Vale? ¿Y qué tenemos
+
+196
+00:07:30,120 --> 00:07:36,080
+automáticamente después? Pues tenemos
+
+197
+00:07:32,400 --> 00:07:39,280
+aquí una inversión favap y otra vez,
+
+198
+00:07:36,080 --> 00:07:39,280
+¿qué hacemos?
+
+199
+00:07:40,199 --> 00:07:45,360
+Subir a las nubes, ¿vale? O sea,
+
+200
+00:07:41,680 --> 00:07:47,720
+literalmente este SMT, este SMT, este
+
+201
+00:07:45,360 --> 00:07:50,560
+SMT de aquí hace que todo este
+
+202
+00:07:47,720 --> 00:07:52,400
+movimiento cuerpo. Es una locura.
+
+203
+00:07:50,560 --> 00:07:53,639
+Hemos visto ya un ejemplo de un SMT
+
+204
+00:07:52,400 --> 00:07:57,360
+bajista y ahora acabamos de ver un
+
+205
+00:07:53,639 --> 00:07:59,280
+ejemplo de un SMT alcista. Super guay.
+
+206
+00:07:57,360 --> 00:08:03,319
+Vale, espera que no sé si se está
+
+207
+00:07:59,280 --> 00:08:03,319
+escuchando del todo bien el audio.
+
+208
+00:08:12,280 --> 00:08:17,479
+Hola, hola, hola,
+
+209
+00:08:14,479 --> 00:08:17,479
+hola.
+
+210
+00:08:28,199 --> 00:08:31,840
+Hola, hola, hola, hola, hola. Vale,
+
+211
+00:08:29,960 --> 00:08:33,800
+ahora es que tenía la sensación de que
+
+212
+00:08:31,840 --> 00:08:35,120
+no se escuchaba. No sé si voy a estar
+
+213
+00:08:33,800 --> 00:08:39,000
+pareciendo muy tonto en este vídeo, pero
+
+214
+00:08:35,120 --> 00:08:42,200
+bueno. Suda los webs. Vale, tercer
+
+215
+00:08:39,000 --> 00:08:45,160
+ejemplo, otro SMT alcista y este se ve
+
+216
+00:08:42,200 --> 00:08:47,880
+superb también. ¿Qué tenemos por aquí?
+
+217
+00:08:45,160 --> 00:08:50,440
+Un low de las 1:30. Vale, perfecto. Lo
+
+218
+00:08:47,880 --> 00:08:53,399
+de la 1 y medio. Lo de la 1 y media.
+
+219
+00:08:50,440 --> 00:08:55,560
+Guay. Marcamos el bajo. Y este es el
+
+220
+00:08:53,399 --> 00:08:57,480
+bajo del NASDAQ, ¿no? Y marcamos el bajo
+
+221
+00:08:55,560 --> 00:09:00,160
+en el SP.
+
+222
+00:08:57,480 --> 00:09:03,320
+Como veis, el SP500 sí que quita este
+
+223
+00:09:00,160 --> 00:09:05,880
+bajo. Tenemos ese SMT y el Nasdaq pues a
+
+224
+00:09:03,320 --> 00:09:08,680
+la misma hora no lo consigue hacer y por
+
+225
+00:09:05,880 --> 00:09:10,720
+lo tanto sube hacia arriba, ¿vale? Da
+
+226
+00:09:08,680 --> 00:09:12,720
+ese movimiento y lo mismo del SP. Es
+
+227
+00:09:10,720 --> 00:09:14,120
+decir, el Nasdaq podría también bajar
+
+228
+00:09:12,720 --> 00:09:16,600
+hasta aquí y los dos dar la reacción a
+
+229
+00:09:14,120 --> 00:09:18,240
+la vez. Sí, pero si el SP llega antes y
+
+230
+00:09:16,600 --> 00:09:19,839
+sube NAS que está reaccionado y entonces
+
+231
+00:09:18,240 --> 00:09:22,160
+dice, "Hostia, estoy viendo el SP subir,
+
+232
+00:09:19,839 --> 00:09:25,519
+pues subo con él y ya está."
+
+233
+00:09:22,160 --> 00:09:27,440
+Eh, es así
+
+234
+00:09:25,519 --> 00:09:29,399
+lo más importante de todo, ¿vale? He
+
+235
+00:09:27,440 --> 00:09:34,040
+hecho muy pocos ejemplos de SMTs porque
+
+236
+00:09:29,399 --> 00:09:35,120
+es que me parece muy muy sencillo y
+
+237
+00:09:34,040 --> 00:09:36,720
+tengo creo que un vídeo en mi canal ya
+
+238
+00:09:35,120 --> 00:09:38,920
+explicándolo. Vais a ver muchísimos más
+
+239
+00:09:36,720 --> 00:09:40,279
+ejemplos más adelante, pero creo que es
+
+240
+00:09:38,920 --> 00:09:41,640
+sers sencillo, o sea, creo que donde os
+
+241
+00:09:40,279 --> 00:09:43,720
+va a hacer más el click la bootcam es
+
+242
+00:09:41,640 --> 00:09:45,200
+cuando pongamos todo junto. Pero lo más
+
+243
+00:09:43,720 --> 00:09:48,839
+importante de este vídeo es esto que
+
+244
+00:09:45,200 --> 00:09:50,959
+estáis viendo aquí, ¿vale?
+
+245
+00:09:48,839 --> 00:09:53,880
+Ojo, lo que nadie te explica es que no
+
+246
+00:09:50,959 --> 00:09:55,600
+todos los SMTs son válidos y esto va a
+
+247
+00:09:53,880 --> 00:09:58,160
+subir tu winrate y va a aumentar tu
+
+248
+00:09:55,600 --> 00:10:00,279
+confianza a la hora de analizar. Esto se
+
+249
+00:09:58,160 --> 00:10:02,200
+llama True Manipulation y hay muchísima
+
+250
+00:10:00,279 --> 00:10:04,120
+gente que nos lo explica y es algo que
+
+251
+00:10:02,200 --> 00:10:06,440
+yo uso, es algo que yo me podría guardar
+
+252
+00:10:04,120 --> 00:10:09,800
+para luego cobraros 102,000 € Es broma,
+
+253
+00:10:06,440 --> 00:10:11,240
+pero es obviamente cosas que que mola
+
+254
+00:10:09,800 --> 00:10:13,120
+mucho. A mí me ha costado mucho saber de
+
+255
+00:10:11,240 --> 00:10:14,640
+esto. De hecho, después de un año me he
+
+256
+00:10:13,120 --> 00:10:16,000
+dado cuenta o de un año y medio me he
+
+257
+00:10:14,640 --> 00:10:17,240
+dado cuenta de que no utilizaba este
+
+258
+00:10:16,000 --> 00:10:19,720
+concepto. Lo he aprendido hace unos
+
+259
+00:10:17,240 --> 00:10:20,880
+meses y va perfecto. Y de hecho me ha
+
+260
+00:10:19,720 --> 00:10:22,959
+ido también que para mí es un
+
+261
+00:10:20,880 --> 00:10:25,240
+obligatorio en mi estrategia sí o sí
+
+262
+00:10:22,959 --> 00:10:28,079
+tengo que tener esta manipulation en mi
+
+263
+00:10:25,240 --> 00:10:29,640
+estrategia. Entonces, ¿qué es la true
+
+264
+00:10:28,079 --> 00:10:31,120
+manipulation?
+
+265
+00:10:29,640 --> 00:10:33,640
+Super importante que os tatuéis esto,
+
+266
+00:10:31,120 --> 00:10:36,399
+¿vale? Los dos índices tienen que estar
+
+267
+00:10:33,640 --> 00:10:38,639
+en un spot de distribución.
+
+268
+00:10:36,399 --> 00:10:41,760
+¿Qué significa esto? Tiene que tener
+
+269
+00:10:38,639 --> 00:10:44,959
+sentido que los dos índices suban o
+
+270
+00:10:41,760 --> 00:10:48,480
+bajen. No me basta con solo uno. Ejemplo
+
+271
+00:10:44,959 --> 00:10:50,360
+aquí. Perfecto. ¿Qué tenemos? Un key
+
+272
+00:10:48,480 --> 00:10:53,320
+level, ¿vale? El cuadradito gris, que
+
+273
+00:10:50,360 --> 00:10:56,200
+puede ser un FVG de 4 horas. Perfecto.
+
+274
+00:10:53,320 --> 00:10:58,440
+¿Qué hace el Nasdaq? baja, toca FVG,
+
+275
+00:10:56,200 --> 00:11:00,040
+deja low resistance liquidity, es decir,
+
+276
+00:10:58,440 --> 00:11:04,040
+deja ese dinerito de liquidez que
+
+277
+00:11:00,040 --> 00:11:04,040
+nosotros siempre decimos,
+
+278
+00:11:04,320 --> 00:11:08,920
+quita ese internal load de dentro del
+
+279
+00:11:06,160 --> 00:11:11,920
+fair value app y despega. De [ __ ] madre,
+
+280
+00:11:08,920 --> 00:11:14,639
+está perfecto. Es un trade super bueno.
+
+281
+00:11:11,920 --> 00:11:16,800
+En cambio, ¿qué hace el SP500?
+
+282
+00:11:14,639 --> 00:11:19,279
+Toca ese fair value up de 4 horas, hasta
+
+283
+00:11:16,800 --> 00:11:21,720
+aquí está bien. Y empieza a dar esta
+
+284
+00:11:19,279 --> 00:11:25,720
+reacción dejando low resistance
+
+285
+00:11:21,720 --> 00:11:25,720
+liquidity, ¿vale? Dejando.
+
+286
+00:11:26,399 --> 00:11:31,320
+Ay, fuck.
+
+287
+00:11:28,760 --> 00:11:33,360
+Dejando
+
+288
+00:11:31,320 --> 00:11:36,360
+esta liquidez en nuestra contra. Vale,
+
+289
+00:11:33,360 --> 00:11:36,360
+uno,
+
+290
+00:11:37,279 --> 00:11:42,440
+dos,
+
+291
+00:11:39,320 --> 00:11:44,639
+tres y cuatro. Y aquí mucha gente va a
+
+292
+00:11:42,440 --> 00:11:46,760
+decir, "Ah, pero da igual porque este
+
+293
+00:11:44,639 --> 00:11:48,000
+bajo no se ha quitado. El Nasdaq sí que
+
+294
+00:11:46,760 --> 00:11:50,720
+ha quitado este bajo, por lo tanto,
+
+295
+00:11:48,000 --> 00:11:52,800
+tenemos un SMT, ¿no? Entonces es como es
+
+296
+00:11:50,720 --> 00:11:56,880
+como si el SP500 hubiese quitado este
+
+297
+00:11:52,800 --> 00:11:59,560
+bajo." Mal. Vale, mal. ¿Por qué? Porque
+
+298
+00:11:56,880 --> 00:12:01,519
+aquí el SP500 no tiene sentido que
+
+299
+00:11:59,560 --> 00:12:04,440
+distribuya. Lo que va a pasar aquí es lo
+
+300
+00:12:01,519 --> 00:12:07,040
+siguiente. Nasdaq va a volver a bajar,
+
+301
+00:12:04,440 --> 00:12:09,440
+va a subir y el SP500 ahí sí que va a
+
+302
+00:12:07,040 --> 00:12:10,880
+tocar la zona y va a subir. Entonces,
+
+303
+00:12:09,440 --> 00:12:12,720
+ostras, pero Chavi, literalmente nos
+
+304
+00:12:10,880 --> 00:12:14,279
+acabas de explicar que las SMTs es como
+
+305
+00:12:12,720 --> 00:12:16,680
+si los dos índices hubiesen quitado un
+
+306
+00:12:14,279 --> 00:12:18,360
+bajo y que por eso lo utilizamos, pero
+
+307
+00:12:16,680 --> 00:12:21,320
+ahora nos acabas de decir que no, porque
+
+308
+00:12:18,360 --> 00:12:23,920
+no tiene sentido. Entonces, calma. Las
+
+309
+00:12:21,320 --> 00:12:25,880
+SMT se usan, obvio, pero hay SMTs que
+
+310
+00:12:23,920 --> 00:12:27,880
+son buenas y malas. ¿Cuáles son malas?
+
+311
+00:12:25,880 --> 00:12:29,240
+las que no contan con True Manipulation.
+
+312
+00:12:27,880 --> 00:12:31,480
+¿Cuáles son buenas? Las que sí que
+
+313
+00:12:29,240 --> 00:12:33,600
+tienen True Manipulation. ¿Cuál sería un
+
+314
+00:12:31,480 --> 00:12:35,480
+muy buen ejemplo de True Manipulation?
+
+315
+00:12:33,600 --> 00:12:38,800
+El siguiente, ¿vale? De hecho, os lo voy
+
+316
+00:12:35,480 --> 00:12:40,519
+a dibujar en directo.
+
+317
+00:12:38,800 --> 00:12:42,480
+¿Quieres tener también un tic en el
+
+318
+00:12:40,519 --> 00:12:43,920
+SP500? Vale, pues te lo enseño. Te
+
+319
+00:12:42,480 --> 00:12:46,120
+enseño literalmente cómo sería el trade
+
+320
+00:12:43,920 --> 00:12:49,279
+perfecto. Imaginaros que el Nasdaq toca
+
+321
+00:12:46,120 --> 00:12:50,839
+ese low, el SP500 también y el Nasdaq
+
+322
+00:12:49,279 --> 00:12:52,240
+hace así, ¿no? Como veis, el Nasdaq
+
+323
+00:12:50,839 --> 00:12:56,839
+vuelve a quitar el low. Vale, pues ahora
+
+324
+00:12:52,240 --> 00:12:56,839
+imaginaros que el SP500 hace esto.
+
+325
+00:13:01,000 --> 00:13:05,160
+¿Qué está haciendo el SP500? Como veis,
+
+326
+00:13:03,480 --> 00:13:06,680
+ahora no tenemos low resistance
+
+327
+00:13:05,160 --> 00:13:10,199
+liquidity en contra, es decir, ha dado
+
+328
+00:13:06,680 --> 00:13:12,519
+un movimiento limpio y s super
+
+329
+00:13:10,199 --> 00:13:14,560
+importante, cuando los dos índices van a
+
+330
+00:13:12,519 --> 00:13:16,600
+estar en un spot de distribución, cuando
+
+331
+00:13:14,560 --> 00:13:19,880
+uno de los dos haya tocado un key level
+
+332
+00:13:16,600 --> 00:13:21,839
+y cuando el otro esté mínimo en un fair
+
+333
+00:13:19,880 --> 00:13:24,320
+value up de 5 minutos, perdonar, en un
+
+334
+00:13:21,839 --> 00:13:27,440
+fair value up de 5 minutos o superior.
+
+335
+00:13:24,320 --> 00:13:31,120
+Es decir, ahora mismo el Nasdaq ha
+
+336
+00:13:27,440 --> 00:13:32,680
+quitado este lado de aquí, el SP500 no
+
+337
+00:13:31,120 --> 00:13:35,920
+lo ha tocado, por lo tanto tenemos una
+
+338
+00:13:32,680 --> 00:13:37,959
+SMT, pero esta SMT sí que es válida.
+
+339
+00:13:35,920 --> 00:13:39,519
+¿Por qué es válida esta SMT? Porque no
+
+340
+00:13:37,959 --> 00:13:41,519
+tenemos low resistance equility en
+
+341
+00:13:39,519 --> 00:13:43,519
+contra y sobre todo porque los dos
+
+342
+00:13:41,519 --> 00:13:45,480
+índices están en una buena situación
+
+343
+00:13:43,519 --> 00:13:47,560
+para distribuir. ¿Tiene sentido que aquí
+
+344
+00:13:45,480 --> 00:13:50,040
+el Nasdaq suba? Sí. ¿Tiene sentido que
+
+345
+00:13:47,560 --> 00:13:51,920
+aquí el SP500 suba? ¿Sí? ¿Por qué?
+
+346
+00:13:50,040 --> 00:13:53,839
+porque no tiene low resistance que tiene
+
+347
+00:13:51,920 --> 00:13:55,720
+el stop loss y porque está en un fair
+
+348
+00:13:53,839 --> 00:13:58,000
+value gap alcista de 5 minutos, 15
+
+349
+00:13:55,720 --> 00:13:59,880
+minutos o 30 minutos. Entonces tiene
+
+350
+00:13:58,000 --> 00:14:02,279
+sentido que suba. Obviamente tiene todo
+
+351
+00:13:59,880 --> 00:14:03,560
+el sentido del mundo que suba. ¿Sabéis
+
+352
+00:14:02,279 --> 00:14:05,320
+lo que os digo? En este caso estás
+
+353
+00:14:03,560 --> 00:14:07,240
+juntando el SMT con la lógica de que
+
+354
+00:14:05,320 --> 00:14:09,000
+tiene sentido que los dos índices suban.
+
+355
+00:14:07,240 --> 00:14:10,959
+Si tú te vas a poner a marcar SMTs
+
+356
+00:14:09,000 --> 00:14:12,680
+aleatorios, obviamente el precio no va a
+
+357
+00:14:10,959 --> 00:14:14,759
+respetar todos. Y para saber cuáles se
+
+358
+00:14:12,680 --> 00:14:16,600
+respetan y para saber cuáles realmente
+
+359
+00:14:14,759 --> 00:14:18,320
+van a holdear, yo te recomiendo que
+
+360
+00:14:16,600 --> 00:14:20,480
+siempre mires si los dos índices están
+
+361
+00:14:18,320 --> 00:14:22,040
+en un sitio donde tengan que distribuir.
+
+362
+00:14:20,480 --> 00:14:24,800
+¿Vale? Este ejemplo de aquí que he
+
+363
+00:14:22,040 --> 00:14:27,959
+enseñado antes es perfecto. ¿Por qué es
+
+364
+00:14:24,800 --> 00:14:30,040
+perfecto? Porque el el SP500 ha quitado
+
+365
+00:14:27,959 --> 00:14:32,440
+ese bajo, SQ level, está listo para
+
+366
+00:14:30,040 --> 00:14:34,320
+distribuir y el Nasdaq no lo ha quitado.
+
+367
+00:14:32,440 --> 00:14:36,560
+Pero, ¿dónde está el Nasdaq? Dentro de
+
+368
+00:14:34,320 --> 00:14:38,320
+un gap de 15 minutos. Por lo tanto, me
+
+369
+00:14:36,560 --> 00:14:41,519
+sirve. Tiene sentido, ¿vale? tiene
+
+370
+00:14:38,320 --> 00:14:43,680
+sentido que el Nasdaq distribuya. ¿Qué
+
+371
+00:14:41,519 --> 00:14:45,680
+pasa si el SP500 hubiese sido, o sea,
+
+372
+00:14:43,680 --> 00:14:49,040
+¿qué pasa si este SMT hubiese sido de la
+
+373
+00:14:45,680 --> 00:14:49,040
+siguiente forma?
+
+374
+00:14:49,720 --> 00:14:56,480
+Vale, mira, me va perfecto este. Mirar
+
+375
+00:14:52,199 --> 00:14:56,480
+aquí, ¿vale? Mirad lo que sucede aquí.
+
+376
+00:14:56,519 --> 00:15:01,399
+El SP500 ha quedado el low y el Nasdack
+
+377
+00:14:58,959 --> 00:15:04,160
+no. Por lo tanto, SMT. Vale, ¿está listo
+
+378
+00:15:01,399 --> 00:15:07,240
+el SP500 para subir? Obvio, ¿no? Obvio.
+
+379
+00:15:04,160 --> 00:15:10,160
+Está super bien. ¿Está listo el Nasdaq
+
+380
+00:15:07,240 --> 00:15:12,199
+para subir? No. ¿Por qué? Porque no ha
+
+381
+00:15:10,160 --> 00:15:13,959
+tocado ningún fair value up. Como veis,
+
+382
+00:15:12,199 --> 00:15:16,800
+tenemos aquí un bajo que está dentro de
+
+383
+00:15:13,959 --> 00:15:18,240
+un fair value up de 15 minutos, pero no
+
+384
+00:15:16,800 --> 00:15:20,880
+lo ha tocado. No tiene sentido que aquí
+
+385
+00:15:18,240 --> 00:15:22,680
+el Nasdaq gire para arriba por la cara.
+
+386
+00:15:20,880 --> 00:15:24,720
+No tiene sentido. Por lo tanto, ¿a qué
+
+387
+00:15:22,680 --> 00:15:26,279
+te tienes que esperar? Pues mirar,
+
+388
+00:15:24,720 --> 00:15:27,399
+imaginaros que en esta subida la gente
+
+389
+00:15:26,279 --> 00:15:28,880
+entra, ¿vale? Ya sé que no hay ninguna
+
+390
+00:15:27,399 --> 00:15:31,399
+entrada como tal, pero imaginaros que yo
+
+391
+00:15:28,880 --> 00:15:33,240
+que sé. Vale, mira, perfecto. Es es
+
+392
+00:15:31,399 --> 00:15:36,279
+perfecto. Imaginaros que la gente dice,
+
+393
+00:15:33,240 --> 00:15:38,040
+"Ostra, SMT, invertimos este gap." Buah,
+
+394
+00:15:36,279 --> 00:15:41,160
+buah, vaya pedazo trade. El SMT tiene
+
+395
+00:15:38,040 --> 00:15:42,600
+que aguantar. Mirar el SP500 que qué
+
+396
+00:15:41,160 --> 00:15:44,959
+bien está. Es decir, ha tocado el key
+
+397
+00:15:42,600 --> 00:15:49,120
+level y empieza a subir. Vamos a subir,
+
+398
+00:15:44,959 --> 00:15:49,120
+tal, pum. Mirad qué hace el precio.
+
+399
+00:15:51,600 --> 00:15:56,399
+Aparte de que acumula, ¿vale? Que esto
+
+400
+00:15:52,959 --> 00:15:56,399
+es una mala señal.
+
+401
+00:15:56,800 --> 00:16:02,399
+[ __ ] qué pereza.
+
+402
+00:15:58,720 --> 00:16:02,399
+Acumula, acumula, acumula.
+
+403
+00:16:02,839 --> 00:16:07,519
+Pum. Qué pena, tío. Me ha hecho stop.
+
+404
+00:16:05,360 --> 00:16:09,399
+¿Por qué? No tiene sentido. Había SMT.
+
+405
+00:16:07,519 --> 00:16:11,399
+Ahora sigue habiendo SMT y hay true
+
+406
+00:16:09,399 --> 00:16:14,279
+manipulation porque hemos tocado un gap
+
+407
+00:16:11,399 --> 00:16:16,600
+de 5 minutos. Hemos tocado un gap de 30
+
+408
+00:16:14,279 --> 00:16:18,440
+de 15 minutos, un gap de 30 minutos.
+
+409
+00:16:16,600 --> 00:16:21,360
+¿Tiene sentido que ahora suba el precio?
+
+410
+00:16:18,440 --> 00:16:23,600
+Obvio que tiene sentido que suba. Y wow,
+
+411
+00:16:21,360 --> 00:16:25,959
+qué casualidad. No me jodas que justo
+
+412
+00:16:23,600 --> 00:16:28,639
+sube ahora. El mercado me el mercado me
+
+413
+00:16:25,959 --> 00:16:30,800
+espía, ¿eh? He perdido por culpa del
+
+414
+00:16:28,639 --> 00:16:31,800
+mercado, porque no para de trolearme, lo
+
+415
+00:16:30,800 --> 00:16:33,319
+he hecho todo bien, no lo has hecho
+
+416
+00:16:31,800 --> 00:16:35,319
+bien. En tu stoploss tenías un fair
+
+417
+00:16:33,319 --> 00:16:37,920
+value que estabas sin tocar y no había
+
+418
+00:16:35,319 --> 00:16:40,800
+otro manipulation. Otro ejemplo brutal,
+
+419
+00:16:37,920 --> 00:16:42,720
+¿vale? Este ejemplo es brutal. Tenemos
+
+420
+00:16:40,800 --> 00:16:45,360
+justo la apertura de Nueva York a las
+
+421
+00:16:42,720 --> 00:16:47,920
+9:30 y como veis, ¿qué tenemos? Pues
+
+422
+00:16:45,360 --> 00:16:51,279
+mira, tenemos un bajo
+
+423
+00:16:47,920 --> 00:16:53,360
+que está dentro de un gap de 30 minutos.
+
+424
+00:16:51,279 --> 00:16:54,720
+Está perfecto. Antes de empezar, que ya
+
+425
+00:16:53,360 --> 00:16:56,639
+os veo los comentarios super agobiados,
+
+426
+00:16:54,720 --> 00:16:59,440
+Chavi, pero había new week opening gap.
+
+427
+00:16:56,639 --> 00:17:01,120
+Hay un gap aquí. Yo, o sea, yo en este
+
+428
+00:16:59,440 --> 00:17:03,120
+ejemplo sé que el new week opening gap
+
+429
+00:17:01,120 --> 00:17:05,000
+no se toca porque lo he visto antes,
+
+430
+00:17:03,120 --> 00:17:06,679
+pero yo este día no entiendo por qué no
+
+431
+00:17:05,000 --> 00:17:08,559
+vamos a por este objetivo. Vale, mi key
+
+432
+00:17:06,679 --> 00:17:10,360
+level para el día serían cortos.
+
+433
+00:17:08,559 --> 00:17:12,400
+Buscaría cortos hacia ese new week
+
+434
+00:17:10,360 --> 00:17:14,600
+opening up. Por algún motivo en este día
+
+435
+00:17:12,400 --> 00:17:15,880
+no se toca, ¿vale? No pasa nada. Pero
+
+436
+00:17:14,600 --> 00:17:17,400
+para que lo sepáis en los comentarios,
+
+437
+00:17:15,880 --> 00:17:19,360
+sí, yo también aquí buscaría cortos
+
+438
+00:17:17,400 --> 00:17:21,360
+aunque no seguiese, pero mirar este
+
+439
+00:17:19,360 --> 00:17:23,679
+ejemplo. Tenemos un bajo que es justo a
+
+440
+00:17:21,360 --> 00:17:25,959
+las 7:30 y está dentro de un gap.
+
+441
+00:17:23,679 --> 00:17:27,799
+Tenemos el mismo bajo de las 7:30 que
+
+442
+00:17:25,959 --> 00:17:31,080
+está dentro de un gap en el SP500.
+
+443
+00:17:27,799 --> 00:17:35,440
+Perfecto. Mirad qué hace el precio.
+
+444
+00:17:31,080 --> 00:17:38,400
+Abre el mercado y ¿qué hacemos? ¡Ostras!
+
+445
+00:17:35,440 --> 00:17:41,039
+El SP500 ha quitado el bajo y el Nasdaq
+
+446
+00:17:38,400 --> 00:17:44,600
+no. Vale, tenemos SMT. Perfecto. Hasta
+
+447
+00:17:41,039 --> 00:17:47,280
+aquí hemos identificado la SMT.
+
+448
+00:17:44,600 --> 00:17:49,640
+Es una SMT válida. Veamos dónde está el
+
+449
+00:17:47,280 --> 00:17:50,960
+Nasdaq. Bueno, el SP500 está claro que
+
+450
+00:17:49,640 --> 00:17:52,919
+está en un sitio de distribución. Ha
+
+451
+00:17:50,960 --> 00:17:55,159
+tocado un G de 30 minutos y uno de 15.
+
+452
+00:17:52,919 --> 00:17:58,440
+¿Dónde está el Nasdaq? ¡Ostras! Está
+
+453
+00:17:55,159 --> 00:18:00,799
+dentro de un gap de 15 minutos. Está
+
+454
+00:17:58,440 --> 00:18:02,039
+dentro de un gap de 30 minutos también
+
+455
+00:18:00,799 --> 00:18:03,640
+aquí. No hace falta que se ajuste el de
+
+456
+00:18:02,039 --> 00:18:06,200
+abajo. ¿Tiene sentido que el Nasdaq
+
+457
+00:18:03,640 --> 00:18:08,720
+suba? Sí. ¿Tiene sentido que el SP500
+
+458
+00:18:06,200 --> 00:18:10,360
+suba? Sí. Vale, pues el SMT es válido,
+
+459
+00:18:08,720 --> 00:18:11,600
+¿vale? Y en este caso, si no me
+
+460
+00:18:10,360 --> 00:18:13,080
+equivoco, creo que más adelante había
+
+461
+00:18:11,600 --> 00:18:16,080
+otro ejemplo de lo que no es true
+
+462
+00:18:13,080 --> 00:18:16,080
+manipulation.
+
+463
+00:18:21,280 --> 00:18:24,679
+Dejarme buscarlo.
+
+464
+00:18:39,280 --> 00:18:42,960
+Creo que era este de aquí
+
+465
+00:18:44,400 --> 00:18:49,799
+o no sé si era en este ejemplo en
+
+466
+00:18:46,320 --> 00:18:51,280
+concreto y me está fallando la memoria,
+
+467
+00:18:49,799 --> 00:18:53,760
+pero mirad, lo vamos a recrear nosotros
+
+468
+00:18:51,280 --> 00:18:57,799
+mismos, no pasa absolutamente nada.
+
+469
+00:18:53,760 --> 00:18:57,799
+Vale, imaginaros queo
+
+470
+00:18:59,240 --> 00:19:02,640
+tenemos aquí
+
+471
+00:19:03,120 --> 00:19:07,120
+gap de 15 minutos, ¿vale?
+
+472
+00:19:07,520 --> 00:19:13,120
+alcista en el en el
+
+473
+00:19:10,480 --> 00:19:14,960
+yaros, ¿vale? Por algún caso, aquí sí
+
+474
+00:19:13,120 --> 00:19:16,640
+que tenéis que tirar de imaginación que
+
+475
+00:19:14,960 --> 00:19:19,360
+este fair value up de 15 minutos pequeño
+
+476
+00:19:16,640 --> 00:19:20,600
+del SP500 ya lo hemos tocado, ¿vale? Ya
+
+477
+00:19:19,360 --> 00:19:22,400
+lo hemos tocado. Imaginaros que la ver
+
+478
+00:19:20,600 --> 00:19:24,679
+de estar aquí pues está aquí abajo. El
+
+479
+00:19:22,400 --> 00:19:26,280
+SP500 tiene sentido que distribuya, sí,
+
+480
+00:19:24,679 --> 00:19:28,760
+porque estamos dentro de este gap de 15
+
+481
+00:19:26,280 --> 00:19:31,320
+minutos y teóricamente pues deberíamos
+
+482
+00:19:28,760 --> 00:19:33,400
+subirnos y tal confirmación. El Nasdaq
+
+483
+00:19:31,320 --> 00:19:36,480
+tiene sentido que distribuya, pues no
+
+484
+00:19:33,400 --> 00:19:38,600
+hemos tocado ningún gap de 15 minutos.
+
+485
+00:19:36,480 --> 00:19:42,280
+Y el fair value up de 5 minutos que
+
+486
+00:19:38,600 --> 00:19:45,159
+tenemos está invertido, es decir,
+
+487
+00:19:42,280 --> 00:19:47,960
+hemos cerrado por debajo. ¿Tiene sentido
+
+488
+00:19:45,159 --> 00:19:49,960
+que suba el SP500? Sí. ¿Tiene sentido
+
+489
+00:19:47,960 --> 00:19:53,080
+que suba el NASDAQ? Pues no, la verdad
+
+490
+00:19:49,960 --> 00:19:54,799
+que no. Si esto hubiese estado sin
+
+491
+00:19:53,080 --> 00:19:57,159
+invertir, es decir, como por aquí y
+
+492
+00:19:54,799 --> 00:19:59,159
+hubiese dado una reacción, claro, el SMT
+
+493
+00:19:57,159 --> 00:20:01,080
+es válido. ¿Por qué? Porque el SP500
+
+494
+00:19:59,159 --> 00:20:03,000
+está dentro de este gap de 15 minutos,
+
+495
+00:20:01,080 --> 00:20:04,400
+el Nasdaq estaría dentro de ese de 5
+
+496
+00:20:03,000 --> 00:20:07,000
+minutos, por lo tanto tendríamos este
+
+497
+00:20:04,400 --> 00:20:08,520
+SMT brutal y podríamos subir, pero como
+
+498
+00:20:07,000 --> 00:20:11,520
+el Nasdaq lo ha invertido y no está para
+
+499
+00:20:08,520 --> 00:20:13,440
+distribuir, no es una buena opción y
+
+500
+00:20:11,520 --> 00:20:15,159
+acabamos bajando. ¿Vale? Obviamente este
+
+501
+00:20:13,440 --> 00:20:19,080
+ejemplo es completamente inventado, pero
+
+502
+00:20:15,159 --> 00:20:21,919
+ya me entendéis. Y para acabar el vídeo,
+
+503
+00:20:19,080 --> 00:20:23,799
+eh, porque esto es todo y espero que se
+
+504
+00:20:21,919 --> 00:20:26,400
+haya entendido superb, creo que lo he
+
+505
+00:20:23,799 --> 00:20:28,520
+explicado muy bien, aparte de poneros
+
+506
+00:20:26,400 --> 00:20:30,919
+deberes, que es obviamente buscar SMTs
+
+507
+00:20:28,520 --> 00:20:32,600
+con true manipulation y buscar SMT sin
+
+508
+00:20:30,919 --> 00:20:34,960
+sin true manipulation y sobre todo
+
+509
+00:20:32,600 --> 00:20:36,720
+probar a cuadrarlo con las horas. Es
+
+510
+00:20:34,960 --> 00:20:38,520
+decir, tenéis que marcar que los altos y
+
+511
+00:20:36,720 --> 00:20:40,240
+los bajos que estáis mirando el SMT sean
+
+512
+00:20:38,520 --> 00:20:42,559
+a la misma hora. No tiene sentido porque
+
+513
+00:20:40,240 --> 00:20:43,880
+estás marcando altos diferentes. Y
+
+514
+00:20:42,559 --> 00:20:45,840
+aparte de esto, mucha gente me va a
+
+515
+00:20:43,880 --> 00:20:48,600
+decir, "Chavi, explica cuando una true
+
+516
+00:20:45,840 --> 00:20:51,039
+manipulation no es eh necesaria o cuando
+
+517
+00:20:48,600 --> 00:20:52,640
+se anula con una doble SMT, porque esto
+
+518
+00:20:51,039 --> 00:20:53,919
+es algo que explique en un real." Me he
+
+519
+00:20:52,640 --> 00:20:55,320
+dado cuenta de que no voy a explicaros
+
+520
+00:20:53,919 --> 00:20:57,919
+esto. ¿Por qué? Porque es algo que no
+
+521
+00:20:55,320 --> 00:20:59,760
+uso y es algo superclicado o al menos a
+
+522
+00:20:57,919 --> 00:21:01,520
+mí me cuesta entender bien y es algo que
+
+523
+00:20:59,760 --> 00:21:03,000
+me he dado cuenta de que no uso. Siempre
+
+524
+00:21:01,520 --> 00:21:05,200
+voy a necesitar la to manipulation para
+
+525
+00:21:03,000 --> 00:21:06,360
+entrar a un trade y ya está. Y muchos me
+
+526
+00:21:05,200 --> 00:21:08,440
+vais a decir, "Ostra, Chavi, pero
+
+527
+00:21:06,360 --> 00:21:09,880
+entonces sabes menos que Indra, sabes
+
+528
+00:21:08,440 --> 00:21:11,720
+menos que Micho? Ellos estos conceptos
+
+529
+00:21:09,880 --> 00:21:13,200
+sí que los usan y los explican." Pues
+
+530
+00:21:11,720 --> 00:21:15,640
+igual sí que sé menos conceptos que
+
+531
+00:21:13,200 --> 00:21:18,720
+ellos o sé menos tecnicismos a la hora
+
+532
+00:21:15,640 --> 00:21:21,039
+de eh de explicar cosas como estas que
+
+533
+00:21:18,720 --> 00:21:23,520
+yo uso, pero como no los uso y a mí me
+
+534
+00:21:21,039 --> 00:21:26,039
+da bien, pues no quiero explicarlos
+
+535
+00:21:23,520 --> 00:21:27,279
+porque siento que no quiero, o sea, no
+
+536
+00:21:26,039 --> 00:21:28,240
+quiero explicar algo que no uso y menos
+
+537
+00:21:27,279 --> 00:21:30,200
+que no entiendo bien como para
+
+538
+00:21:28,240 --> 00:21:32,799
+explicarlo y menos que no le doy
+
+539
+00:21:30,200 --> 00:21:34,679
+importancia y etcétera. Al igual que
+
+540
+00:21:32,799 --> 00:21:37,000
+mucha gente me pide, "Chavi, explica
+
+541
+00:21:34,679 --> 00:21:38,679
+breakway gaps." Es que no los uso porque
+
+542
+00:21:37,000 --> 00:21:40,880
+es que no sé cuándo es un breakway gap y
+
+543
+00:21:38,679 --> 00:21:43,200
+cuandondo no y a veces me lío y a mí me
+
+544
+00:21:40,880 --> 00:21:44,960
+da bien no usarlos. Chavi, pero te
+
+545
+00:21:43,200 --> 00:21:46,640
+podrías ahorrer muchos stops y tal.
+
+546
+00:21:44,960 --> 00:21:48,159
+Puede, puede que sí, pero yo no me
+
+547
+00:21:46,640 --> 00:21:50,039
+quiero liar, no me quiero sobrecomplicar
+
+548
+00:21:48,159 --> 00:21:52,080
+y quiero explicar solo lo básico y lo
+
+549
+00:21:50,039 --> 00:21:53,960
+que a mí me funciona. Así que espero que
+
+550
+00:21:52,080 --> 00:21:56,799
+os haya molado este vídeo, esos deberes
+
+551
+00:21:53,960 --> 00:21:59,039
+y nos vemos mañana con psicología.
+
+552
+00:21:56,799 --> 00:21:59,039
+Yeah.
+
